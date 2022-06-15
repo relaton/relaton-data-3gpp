@@ -46,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - ZTE Corporation
+        - ZTE Corporation.
   role:
   - author
 revdate: '2015-03-18'
@@ -59,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-04-30'
+fetched: '2022-06-15'
 doctype: TR
 editorialgroup:
 - name: S2
