@@ -9,4 +9,4 @@ system("sudo apt-get install mdbtools")
 
 Relaton3gpp::DataFetcher.fetch
 
-system("git add data/* flag.txt current.yaml")
+system("git add current.yaml")
