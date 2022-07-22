@@ -2,7 +2,7 @@
 
 require 'fileutils'
 
-FileUtils.rm_rf('data')
+# FileUtils.rm_rf('data')
 
 system("sudo apt-get install mdbtools")
 
