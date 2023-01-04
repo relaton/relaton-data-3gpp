@@ -5,12 +5,18 @@ title:
 - content: Physical layer procedures for shared spectrum channel access
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/37_series/37.213/37213-h30.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 37.213:Rel-17/17.3.0
   type: 3GPP
   primary: true
 docnumber: TS 37.213:Rel-17/17.3.0
+date:
+- type: published
+  value: '2022-09-21'
 contributor:
 - organization:
     name:
@@ -42,6 +48,7 @@ contributor:
         - content: Ericsson LM
   role:
   - type: author
+revdate: '2022-09-21'
 language:
 - en
 script:

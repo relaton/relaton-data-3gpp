@@ -8,6 +8,9 @@ title:
     specification'
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/34_series/34.229-2/34229-2-g40.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 34.229-2:Rel-16/16.4.0
@@ -15,6 +18,8 @@ docid:
   primary: true
 docnumber: TS 34.229-2:Rel-16/16.4.0
 date:
+- type: published
+  value: '2022-10-04'
 - type: confirmed
   value: '2010-04-11'
 contributor:
@@ -48,6 +53,7 @@ contributor:
         - content: ETSI
   role:
   - type: author
+revdate: '2022-10-04'
 language:
 - en
 script:

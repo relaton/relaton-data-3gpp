@@ -6,6 +6,9 @@ title:
     3
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/24_series/24.301/24301-i00.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 24.301:Rel-18/18.0.0
@@ -13,6 +16,8 @@ docid:
   primary: true
 docnumber: TS 24.301:Rel-18/18.0.0
 date:
+- type: published
+  value: '2022-09-23'
 - type: confirmed
   value: '2009-03-20'
 contributor:
@@ -46,6 +51,7 @@ contributor:
         - content: Nokia Korea
   role:
   - type: author
+revdate: '2022-09-23'
 language:
 - en
 script:

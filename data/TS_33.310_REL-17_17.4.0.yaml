@@ -5,6 +5,9 @@ title:
 - content: Network Domain Security (NDS); Authentication Framework (AF)
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/33_series/33.310/33310-h40.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 33.310:Rel-17/17.4.0
@@ -12,6 +15,8 @@ docid:
   primary: true
 docnumber: TS 33.310:Rel-17/17.4.0
 date:
+- type: published
+  value: '2022-09-22'
 - type: confirmed
   value: '2008-03-25'
 contributor:
@@ -45,6 +50,7 @@ contributor:
         - content: Nokia Germany
   role:
   - type: author
+revdate: '2022-09-22'
 language:
 - en
 script:

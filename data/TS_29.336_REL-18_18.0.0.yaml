@@ -6,6 +6,9 @@ title:
     packet data networks and applications
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/29_series/29.336/29336-i00.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 29.336:Rel-18/18.0.0
@@ -13,6 +16,8 @@ docid:
   primary: true
 docnumber: TS 29.336:Rel-18/18.0.0
 date:
+- type: published
+  value: '2022-09-23'
 - type: confirmed
   value: '2012-09-28'
 contributor:
@@ -46,6 +51,7 @@ contributor:
         - content: Ericsson LM
   role:
   - type: author
+revdate: '2022-09-23'
 language:
 - en
 script:

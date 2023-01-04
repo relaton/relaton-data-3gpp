@@ -6,7 +6,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ftp.3gpp.org//Specs/archive/26_series/26.113/26113-010.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/26_series/26.113/26113-010.zip
   type: src
 type: standard
 docid:
@@ -16,7 +16,7 @@ docid:
 docnumber: TS 26.113:Rel-18/0.1.0
 date:
 - type: published
-  value: '2022-05-05'
+  value: '2022-09-23'
 contributor:
 - organization:
     name:
@@ -48,7 +48,7 @@ contributor:
         - content: Meta Ireland
   role:
   - type: author
-revdate: '2022-05-05'
+revdate: '2022-09-23'
 language:
 - en
 script:

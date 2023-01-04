@@ -6,6 +6,9 @@ title:
     interaction
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/26_series/26.114/26114-i00.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 26.114:Rel-18/18.0.0
@@ -13,6 +16,8 @@ docid:
   primary: true
 docnumber: TS 26.114:Rel-18/18.0.0
 date:
+- type: published
+  value: '2022-09-23'
 - type: confirmed
   value: '2006-05-09'
 contributor:
@@ -46,6 +51,7 @@ contributor:
         - content: Meta Ireland
   role:
   - type: author
+revdate: '2022-09-23'
 language:
 - en
 script:

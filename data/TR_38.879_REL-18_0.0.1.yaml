@@ -2,15 +2,21 @@
 schema-version: v1.2.1
 id: TR38.879-Rel-18-0.0.1
 title:
-- content: Study on enhancements for resiliency of gNB-CU
+- content: Study on enhancement for Resiliency of gNB-CU-CP
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.879/38879-001.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 38.879:Rel-18/0.0.1
   type: 3GPP
   primary: true
 docnumber: TR 38.879:Rel-18/0.0.1
+date:
+- type: published
+  value: '2022-09-22'
 contributor:
 - organization:
     name:
@@ -42,6 +48,7 @@ contributor:
         - content: NTT DOCOMO INC.
   role:
   - type: author
+revdate: '2022-09-22'
 language:
 - en
 script:

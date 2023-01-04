@@ -6,6 +6,9 @@ title:
     and principles
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/32_series/32.240/32240-i00.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 32.240:Rel-18/18.0.0
@@ -13,6 +16,8 @@ docid:
   primary: true
 docnumber: TS 32.240:Rel-18/18.0.0
 date:
+- type: published
+  value: '2022-09-23'
 - type: confirmed
   value: '2003-10-22'
 contributor:
@@ -46,6 +51,7 @@ contributor:
         - content: Alcatel-Lucent
   role:
   - type: author
+revdate: '2022-09-23'
 language:
 - en
 script:

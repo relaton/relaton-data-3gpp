@@ -6,6 +6,9 @@ title:
     Terrestrial Radio Access Network (E-UTRAN); Overall description; Stage 2
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.300/36300-h20.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 36.300:Rel-17/17.2.0
@@ -13,6 +16,8 @@ docid:
   primary: true
 docnumber: TS 36.300:Rel-17/17.2.0
 date:
+- type: published
+  value: '2022-09-30'
 - type: confirmed
   value: '2008-10-06'
 contributor:
@@ -46,6 +51,7 @@ contributor:
         - content: Nokia Corporation
   role:
   - type: author
+revdate: '2022-09-30'
 language:
 - en
 script:

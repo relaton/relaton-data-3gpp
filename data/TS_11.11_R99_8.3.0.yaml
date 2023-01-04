@@ -37,6 +37,20 @@ contributor:
   role:
   - type: author
   - type: publisher
+- person:
+    name:
+      completename:
+        content: L'HERITEAU, Denis
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Waiting for new Company
+  role:
+  - type: author
 revdate: '2000-06-20'
 language:
 - en

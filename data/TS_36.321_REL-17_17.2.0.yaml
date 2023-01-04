@@ -6,6 +6,9 @@ title:
     (MAC) protocol specification
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.321/36321-h20.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 36.321:Rel-17/17.2.0
@@ -13,6 +16,8 @@ docid:
   primary: true
 docnumber: TS 36.321:Rel-17/17.2.0
 date:
+- type: published
+  value: '2022-10-03'
 - type: confirmed
   value: '2008-07-28'
 contributor:
@@ -46,6 +51,7 @@ contributor:
         - content: Ericsson LM
   role:
   - type: author
+revdate: '2022-10-03'
 language:
 - en
 script:

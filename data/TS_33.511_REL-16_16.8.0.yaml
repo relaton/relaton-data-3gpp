@@ -6,12 +6,18 @@ title:
     (gNodeB) network product class
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/33_series/33.511/33511-g80.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 33.511:Rel-16/16.8.0
   type: 3GPP
   primary: true
 docnumber: TS 33.511:Rel-16/16.8.0
+date:
+- type: published
+  value: '2022-09-22'
 contributor:
 - organization:
     name:
@@ -43,6 +49,7 @@ contributor:
         - content: Huawei Tech.(UK) Co.. Ltd
   role:
   - type: author
+revdate: '2022-09-22'
 language:
 - en
 script:

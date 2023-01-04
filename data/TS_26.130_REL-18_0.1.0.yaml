@@ -5,12 +5,18 @@ title:
 - content: Speech/Audio Codec RTP Payload Format Conformance for UE Testing
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/26_series/26.130/26130-010.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 26.130:Rel-18/0.1.0
   type: 3GPP
   primary: true
 docnumber: TS 26.130:Rel-18/0.1.0
+date:
+- type: published
+  value: '2022-09-23'
 contributor:
 - organization:
     name:
@@ -42,6 +48,7 @@ contributor:
         - content: Orange
   role:
   - type: author
+revdate: '2022-09-23'
 language:
 - en
 script:

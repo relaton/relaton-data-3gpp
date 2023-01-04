@@ -6,6 +6,9 @@ title:
     testing'
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.141-1/38141-1-h70.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 38.141-1:Rel-17/17.7.0
@@ -13,6 +16,8 @@ docid:
   primary: true
 docnumber: TS 38.141-1:Rel-17/17.7.0
 date:
+- type: published
+  value: '2022-09-27'
 - type: confirmed
   value: '2019-01-02'
 contributor:
@@ -46,6 +51,7 @@ contributor:
         - content: Huawei Technologies France
   role:
   - type: author
+revdate: '2022-09-27'
 language:
 - en
 script:

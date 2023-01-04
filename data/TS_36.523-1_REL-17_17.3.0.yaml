@@ -7,6 +7,9 @@ title:
     specification'
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.523-1/36523-1-h30.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 36.523-1:Rel-17/17.3.0
@@ -14,6 +17,8 @@ docid:
   primary: true
 docnumber: TS 36.523-1:Rel-17/17.3.0
 date:
+- type: published
+  value: '2022-10-04'
 - type: confirmed
   value: '2009-02-12'
 contributor:
@@ -47,6 +52,7 @@ contributor:
         - content: HiSilicon Technologies Co. Ltd
   role:
   - type: author
+revdate: '2022-10-04'
 language:
 - en
 script:

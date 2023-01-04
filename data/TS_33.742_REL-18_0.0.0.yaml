@@ -55,7 +55,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: published
+    value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
 doctype: TS

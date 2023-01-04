@@ -8,12 +8,18 @@ title:
     5G System (5GS)'
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/34_series/34.229-5/34229-5-g40.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 34.229-5:Rel-16/16.4.0
   type: 3GPP
   primary: true
 docnumber: TS 34.229-5:Rel-16/16.4.0
+date:
+- type: published
+  value: '2022-10-05'
 contributor:
 - organization:
     name:
@@ -45,6 +51,7 @@ contributor:
         - content: Ericsson LM
   role:
   - type: author
+revdate: '2022-10-05'
 language:
 - en
 script:

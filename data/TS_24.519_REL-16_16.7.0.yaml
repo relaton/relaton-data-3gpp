@@ -7,12 +7,18 @@ title:
     protocol aspects; Stage 3
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/24_series/24.519/24519-g70.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 24.519:Rel-16/16.7.0
   type: 3GPP
   primary: true
 docnumber: TS 24.519:Rel-16/16.7.0
+date:
+- type: published
+  value: '2022-09-23'
 contributor:
 - organization:
     name:
@@ -44,6 +50,7 @@ contributor:
         - content: Nokia Korea
   role:
   - type: author
+revdate: '2022-09-23'
 language:
 - en
 script:

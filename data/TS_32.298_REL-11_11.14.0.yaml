@@ -70,6 +70,7 @@ editorialgroup:
 ext:
   schema-version: v1.0.1
 radiotechnology: 2G
+common-ims-spec: true
 release:
   version2g: b
   version3g: b

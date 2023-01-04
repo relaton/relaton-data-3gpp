@@ -5,12 +5,18 @@ title:
 - content: Lawful Interception requirements
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/33_series/33.126/33126-f20.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 33.126:Rel-15/15.2.0
   type: 3GPP
   primary: true
 docnumber: TS 33.126:Rel-15/15.2.0
+date:
+- type: published
+  value: '2022-09-22'
 contributor:
 - organization:
     name:
@@ -42,6 +48,7 @@ contributor:
         - content: PIDS
   role:
   - type: author
+revdate: '2022-09-22'
 language:
 - en
 script:

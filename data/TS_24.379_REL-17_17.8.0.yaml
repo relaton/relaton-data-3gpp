@@ -5,12 +5,18 @@ title:
 - content: Mission Critical Push To Talk (MCPTT) call control; Protocol specification
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/24_series/24.379/24379-h80.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 24.379:Rel-17/17.8.0
   type: 3GPP
   primary: true
 docnumber: TS 24.379:Rel-17/17.8.0
+date:
+- type: published
+  value: '2022-09-23'
 contributor:
 - organization:
     name:
@@ -42,6 +48,7 @@ contributor:
         - content: Samsung R&D Institute India
   role:
   - type: author
+revdate: '2022-09-23'
 language:
 - en
 script:

@@ -5,12 +5,18 @@ title:
 - content: 5G System; Mobile Number Portability Services; Stage 3
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/29_series/29.578/29578-h10.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 29.578:Rel-17/17.1.0
   type: 3GPP
   primary: true
 docnumber: TS 29.578:Rel-17/17.1.0
+date:
+- type: published
+  value: '2022-09-23'
 contributor:
 - organization:
     name:
@@ -42,6 +48,7 @@ contributor:
         - content: Nokia Shanghai Bell
   role:
   - type: author
+revdate: '2022-09-23'
 language:
 - en
 script:

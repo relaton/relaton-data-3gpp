@@ -7,12 +7,18 @@ title:
     with other radios
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.161/38161-h00.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 38.161:Rel-17/17.0.0
   type: 3GPP
   primary: true
 docnumber: TS 38.161:Rel-17/17.0.0
+date:
+- type: published
+  value: '2022-09-26'
 contributor:
 - organization:
     name:
@@ -44,6 +50,7 @@ contributor:
         - content: vivo Communication Technology
   role:
   - type: author
+revdate: '2022-09-26'
 language:
 - en
 script:
