@@ -19,4 +19,4 @@ jobs:
   crawl:
     uses: relaton/support/.github/workflows/crawler.yml@master
     with:
-      args: ${{ github.event.inputs.force == 'true' && 'froce' || '' }}
+      args: ${{ github.event.inputs.force == 'true' && 'force' || '' }}
