@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.3
+id: TS03.50-Ph2-4.4.0
+title:
+- content: Transmission Planning Aspects of the Speech Service in the GSM Public Land
+    Mobile Network (PLMN) System
+  format: text/plain
+  type: main
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.50/0350-440.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 03.50:Ph2/4.4.0
+  type: 3GPP
+  primary: true
+docnumber: TS 03.50:Ph2/4.4.0
+date:
+- type: published
+  value: '1998-03-20'
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+- person:
+    name:
+      completename:
+        content: USAI, Paolino
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: ETSI
+  role:
+  - type: author
+revdate: '1998-03-20'
+biblionote:
+- content: "#8: 4.0.0   #9: 4.1.0   #15: 4.2.0   #24: 4.3.0  #25: 4.4.0  #27: 4.5.0
+    \ #28: 4.6.0"
+  type: remark
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+place:
+- Sophia Antipolis Cedex, France
+doctype: TS
+editorialgroup:
+- name: S4
+  type: prime
+- name: SMG11
+  type: former
+ext:
+  schema-version: v1.0.1
+radiotechnology: 2G
+release:
+  version2g: '4'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_PH2
+  freeze_meeting: smg-11b
+  freeze_stage1_meeting: SMG-11b
+  freeze_stage2_meeting: SMG-11b
+  freeze_stage3_meeting: SMG-11b
+  close_meeting: SP-25

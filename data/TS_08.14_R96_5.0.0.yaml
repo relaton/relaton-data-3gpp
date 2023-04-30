@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.3
+id: TS08.14-R96-5.0.0
+title:
+- content: General Packet Radio Service (GPRS); Base Station System (BSS) - Serving
+    GPRS Support Node (SGSN) interface; Gb Interface Layer 1
+  format: text/plain
+  type: main
+type: standard
+docid:
+- id: 3GPP TS 08.14:R96/5.0.0
+  type: 3GPP
+  primary: true
+docnumber: TS 08.14:R96/5.0.0
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+- person:
+    name:
+      completename:
+        content: ANDERSEN, Niels Peter Skov
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Anemone Technology
+  role:
+  - type: author
+biblionote:
+- content: 'smg-26: withdrawn'
+  type: comment
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: withdrawn
+place:
+- Sophia Antipolis Cedex, France
+doctype: TS
+editorialgroup:
+- name: G2
+  type: prime
+- name: SMG02
+  type: former
+ext:
+  schema-version: v1.0.1
+radiotechnology: 2G
+release:
+  version2g: '5'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_96
+  freeze_meeting: smg-21
+  freeze_stage1_meeting: SMG-21
+  freeze_stage2_meeting: SMG-21
+  freeze_stage3_meeting: SMG-21
+  close_meeting: SP-25

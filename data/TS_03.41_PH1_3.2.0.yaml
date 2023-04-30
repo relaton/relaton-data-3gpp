@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.3
+id: TS03.41-Ph1-3.2.0
+title:
+- content: Technical Realization of Short Message Service Cell Broadcast (SMSCB)
+  format: text/plain
+  type: main
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.41/0341-320.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 03.41:Ph1/3.2.0
+  type: 3GPP
+  primary: true
+docnumber: TS 03.41:Ph1/3.2.0
+date:
+- type: published
+  value: '2003-05-06'
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+- person:
+    name:
+      completename:
+        content: BURBIDGE, Richard
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Intel Corporation (UK) Ltd
+  role:
+  - type: author
+revdate: '2003-05-06'
+biblionote:
+- content: Jan 1990
+  type: comment
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+place:
+- Sophia Antipolis Cedex, France
+doctype: TS
+editorialgroup:
+- name: C1
+  type: prime
+- name: T2  /  SMG04
+  type: former
+ext:
+  schema-version: v1.0.1
+radiotechnology: 2G
+release:
+  version2g: '3'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_PH1
+  freeze_meeting: gsm-25b
+  freeze_stage1_meeting: GSM-25b
+  freeze_stage2_meeting: GSM-25b
+  freeze_stage3_meeting: GSM-25b
+  close_meeting: SMG-17

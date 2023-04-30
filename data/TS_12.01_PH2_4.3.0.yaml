@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.3
+id: TS12.01-Ph2-4.3.0
+title:
+- content: 'Network Management (NM); Part 2: Common aspects of SM/DCS 1800 Network
+    Management'
+  format: text/plain
+  type: main
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/12_series/12.01/1201-430.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 12.01:Ph2/4.3.0
+  type: 3GPP
+  primary: true
+docnumber: TS 12.01:Ph2/4.3.0
+date:
+- type: published
+  value: '1994-07-01'
+- type: confirmed
+  value: '2001-10-04'
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+- person:
+    name:
+      completename:
+        content: TOCHE, Christian
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Huawei Technologies France
+  role:
+  - type: author
+revdate: '1994-07-01'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+place:
+- Sophia Antipolis Cedex, France
+doctype: TS
+editorialgroup:
+- name: S5
+  type: prime
+- name: CP
+  type: other
+- name: SMG06 / SMG03
+  type: former
+ext:
+  schema-version: v1.0.1
+radiotechnology: 2G
+release:
+  version2g: '4'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_PH2
+  freeze_meeting: smg-11b
+  freeze_stage1_meeting: SMG-11b
+  freeze_stage2_meeting: SMG-11b
+  freeze_stage3_meeting: SMG-11b
+  close_meeting: SP-25

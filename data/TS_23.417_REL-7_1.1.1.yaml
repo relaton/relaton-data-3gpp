@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.3
+id: TS23.417-Rel-7-1.1.1
+title:
+- content: TISPAN; IP Multimedia Subsystem (IMS); Functional architecture
+  format: text/plain
+  type: main
+type: standard
+docid:
+- id: 3GPP TS 23.417:Rel-7/1.1.1
+  type: 3GPP
+  primary: true
+docnumber: TS 23.417:Rel-7/1.1.1
+date:
+- type: confirmed
+  value: '2007-12-05'
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+- person:
+    name:
+      completename:
+        content: BERTENYI, Balazs
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Nokia Networks
+  role:
+  - type: author
+biblionote:
+- content: ETSI ES 282 007
+  type: comment
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+place:
+- Sophia Antipolis Cedex, France
+doctype: TS
+editorialgroup:
+- name: S2
+  type: prime
+ext:
+  schema-version: v1.0.1
+radiotechnology: 2G
+common-ims-spec: true
+release:
+  version2g: '7'
+  version3g: '7'
+  defunct: true
+  wpm_code_2g: GSM_Release_7
+  wpm_code_3g: 3G_Rel-7
+  freeze_meeting: SP-35
+  freeze_stage1_meeting: SP-29
+  freeze_stage2_meeting: SP-33
+  freeze_stage3_meeting: SP-35
+  close_meeting: SP-65
+  project_start: '2003-12-01'
+  project_end: '2008-03-13'

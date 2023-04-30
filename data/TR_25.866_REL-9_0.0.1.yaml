@@ -1,0 +1,75 @@
+---
+schema-version: v1.2.3
+id: TR25.866-Rel-9-0.0.1
+title:
+- content: 1.28 Mcps TDD Home Node B (HNB) study item technical report
+  format: text/plain
+  type: main
+type: standard
+docid:
+- id: 3GPP TR 25.866:Rel-9/0.0.1
+  type: 3GPP
+  primary: true
+docnumber: TR 25.866:Rel-9/0.0.1
+date:
+- type: confirmed
+  value: '2010-01-04'
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+- person:
+    name:
+      completename:
+        content: LI, Rong
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: TD Tech Ltd
+  role:
+  - type: author
+biblionote:
+- content: R4-082518
+  type: comment
+language:
+- en
+script:
+- Latn
+place:
+- Sophia Antipolis Cedex, France
+doctype: TR
+editorialgroup:
+- name: R4
+  type: prime
+ext:
+  schema-version: v1.0.1
+radiotechnology: 3G
+release:
+  version2g: '9'
+  version3g: '9'
+  defunct: false
+  wpm_code_2g: GSM_Release_9
+  wpm_code_3g: 3G_Rel-9
+  freeze_meeting: SP-46
+  freeze_stage1_meeting: SP-42
+  freeze_stage2_meeting: SP-44
+  freeze_stage3_meeting: SP-46
+  project_start: '2007-06-01'
+  project_end: '2010-03-25'

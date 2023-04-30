@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.3
+id: TS03.59-R00-0.0.1
+title:
+- content: Location services (LCS) GERAN; Stage 2
+  format: text/plain
+  type: main
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.59/0359-001.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 03.59:R00/0.0.1
+  type: 3GPP
+  primary: true
+docnumber: TS 03.59:R00/0.0.1
+date:
+- type: published
+  value: '2000-05-30'
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+- person:
+    name:
+      completename:
+        content: LIVINGSTON, Margaret
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: OTD
+  role:
+  - type: author
+revdate: '2000-05-30'
+biblionote:
+- content: replaced by 43.059
+  type: remark
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: withdrawn
+place:
+- Sophia Antipolis Cedex, France
+doctype: TS
+editorialgroup:
+- name: G1
+  type: prime
+- name: SMG02
+  type: former
+ext:
+  schema-version: v1.0.1
+radiotechnology: 2G
+release:
+  version2g: '9'
+  version3g: "-"
+  defunct: true
+  freeze_meeting: "-"
+  close_meeting: SP-06

@@ -1,0 +1,86 @@
+---
+schema-version: v1.2.3
+id: TS22.368-Rel-10-10.3.1
+title:
+- content: Service requirements for Machine-Type Communications (MTC); Stage 1
+  format: text/plain
+  type: main
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.368/22368-a31.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 22.368:Rel-10/10.3.1
+  type: 3GPP
+  primary: true
+docnumber: TS 22.368:Rel-10/10.3.1
+date:
+- type: created
+  value: '2011-02-11'
+- type: published
+  value: '2011-02-11'
+- type: confirmed
+  value: '2010-04-01'
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+- person:
+    name:
+      completename:
+        content: NORP, Toon
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: TNO
+  role:
+  - type: author
+revdate: '2011-02-11'
+biblionote:
+- content: with correct logo
+  type: comment
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+place:
+- Sophia Antipolis Cedex, France
+doctype: TS
+editorialgroup:
+- name: S1
+  type: prime
+ext:
+  schema-version: v1.0.1
+radiotechnology: 2G
+release:
+  version2g: a
+  version3g: a
+  defunct: false
+  wpm_code_2g: GSM_Release_10
+  wpm_code_3g: 3G4G_Rel-10
+  freeze_meeting: SP-51
+  freeze_stage1_meeting: SP-47
+  freeze_stage2_meeting: SP-49
+  freeze_stage3_meeting: SP-51
+  project_start: '2009-03-01'
+  project_end: '2011-06-08'

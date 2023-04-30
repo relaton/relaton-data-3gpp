@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: TS01.34-Ph1-0.6.0
+title:
+- content: Requirements of High Speed Circuit Switched Data (HSCSD)
+  format: text/plain
+  type: main
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/01_series/01.34/0134-060.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 01.34:Ph1/0.6.0
+  type: 3GPP
+  primary: true
+docnumber: TS 01.34:Ph1/0.6.0
+date:
+- type: published
+  value: '1998-07-30'
+- type: confirmed
+  value: '2011-01-11'
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+revdate: '1998-07-30'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: withdrawn
+place:
+- Sophia Antipolis Cedex, France
+doctype: TS
+editorialgroup:
+- name: "-"
+  type: prime
+ext:
+  schema-version: v1.0.1
+radiotechnology: 2G
+release:
+  version2g: '3'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_PH1
+  freeze_meeting: gsm-25b
+  freeze_stage1_meeting: GSM-25b
+  freeze_stage2_meeting: GSM-25b
+  freeze_stage3_meeting: GSM-25b
+  close_meeting: SMG-17

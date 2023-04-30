@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.3
+id: TR32.847-Rel-17-0.0.0
+title:
+- content: Study on Charging Aspects for Network Slicing Phase 2
+  format: text/plain
+  type: main
+link:
+- content: https://ftp.3gpp.org//Specs/archive/32_series/32.847/32847-000.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 32.847:Rel-17/0.0.0
+  type: 3GPP
+  primary: true
+docnumber: TR 32.847:Rel-17/0.0.0
+date:
+- type: published
+  value: '2021-01-11'
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+- person:
+    name:
+      completename:
+        content: GÖRMER, Gerald
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: MATRIXX Software
+  role:
+  - type: author
+revdate: '2021-01-11'
+language:
+- en
+script:
+- Latn
+place:
+- Sophia Antipolis Cedex, France
+doctype: TR
+editorialgroup:
+- name: S5
+  type: prime
+ext:
+  schema-version: v1.0.1
+radiotechnology: 5G
+release:
+  version2g: h
+  version3g: h
+  defunct: false
+  wpm_code_2g: GSM_Release_17
+  wpm_code_3g: 3G4G5G_Rel-17
+  freeze_meeting: SA#95-e
+  freeze_stage1_meeting: SA#86
+  freeze_stage2_meeting: SA#92-e
+  freeze_stage3_meeting: SA#95
+  project_start: '2018-06-15'
+  project_end: '2022-03-25'

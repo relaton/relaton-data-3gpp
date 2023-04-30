@@ -1,0 +1,63 @@
+---
+schema-version: v1.2.3
+id: TR10.01-R97-0.0.2
+title:
+- content: GSM features and releases
+  format: text/plain
+  type: main
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/10_series/10.01/1001-002.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 10.01:R97/0.0.2
+  type: 3GPP
+  primary: true
+docnumber: TR 10.01:R97/0.0.2
+date:
+- type: published
+  value: '1997-10-23'
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+revdate: '1997-10-23'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: withdrawn
+place:
+- Sophia Antipolis Cedex, France
+doctype: TR
+editorialgroup:
+- name: SMG3
+  type: prime
+ext:
+  schema-version: v1.0.1
+radiotechnology: 2G
+release:
+  version2g: '6'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_97
+  freeze_meeting: smg-24
+  freeze_stage1_meeting: SMG-24
+  freeze_stage2_meeting: SMG-24
+  freeze_stage3_meeting: SMG-24
+  close_meeting: SP-28

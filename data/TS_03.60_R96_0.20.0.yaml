@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.3
+id: TS03.60-R96-0.20.0
+title:
+- content: General Packet Radio Service (GPRS); Service description; Stage 2
+  format: text/plain
+  type: main
+type: standard
+docid:
+- id: 3GPP TS 03.60:R96/0.20.0
+  type: 3GPP
+  primary: true
+docnumber: TS 03.60:R96/0.20.0
+date:
+- type: confirmed
+  value: '2004-04-05'
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+- person:
+    name:
+      completename:
+        content: KUCHIBHOTLA, Ravi
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Motorola Mobility UK Ltd.
+  role:
+  - type: author
+biblionote:
+- content: 1996-12
+  type: comment
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: withdrawn
+place:
+- Sophia Antipolis Cedex, France
+doctype: TS
+editorialgroup:
+- name: S2
+  type: prime
+- name: S2  /  SMG12
+  type: former
+ext:
+  schema-version: v1.0.1
+radiotechnology: 2G
+release:
+  version2g: '5'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_96
+  freeze_meeting: smg-21
+  freeze_stage1_meeting: SMG-21
+  freeze_stage2_meeting: SMG-21
+  freeze_stage3_meeting: SMG-21
+  close_meeting: SP-25
