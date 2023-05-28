@@ -8,4 +8,5 @@ mode = mode == "force" ? "-#{mode}" : ""
 require "relaton_3gpp"
 Relaton3gpp::DataFetcher.fetch("status-smg-3GPP#{mode}")
 
-system("git add current.yaml")
+system("zip index-v1.zip index-v1.yaml")
+system("git add current.yaml index-v1.zip index-v1.yaml")
