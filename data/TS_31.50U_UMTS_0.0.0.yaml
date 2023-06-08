@@ -40,7 +40,7 @@ place:
 - Sophia Antipolis Cedex, France
 doctype: TS
 editorialgroup:
-- name: 
+- name:
   type: prime
 ext:
   schema-version: v1.0.1
