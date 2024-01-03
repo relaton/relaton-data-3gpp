@@ -17,6 +17,6 @@ on:
 
 jobs:
   crawl:
-    uses: relaton/support/.github/workflows/crawler.yml@main
+    uses: relaton/support/.github/workflows/crawler.yml@feature/crawler-check-actual-data-changes
     with:
       args: ${{ github.event.inputs.force == 'true' && 'force' || '' }}
