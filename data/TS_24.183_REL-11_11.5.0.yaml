@@ -1,25 +1,23 @@
 ---
-schema-version: v1.2.3
-id: TS24.183-Rel-11-11.5.0
+schema-version: v1.2.9
+id: TS24.183-REL-11-11.5.0
 title:
 - content: IP Multimedia Subsystem (IMS) Customized Ringing Signal (CRS); Protocol
     specification
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.183/24183-b50.zip
+- content: https://www.3gpp.org/ftp//Specs/archive/24_series/24.183/24183-b50.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 24.183:Rel-11/11.5.0
+- id: 3GPP TS 24.183:REL-11/11.5.0
   type: 3GPP
   primary: true
-docnumber: TS 24.183:Rel-11/11.5.0
+docnumber: TS 24.183:REL-11/11.5.0
 date:
 - type: published
   value: '2017-06-16'
-- type: confirmed
-  value: '2009-12-15'
 contributor:
 - organization:
     name:
@@ -39,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: CHEN, xu
+      given:
+        forename:
+        - content: xu
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: chen
         language:
         - en
         script:
@@ -48,7 +53,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: China Mobile Research Inst.
+        - content: China Mobile Research Institute
   role:
   - type: author
 revdate: '2017-06-16'
@@ -56,27 +61,20 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: C1
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: b
-  version3g: b
-  defunct: false
   wpm_code_2g: GSM_Release_11
   wpm_code_3g: 3G4G_Rel-11
-  freeze_meeting: SP-57
-  freeze_stage1_meeting: SP-53
-  freeze_stage2_meeting: SP-55
-  freeze_stage3_meeting: SP-57
-  project_start: '2009-03-01'
+  freeze_stage1_meeting: SA#53
+  freeze_stage2_meeting: SA#55
+  freeze_stage3_meeting: SA#57
+  project_start: '2010-01-22'
   project_end: '2013-03-06'

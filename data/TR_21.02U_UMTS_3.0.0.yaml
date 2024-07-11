@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TR21.02U-UMTS-3.0.0
 title:
 - content: High level requirements relevant for the definition of the UMTS Terrestrial
@@ -7,7 +7,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/21_series/21.02U/2102U-300.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/21_series/21.02U/2102U-300.zip
   type: src
 type: standard
 docid:
@@ -37,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: ANDERSEN, Niels Peter Skov
+      given:
+        forename:
+        - content: Niels Peter Skov
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Andersen
         language:
         - en
         script:
@@ -54,26 +61,19 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: GP
   type: prime
-- name: SMG02
-  type: former
 ext:
   schema-version: v1.0.1
 release:
-  version2g: '3'
-  version3g: '3'
-  defunct: true
-  freeze_meeting: SMG-28
-  freeze_stage1_meeting: SMG-28
-  freeze_stage2_meeting: SMG-28
-  freeze_stage3_meeting: SMG-28
-  close_meeting: SP-28
+  freeze_stage1_meeting: SMG-#28
+  freeze_stage2_meeting: SMG-#28
+  freeze_stage3_meeting: SMG-#28
+  close_meeting: SA#28
+  project_start: '1994-08-18'
   project_end: '1999-02-12'

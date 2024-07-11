@@ -1,24 +1,22 @@
 ---
-schema-version: v1.2.3
-id: TR38.840-Rel-16-0.1.1
+schema-version: v1.2.9
+id: TR38.840-REL-16-0.1.1
 title:
 - content: Study on User Equipment (UE) power saving in NR
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp//Specs/archive/38_series/38.840/38840-011.zip
+- content: https://www.3gpp.org/ftp//Specs/archive/38_series/38.840/38840-011.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 38.840:Rel-16/0.1.1
+- id: 3GPP TR 38.840:REL-16/0.1.1
   type: 3GPP
   primary: true
-docnumber: TR 38.840:Rel-16/0.1.1
+docnumber: TR 38.840:REL-16/0.1.1
 date:
 - type: published
   value: '2019-03-14'
-- type: confirmed
-  value: '2019-06-20'
 contributor:
 - organization:
     name:
@@ -38,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: CHENG, Fang-chen
+      given:
+        forename:
+        - content: Fang-chen
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Cheng
         language:
         - en
         script:
@@ -47,20 +52,19 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: CATT
+        - content: China Academy of Telecommunication Technology - (Datang Telecom
+            Technology and Industry Group)
   role:
   - type: author
 revdate: '2019-03-14'
-biblionote:
-- content: Endorsed in R1-1902023
-  type: comment
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: R1
   type: prime
@@ -68,14 +72,9 @@ editorialgroup:
   type: other
 ext:
   schema-version: v1.0.1
-radiotechnology: 5G
 release:
-  version2g: g
-  version3g: g
-  defunct: false
   wpm_code_2g: GSM_Release_16
   wpm_code_3g: 3G4G5G_Rel-16
-  freeze_meeting: SA#88-e
   freeze_stage1_meeting: SA#82
   freeze_stage2_meeting: SA#84
   freeze_stage3_meeting: SA#88-e

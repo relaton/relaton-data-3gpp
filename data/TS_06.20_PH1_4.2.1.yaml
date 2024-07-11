@@ -1,12 +1,12 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TS06.20-Ph1-4.2.1
 title:
 - content: Half Rate Speech Transcoding
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/06_series/06.20/0620-421.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/06_series/06.20/0620-421.zip
   type: src
 type: standard
 docid:
@@ -16,7 +16,7 @@ docid:
 docnumber: TS 06.20:Ph1/4.2.1
 date:
 - type: published
-  value: '2005-04-06'
+  value: '1995-12-19'
 contributor:
 - organization:
     name:
@@ -36,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: AFTELAK, Steve
+      given:
+        forename:
+        - content: Steve
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Aftelak
         language:
         - en
         script:
@@ -48,32 +55,21 @@ contributor:
         - content: Waiting for new Company
   role:
   - type: author
-revdate: '2005-04-06'
+revdate: '1995-12-19'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: S4
   type: prime
-- name: SMG11
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '3'
-  version3g: "-"
-  defunct: true
   wpm_code_2g: GSM_PH1
-  freeze_meeting: gsm-25b
-  freeze_stage1_meeting: GSM-25b
-  freeze_stage2_meeting: GSM-25b
-  freeze_stage3_meeting: GSM-25b
-  close_meeting: SMG-17
+  close_meeting: SA#25
+  project_start: '1982-12-07'

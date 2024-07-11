@@ -1,19 +1,19 @@
 ---
-schema-version: v1.2.3
-id: TR38.885-Rel-16-1.0.2
+schema-version: v1.2.9
+id: TR38.885-REL-16-1.0.2
 title:
 - content: Study on NR Vehicle-to-Everything (V2X)
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp//Specs/archive/38_series/38.885/38885-102.zip
+- content: https://www.3gpp.org/ftp//Specs/archive/38_series/38.885/38885-102.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 38.885:Rel-16/1.0.2
+- id: 3GPP TR 38.885:REL-16/1.0.2
   type: 3GPP
   primary: true
-docnumber: TR 38.885:Rel-16/1.0.2
+docnumber: TR 38.885:REL-16/1.0.2
 date:
 - type: published
   value: '2019-03-28'
@@ -36,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: WEBB, Matthew
+      given:
+        forename:
+        - content: Matthew
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Webb
         language:
         - en
         script:
@@ -45,35 +52,51 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Huawei Tech.(UK) Co.. Ltd
+        - content: Huawei Technologies (UK) Co., Ltd.
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Hanbyul
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Seo
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: LG Electronics Inc.
   role:
   - type: author
 revdate: '2019-03-28'
-biblionote:
-- content: R1-1903593
-  type: comment
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: R1
   type: prime
-- name: R2, R3
+- name: R2
+  type: other
+- name: R3
   type: other
 ext:
   schema-version: v1.0.1
-radiotechnology: 5G
 release:
-  version2g: g
-  version3g: g
-  defunct: false
   wpm_code_2g: GSM_Release_16
   wpm_code_3g: 3G4G5G_Rel-16
-  freeze_meeting: SA#88-e
   freeze_stage1_meeting: SA#82
   freeze_stage2_meeting: SA#84
   freeze_stage3_meeting: SA#88-e

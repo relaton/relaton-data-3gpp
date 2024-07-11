@@ -1,27 +1,23 @@
 ---
-schema-version: v1.2.3
-id: TS36.413-Rel-9-9.5.1
+schema-version: v1.2.9
+id: TS36.413-REL-9-9.5.1
 title:
 - content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN); S1 Application
     Protocol (S1AP)
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.413/36413-951.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.413/36413-951.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 36.413:Rel-9/9.5.1
+- id: 3GPP TS 36.413:REL-9/9.5.1
   type: 3GPP
   primary: true
-docnumber: TS 36.413:Rel-9/9.5.1
+docnumber: TS 36.413:REL-9/9.5.1
 date:
-- type: created
-  value: '2011-01-06'
 - type: published
   value: '2011-01-06'
-- type: confirmed
-  value: '2010-04-15'
 contributor:
 - organization:
     name:
@@ -41,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: XU, Steven
+      given:
+        forename:
+        - content: Steven
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: XU
         language:
         - en
         script:
@@ -50,38 +53,28 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Nokia Corporation
+        - content: Nokia Shanghai Bell Co., Ltd
   role:
   - type: author
 revdate: '2011-01-06'
-biblionote:
-- content: remove coloured highlighting
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: R3
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: LTE
 release:
-  version2g: '9'
-  version3g: '9'
-  defunct: false
   wpm_code_2g: GSM_Release_9
   wpm_code_3g: 3G_Rel-9
-  freeze_meeting: SP-46
-  freeze_stage1_meeting: SP-42
-  freeze_stage2_meeting: SP-44
-  freeze_stage3_meeting: SP-46
-  project_start: '2007-06-01'
+  freeze_stage1_meeting: SA#42
+  freeze_stage2_meeting: SA#44
+  freeze_stage3_meeting: SA#46
+  project_start: '2008-03-06'
   project_end: '2010-03-25'

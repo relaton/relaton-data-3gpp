@@ -1,12 +1,12 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TR21.06U-UMTS-1.1.2
 title:
 - content: O&M requirements for the UMTS
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/21_series/21.06U/2106U-112.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/21_series/21.06U/2106U-112.zip
   type: src
 type: standard
 docid:
@@ -36,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: WEICHSELBAUM, Steffen
+      given:
+        forename:
+        - content: Steffen
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Weichselbaum
         language:
         - en
         script:
@@ -53,26 +60,16 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
-editorialgroup:
-- name: "-"
-  type: prime
-- name: SMG06
-  type: former
+doctype:
+  type: TR
 ext:
   schema-version: v1.0.1
 release:
-  version2g: '3'
-  version3g: '3'
-  defunct: true
-  freeze_meeting: SMG-28
-  freeze_stage1_meeting: SMG-28
-  freeze_stage2_meeting: SMG-28
-  freeze_stage3_meeting: SMG-28
-  close_meeting: SP-28
+  freeze_stage1_meeting: SMG-#28
+  freeze_stage2_meeting: SMG-#28
+  freeze_stage3_meeting: SMG-#28
+  close_meeting: SA#28
+  project_start: '1994-08-18'
   project_end: '1999-02-12'

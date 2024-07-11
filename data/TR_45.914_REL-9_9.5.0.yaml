@@ -1,27 +1,23 @@
 ---
-schema-version: v1.2.3
-id: TR45.914-Rel-9-9.5.0
+schema-version: v1.2.9
+id: TR45.914-REL-9-9.5.0
 title:
 - content: Circuit switched voice capacity evolution for GSM/EDGE Radio Access Network
     (GERAN)
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/45_series/45.914/45914-950.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/45_series/45.914/45914-950.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 45.914:Rel-9/9.5.0
+- id: 3GPP TR 45.914:REL-9/9.5.0
   type: 3GPP
   primary: true
-docnumber: TR 45.914:Rel-9/9.5.0
+docnumber: TR 45.914:REL-9/9.5.0
 date:
-- type: created
-  value: '2011-12-21'
 - type: published
   value: '2011-12-21'
-- type: confirmed
-  value: '2009-02-26'
 contributor:
 - organization:
     name:
@@ -41,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: HOFMANN, Juergen
+      given:
+        forename:
+        - content: Juergen
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hofmann
         language:
         - en
         script:
@@ -50,38 +53,28 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Nokia Networks
+        - content: Nokia Solutions and Networks GmbH & Co. KG
   role:
   - type: author
 revdate: '2011-12-21'
-biblionote:
-- content: Upgraded from previous Release without technical change
-  type: remark
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: RP
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '9'
-  version3g: '9'
-  defunct: false
   wpm_code_2g: GSM_Release_9
   wpm_code_3g: 3G_Rel-9
-  freeze_meeting: SP-46
-  freeze_stage1_meeting: SP-42
-  freeze_stage2_meeting: SP-44
-  freeze_stage3_meeting: SP-46
-  project_start: '2007-06-01'
+  freeze_stage1_meeting: SA#42
+  freeze_stage2_meeting: SA#44
+  freeze_stage3_meeting: SA#46
+  project_start: '2008-03-06'
   project_end: '2010-03-25'

@@ -1,9 +1,9 @@
 ---
-schema-version: v1.2.3
-id: TR33.738-Rel-18-0.4.0
+schema-version: v1.2.9
+id: TR33.738-REL-18-0.4.0
 title:
 - content: Study on security aspects of enablers for network automation for the 5G
-    system Phase 3
+    system phase 3
   format: text/plain
   type: main
 link:
@@ -11,10 +11,10 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.738:Rel-18/0.4.0
+- id: 3GPP TR 33.738:REL-18/0.4.0
   type: 3GPP
   primary: true
-docnumber: TR 33.738:Rel-18/0.4.0
+docnumber: TR 33.738:REL-18/0.4.0
 date:
 - type: published
   value: '2022-11-25'
@@ -37,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: LIU, Chang
+      given:
+        forename:
+        - content: Chang
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Liu
         language:
         - en
         script:
@@ -46,7 +53,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: China Mobile Com. Corporation
+        - content: China Mobile Communications Corporation (CMCC)
   role:
   - type: author
 revdate: '2022-11-25'
@@ -54,26 +61,20 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: S3
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 5G
 release:
-  version2g: i
-  version3g: i
-  defunct: false
   wpm_code_2g: GSM_Release_18
   wpm_code_3g: 3G4G5G_Rel-18
-  freeze_meeting: SA#102
   freeze_stage1_meeting: SA#94-e
-  freeze_stage2_meeting: SA#99
-  freeze_stage3_meeting: SA#102
+  freeze_stage2_meeting: SA#100
+  freeze_stage3_meeting: SA#103
   project_start: '2019-09-16'
+  project_end: '2024-06-21'

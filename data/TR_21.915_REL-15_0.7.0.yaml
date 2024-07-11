@@ -1,16 +1,16 @@
 ---
-schema-version: v1.2.3
-id: TR21.915-Rel-15-0.7.0
+schema-version: v1.2.9
+id: TR21.915-REL-15-0.7.0
 title:
 - content: Release 15 Description; Summary of Rel-15 Work Items
   format: text/plain
   type: main
 type: standard
 docid:
-- id: 3GPP TR 21.915:Rel-15/0.7.0
+- id: 3GPP TR 21.915:REL-15/0.7.0
   type: 3GPP
   primary: true
-docnumber: TR 21.915:Rel-15/0.7.0
+docnumber: TR 21.915:REL-15/0.7.0
 contributor:
 - organization:
     name:
@@ -30,8 +30,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: SULTAN, Alain
+      given:
+        forename:
+        - content: Alain
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Sultan
         language:
         - en
         script:
@@ -39,35 +46,25 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: ETSI
+        - content: European Telecommunications Standards Institute
   role:
   - type: author
-biblionote:
-- content: 2019-02
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: SP
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: f
-  version3g: f
-  defunct: false
   wpm_code_2g: GSM_Release_15
   wpm_code_3g: 3G4G5G_Rel-15
-  freeze_meeting: SA#83
   freeze_stage1_meeting: SA#76
   freeze_stage2_meeting: SA#78
   freeze_stage3_meeting: SA#83

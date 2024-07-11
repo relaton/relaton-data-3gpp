@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TS11.40-Ph1-3.6.0
 title:
 - content: GSM System Simulator specification
@@ -11,9 +11,6 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TS 11.40:Ph1/3.6.0
-date:
-- type: confirmed
-  value: '2003-09-01'
 contributor:
 - organization:
     name:
@@ -33,8 +30,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: BERGMANN, Ansgar
+      given:
+        forename:
+        - content: Ansgar
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bergmann
         language:
         - en
         script:
@@ -42,37 +46,23 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Hillebrand GmbH
+        - content: Hillebrand Consulting Engineers GmbH
   role:
   - type: author
-biblionote:
-- content: "#2: 3.6.0   #11: 3.7.0"
-  type: remark
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
-- name: G3new
+- name: R5
   type: prime
-- name: SMG07
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '3'
-  version3g: "-"
-  defunct: true
   wpm_code_2g: GSM_PH1
-  freeze_meeting: gsm-25b
-  freeze_stage1_meeting: GSM-25b
-  freeze_stage2_meeting: GSM-25b
-  freeze_stage3_meeting: GSM-25b
-  close_meeting: SMG-17
+  close_meeting: SA#25
+  project_start: '1982-12-07'

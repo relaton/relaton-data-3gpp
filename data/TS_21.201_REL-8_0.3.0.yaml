@@ -1,27 +1,23 @@
 ---
-schema-version: v1.2.3
-id: TS21.201-Rel-8-0.3.0
+schema-version: v1.2.9
+id: TS21.201-REL-8-0.3.0
 title:
 - content: Technical Specifications and Technical Reports for an Evolved Packet System
     (EPS) based 3GPP system
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/21_series/21.201/21201-030.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/21_series/21.201/21201-030.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 21.201:Rel-8/0.3.0
+- id: 3GPP TS 21.201:REL-8/0.3.0
   type: 3GPP
   primary: true
-docnumber: TS 21.201:Rel-8/0.3.0
+docnumber: TS 21.201:REL-8/0.3.0
 date:
-- type: created
-  value: '2009-01-13'
 - type: published
   value: '2009-01-13'
-- type: confirmed
-  value: '2008-03-26'
 contributor:
 - organization:
     name:
@@ -41,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: SCARRONE, Enrico
+      given:
+        forename:
+        - content: Enrico
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Scarrone
         language:
         - en
         script:
@@ -50,23 +53,39 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: TELECOM ITALIA S.p.A.
+        - content: Telecom Italia S.p.A.
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Dongwook
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kim
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: European Telecommunications Standards Institute
   role:
   - type: author
 revdate: '2009-01-13'
-biblionote:
-- content: Adds many more Rel-8 specs and takes into account WG feedback
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: SP
   type: prime
@@ -74,16 +93,11 @@ editorialgroup:
   type: other
 ext:
   schema-version: v1.0.1
-radiotechnology: LTE
 release:
-  version2g: '8'
-  version3g: '8'
-  defunct: false
   wpm_code_2g: GSM_Release_8
   wpm_code_3g: 3G_Rel-8
-  freeze_meeting: SP-42
-  freeze_stage1_meeting: SP-38
-  freeze_stage2_meeting: SP-40
-  freeze_stage3_meeting: SP-42
-  project_start: '2004-12-01'
+  freeze_stage1_meeting: SA#38
+  freeze_stage2_meeting: SA#40
+  freeze_stage3_meeting: SA#42
+  project_start: '2006-01-23'
   project_end: '2009-03-12'

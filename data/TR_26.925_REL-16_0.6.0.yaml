@@ -1,19 +1,19 @@
 ---
-schema-version: v1.2.3
-id: TR26.925-Rel-16-0.6.0
+schema-version: v1.2.9
+id: TR26.925-REL-16-0.6.0
 title:
 - content: Typical traffic characteristics of media services on 3GPP networks
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp//Specs/archive/26_series/26.925/26925-060.zip
+- content: https://www.3gpp.org/ftp//Specs/archive/26_series/26.925/26925-060.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 26.925:Rel-16/0.6.0
+- id: 3GPP TR 26.925:REL-16/0.6.0
   type: 3GPP
   primary: true
-docnumber: TR 26.925:Rel-16/0.6.0
+docnumber: TR 26.925:REL-16/0.6.0
 date:
 - type: published
   value: '2019-08-23'
@@ -36,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: GABIN, Frederic
+      given:
+        forename:
+        - content: Frederic
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Gabin
         language:
         - en
         script:
@@ -45,36 +52,26 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Ericsson LM
+        - content: Ericsson Telefonaktiebolaget LM
   role:
   - type: author
 revdate: '2019-08-23'
-biblionote:
-- content: S4-191071
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: S4
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 5G
 release:
-  version2g: g
-  version3g: g
-  defunct: false
   wpm_code_2g: GSM_Release_16
   wpm_code_3g: 3G4G5G_Rel-16
-  freeze_meeting: SA#88-e
   freeze_stage1_meeting: SA#82
   freeze_stage2_meeting: SA#84
   freeze_stage3_meeting: SA#88-e

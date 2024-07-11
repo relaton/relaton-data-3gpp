@@ -1,25 +1,23 @@
 ---
-schema-version: v1.2.3
-id: TS22.078-Rel-5-5.8.0
+schema-version: v1.2.9
+id: TS22.078-REL-5-5.8.0
 title:
 - content: Customised Applications for Mobile network Enhanced Logic (CAMEL); Service
     description; Stage 1
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.078/22078-580.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/22_series/22.078/22078-580.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 22.078:Rel-5/5.8.0
+- id: 3GPP TS 22.078:REL-5/5.8.0
   type: 3GPP
   primary: true
-docnumber: TS 22.078:Rel-5/5.8.0
+docnumber: TS 22.078:REL-5/5.8.0
 date:
 - type: published
   value: '2002-09-17'
-- type: confirmed
-  value: '2012-09-28'
 contributor:
 - organization:
     name:
@@ -39,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: RODERMUND, Friedhelm
+      given:
+        forename:
+        - content: Friedhelm
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Rodermund
         language:
         - en
         script:
@@ -48,7 +53,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: VODAFONE Group Plc
+        - content: Vodafone Group Plc
   role:
   - type: author
 revdate: '2002-09-17'
@@ -56,39 +61,21 @@ language:
 - en
 script:
 - Latn
-abstract:
-- content: This specification describes the Stage 1 description for CAMEL feature
-    which provides the mechanisms to support services consistently independently of
-    the serving network. The CAMEL features shall facilitate service control of operator
-    specific services external from the serving network. The CAMEL feature is a network
-    feature and not a supplementary service. It is a tool to help the network operator
-    to provide the subscribers with the operator specific services even when roaming
-    outside the home network.
-  format: text/plain
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: S1
   type: prime
-- name: S1
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '5'
-  version3g: '5'
-  defunct: true
   wpm_code_2g: GSM_Release_5
   wpm_code_3g: 3G_Rel-5
-  freeze_meeting: SP-15
-  freeze_stage1_meeting: SP-15
-  freeze_stage2_meeting: SP-15
-  freeze_stage3_meeting: SP-15
-  close_meeting: SP-65
-  project_start: '2000-03-01'
+  freeze_stage1_meeting: SA-#15
+  freeze_stage2_meeting: SA-#15
+  freeze_stage3_meeting: SA-#15
+  close_meeting: SA#65
+  project_start: '2000-05-01'
   project_end: '2002-09-12'

@@ -1,12 +1,12 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TR21.01U-UMTS-3.0.1
 title:
 - content: Requirements for the UMTS Terrestrial Radio Access (UTRA) system
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/21_series/21.01U/2101U-301.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/21_series/21.01U/2101U-301.zip
   type: src
 type: standard
 docid:
@@ -17,8 +17,6 @@ docnumber: TR 21.01U:UMTS/3.0.1
 date:
 - type: published
   value: '1997-11-28'
-- type: confirmed
-  value: '2003-05-16'
 contributor:
 - organization:
     name:
@@ -38,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: MOULSLEY, Tim
+      given:
+        forename:
+        - content: Tim
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Moulsley
         language:
         - en
         script:
@@ -55,27 +60,19 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: R6
   type: prime
-- name: SMG02
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: '3'
-  version3g: '3'
-  defunct: true
-  freeze_meeting: SMG-28
-  freeze_stage1_meeting: SMG-28
-  freeze_stage2_meeting: SMG-28
-  freeze_stage3_meeting: SMG-28
-  close_meeting: SP-28
+  freeze_stage1_meeting: SMG-#28
+  freeze_stage2_meeting: SMG-#28
+  freeze_stage3_meeting: SMG-#28
+  close_meeting: SA#28
+  project_start: '1994-08-18'
   project_end: '1999-02-12'

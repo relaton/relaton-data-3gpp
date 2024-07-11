@@ -1,12 +1,12 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TS03.82-Ph2-4.8.1
 title:
 - content: Call Forwarding (CF) Supplementary Services; Stage 2
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.82/0382-481.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/03_series/03.82/0382-481.zip
   type: src
 type: standard
 docid:
@@ -36,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: SCHMITT, Peter
+      given:
+        forename:
+        - content: Peter
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Schmitt
         language:
         - en
         script:
@@ -45,38 +52,24 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Huawei Tech.(UK) Co.. Ltd
+        - content: Huawei Technologies (UK) Co., Ltd.
   role:
   - type: author
 revdate: '1996-05-12'
-biblionote:
-- content: "#7: 4.5.0  #8: 4.5.1  #10: 4.6.0   #12: 4.7.0  #18: 4.8.0"
-  type: remark
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: C4
   type: prime
-- name: N4  /  SMG03?
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '4'
-  version3g: "-"
-  defunct: true
   wpm_code_2g: GSM_PH2
-  freeze_meeting: smg-11b
-  freeze_stage1_meeting: SMG-11b
-  freeze_stage2_meeting: SMG-11b
-  freeze_stage3_meeting: SMG-11b
-  close_meeting: SP-25
+  close_meeting: SA#25
+  project_start: '1993-03-25'

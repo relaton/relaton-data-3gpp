@@ -1,22 +1,20 @@
 ---
-schema-version: v1.2.3
-id: TR33.830-Rel-11-0.5.0
+schema-version: v1.2.9
+id: TR33.830-REL-11-0.5.0
 title:
 - content: Feasibility study on IMS firewall traversal
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.830/33830-050.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/33_series/33.830/33830-050.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.830:Rel-11/0.5.0
+- id: 3GPP TR 33.830:REL-11/0.5.0
   type: 3GPP
   primary: true
-docnumber: TR 33.830:Rel-11/0.5.0
+docnumber: TR 33.830:REL-11/0.5.0
 date:
-- type: created
-  value: '2014-01-07'
 - type: published
   value: '2014-01-07'
 contributor:
@@ -38,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: KUMAR, Prashant
+      given:
+        forename:
+        - content: Prashant
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kumar
         language:
         - en
         script:
@@ -57,22 +62,18 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: S3
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: b
-  version3g: b
-  defunct: false
   wpm_code_2g: GSM_Release_11
   wpm_code_3g: 3G4G_Rel-11
-  freeze_meeting: SP-57
-  freeze_stage1_meeting: SP-53
-  freeze_stage2_meeting: SP-55
-  freeze_stage3_meeting: SP-57
-  project_start: '2009-03-01'
+  freeze_stage1_meeting: SA#53
+  freeze_stage2_meeting: SA#55
+  freeze_stage3_meeting: SA#57
+  project_start: '2010-01-22'
   project_end: '2013-03-06'

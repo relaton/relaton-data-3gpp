@@ -1,6 +1,6 @@
 ---
-schema-version: v1.2.3
-id: TR28.802-Rel-14-0.2.0
+schema-version: v1.2.9
+id: TR28.802-REL-14-0.2.0
 title:
 - content: Telecommunication management;Study on management aspects of next generation
     network architecture and features
@@ -8,13 +8,10 @@ title:
   type: main
 type: standard
 docid:
-- id: 3GPP TR 28.802:Rel-14/0.2.0
+- id: 3GPP TR 28.802:REL-14/0.2.0
   type: 3GPP
   primary: true
-docnumber: TR 28.802:Rel-14/0.2.0
-date:
-- type: confirmed
-  value: '2017-09-22'
+docnumber: TR 28.802:REL-14/0.2.0
 contributor:
 - organization:
     name:
@@ -34,8 +31,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: WANG, Weixing
+      given:
+        forename:
+        - content: Weixing
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: WANG
         language:
         - en
         script:
@@ -46,32 +50,22 @@ contributor:
         - content: Nokia Corporation
   role:
   - type: author
-biblionote:
-- content: This version was not produced, and the associated tdoc was withdrawn.
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: S5
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: LTE
 release:
-  version2g: e
-  version3g: e
-  defunct: false
   wpm_code_2g: GSM_Release_14
   wpm_code_3g: 3G4G_Rel-14
-  freeze_meeting: SA#75
   freeze_stage1_meeting: SA#71
   freeze_stage2_meeting: SA#73
   freeze_stage3_meeting: SA#75

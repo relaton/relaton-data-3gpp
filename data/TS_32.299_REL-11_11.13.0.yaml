@@ -1,26 +1,22 @@
 ---
-schema-version: v1.2.3
-id: TS32.299-Rel-11-11.13.0
+schema-version: v1.2.9
+id: TS32.299-REL-11-11.13.0
 title:
 - content: Telecommunication management; Charging management; Diameter charging applications
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.299/32299-bd0.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/32_series/32.299/32299-bd0.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 32.299:Rel-11/11.13.0
+- id: 3GPP TS 32.299:REL-11/11.13.0
   type: 3GPP
   primary: true
-docnumber: TS 32.299:Rel-11/11.13.0
+docnumber: TS 32.299:REL-11/11.13.0
 date:
-- type: created
-  value: '2014-09-26'
 - type: published
   value: '2014-09-26'
-- type: confirmed
-  value: '2004-03-11'
 contributor:
 - organization:
     name:
@@ -40,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: GARDELLA, Maryse
+      given:
+        forename:
+        - content: Maryse
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Gardella
         language:
         - en
         script:
@@ -49,7 +52,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Alcatel-Lucent
+        - content: Alcatel-Lucent International
   role:
   - type: author
 revdate: '2014-09-26'
@@ -57,28 +60,20 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: S5
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
-common-ims-spec: true
 release:
-  version2g: b
-  version3g: b
-  defunct: false
   wpm_code_2g: GSM_Release_11
   wpm_code_3g: 3G4G_Rel-11
-  freeze_meeting: SP-57
-  freeze_stage1_meeting: SP-53
-  freeze_stage2_meeting: SP-55
-  freeze_stage3_meeting: SP-57
-  project_start: '2009-03-01'
+  freeze_stage1_meeting: SA#53
+  freeze_stage2_meeting: SA#55
+  freeze_stage3_meeting: SA#57
+  project_start: '2010-01-22'
   project_end: '2013-03-06'

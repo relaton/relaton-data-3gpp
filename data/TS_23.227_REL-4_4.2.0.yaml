@@ -1,25 +1,23 @@
 ---
-schema-version: v1.2.3
-id: TS23.227-Rel-4-4.2.0
+schema-version: v1.2.9
+id: TS23.227-REL-4-4.2.0
 title:
 - content: Application and user interaction in the User Equipment (UE); Principles
     and specific requirements
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.227/23227-420.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/23_series/23.227/23227-420.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.227:Rel-4/4.2.0
+- id: 3GPP TS 23.227:REL-4/4.2.0
   type: 3GPP
   primary: true
-docnumber: TS 23.227:Rel-4/4.2.0
+docnumber: TS 23.227:REL-4/4.2.0
 date:
 - type: published
   value: '2002-03-26'
-- type: confirmed
-  value: '2019-01-02'
 contributor:
 - organization:
     name:
@@ -39,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: BERTENYI, Balazs
+      given:
+        forename:
+        - content: Balazs
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bertenyi
         language:
         - en
         script:
@@ -48,7 +53,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Nokia Networks
+        - content: Nokia Solutions and Networks GmbH & Co. KG
   role:
   - type: author
 revdate: '2002-03-26'
@@ -56,36 +61,21 @@ language:
 - en
 script:
 - Latn
-abstract:
-- content: This Technical Specification defines the principles for scheduling resources
-    between applications in different application execution environment (e.g. MExE,
-    USAT etc.) and internal and external peripherals (e.g. infra-red, Bluetooth, USIM,
-    radio interface, MMI, memory etc.).
-  format: text/plain
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: S2
   type: prime
-- name: T2
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: '4'
-  version3g: '4'
-  defunct: true
   wpm_code_2g: GSM_Release_4
   wpm_code_3g: 3G_Rel-4
-  freeze_meeting: SP-11
-  freeze_stage1_meeting: SP-11
-  freeze_stage2_meeting: SP-11
-  freeze_stage3_meeting: SP-11
-  close_meeting: SP-65
-  project_start: '1999-12-01'
+  freeze_stage1_meeting: SA-#11
+  freeze_stage2_meeting: SA-#11
+  freeze_stage3_meeting: SA-#11
+  close_meeting: SA#65
+  project_start: '1998-08-01'
   project_end: '2001-06-21'

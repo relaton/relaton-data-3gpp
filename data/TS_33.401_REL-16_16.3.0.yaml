@@ -1,24 +1,22 @@
 ---
-schema-version: v1.2.3
-id: TS33.401-Rel-16-16.3.0
+schema-version: v1.2.9
+id: TS33.401-REL-16-16.3.0
 title:
 - content: 3GPP System Architecture Evolution (SAE); Security architecture
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp//Specs/archive/33_series/33.401/33401-g30.zip
+- content: https://www.3gpp.org/ftp//Specs/archive/33_series/33.401/33401-g30.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 33.401:Rel-16/16.3.0
+- id: 3GPP TS 33.401:REL-16/16.3.0
   type: 3GPP
   primary: true
-docnumber: TS 33.401:Rel-16/16.3.0
+docnumber: TS 33.401:REL-16/16.3.0
 date:
 - type: published
   value: '2020-07-10'
-- type: confirmed
-  value: '2008-03-12'
 contributor:
 - organization:
     name:
@@ -38,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: PRASAD, Anand
+      given:
+        forename:
+        - content: Anand
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Prasad
         language:
         - en
         script:
@@ -55,25 +60,18 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: S3
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: g
-  version3g: g
-  defunct: false
   wpm_code_2g: GSM_Release_16
   wpm_code_3g: 3G4G5G_Rel-16
-  freeze_meeting: SA#88-e
   freeze_stage1_meeting: SA#82
   freeze_stage2_meeting: SA#84
   freeze_stage3_meeting: SA#88-e

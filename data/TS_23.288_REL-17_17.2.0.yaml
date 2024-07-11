@@ -1,6 +1,6 @@
 ---
-schema-version: v1.2.3
-id: TS23.288-Rel-17-17.2.0
+schema-version: v1.2.9
+id: TS23.288-REL-17-17.2.0
 title:
 - content: Architecture enhancements for 5G System (5GS) to support network data analytics
     services
@@ -11,15 +11,13 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.288:Rel-17/17.2.0
+- id: 3GPP TS 23.288:REL-17/17.2.0
   type: 3GPP
   primary: true
-docnumber: TS 23.288:Rel-17/17.2.0
+docnumber: TS 23.288:REL-17/17.2.0
 date:
 - type: published
   value: '2021-09-24'
-- type: confirmed
-  value: '2019-01-02'
 contributor:
 - organization:
     name:
@@ -39,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: WU, Xiaobo
+      given:
+        forename:
+        - content: Xiaobo
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Wu
         language:
         - en
         script:
@@ -52,34 +57,24 @@ contributor:
   role:
   - type: author
 revdate: '2021-09-24'
-biblionote:
-- content: Version updated with TSG SA#93E approved CRs
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: S2
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 5G
 release:
-  version2g: h
-  version3g: h
-  defunct: false
   wpm_code_2g: GSM_Release_17
   wpm_code_3g: 3G4G5G_Rel-17
-  freeze_meeting: SA#95-e
   freeze_stage1_meeting: SA#86
   freeze_stage2_meeting: SA#92-e
   freeze_stage3_meeting: SA#95
   project_start: '2018-06-15'
-  project_end: '2022-03-25'
+  project_end: '2022-06-10'

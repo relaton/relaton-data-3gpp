@@ -1,12 +1,12 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TS03.08-Ph1-3.7.0
 title:
 - content: Organization of Subscriber Data
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.08/0308-370.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/03_series/03.08/0308-370.zip
   type: src
 type: standard
 docid:
@@ -36,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: BAUER, Rolf
+      given:
+        forename:
+        - content: Rolf
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bauer
         language:
         - en
         script:
@@ -53,27 +60,16 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: C4
   type: prime
-- name: N4  /  SMG03?
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '3'
-  version3g: "-"
-  defunct: true
   wpm_code_2g: GSM_PH1
-  freeze_meeting: gsm-25b
-  freeze_stage1_meeting: GSM-25b
-  freeze_stage2_meeting: GSM-25b
-  freeze_stage3_meeting: GSM-25b
-  close_meeting: SMG-17
+  close_meeting: SA#25
+  project_start: '1982-12-07'

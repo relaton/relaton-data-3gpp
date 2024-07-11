@@ -1,0 +1,68 @@
+---
+schema-version: v1.2.9
+id: TS03.03-REL-96-5.0.0
+title:
+- content: Numbering, Addressing and Identification
+  format: text/plain
+  type: main
+type: standard
+docid:
+- id: 3GPP TS 03.03:REL-96/5.0.0
+  type: 3GPP
+  primary: true
+docnumber: TS 03.03:REL-96/5.0.0
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Nick
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Russell
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: BlackBerry UK Limited
+  role:
+  - type: author
+language:
+- en
+script:
+- Latn
+place:
+- Sophia Antipolis Cedex, France
+doctype:
+  type: TS
+editorialgroup:
+- name: C4
+  type: prime
+ext:
+  schema-version: v1.0.1
+release:
+  wpm_code_2g: GSM_Release_96
+  close_meeting: SA#25
+  project_start: '1995-07-20'

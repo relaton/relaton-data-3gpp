@@ -1,27 +1,23 @@
 ---
-schema-version: v1.2.3
-id: TR24.803-Rel-12-0.4.0
+schema-version: v1.2.9
+id: TR24.803-REL-12-0.4.0
 title:
 - content: Study on telepresence using the IP Multimedia (IM) Core Network (CN) Subsystem
     (IMS); Stage 3
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.803/24803-040.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/24_series/24.803/24803-040.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 24.803:Rel-12/0.4.0
+- id: 3GPP TR 24.803:REL-12/0.4.0
   type: 3GPP
   primary: true
-docnumber: TR 24.803:Rel-12/0.4.0
+docnumber: TR 24.803:REL-12/0.4.0
 date:
-- type: created
-  value: '2013-10-15'
 - type: published
   value: '2013-10-15'
-- type: confirmed
-  value: '2014-06-27'
 contributor:
 - organization:
     name:
@@ -41,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: YANG, Weiwei(Tommy)
+      given:
+        forename:
+        - content: Weiwei(Tommy)
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: YANG
         language:
         - en
         script:
@@ -50,7 +53,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Huawei Tech.(UK) Co.. Ltd
+        - content: Huawei Technologies (UK) Co., Ltd.
   role:
   - type: author
 revdate: '2013-10-15'
@@ -60,22 +63,18 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: C1
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: c
-  version3g: c
-  defunct: false
   wpm_code_2g: GSM_Release_12
   wpm_code_3g: 3G4G_Rel-12
-  freeze_meeting: SP-65
-  freeze_stage1_meeting: SP-59
-  freeze_stage2_meeting: SP-62
-  freeze_stage3_meeting: SP-65
-  project_start: '2010-06-01'
+  freeze_stage1_meeting: SA#59
+  freeze_stage2_meeting: SA#62
+  freeze_stage3_meeting: SA#65
+  project_start: '2011-06-26'
   project_end: '2015-03-13'

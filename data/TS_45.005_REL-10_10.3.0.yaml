@@ -1,26 +1,22 @@
 ---
-schema-version: v1.2.3
-id: TS45.005-Rel-10-10.3.0
+schema-version: v1.2.9
+id: TS45.005-REL-10-10.3.0
 title:
 - content: GSM/EDGE Radio transmission and reception
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/45_series/45.005/45005-a30.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/45_series/45.005/45005-a30.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 45.005:Rel-10/10.3.0
+- id: 3GPP TS 45.005:REL-10/10.3.0
   type: 3GPP
   primary: true
-docnumber: TS 45.005:Rel-10/10.3.0
+docnumber: TS 45.005:REL-10/10.3.0
 date:
-- type: created
-  value: '2011-12-21'
 - type: published
   value: '2011-12-21'
-- type: confirmed
-  value: '2005-07-07'
 contributor:
 - organization:
     name:
@@ -40,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: SUNDBERG, Marten
+      given:
+        forename:
+        - content: Marten
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Sundberg
         language:
         - en
         script:
@@ -49,7 +52,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Ericsson LM
+        - content: Ericsson Telefonaktiebolaget LM
   role:
   - type: author
 revdate: '2011-12-21'
@@ -57,29 +60,20 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: RP
   type: prime
-- name: SMG02
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: a
-  version3g: a
-  defunct: false
   wpm_code_2g: GSM_Release_10
   wpm_code_3g: 3G4G_Rel-10
-  freeze_meeting: SP-51
-  freeze_stage1_meeting: SP-47
-  freeze_stage2_meeting: SP-49
-  freeze_stage3_meeting: SP-51
-  project_start: '2009-03-01'
+  freeze_stage1_meeting: SA#47
+  freeze_stage2_meeting: SA#49
+  freeze_stage3_meeting: SA#51
+  project_start: '2009-01-20'
   project_end: '2011-06-08'

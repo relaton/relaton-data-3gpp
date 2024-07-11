@@ -1,19 +1,19 @@
 ---
-schema-version: v1.2.3
-id: TR36.896-Rel-14-0.0.1
+schema-version: v1.2.9
+id: TR36.896-REL-14-0.0.1
 title:
 - content: Study on Flexible eNB-ID and Cell-ID in E-UTRAN
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.896/36896-001.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.896/36896-001.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.896:Rel-14/0.0.1
+- id: 3GPP TR 36.896:REL-14/0.0.1
   type: 3GPP
   primary: true
-docnumber: TR 36.896:Rel-14/0.0.1
+docnumber: TR 36.896:REL-14/0.0.1
 date:
 - type: published
   value: '2016-04-25'
@@ -36,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: XU, Sen
+      given:
+        forename:
+        - content: Zheng
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Zhou
         language:
         - en
         script:
@@ -45,7 +52,28 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: China Telecommunications
+        - content: Huawei Technologies Co. Ltd.
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Sen
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Xu
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: China Telecommunications Corporation
   role:
   - type: author
 revdate: '2016-04-25'
@@ -55,20 +83,16 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: R3
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: LTE
 release:
-  version2g: e
-  version3g: e
-  defunct: false
   wpm_code_2g: GSM_Release_14
   wpm_code_3g: 3G4G_Rel-14
-  freeze_meeting: SA#75
   freeze_stage1_meeting: SA#71
   freeze_stage2_meeting: SA#73
   freeze_stage3_meeting: SA#75

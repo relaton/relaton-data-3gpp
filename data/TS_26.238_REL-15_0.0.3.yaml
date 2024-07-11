@@ -1,19 +1,19 @@
 ---
-schema-version: v1.2.3
-id: TS26.238-Rel-15-0.0.3
+schema-version: v1.2.9
+id: TS26.238-REL-15-0.0.3
 title:
 - content: Uplink streaming
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.238/26238-003.zip
+- content: https://www.3gpp.org/ftp//Specs/archive/26_series/26.238/26238-003.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 26.238:Rel-15/0.0.3
+- id: 3GPP TS 26.238:REL-15/0.0.3
   type: 3GPP
   primary: true
-docnumber: TS 26.238:Rel-15/0.0.3
+docnumber: TS 26.238:REL-15/0.0.3
 date:
 - type: published
   value: '2017-06-30'
@@ -36,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: CURCIO, Igor
+      given:
+        forename:
+        - content: Igor
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Curcio
         language:
         - en
         script:
@@ -49,32 +56,22 @@ contributor:
   role:
   - type: author
 revdate: '2017-06-30'
-biblionote:
-- content: S4-170741
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: S4
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: f
-  version3g: f
-  defunct: false
   wpm_code_2g: GSM_Release_15
   wpm_code_3g: 3G4G5G_Rel-15
-  freeze_meeting: SA#83
   freeze_stage1_meeting: SA#76
   freeze_stage2_meeting: SA#78
   freeze_stage3_meeting: SA#83

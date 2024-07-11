@@ -1,19 +1,19 @@
 ---
-schema-version: v1.2.3
-id: TR26.999-Rel-17-0.2.0
+schema-version: v1.2.9
+id: TR26.999-REL-17-0.2.0
 title:
 - content: Virtual Reality (VR) streaming interoperability and characterization
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp//Specs/archive/26_series/26.999/26999-020.zip
+- content: https://www.3gpp.org/ftp//Specs/archive/26_series/26.999/26999-020.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 26.999:Rel-17/0.2.0
+- id: 3GPP TR 26.999:REL-17/0.2.0
   type: 3GPP
   primary: true
-docnumber: TR 26.999:Rel-17/0.2.0
+docnumber: TR 26.999:REL-17/0.2.0
 date:
 - type: published
   value: '2019-10-30'
@@ -36,8 +36,36 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: CURCIO, Igor
+      given:
+        forename:
+        - content: Thomas
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Stockhammer
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Qualcomm Germany GmbH
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Igor
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Curcio
         language:
         - en
         script:
@@ -49,34 +77,24 @@ contributor:
   role:
   - type: author
 revdate: '2019-10-30'
-biblionote:
-- content: S4-191294
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: S4
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: LTE
 release:
-  version2g: h
-  version3g: h
-  defunct: false
   wpm_code_2g: GSM_Release_17
   wpm_code_3g: 3G4G5G_Rel-17
-  freeze_meeting: SA#95-e
   freeze_stage1_meeting: SA#86
   freeze_stage2_meeting: SA#92-e
   freeze_stage3_meeting: SA#95
   project_start: '2018-06-15'
-  project_end: '2022-03-25'
+  project_end: '2022-06-10'

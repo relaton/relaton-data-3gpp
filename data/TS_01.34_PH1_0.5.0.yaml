@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TS01.34-Ph1-0.5.0
 title:
 - content: Requirements of High Speed Circuit Switched Data (HSCSD)
@@ -11,9 +11,6 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TS 01.34:Ph1/0.5.0
-date:
-- type: confirmed
-  value: '2011-01-11'
 contributor:
 - organization:
     name:
@@ -35,25 +32,13 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
-editorialgroup:
-- name: "-"
-  type: prime
+doctype:
+  type: TS
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '3'
-  version3g: "-"
-  defunct: true
   wpm_code_2g: GSM_PH1
-  freeze_meeting: gsm-25b
-  freeze_stage1_meeting: GSM-25b
-  freeze_stage2_meeting: GSM-25b
-  freeze_stage3_meeting: GSM-25b
-  close_meeting: SMG-17
+  close_meeting: SA#25
+  project_start: '1982-12-07'

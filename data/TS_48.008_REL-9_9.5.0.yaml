@@ -1,27 +1,23 @@
 ---
-schema-version: v1.2.3
-id: TS48.008-Rel-9-9.5.0
+schema-version: v1.2.9
+id: TS48.008-REL-9-9.5.0
 title:
 - content: Mobile Switching Centre - Base Station system (MSC-BSS) interface; Layer
     3 specification
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/48_series/48.008/48008-950.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/48_series/48.008/48008-950.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 48.008:Rel-9/9.5.0
+- id: 3GPP TS 48.008:REL-9/9.5.0
   type: 3GPP
   primary: true
-docnumber: TS 48.008:Rel-9/9.5.0
+docnumber: TS 48.008:REL-9/9.5.0
 date:
-- type: created
-  value: '2010-12-22'
 - type: published
   value: '2010-12-22'
-- type: confirmed
-  value: '2005-07-13'
 contributor:
 - organization:
     name:
@@ -41,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: ANDERSEN, Niels Peter Skov
+      given:
+        forename:
+        - content: Niels Peter Skov
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Andersen
         language:
         - en
         script:
@@ -54,36 +57,24 @@ contributor:
   role:
   - type: author
 revdate: '2010-12-22'
-biblionote:
-- content: Mistakenly includes CR325r4
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: RP
   type: prime
-- name: SMG02
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '9'
-  version3g: '9'
-  defunct: false
   wpm_code_2g: GSM_Release_9
   wpm_code_3g: 3G_Rel-9
-  freeze_meeting: SP-46
-  freeze_stage1_meeting: SP-42
-  freeze_stage2_meeting: SP-44
-  freeze_stage3_meeting: SP-46
-  project_start: '2007-06-01'
+  freeze_stage1_meeting: SA#42
+  freeze_stage2_meeting: SA#44
+  freeze_stage3_meeting: SA#46
+  project_start: '2008-03-06'
   project_end: '2010-03-25'

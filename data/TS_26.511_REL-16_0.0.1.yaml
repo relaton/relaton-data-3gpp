@@ -1,19 +1,19 @@
 ---
-schema-version: v1.2.3
-id: TS26.511-Rel-16-0.0.1
+schema-version: v1.2.9
+id: TS26.511-REL-16-0.0.1
 title:
 - content: 5G Media Streaming (5GMS); Profiles, codecs and formats
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.511/26511-001.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/26_series/26.511/26511-001.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 26.511:Rel-16/0.0.1
+- id: 3GPP TS 26.511:REL-16/0.0.1
   type: 3GPP
   primary: true
-docnumber: TS 26.511:Rel-16/0.0.1
+docnumber: TS 26.511:REL-16/0.0.1
 date:
 - type: published
   value: '2019-06-25'
@@ -36,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: TENIOU, Gilles
+      given:
+        forename:
+        - content: Gilles
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Teniou
         language:
         - en
         script:
@@ -53,25 +60,18 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: S4
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 5G
 release:
-  version2g: g
-  version3g: g
-  defunct: false
   wpm_code_2g: GSM_Release_16
   wpm_code_3g: 3G4G5G_Rel-16
-  freeze_meeting: SA#88-e
   freeze_stage1_meeting: SA#82
   freeze_stage2_meeting: SA#84
   freeze_stage3_meeting: SA#88-e

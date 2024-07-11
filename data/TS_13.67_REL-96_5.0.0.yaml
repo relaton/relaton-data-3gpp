@@ -1,0 +1,55 @@
+---
+schema-version: v1.2.9
+id: TS13.67-REL-96-5.0.0
+title:
+- content: Attachment requirements for Global System for Mobile communications (GSM);
+    Railways Band (R-GSM); Mobile Stations; Access
+  format: text/plain
+  type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/13_series/13.67/1367-500.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 13.67:REL-96/5.0.0
+  type: 3GPP
+  primary: true
+docnumber: TS 13.67:REL-96/5.0.0
+date:
+- type: published
+  value: '1998-10-16'
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+revdate: '1998-10-16'
+language:
+- en
+script:
+- Latn
+place:
+- Sophia Antipolis Cedex, France
+doctype:
+  type: TS
+editorialgroup:
+- name: R5
+  type: other
+ext:
+  schema-version: v1.0.1
+release:
+  wpm_code_2g: GSM_Release_96
+  close_meeting: SA#25
+  project_start: '1995-07-20'

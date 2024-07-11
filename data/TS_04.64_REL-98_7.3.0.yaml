@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: TS04.64-REL-98-7.3.0
+title:
+- content: General Packet Radio Service (GPRS); Mobile Station - Serving GPRS Support
+    Node (MS-SGSN) Logical Link Control (LLC) layer specification
+  format: text/plain
+  type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/04_series/04.64/0464-730.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 04.64:REL-98/7.3.0
+  type: 3GPP
+  primary: true
+docnumber: TS 04.64:REL-98/7.3.0
+date:
+- type: published
+  value: '2000-02-16'
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Behrouz
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Aghili
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: InterDigital Communications Corporation
+  role:
+  - type: author
+revdate: '2000-02-16'
+language:
+- en
+script:
+- Latn
+place:
+- Sophia Antipolis Cedex, France
+doctype:
+  type: TS
+editorialgroup:
+- name: C1
+  type: prime
+ext:
+  schema-version: v1.0.1
+release:
+  wpm_code_2g: GSM_Release_98
+  freeze_stage1_meeting: SMG-#28
+  freeze_stage2_meeting: SMG-#28
+  freeze_stage3_meeting: SMG-#28
+  close_meeting: SA#28
+  project_start: '1996-03-26'
+  project_end: '1999-02-12'

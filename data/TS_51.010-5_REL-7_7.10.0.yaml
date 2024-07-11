@@ -1,27 +1,23 @@
 ---
-schema-version: v1.2.3
-id: TS51.010-5-Rel-7-7.10.0
+schema-version: v1.2.9
+id: TS51.010-5-REL-7-7.10.0
 title:
 - content: 'Mobile Station (MS) conformance specification; Part 5: Inter-Radio-Access-Technology
     (RAT) (GERAN / UTRAN) interaction Abstract Test Suite (ATS)'
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/51_series/51.010-5/51010-5-7a0.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/51_series/51.010-5/51010-5-7a0.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 51.010-5:Rel-7/7.10.0
+- id: 3GPP TS 51.010-5:REL-7/7.10.0
   type: 3GPP
   primary: true
-docnumber: TS 51.010-5:Rel-7/7.10.0
+docnumber: TS 51.010-5:REL-7/7.10.0
 date:
-- type: created
-  value: '2008-06-20'
 - type: published
   value: '2008-06-20'
-- type: confirmed
-  value: '2005-01-18'
 contributor:
 - organization:
     name:
@@ -41,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: GENOUD, Olivier
+      given:
+        forename:
+        - content: Olivier
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Genoud
         language:
         - en
         script:
@@ -50,23 +53,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: ETSI
+        - content: European Telecommunications Standards Institute
   role:
   - type: author
 revdate: '2008-06-20'
-biblionote:
-- content: 'GP-37: henceforward no PDF file of the ATS will be provided.'
-  type: remark
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: R5
   type: prime
@@ -74,17 +72,12 @@ editorialgroup:
   type: other
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '7'
-  version3g: '7'
-  defunct: true
   wpm_code_2g: GSM_Release_7
   wpm_code_3g: 3G_Rel-7
-  freeze_meeting: SP-35
-  freeze_stage1_meeting: SP-29
-  freeze_stage2_meeting: SP-33
-  freeze_stage3_meeting: SP-35
-  close_meeting: SP-65
-  project_start: '2003-12-01'
+  freeze_stage1_meeting: SA#29
+  freeze_stage2_meeting: SA#33
+  freeze_stage3_meeting: SA#35
+  close_meeting: SA#65
+  project_start: '2003-10-06'
   project_end: '2008-03-13'

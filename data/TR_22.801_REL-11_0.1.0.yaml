@@ -1,19 +1,16 @@
 ---
-schema-version: v1.2.3
-id: TR22.801-Rel-11-0.1.0
+schema-version: v1.2.9
+id: TR22.801-REL-11-0.1.0
 title:
 - content: Study on non-MTC mobile data applications impacts
   format: text/plain
   type: main
 type: standard
 docid:
-- id: 3GPP TR 22.801:Rel-11/0.1.0
+- id: 3GPP TR 22.801:REL-11/0.1.0
   type: 3GPP
   primary: true
-docnumber: TR 22.801:Rel-11/0.1.0
-date:
-- type: confirmed
-  value: '2011-12-21'
+docnumber: TR 22.801:REL-11/0.1.0
 contributor:
 - organization:
     name:
@@ -33,8 +30,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: DEOL, Amar
+      given:
+        forename:
+        - content: Amar
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Deol
         language:
         - en
         script:
@@ -42,37 +46,27 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: HUAWEI TECHNOLOGIES Co. Ltd.
+        - content: Huawei Technologies Co. Ltd.
   role:
   - type: author
-biblionote:
-- content: 'SP-53: timed out to Rel-12'
-  type: remark
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: S1
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: b
-  version3g: b
-  defunct: false
   wpm_code_2g: GSM_Release_11
   wpm_code_3g: 3G4G_Rel-11
-  freeze_meeting: SP-57
-  freeze_stage1_meeting: SP-53
-  freeze_stage2_meeting: SP-55
-  freeze_stage3_meeting: SP-57
-  project_start: '2009-03-01'
+  freeze_stage1_meeting: SA#53
+  freeze_stage2_meeting: SA#55
+  freeze_stage3_meeting: SA#57
+  project_start: '2010-01-22'
   project_end: '2013-03-06'

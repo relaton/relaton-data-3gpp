@@ -1,6 +1,6 @@
 ---
-schema-version: v1.2.3
-id: TR37.813-Rel-12-1.3.0
+schema-version: v1.2.9
+id: TR37.813-REL-12-1.3.0
 title:
 - content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Study on
     LTE - High Rate Packet Data in 3GPP2 (HRPD) Inter-Radio-Access-Technology (RAT)
@@ -8,21 +8,17 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.813/37813-130.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/37_series/37.813/37813-130.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 37.813:Rel-12/1.3.0
+- id: 3GPP TR 37.813:REL-12/1.3.0
   type: 3GPP
   primary: true
-docnumber: TR 37.813:Rel-12/1.3.0
+docnumber: TR 37.813:REL-12/1.3.0
 date:
-- type: created
-  value: '2013-08-05'
 - type: published
   value: '2013-08-01'
-- type: confirmed
-  value: '2013-06-27'
 contributor:
 - organization:
     name:
@@ -42,8 +38,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: WU, Jin lian
+      given:
+        forename:
+        - content: Jin lian
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Wu
         language:
         - en
         script:
@@ -51,7 +54,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: China Telecommunications
+        - content: China Telecommunications Corporation
   role:
   - type: author
 revdate: '2013-08-01'
@@ -61,22 +64,18 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: R3
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: LTE
 release:
-  version2g: c
-  version3g: c
-  defunct: false
   wpm_code_2g: GSM_Release_12
   wpm_code_3g: 3G4G_Rel-12
-  freeze_meeting: SP-65
-  freeze_stage1_meeting: SP-59
-  freeze_stage2_meeting: SP-62
-  freeze_stage3_meeting: SP-65
-  project_start: '2010-06-01'
+  freeze_stage1_meeting: SA#59
+  freeze_stage2_meeting: SA#62
+  freeze_stage3_meeting: SA#65
+  project_start: '2011-06-26'
   project_end: '2015-03-13'

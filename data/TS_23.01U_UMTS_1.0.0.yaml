@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TS23.01U-UMTS-1.0.0
 title:
 - content: General UMTS architecture
@@ -11,9 +11,6 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TS 23.01U:UMTS/1.0.0
-date:
-- type: confirmed
-  value: '2004-12-24'
 contributor:
 - organization:
     name:
@@ -33,8 +30,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: OLSSON, Magnus
+      given:
+        forename:
+        - content: Magnus
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Olsson
         language:
         - en
         script:
@@ -42,38 +46,23 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Ericsson LM
+        - content: Ericsson Telefonaktiebolaget LM
   role:
   - type: author
-biblionote:
-- content: "#27: for info"
-  type: remark
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
-editorialgroup:
-- name: SMG12
-  type: prime
-- name: smg03
-  type: other
-- name: SMG12
-  type: former
+doctype:
+  type: TS
 ext:
   schema-version: v1.0.1
 release:
-  version2g: '3'
-  version3g: '3'
-  defunct: true
-  freeze_meeting: SMG-28
-  freeze_stage1_meeting: SMG-28
-  freeze_stage2_meeting: SMG-28
-  freeze_stage3_meeting: SMG-28
-  close_meeting: SP-28
+  freeze_stage1_meeting: SMG-#28
+  freeze_stage2_meeting: SMG-#28
+  freeze_stage3_meeting: SMG-#28
+  close_meeting: SA#28
+  project_start: '1994-08-18'
   project_end: '1999-02-12'

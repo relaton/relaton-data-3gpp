@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TR03.01U-UMTS-0.8.0
 title:
 - content: Framework of network requirements, interworking and integration for the
@@ -29,32 +29,23 @@ contributor:
   role:
   - type: author
   - type: publisher
-biblionote:
-- content: td 391/94, also smg04 td 267/94
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: SP
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: '3'
-  version3g: '3'
-  defunct: true
-  freeze_meeting: SMG-28
-  freeze_stage1_meeting: SMG-28
-  freeze_stage2_meeting: SMG-28
-  freeze_stage3_meeting: SMG-28
-  close_meeting: SP-28
+  freeze_stage1_meeting: SMG-#28
+  freeze_stage2_meeting: SMG-#28
+  freeze_stage3_meeting: SMG-#28
+  close_meeting: SA#28
+  project_start: '1994-08-18'
   project_end: '1999-02-12'

@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.9
+id: TS07.02-REL-96-5.5.1
+title:
+- content: Terminal Adaptation Functions (TAF) for Services Using Asynchronous Bearer
+    Capabilities
+  format: text/plain
+  type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/07_series/07.02/0702-551.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 07.02:REL-96/5.5.1
+  type: 3GPP
+  primary: true
+docnumber: TS 07.02:REL-96/5.5.1
+date:
+- type: published
+  value: '1998-01-19'
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Nevenka
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Biondic
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Ericsson Telefonaktiebolaget LM
+  role:
+  - type: author
+revdate: '1998-01-19'
+language:
+- en
+script:
+- Latn
+place:
+- Sophia Antipolis Cedex, France
+doctype:
+  type: TS
+editorialgroup:
+- name: C3
+  type: prime
+ext:
+  schema-version: v1.0.1
+release:
+  wpm_code_2g: GSM_Release_96
+  close_meeting: SA#25
+  project_start: '1995-07-20'

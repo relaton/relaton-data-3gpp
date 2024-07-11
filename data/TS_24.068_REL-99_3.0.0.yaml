@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: TS24.068-REL-99-3.0.0
+title:
+- content: Group Call Control (GCC) Protocol
+  format: text/plain
+  type: main
+type: standard
+docid:
+- id: 3GPP TS 24.068:REL-99/3.0.0
+  type: 3GPP
+  primary: true
+docnumber: TS 24.068:REL-99/3.0.0
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Sonia
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Garapaty
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Nortel Networks (USA)
+  role:
+  - type: author
+language:
+- en
+script:
+- Latn
+place:
+- Sophia Antipolis Cedex, France
+doctype:
+  type: TS
+editorialgroup:
+- name: N1
+  type: prime
+ext:
+  schema-version: v1.0.1
+release:
+  wpm_code_2g: GSM_Release_99
+  wpm_code_3g: 3G_R1999
+  freeze_stage1_meeting: SA-#6
+  freeze_stage2_meeting: SA-#6
+  freeze_stage3_meeting: SA-#6
+  close_meeting: SA#40
+  project_start: '1996-11-01'
+  project_end: '1999-12-17'

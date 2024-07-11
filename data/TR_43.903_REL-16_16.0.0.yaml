@@ -1,24 +1,22 @@
 ---
-schema-version: v1.2.3
-id: TR43.903-Rel-16-16.0.0
+schema-version: v1.2.9
+id: TR43.903-REL-16-16.0.0
 title:
 - content: A-interface over IP study (AINTIP)
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp//Specs/archive/43_series/43.903/43903-g00.zip
+- content: https://www.3gpp.org/ftp//Specs/archive/43_series/43.903/43903-g00.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 43.903:Rel-16/16.0.0
+- id: 3GPP TR 43.903:REL-16/16.0.0
   type: 3GPP
   primary: true
-docnumber: TR 43.903:Rel-16/16.0.0
+docnumber: TR 43.903:REL-16/16.0.0
 date:
 - type: published
   value: '2020-07-19'
-- type: confirmed
-  value: '2008-06-16'
 contributor:
 - organization:
     name:
@@ -38,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: WANG, Shuaiyu
+      given:
+        forename:
+        - content: Shuaiyu
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Wang
         language:
         - en
         script:
@@ -47,23 +52,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: China Mobile Com. Corporation
+        - content: China Mobile Communications Corporation (CMCC)
   role:
   - type: author
 revdate: '2020-07-19'
-biblionote:
-- content: upgrade
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: RP
   type: prime
@@ -71,14 +71,9 @@ editorialgroup:
   type: other
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: g
-  version3g: g
-  defunct: false
   wpm_code_2g: GSM_Release_16
   wpm_code_3g: 3G4G5G_Rel-16
-  freeze_meeting: SA#88-e
   freeze_stage1_meeting: SA#82
   freeze_stage2_meeting: SA#84
   freeze_stage3_meeting: SA#88-e

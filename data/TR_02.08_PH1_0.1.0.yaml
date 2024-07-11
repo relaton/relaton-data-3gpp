@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TR02.08-Ph1-0.1.0
 title:
 - content: Quality of Service (QoS) / GSM system performance
@@ -30,8 +30,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: TWINGLER, Jonas
+      given:
+        forename:
+        - content: Jonas
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Twingler
         language:
         - en
         script:
@@ -42,32 +49,17 @@ contributor:
         - content: inCode
   role:
   - type: author
-biblionote:
-- content: SMG1 295/95
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
-editorialgroup:
-- name: smg
-  type: prime
+doctype:
+  type: TR
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '3'
-  version3g: "-"
-  defunct: true
   wpm_code_2g: GSM_PH1
-  freeze_meeting: gsm-25b
-  freeze_stage1_meeting: GSM-25b
-  freeze_stage2_meeting: GSM-25b
-  freeze_stage3_meeting: GSM-25b
-  close_meeting: SMG-17
+  close_meeting: SA#25
+  project_start: '1982-12-07'

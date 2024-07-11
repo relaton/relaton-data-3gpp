@@ -1,12 +1,12 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TS23.30U-UMTS-0.1.1
 title:
 - content: Iu principles
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.30U/2330U-011.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/23_series/23.30U/2330U-011.zip
   type: src
 type: standard
 docid:
@@ -17,8 +17,6 @@ docnumber: TS 23.30U:UMTS/0.1.1
 date:
 - type: published
   value: '1998-08-03'
-- type: confirmed
-  value: '2012-11-29'
 contributor:
 - organization:
     name:
@@ -38,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: SODERBACKA, Lauri
+      given:
+        forename:
+        - content: Lauri
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Soderbacka
         language:
         - en
         script:
@@ -47,36 +52,24 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Huawei Tech.(UK) Co.. Ltd
+        - content: Huawei Technologies (UK) Co., Ltd.
   role:
   - type: author
 revdate: '1998-08-03'
-biblionote:
-- content: SMG12 tdoc 98S518
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
-editorialgroup:
-- name: smg3
-  type: prime
+doctype:
+  type: TS
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: '3'
-  version3g: '3'
-  defunct: true
-  freeze_meeting: SMG-28
-  freeze_stage1_meeting: SMG-28
-  freeze_stage2_meeting: SMG-28
-  freeze_stage3_meeting: SMG-28
-  close_meeting: SP-28
+  freeze_stage1_meeting: SMG-#28
+  freeze_stage2_meeting: SMG-#28
+  freeze_stage3_meeting: SMG-#28
+  close_meeting: SA#28
+  project_start: '1994-08-18'
   project_end: '1999-02-12'

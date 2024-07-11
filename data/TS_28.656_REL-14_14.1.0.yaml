@@ -1,25 +1,23 @@
 ---
-schema-version: v1.2.3
-id: TS28.656-Rel-14-14.1.0
+schema-version: v1.2.9
+id: TS28.656-REL-14-14.1.0
 title:
 - content: Telecommunication management; GSM/EDGE Radio Access Network (GERAN) Network
     Resource Model (NRM) Integration Reference Point (IRP); Solution Set (SS) definitions
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/28_series/28.656/28656-e10.zip
+- content: https://www.3gpp.org/ftp//Specs/archive/28_series/28.656/28656-e10.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 28.656:Rel-14/14.1.0
+- id: 3GPP TS 28.656:REL-14/14.1.0
   type: 3GPP
   primary: true
-docnumber: TS 28.656:Rel-14/14.1.0
+docnumber: TS 28.656:REL-14/14.1.0
 date:
 - type: published
   value: '2017-06-14'
-- type: confirmed
-  value: '2012-12-21'
 contributor:
 - organization:
     name:
@@ -39,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: TOVINGER, Thomas
+      given:
+        forename:
+        - content: Thomas
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Tovinger
         language:
         - en
         script:
@@ -48,7 +53,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Ericsson LM
+        - content: Ericsson Telefonaktiebolaget LM
   role:
   - type: author
 revdate: '2017-06-14'
@@ -56,25 +61,18 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: S5
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: e
-  version3g: e
-  defunct: false
   wpm_code_2g: GSM_Release_14
   wpm_code_3g: 3G4G_Rel-14
-  freeze_meeting: SA#75
   freeze_stage1_meeting: SA#71
   freeze_stage2_meeting: SA#73
   freeze_stage3_meeting: SA#75

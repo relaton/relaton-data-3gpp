@@ -1,6 +1,6 @@
 ---
-schema-version: v1.2.3
-id: TS36.141-Rel-16-16.10.0
+schema-version: v1.2.9
+id: TS36.141-REL-16-16.10.0
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA); Base Station (BS)
     conformance testing
@@ -11,15 +11,13 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 36.141:Rel-16/16.10.0
+- id: 3GPP TS 36.141:REL-16/16.10.0
   type: 3GPP
   primary: true
-docnumber: TS 36.141:Rel-16/16.10.0
+docnumber: TS 36.141:REL-16/16.10.0
 date:
 - type: published
   value: '2021-07-07'
-- type: confirmed
-  value: '2010-12-07'
 contributor:
 - organization:
     name:
@@ -39,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: NAKAMURA, Takaharu
+      given:
+        forename:
+        - content: Takaharu
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Nakamura
         language:
         - en
         script:
@@ -48,7 +53,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Fujitsu Limited
+        - content: Fujitsu Limited..
   role:
   - type: author
 revdate: '2021-07-07'
@@ -56,25 +61,18 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: R4
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: LTE
 release:
-  version2g: g
-  version3g: g
-  defunct: false
   wpm_code_2g: GSM_Release_16
   wpm_code_3g: 3G4G5G_Rel-16
-  freeze_meeting: SA#88-e
   freeze_stage1_meeting: SA#82
   freeze_stage2_meeting: SA#84
   freeze_stage3_meeting: SA#88-e

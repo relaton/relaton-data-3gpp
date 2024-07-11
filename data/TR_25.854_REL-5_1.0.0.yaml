@@ -1,22 +1,22 @@
 ---
-schema-version: v1.2.3
-id: TR25.854-Rel-5-1.0.0
+schema-version: v1.2.9
+id: TR25.854-REL-5-1.0.0
 title:
 - content: Uplink Synchronous Transmission Scheme (USTS)
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.854/25854-100.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/25_series/25.854/25854-100.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.854:Rel-5/1.0.0
+- id: 3GPP TR 25.854:REL-5/1.0.0
   type: 3GPP
   primary: true
-docnumber: TR 25.854:Rel-5/1.0.0
+docnumber: TR 25.854:REL-5/1.0.0
 date:
 - type: published
-  value: '2001-10-01'
+  value: '2001-04-05'
 contributor:
 - organization:
     name:
@@ -36,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: KIM, Duk Kyung
+      given:
+        forename:
+        - content: Duk Kyung
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kim
         language:
         - en
         script:
@@ -45,20 +52,102 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: SK Telecom
+        - content: SK TELECOM
   role:
   - type: author
-revdate: '2001-10-01'
-biblionote:
-- content: RP-010647
-  type: comment
+revdate: '2001-04-05'
 language:
 - en
 script:
 - Latn
+relation:
+- type: adoptedAs
+  bibitem:
+    id: TR25.854-REL-5-1.0.0
+    title:
+    - content: Uplink Synchronous Transmission Scheme (USTS)
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.3gpp.org/ftp/Specs/archive/25_series/25.854/25854-100.zip
+      type: src
+    type: standard
+    docid:
+    - id: 3GPP TR 25.854:REL-5/1.0.0
+      type: 3GPP
+      primary: true
+    docnumber: TR 25.854:REL-5/1.0.0
+    date:
+    - type: published
+      value: '2001-10-01'
+    contributor:
+    - organization:
+        name:
+        - content: 3rd Generation Partnership Project
+        abbreviation:
+          content: 3GPP
+        contact:
+        - address:
+            street:
+            - c/o ETSI 650, route des Lucioles
+            - 3GPP Mobile Competence Centre
+            city: Sophia Antipolis Cedex
+            country: France
+            postcode: '06921'
+      role:
+      - type: author
+      - type: publisher
+    - person:
+        name:
+          given:
+            forename:
+            - content: Duk Kyung
+              language:
+              - en
+              script:
+              - Latn
+          surname:
+            content: Kim
+            language:
+            - en
+            script:
+            - Latn
+        affiliation:
+        - organization:
+            name:
+            - content: SK TELECOM
+      role:
+      - type: author
+    revdate: '2001-10-01'
+    language:
+    - en
+    script:
+    - Latn
+    place:
+    - Sophia Antipolis Cedex, France
+    doctype:
+      type: TR
+    editorialgroup:
+    - name: RP
+      type: prime
+    - name: R1
+      type: other
+    release:
+      wpm_code_2g: GSM_Release_5
+      wpm_code_3g: 3G_Rel-5
+      freeze_stage1_meeting: SA-#15
+      freeze_stage2_meeting: SA-#15
+      freeze_stage3_meeting: SA-#15
+      close_meeting: SA#65
+      project_start: '2000-05-01'
+      project_end: '2002-09-12'
+  description:
+    content: equivalent
+    format: text/plain
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: RP
   type: prime
@@ -66,17 +155,12 @@ editorialgroup:
   type: other
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: '5'
-  version3g: '5'
-  defunct: true
   wpm_code_2g: GSM_Release_5
   wpm_code_3g: 3G_Rel-5
-  freeze_meeting: SP-15
-  freeze_stage1_meeting: SP-15
-  freeze_stage2_meeting: SP-15
-  freeze_stage3_meeting: SP-15
-  close_meeting: SP-65
-  project_start: '2000-03-01'
+  freeze_stage1_meeting: SA-#15
+  freeze_stage2_meeting: SA-#15
+  freeze_stage3_meeting: SA-#15
+  close_meeting: SA#65
+  project_start: '2000-05-01'
   project_end: '2002-09-12'

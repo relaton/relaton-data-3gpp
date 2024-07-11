@@ -1,6 +1,6 @@
 ---
-schema-version: v1.2.3
-id: TR23.700-93-Rel-17-1.2.0
+schema-version: v1.2.9
+id: TR23.700-93-REL-17-1.2.0
 title:
 - content: Study on access traffic steering, switch and splitting support in the 5G
     System (5GS) architecture; Phase 2
@@ -11,10 +11,10 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.700-93:Rel-17/1.2.0
+- id: 3GPP TR 23.700-93:REL-17/1.2.0
   type: 3GPP
   primary: true
-docnumber: TR 23.700-93:Rel-17/1.2.0
+docnumber: TR 23.700-93:REL-17/1.2.0
 date:
 - type: published
   value: '2020-11-30'
@@ -37,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: SO, Tricci
+      given:
+        forename:
+        - content: Tricci
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: So
         language:
         - en
         script:
@@ -50,31 +57,24 @@ contributor:
   role:
   - type: author
 revdate: '2020-11-30'
-biblionote:
-- content: Updated with approved pCRs at SA WG2#142E
-  type: comment
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: S2
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 5G
 release:
-  version2g: h
-  version3g: h
-  defunct: false
   wpm_code_2g: GSM_Release_17
   wpm_code_3g: 3G4G5G_Rel-17
-  freeze_meeting: SA#95-e
   freeze_stage1_meeting: SA#86
   freeze_stage2_meeting: SA#92-e
   freeze_stage3_meeting: SA#95
   project_start: '2018-06-15'
-  project_end: '2022-03-25'
+  project_end: '2022-06-10'

@@ -1,24 +1,22 @@
 ---
-schema-version: v1.2.3
-id: TR38.873-Rel-16-0.0.1
+schema-version: v1.2.9
+id: TR38.873-REL-16-0.0.1
 title:
 - content: Time Division Duplex (TDD) operating band in Band n48
   format: text/plain
   type: main
 link:
-- content: http://ftp.3gpp.org//Specs/archive/38_series/38.873/38873-001.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.873/38873-001.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 38.873:Rel-16/0.0.1
+- id: 3GPP TR 38.873:REL-16/0.0.1
   type: 3GPP
   primary: true
-docnumber: TR 38.873:Rel-16/0.0.1
+docnumber: TR 38.873:REL-16/0.0.1
 date:
 - type: published
   value: '2019-04-01'
-- type: confirmed
-  value: '2019-06-20'
 contributor:
 - organization:
     name:
@@ -38,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: ANGELOW, Iwajlo
+      given:
+        forename:
+        - content: Iwajlo
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Angelow
         language:
         - en
         script:
@@ -47,7 +52,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Nokia Germany
+        - content: Nokia Solutions and Networks GmbH & Co. KG
   role:
   - type: author
 revdate: '2019-04-01'
@@ -57,20 +62,16 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: R4
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 5G
 release:
-  version2g: g
-  version3g: g
-  defunct: false
   wpm_code_2g: GSM_Release_16
   wpm_code_3g: 3G4G5G_Rel-16
-  freeze_meeting: SA#88-e
   freeze_stage1_meeting: SA#82
   freeze_stage2_meeting: SA#84
   freeze_stage3_meeting: SA#88-e

@@ -1,24 +1,22 @@
 ---
-schema-version: v1.2.3
-id: TR25.899-Rel-6-1.0.0
+schema-version: v1.2.9
+id: TR25.899-REL-6-1.0.0
 title:
 - content: High Speed Downlink Packet Access (HSDPA) enhancements
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.899/25899-100.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/25_series/25.899/25899-100.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.899:Rel-6/1.0.0
+- id: 3GPP TR 25.899:REL-6/1.0.0
   type: 3GPP
   primary: true
-docnumber: TR 25.899:Rel-6/1.0.0
+docnumber: TR 25.899:REL-6/1.0.0
 date:
 - type: published
   value: '2004-05-28'
-- type: confirmed
-  value: '2005-02-11'
 contributor:
 - organization:
     name:
@@ -38,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: FUKUI, Noriyuki
+      given:
+        forename:
+        - content: Noriyuki
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Fukui
         language:
         - en
         script:
@@ -47,23 +52,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Mitsubishi Electric Corp
+        - content: Mitsubishi Electric Corporation
   role:
   - type: author
 revdate: '2004-05-28'
-biblionote:
-- content: 'RP-23: v1.0.0 xpected RP-24. RP-24: approved, but some reservations over
-    conclusions.'
-  type: remark
-- content: RP-040222
-  type: comment
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: RP
   type: prime
@@ -71,17 +71,12 @@ editorialgroup:
   type: other
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: '6'
-  version3g: '6'
-  defunct: true
   wpm_code_2g: GSM_Release_6
   wpm_code_3g: 3G_Rel-6
-  freeze_meeting: SP-27
-  freeze_stage1_meeting: SP-26
-  freeze_stage2_meeting: SP-26
-  freeze_stage3_meeting: SP-27
-  close_meeting: SP-65
-  project_start: '2001-12-01'
+  freeze_stage1_meeting: SA#26
+  freeze_stage2_meeting: SA#26
+  freeze_stage3_meeting: SA#27
+  close_meeting: SA#65
+  project_start: '2000-03-28'
   project_end: '2005-09-28'

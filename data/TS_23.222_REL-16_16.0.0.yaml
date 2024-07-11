@@ -1,24 +1,22 @@
 ---
-schema-version: v1.2.3
-id: TS23.222-Rel-16-16.0.0
+schema-version: v1.2.9
+id: TS23.222-REL-16-16.0.0
 title:
 - content: Common API Framework for 3GPP Northbound APIs
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp//Specs/archive/23_series/23.222/23222-g00.zip
+- content: https://www.3gpp.org/ftp//Specs/archive/23_series/23.222/23222-g00.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.222:Rel-16/16.0.0
+- id: 3GPP TS 23.222:REL-16/16.0.0
   type: 3GPP
   primary: true
-docnumber: TS 23.222:Rel-16/16.0.0
+docnumber: TS 23.222:REL-16/16.0.0
 date:
 - type: published
   value: '2018-06-22'
-- type: confirmed
-  value: '2019-01-02'
 contributor:
 - organization:
     name:
@@ -38,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: PATTAN, Basavaraj (Basu)
+      given:
+        forename:
+        - content: Basavaraj (Basu)
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Pattan
         language:
         - en
         script:
@@ -55,27 +60,30 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: S6
   type: prime
-- name: C3, C4, S1, S2, S3, S5
+- name: S1
+  type: other
+- name: S2
+  type: other
+- name: S3
+  type: other
+- name: S5
+  type: other
+- name: C3
+  type: other
+- name: C4
   type: other
 ext:
   schema-version: v1.0.1
-radiotechnology: LTE
 release:
-  version2g: g
-  version3g: g
-  defunct: false
   wpm_code_2g: GSM_Release_16
   wpm_code_3g: 3G4G5G_Rel-16
-  freeze_meeting: SA#88-e
   freeze_stage1_meeting: SA#82
   freeze_stage2_meeting: SA#84
   freeze_stage3_meeting: SA#88-e

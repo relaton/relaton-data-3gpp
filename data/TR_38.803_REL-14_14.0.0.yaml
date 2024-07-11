@@ -1,24 +1,22 @@
 ---
-schema-version: v1.2.3
-id: TR38.803-Rel-14-14.0.0
+schema-version: v1.2.9
+id: TR38.803-REL-14-14.0.0
 title:
 - content: 'Study on new radio access technology: Radio Frequency (RF) and co-existence
     aspects'
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.803/38803-e00.zip
+- content: https://www.3gpp.org/ftp//Specs/archive/38_series/38.803/38803-e00.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 38.803:Rel-14/14.0.0
+- id: 3GPP TR 38.803:REL-14/14.0.0
   type: 3GPP
   primary: true
-docnumber: TR 38.803:Rel-14/14.0.0
+docnumber: TR 38.803:REL-14/14.0.0
 date:
 - type: published
-  value: '2017-03-31'
-- type: confirmed
   value: '2017-03-31'
 contributor:
 - organization:
@@ -39,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: UMEDA, Hiromasa
+      given:
+        forename:
+        - content: Hiromasa
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Umeda
         language:
         - en
         script:
@@ -58,20 +63,16 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: R4
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 5G
 release:
-  version2g: e
-  version3g: e
-  defunct: false
   wpm_code_2g: GSM_Release_14
   wpm_code_3g: 3G4G_Rel-14
-  freeze_meeting: SA#75
   freeze_stage1_meeting: SA#71
   freeze_stage2_meeting: SA#73
   freeze_stage3_meeting: SA#75

@@ -1,20 +1,20 @@
 ---
-schema-version: v1.2.3
-id: TR38.827-Rel-16-1.4.0
+schema-version: v1.2.9
+id: TR38.827-REL-16-1.4.0
 title:
 - content: Study on radiated metrics and test methodology for the verification of
     multi-antenna reception performance of NR User Equipment (UE)
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.827/38827-140.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.827/38827-140.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 38.827:Rel-16/1.4.0
+- id: 3GPP TR 38.827:REL-16/1.4.0
   type: 3GPP
   primary: true
-docnumber: TR 38.827:Rel-16/1.4.0
+docnumber: TR 38.827:REL-16/1.4.0
 date:
 - type: published
   value: '2020-06-15'
@@ -37,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: WANG, Ruixin
+      given:
+        forename:
+        - content: Ruixin
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Wang
         language:
         - en
         script:
@@ -46,7 +53,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: vivo Communication Technology
+        - content: vivo Mobile Communication Co., Ltd
   role:
   - type: author
 revdate: '2020-06-15'
@@ -56,20 +63,16 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: R4
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 5G
 release:
-  version2g: g
-  version3g: g
-  defunct: false
   wpm_code_2g: GSM_Release_16
   wpm_code_3g: 3G4G5G_Rel-16
-  freeze_meeting: SA#88-e
   freeze_stage1_meeting: SA#82
   freeze_stage2_meeting: SA#84
   freeze_stage3_meeting: SA#88-e

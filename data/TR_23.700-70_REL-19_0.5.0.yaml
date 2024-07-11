@@ -1,0 +1,101 @@
+---
+schema-version: v1.2.9
+id: TR23.700-70-REL-19-0.5.0
+title:
+- content: Study on architecture enhancement for Extended Reality and Media service
+    (XRM); Phase 2
+  format: text/plain
+  type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-70/23700-70-050.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 23.700-70:REL-19/0.5.0
+  type: 3GPP
+  primary: true
+docnumber: TR 23.700-70:REL-19/0.5.0
+date:
+- type: published
+  value: '2024-04-26'
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Curt
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Wong
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Meta USA
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Devaki
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Chandramouli
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Nokia Solutions and Networks GmbH & Co. KG
+  role:
+  - type: author
+revdate: '2024-04-26'
+language:
+- en
+script:
+- Latn
+place:
+- Sophia Antipolis Cedex, France
+doctype:
+  type: TR
+editorialgroup:
+- name: S2
+  type: prime
+ext:
+  schema-version: v1.0.1
+release:
+  wpm_code_2g: GSM_Release_19
+  wpm_code_3g: 3G4G5G_Rel-19
+  freeze_stage1_meeting: SA#102
+  freeze_stage2_meeting: SA#106
+  freeze_stage3_meeting: SA#109
+  project_start: '2021-06-18'
+  project_end: '2025-12-12'

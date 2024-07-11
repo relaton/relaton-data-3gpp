@@ -1,16 +1,16 @@
 ---
-schema-version: v1.2.3
-id: TS33.128-Rel-15-0.0.3
+schema-version: v1.2.9
+id: TS33.128-REL-15-0.0.3
 title:
 - content: Security; Protocol and procedures for Lawful Interception (LI); Stage 3
   format: text/plain
   type: main
 type: standard
 docid:
-- id: 3GPP TS 33.128:Rel-15/0.0.3
+- id: 3GPP TS 33.128:REL-15/0.0.3
   type: 3GPP
   primary: true
-docnumber: TS 33.128:Rel-15/0.0.3
+docnumber: TS 33.128:REL-15/0.0.3
 contributor:
 - organization:
     name:
@@ -30,8 +30,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: RAO, Nagaraja
+      given:
+        forename:
+        - content: Nagaraja
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Rao
         language:
         - en
         script:
@@ -39,35 +46,25 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Nokia Germany
+        - content: Nokia Solutions and Networks GmbH & Co. KG
   role:
   - type: author
-biblionote:
-- content: Conf call 2018-11-14
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: S3
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: f
-  version3g: f
-  defunct: false
   wpm_code_2g: GSM_Release_15
   wpm_code_3g: 3G4G5G_Rel-15
-  freeze_meeting: SA#83
   freeze_stage1_meeting: SA#76
   freeze_stage2_meeting: SA#78
   freeze_stage3_meeting: SA#83

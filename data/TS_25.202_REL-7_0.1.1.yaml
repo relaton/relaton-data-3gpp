@@ -1,6 +1,6 @@
 ---
-schema-version: v1.2.3
-id: TS25.202-Rel-7-0.1.1
+schema-version: v1.2.9
+id: TS25.202-REL-7-0.1.1
 title:
 - content: '7.68 Mcps Time Division Duplex (TDD) option; Overall description: Stage
     2'
@@ -8,13 +8,10 @@ title:
   type: main
 type: standard
 docid:
-- id: 3GPP TS 25.202:Rel-7/0.1.1
+- id: 3GPP TS 25.202:REL-7/0.1.1
   type: 3GPP
   primary: true
-docnumber: TS 25.202:Rel-7/0.1.1
-date:
-- type: confirmed
-  value: '2011-03-30'
+docnumber: TS 25.202:REL-7/0.1.1
 contributor:
 - organization:
     name:
@@ -34,8 +31,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: MEDINA, Gerardo
+      given:
+        forename:
+        - content: Gerardo
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Medina
         language:
         - en
         script:
@@ -50,12 +54,10 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: RP
   type: prime
@@ -63,17 +65,12 @@ editorialgroup:
   type: other
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: '7'
-  version3g: '7'
-  defunct: true
   wpm_code_2g: GSM_Release_7
   wpm_code_3g: 3G_Rel-7
-  freeze_meeting: SP-35
-  freeze_stage1_meeting: SP-29
-  freeze_stage2_meeting: SP-33
-  freeze_stage3_meeting: SP-35
-  close_meeting: SP-65
-  project_start: '2003-12-01'
+  freeze_stage1_meeting: SA#29
+  freeze_stage2_meeting: SA#33
+  freeze_stage3_meeting: SA#35
+  close_meeting: SA#65
+  project_start: '2003-10-06'
   project_end: '2008-03-13'

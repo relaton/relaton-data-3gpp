@@ -1,25 +1,23 @@
 ---
-schema-version: v1.2.3
-id: TS22.104-Rel-16-0.3.0
+schema-version: v1.2.9
+id: TS22.104-REL-16-0.3.0
 title:
 - content: Service requirements for cyber-physical control applications in vertical
     domains
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.104/22104-030.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/22_series/22.104/22104-030.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 22.104:Rel-16/0.3.0
+- id: 3GPP TS 22.104:REL-16/0.3.0
   type: 3GPP
   primary: true
-docnumber: TS 22.104:Rel-16/0.3.0
+docnumber: TS 22.104:REL-16/0.3.0
 date:
 - type: published
   value: '2018-11-28'
-- type: confirmed
-  value: '2019-01-02'
 contributor:
 - organization:
     name:
@@ -39,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: WALEWSKI, Joachim
+      given:
+        forename:
+        - content: Joachim
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Walewski
         language:
         - en
         script:
@@ -56,25 +61,18 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: S1
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 5G
 release:
-  version2g: g
-  version3g: g
-  defunct: false
   wpm_code_2g: GSM_Release_16
   wpm_code_3g: 3G4G5G_Rel-16
-  freeze_meeting: SA#88-e
   freeze_stage1_meeting: SA#82
   freeze_stage2_meeting: SA#84
   freeze_stage3_meeting: SA#88-e

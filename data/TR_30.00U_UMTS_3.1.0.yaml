@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TR30.00U-UMTS-3.1.0
 title:
 - content: SMG - UMTS Work programme
@@ -30,8 +30,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: SAMUKIC, Antun
+      given:
+        forename:
+        - content: Antun
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Samukic
         language:
         - en
         script:
@@ -39,37 +46,23 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Ericsson LM
+        - content: Ericsson Telefonaktiebolaget LM
   role:
   - type: author
-biblionote:
-- content: "#21: 3.0.0  #22: 3.1.0  #23: 3.2.0  #24: 3.3.0  #25: 3.4.0  #26: 3.5.0
-    \ #27: 3.6.1"
-  type: remark
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
-editorialgroup:
-- name: "-"
-  type: prime
-- name: SMG12
-  type: former
+doctype:
+  type: TR
 ext:
   schema-version: v1.0.1
 release:
-  version2g: '3'
-  version3g: '3'
-  defunct: true
-  freeze_meeting: SMG-28
-  freeze_stage1_meeting: SMG-28
-  freeze_stage2_meeting: SMG-28
-  freeze_stage3_meeting: SMG-28
-  close_meeting: SP-28
+  freeze_stage1_meeting: SMG-#28
+  freeze_stage2_meeting: SMG-#28
+  freeze_stage3_meeting: SMG-#28
+  close_meeting: SA#28
+  project_start: '1994-08-18'
   project_end: '1999-02-12'

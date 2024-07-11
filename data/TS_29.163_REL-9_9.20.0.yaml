@@ -1,27 +1,23 @@
 ---
-schema-version: v1.2.3
-id: TS29.163-Rel-9-9.20.0
+schema-version: v1.2.9
+id: TS29.163-REL-9-9.20.0
 title:
 - content: Interworking between the IP Multimedia (IM) Core Network (CN) subsystem
     and Circuit Switched (CS) networks
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.163/29163-9k0.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/29_series/29.163/29163-9k0.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 29.163:Rel-9/9.20.0
+- id: 3GPP TS 29.163:REL-9/9.20.0
   type: 3GPP
   primary: true
-docnumber: TS 29.163:Rel-9/9.20.0
+docnumber: TS 29.163:REL-9/9.20.0
 date:
-- type: created
-  value: '2015-03-20'
 - type: published
   value: '2015-03-20'
-- type: confirmed
-  value: '2004-09-28'
 contributor:
 - organization:
     name:
@@ -41,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: BELLING, Thomas
+      given:
+        forename:
+        - content: Thomas
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Belling
         language:
         - en
         script:
@@ -50,7 +53,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Nokia Networks
+        - content: Nokia Solutions and Networks GmbH & Co. KG
   role:
   - type: author
 revdate: '2015-03-20'
@@ -58,28 +61,20 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: C3
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
-common-ims-spec: true
 release:
-  version2g: '9'
-  version3g: '9'
-  defunct: false
   wpm_code_2g: GSM_Release_9
   wpm_code_3g: 3G_Rel-9
-  freeze_meeting: SP-46
-  freeze_stage1_meeting: SP-42
-  freeze_stage2_meeting: SP-44
-  freeze_stage3_meeting: SP-46
-  project_start: '2007-06-01'
+  freeze_stage1_meeting: SA#42
+  freeze_stage2_meeting: SA#44
+  freeze_stage3_meeting: SA#46
+  project_start: '2008-03-06'
   project_end: '2010-03-25'

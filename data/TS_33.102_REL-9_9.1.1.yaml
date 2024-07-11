@@ -1,19 +1,16 @@
 ---
-schema-version: v1.2.3
-id: TS33.102-Rel-9-9.1.1
+schema-version: v1.2.9
+id: TS33.102-REL-9-9.1.1
 title:
 - content: 3G security; Security architecture
   format: text/plain
   type: main
 type: standard
 docid:
-- id: 3GPP TS 33.102:Rel-9/9.1.1
+- id: 3GPP TS 33.102:REL-9/9.1.1
   type: 3GPP
   primary: true
-docnumber: TS 33.102:Rel-9/9.1.1
-date:
-- type: confirmed
-  value: '2005-12-19'
+docnumber: TS 33.102:REL-9/9.1.1
 contributor:
 - organization:
     name:
@@ -33,8 +30,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: JERICHOW, Anja
+      given:
+        forename:
+        - content: Anja
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Jerichow
         language:
         - en
         script:
@@ -42,43 +46,27 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Nokia Germany
+        - content: Nokia Solutions and Networks GmbH & Co. KG
   role:
   - type: author
-biblionote:
-- content: accepts rev marks
-  type: comment
 language:
 - en
 script:
 - Latn
-abstract:
-- content: Provides a specification of all security mechanisms and protocols, except
-    algorithms.
-  format: text/plain
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: S3
   type: prime
-- name: S3
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '9'
-  version3g: '9'
-  defunct: false
   wpm_code_2g: GSM_Release_9
   wpm_code_3g: 3G_Rel-9
-  freeze_meeting: SP-46
-  freeze_stage1_meeting: SP-42
-  freeze_stage2_meeting: SP-44
-  freeze_stage3_meeting: SP-46
-  project_start: '2007-06-01'
+  freeze_stage1_meeting: SA#42
+  freeze_stage2_meeting: SA#44
+  freeze_stage3_meeting: SA#46
+  project_start: '2008-03-06'
   project_end: '2010-03-25'

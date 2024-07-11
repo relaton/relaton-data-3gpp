@@ -1,20 +1,23 @@
 ---
-schema-version: v1.2.3
-id: TS37.320-Rel-17-17.2.0
+schema-version: v1.2.9
+id: TS37.320-REL-17-17.2.0
 title:
 - content: Radio measurement collection for Minimization of Drive Tests (MDT); Overall
     description; Stage 2
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/37_series/37.320/37320-h20.zip
+  type: src
 type: standard
 docid:
-- id: 3GPP TS 37.320:Rel-17/17.2.0
+- id: 3GPP TS 37.320:REL-17/17.2.0
   type: 3GPP
   primary: true
-docnumber: TS 37.320:Rel-17/17.2.0
+docnumber: TS 37.320:REL-17/17.2.0
 date:
-- type: confirmed
-  value: '2010-04-16'
+- type: published
+  value: '2023-01-13'
 contributor:
 - organization:
     name:
@@ -34,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: TOMALA, Malgorzata
+      given:
+        forename:
+        - content: Malgorzata
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Tomala
         language:
         - en
         script:
@@ -43,34 +53,28 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Nokia Networks
+        - content: Nokia Solutions and Networks GmbH & Co. KG
   role:
   - type: author
+revdate: '2023-01-13'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: R2
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: h
-  version3g: h
-  defunct: false
   wpm_code_2g: GSM_Release_17
   wpm_code_3g: 3G4G5G_Rel-17
-  freeze_meeting: SA#95-e
   freeze_stage1_meeting: SA#86
   freeze_stage2_meeting: SA#92-e
   freeze_stage3_meeting: SA#95
   project_start: '2018-06-15'
-  project_end: '2022-03-25'
+  project_end: '2022-06-10'

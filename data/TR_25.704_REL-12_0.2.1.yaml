@@ -1,26 +1,22 @@
 ---
-schema-version: v1.2.3
-id: TR25.704-Rel-12-0.2.1
+schema-version: v1.2.9
+id: TR25.704-REL-12-0.2.1
 title:
 - content: Study on enhanced broadcast of system information
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.704/25704-021.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/25_series/25.704/25704-021.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.704:Rel-12/0.2.1
+- id: 3GPP TR 25.704:REL-12/0.2.1
   type: 3GPP
   primary: true
-docnumber: TR 25.704:Rel-12/0.2.1
+docnumber: TR 25.704:REL-12/0.2.1
 date:
-- type: created
-  value: '2014-02-26'
 - type: published
   value: '2014-02-26'
-- type: confirmed
-  value: '2014-01-07'
 contributor:
 - organization:
     name:
@@ -40,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: MARTIN, Van der zee
+      given:
+        forename:
+        - content: Van der zee
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Martin
         language:
         - en
         script:
@@ -53,16 +56,14 @@ contributor:
   role:
   - type: author
 revdate: '2014-02-26'
-biblionote:
-- content: R2-134544
-  type: comment
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: RP
   type: prime
@@ -70,16 +71,11 @@ editorialgroup:
   type: other
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: c
-  version3g: c
-  defunct: false
   wpm_code_2g: GSM_Release_12
   wpm_code_3g: 3G4G_Rel-12
-  freeze_meeting: SP-65
-  freeze_stage1_meeting: SP-59
-  freeze_stage2_meeting: SP-62
-  freeze_stage3_meeting: SP-65
-  project_start: '2010-06-01'
+  freeze_stage1_meeting: SA#59
+  freeze_stage2_meeting: SA#62
+  freeze_stage3_meeting: SA#65
+  project_start: '2011-06-26'
   project_end: '2015-03-13'

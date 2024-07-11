@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TS22.00U-UMTS-1.0.0
 title:
 - content: UMTS Phase 1
@@ -30,8 +30,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: VERRIER, David
+      given:
+        forename:
+        - content: David
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Verrier
         language:
         - en
         script:
@@ -46,26 +53,16 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
-editorialgroup:
-- name: "-"
-  type: prime
-- name: SMG01
-  type: former
+doctype:
+  type: TS
 ext:
   schema-version: v1.0.1
 release:
-  version2g: '3'
-  version3g: '3'
-  defunct: true
-  freeze_meeting: SMG-28
-  freeze_stage1_meeting: SMG-28
-  freeze_stage2_meeting: SMG-28
-  freeze_stage3_meeting: SMG-28
-  close_meeting: SP-28
+  freeze_stage1_meeting: SMG-#28
+  freeze_stage2_meeting: SMG-#28
+  freeze_stage3_meeting: SMG-#28
+  close_meeting: SA#28
+  project_start: '1994-08-18'
   project_end: '1999-02-12'

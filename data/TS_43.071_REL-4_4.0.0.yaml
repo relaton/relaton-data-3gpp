@@ -1,19 +1,16 @@
 ---
-schema-version: v1.2.3
-id: TS43.071-Rel-4-4.0.0
+schema-version: v1.2.9
+id: TS43.071-REL-4-4.0.0
 title:
 - content: Location Services (LCS); Functional description; Stage 2 (GSM)
   format: text/plain
   type: main
 type: standard
 docid:
-- id: 3GPP TS 43.071:Rel-4/4.0.0
+- id: 3GPP TS 43.071:REL-4/4.0.0
   type: 3GPP
   primary: true
-docnumber: TS 43.071:Rel-4/4.0.0
-date:
-- type: confirmed
-  value: '2002-09-24'
+docnumber: TS 43.071:REL-4/4.0.0
 contributor:
 - organization:
     name:
@@ -33,8 +30,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: BROOK, Richard
+      given:
+        forename:
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Brook
         language:
         - en
         script:
@@ -45,37 +49,25 @@ contributor:
         - content: Waiting for new Company
   role:
   - type: author
-biblionote:
-- content: Superseded by 23.271 Rel-4.
-  type: remark
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: S2
   type: prime
-- name: S2  /  SMG12
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '4'
-  version3g: '4'
-  defunct: true
   wpm_code_2g: GSM_Release_4
   wpm_code_3g: 3G_Rel-4
-  freeze_meeting: SP-11
-  freeze_stage1_meeting: SP-11
-  freeze_stage2_meeting: SP-11
-  freeze_stage3_meeting: SP-11
-  close_meeting: SP-65
-  project_start: '1999-12-01'
+  freeze_stage1_meeting: SA-#11
+  freeze_stage2_meeting: SA-#11
+  freeze_stage3_meeting: SA-#11
+  close_meeting: SA#65
+  project_start: '1998-08-01'
   project_end: '2001-06-21'

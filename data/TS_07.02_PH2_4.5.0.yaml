@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TS07.02-Ph2-4.5.0
 title:
 - content: Terminal Adaptation Functions (TAF) for Services Using Asynchronous Bearer
@@ -7,7 +7,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/07_series/07.02/0702-450.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/07_series/07.02/0702-450.zip
   type: src
 type: standard
 docid:
@@ -37,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: BIONDIC, Nevenka
+      given:
+        forename:
+        - content: Nevenka
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Biondic
         language:
         - en
         script:
@@ -46,38 +53,24 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Ericsson LM
+        - content: Ericsson Telefonaktiebolaget LM
   role:
   - type: author
 revdate: '1994-07-01'
-biblionote:
-- content: "#7: 4.4.0   #9: 4.4.2    #11: 4.5.0"
-  type: remark
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: C3
   type: prime
-- name: N3 / SMG03D
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '4'
-  version3g: "-"
-  defunct: true
   wpm_code_2g: GSM_PH2
-  freeze_meeting: smg-11b
-  freeze_stage1_meeting: SMG-11b
-  freeze_stage2_meeting: SMG-11b
-  freeze_stage3_meeting: SMG-11b
-  close_meeting: SP-25
+  close_meeting: SA#25
+  project_start: '1993-03-25'

@@ -1,19 +1,19 @@
 ---
-schema-version: v1.2.3
-id: TR25.882-Rel-5-1.1.0
+schema-version: v1.2.9
+id: TR25.882-REL-5-1.1.0
 title:
 - content: 1,28 Mcps TDD option base station classification
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.882/25882-110.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/25_series/25.882/25882-110.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.882:Rel-5/1.1.0
+- id: 3GPP TR 25.882:REL-5/1.1.0
   type: 3GPP
   primary: true
-docnumber: TR 25.882:Rel-5/1.1.0
+docnumber: TR 25.882:REL-5/1.1.0
 date:
 - type: published
   value: '2002-01-02'
@@ -36,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: MEYER, Juergen
+      given:
+        forename:
+        - content: Juergen
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Meyer
         language:
         - en
         script:
@@ -49,32 +56,25 @@ contributor:
   role:
   - type: author
 revdate: '2002-01-02'
-biblionote:
-- content: RP-010810
-  type: comment
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: R4
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: '5'
-  version3g: '5'
-  defunct: true
   wpm_code_2g: GSM_Release_5
   wpm_code_3g: 3G_Rel-5
-  freeze_meeting: SP-15
-  freeze_stage1_meeting: SP-15
-  freeze_stage2_meeting: SP-15
-  freeze_stage3_meeting: SP-15
-  close_meeting: SP-65
-  project_start: '2000-03-01'
+  freeze_stage1_meeting: SA-#15
+  freeze_stage2_meeting: SA-#15
+  freeze_stage3_meeting: SA-#15
+  close_meeting: SA#65
+  project_start: '2000-05-01'
   project_end: '2002-09-12'

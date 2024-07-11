@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TR03.39-Ph2-1.0.0
 title:
 - content: Digital Cellular Telecommunications System (Phase 2) Interface Protocols
@@ -32,8 +32,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: HARRIS, Ian
+      given:
+        forename:
+        - content: Ian
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Harris
         language:
         - en
         script:
@@ -44,34 +51,20 @@ contributor:
         - content: Waiting for new Company
   role:
   - type: author
-biblionote:
-- content: "#16: 4.0.0 TSG#9:withdrawn cos contains misleading information/references"
-  type: remark
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: T2
   type: prime
-- name: T2  /  SMG04
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '4'
-  version3g: "-"
-  defunct: true
   wpm_code_2g: GSM_PH2
-  freeze_meeting: smg-11b
-  freeze_stage1_meeting: SMG-11b
-  freeze_stage2_meeting: SMG-11b
-  freeze_stage3_meeting: SMG-11b
-  close_meeting: SP-25
+  close_meeting: SA#25
+  project_start: '1993-03-25'

@@ -1,6 +1,6 @@
 ---
-schema-version: v1.2.3
-id: TR25.871-Rel-11-0.1.1
+schema-version: v1.2.9
+id: TR25.871-REL-11-0.1.1
 title:
 - content: Uplink Multiple Input Multiple Output (MIMO) for High Speed Packet Access
     (HSPA)
@@ -8,13 +8,10 @@ title:
   type: main
 type: standard
 docid:
-- id: 3GPP TR 25.871:Rel-11/0.1.1
+- id: 3GPP TR 25.871:REL-11/0.1.1
   type: 3GPP
   primary: true
-docnumber: TR 25.871:Rel-11/0.1.1
-date:
-- type: confirmed
-  value: '2011-09-27'
+docnumber: TR 25.871:REL-11/0.1.1
 contributor:
 - organization:
     name:
@@ -34,8 +31,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: SAMBHWANI, Sharad
+      given:
+        forename:
+        - content: Sharad
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Sambhwani
         language:
         - en
         script:
@@ -52,7 +56,8 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: RP
   type: prime
@@ -60,16 +65,11 @@ editorialgroup:
   type: other
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: b
-  version3g: b
-  defunct: false
   wpm_code_2g: GSM_Release_11
   wpm_code_3g: 3G4G_Rel-11
-  freeze_meeting: SP-57
-  freeze_stage1_meeting: SP-53
-  freeze_stage2_meeting: SP-55
-  freeze_stage3_meeting: SP-57
-  project_start: '2009-03-01'
+  freeze_stage1_meeting: SA#53
+  freeze_stage2_meeting: SA#55
+  freeze_stage3_meeting: SA#57
+  project_start: '2010-01-22'
   project_end: '2013-03-06'

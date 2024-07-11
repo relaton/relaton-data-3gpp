@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TR30.20U-UMTS-2.0.0
 title:
 - content: Technical characteristics, capabilities and limitations of mobile satellite
@@ -31,8 +31,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: RAPELI, Juha
+      given:
+        forename:
+        - content: Juha
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Rapeli
         language:
         - en
         script:
@@ -43,35 +50,20 @@ contributor:
         - content: PHILIPS CONSUMER COMMUNICATION
   role:
   - type: author
-biblionote:
-- content: "#24: 3.1.0"
-  type: remark
-- content: 1997-06
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
-editorialgroup:
-- name: "-"
-  type: prime
-- name: SMG
-  type: former
+doctype:
+  type: TR
 ext:
   schema-version: v1.0.1
 release:
-  version2g: '3'
-  version3g: '3'
-  defunct: true
-  freeze_meeting: SMG-28
-  freeze_stage1_meeting: SMG-28
-  freeze_stage2_meeting: SMG-28
-  freeze_stage3_meeting: SMG-28
-  close_meeting: SP-28
+  freeze_stage1_meeting: SMG-#28
+  freeze_stage2_meeting: SMG-#28
+  freeze_stage3_meeting: SMG-#28
+  close_meeting: SA#28
+  project_start: '1994-08-18'
   project_end: '1999-02-12'

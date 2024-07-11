@@ -1,19 +1,16 @@
 ---
-schema-version: v1.2.3
-id: TS22.179-Rel-13-0.2.0
+schema-version: v1.2.9
+id: TS22.179-REL-13-0.2.0
 title:
 - content: Mission Critical Push to Talk (MCPTT); Stage 1
   format: text/plain
   type: main
 type: standard
 docid:
-- id: 3GPP TS 22.179:Rel-13/0.2.0
+- id: 3GPP TS 22.179:REL-13/0.2.0
   type: 3GPP
   primary: true
-docnumber: TS 22.179:Rel-13/0.2.0
-date:
-- type: confirmed
-  value: '2014-12-19'
+docnumber: TS 22.179:REL-13/0.2.0
 contributor:
 - organization:
     name:
@@ -33,8 +30,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: CYPHER, David
+      given:
+        forename:
+        - content: David
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Cypher
         language:
         - en
         script:
@@ -49,27 +53,20 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: S1
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: LTE
 release:
-  version2g: d
-  version3g: d
-  defunct: false
   wpm_code_2g: GSM_Release_13
   wpm_code_3g: 3G4G_Rel-13
-  freeze_meeting: SP-70
-  freeze_stage1_meeting: SP-65
-  freeze_stage2_meeting: SP-68
-  freeze_stage3_meeting: SP-70
-  project_start: '2012-12-30'
+  freeze_stage1_meeting: SA#65
+  freeze_stage2_meeting: SA#68
+  freeze_stage3_meeting: SA#70
+  project_start: '2012-09-30'
   project_end: '2016-03-11'

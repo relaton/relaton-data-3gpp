@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TS04.12-Ph2-4.3.0
 title:
 - content: Short Message Service Cell Broadcast (SMSCB) Support on the Mobile Radio
@@ -7,7 +7,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/04_series/04.12/0412-430.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/04_series/04.12/0412-430.zip
   type: src
 type: standard
 docid:
@@ -37,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: ANDERSEN, Niels Peter Skov
+      given:
+        forename:
+        - content: Niels Peter Skov
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Andersen
         language:
         - en
         script:
@@ -50,36 +57,22 @@ contributor:
   role:
   - type: author
 revdate: '1994-07-01'
-biblionote:
-- content: "#7: 4.1.1   #10: 4.2.0  #11: 4.3.0   #12: 4.4.0   #16: 4.6.0"
-  type: remark
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
-- name: G2
+- name: R6
   type: prime
 - name: CP
   type: other
-- name: SMG02  /  SMG04
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '4'
-  version3g: "-"
-  defunct: true
   wpm_code_2g: GSM_PH2
-  freeze_meeting: smg-11b
-  freeze_stage1_meeting: SMG-11b
-  freeze_stage2_meeting: SMG-11b
-  freeze_stage3_meeting: SMG-11b
-  close_meeting: SP-25
+  close_meeting: SA#25
+  project_start: '1993-03-25'

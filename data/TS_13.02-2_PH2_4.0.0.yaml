@@ -1,12 +1,12 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TS13.02-2-Ph2-4.0.0
 title:
 - content: Attachment requirements (CDCS 1800); Telephony
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/13_series/13.02-2/1302-2-400.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/13_series/13.02-2/1302-2-400.zip
   type: src
 type: standard
 docid:
@@ -34,30 +34,39 @@ contributor:
   role:
   - type: author
   - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Jean-Jacques
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Davidian
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: DoCoMo Europe S.A.
+  role:
+  - type: author
 revdate: '1999-07-19'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
-editorialgroup:
-- name: MSG-GSM
-  type: prime
+doctype:
+  type: TS
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '4'
-  version3g: "-"
-  defunct: true
   wpm_code_2g: GSM_PH2
-  freeze_meeting: smg-11b
-  freeze_stage1_meeting: SMG-11b
-  freeze_stage2_meeting: SMG-11b
-  freeze_stage3_meeting: SMG-11b
-  close_meeting: SP-25
+  close_meeting: SA#25
+  project_start: '1993-03-25'

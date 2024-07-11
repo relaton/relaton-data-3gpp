@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TS09.12-Ph2-4.2.2
 title:
 - content: 'Application of ISDN User Part (ISUP) Version 2 for the Integrated Services
@@ -8,7 +8,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/09_series/09.12/0912-422.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/09_series/09.12/0912-422.zip
   type: src
 type: standard
 docid:
@@ -19,8 +19,6 @@ docnumber: TS 09.12:Ph2/4.2.2
 date:
 - type: published
   value: '1999-05-26'
-- type: confirmed
-  value: '2003-11-25'
 contributor:
 - organization:
     name:
@@ -40,8 +38,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: HÄNDIG, Peter
+      given:
+        forename:
+        - content: Peter
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Händig
         language:
         - en
         script:
@@ -53,37 +58,20 @@ contributor:
   role:
   - type: author
 revdate: '1999-05-26'
-biblionote:
-- content: 'smg-22: 4.2.1 - SPAN1 prime resp., SMG 2nd resp. - different numbering
-    scheme.'
-  type: remark
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
-- name: TISPAN
-  type: prime
 - name: C4
   type: other
-- name: SPAN3  /  N4  /  SMG03?
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '4'
-  version3g: "-"
-  defunct: true
   wpm_code_2g: GSM_PH2
-  freeze_meeting: smg-11b
-  freeze_stage1_meeting: SMG-11b
-  freeze_stage2_meeting: SMG-11b
-  freeze_stage3_meeting: SMG-11b
-  close_meeting: SP-25
+  close_meeting: SA#25
+  project_start: '1993-03-25'

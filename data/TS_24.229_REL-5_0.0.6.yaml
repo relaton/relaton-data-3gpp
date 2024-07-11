@@ -1,6 +1,6 @@
 ---
-schema-version: v1.2.3
-id: TS24.229-Rel-5-0.0.6
+schema-version: v1.2.9
+id: TS24.229-REL-5-0.0.6
 title:
 - content: IP multimedia call control protocol based on Session Initiation Protocol
     (SIP) and Session Description Protocol (SDP); Stage 3
@@ -8,13 +8,10 @@ title:
   type: main
 type: standard
 docid:
-- id: 3GPP TS 24.229:Rel-5/0.0.6
+- id: 3GPP TS 24.229:REL-5/0.0.6
   type: 3GPP
   primary: true
-docnumber: TS 24.229:Rel-5/0.0.6
-date:
-- type: confirmed
-  value: '2010-03-31'
+docnumber: TS 24.229:REL-5/0.0.6
 contributor:
 - organization:
     name:
@@ -34,8 +31,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: LEIS, Peter
+      given:
+        forename:
+        - content: Peter
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Leis
         language:
         - en
         script:
@@ -43,36 +47,28 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Nokia Networks
+        - content: Nokia Solutions and Networks GmbH & Co. KG
   role:
   - type: author
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: C1
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
-common-ims-spec: true
 release:
-  version2g: '5'
-  version3g: '5'
-  defunct: true
   wpm_code_2g: GSM_Release_5
   wpm_code_3g: 3G_Rel-5
-  freeze_meeting: SP-15
-  freeze_stage1_meeting: SP-15
-  freeze_stage2_meeting: SP-15
-  freeze_stage3_meeting: SP-15
-  close_meeting: SP-65
-  project_start: '2000-03-01'
+  freeze_stage1_meeting: SA-#15
+  freeze_stage2_meeting: SA-#15
+  freeze_stage3_meeting: SA-#15
+  close_meeting: SA#65
+  project_start: '2000-05-01'
   project_end: '2002-09-12'

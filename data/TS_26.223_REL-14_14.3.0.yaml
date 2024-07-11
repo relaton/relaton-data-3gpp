@@ -1,6 +1,6 @@
 ---
-schema-version: v1.2.3
-id: TS26.223-Rel-14-14.3.0
+schema-version: v1.2.9
+id: TS26.223-REL-14-14.3.0
 title:
 - content: Telepresence using the IP Multimedia Subsystem (IMS); Media handling and
     interaction
@@ -11,10 +11,10 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 26.223:Rel-14/14.3.0
+- id: 3GPP TS 26.223:REL-14/14.3.0
   type: 3GPP
   primary: true
-docnumber: TS 26.223:Rel-14/14.3.0
+docnumber: TS 26.223:REL-14/14.3.0
 date:
 - type: published
   value: '2021-04-09'
@@ -37,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: CURCIO, Igor
+      given:
+        forename:
+        - content: Igor
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Curcio
         language:
         - en
         script:
@@ -54,25 +61,18 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: S4
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: e
-  version3g: e
-  defunct: false
   wpm_code_2g: GSM_Release_14
   wpm_code_3g: 3G4G_Rel-14
-  freeze_meeting: SA#75
   freeze_stage1_meeting: SA#71
   freeze_stage2_meeting: SA#73
   freeze_stage3_meeting: SA#75

@@ -1,6 +1,6 @@
 ---
-schema-version: v1.2.3
-id: TR37.825-Rel-16-1.0.0
+schema-version: v1.2.9
+id: TR37.825-REL-16-1.0.0
 title:
 - content: High power User Equipment (UE) (power class 2) for E-UTRA (Evolved Universal
     Terrestrial Radio Access) - NR Dual Connectivity (EN-DC) (1 LTE TDD band + 1 NR
@@ -8,14 +8,14 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.825/37825-100.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/37_series/37.825/37825-100.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 37.825:Rel-16/1.0.0
+- id: 3GPP TR 37.825:REL-16/1.0.0
   type: 3GPP
   primary: true
-docnumber: TR 37.825:Rel-16/1.0.0
+docnumber: TR 37.825:REL-16/1.0.0
 date:
 - type: published
   value: '2019-12-02'
@@ -38,8 +38,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: SHAO, Zhe
+      given:
+        forename:
+        - content: Zhe
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Shao
         language:
         - en
         script:
@@ -47,7 +54,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: China Mobile Group Device Co.
+        - content: China Mobile Group Device Co., Ltd
   role:
   - type: author
 revdate: '2019-12-02'
@@ -57,20 +64,16 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: R4
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: LTE
 release:
-  version2g: g
-  version3g: g
-  defunct: false
   wpm_code_2g: GSM_Release_16
   wpm_code_3g: 3G4G5G_Rel-16
-  freeze_meeting: SA#88-e
   freeze_stage1_meeting: SA#82
   freeze_stage2_meeting: SA#84
   freeze_stage3_meeting: SA#88-e

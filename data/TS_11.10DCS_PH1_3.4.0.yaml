@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.9
+id: TS11.10dcs-Ph1-3.4.0
+title:
+- content: Mobile Station Conformity Specification (DCS 1800)
+  format: text/plain
+  type: main
+type: standard
+docid:
+- id: 3GPP TS 11.10dcs:Ph1/3.4.0
+  type: 3GPP
+  primary: true
+docnumber: TS 11.10dcs:Ph1/3.4.0
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Walter
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Legrand
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Airbus Group SAS
+  role:
+  - type: author
+language:
+- en
+script:
+- Latn
+place:
+- Sophia Antipolis Cedex, France
+doctype:
+  type: TS
+editorialgroup:
+- name: R5
+  type: prime
+- name: R5
+  type: other
+- name: S1
+  type: other
+- name: CP
+  type: other
+- name: CP
+  type: other
+ext:
+  schema-version: v1.0.1
+release:
+  wpm_code_2g: GSM_PH1
+  close_meeting: SA#25
+  project_start: '1992-12-03'

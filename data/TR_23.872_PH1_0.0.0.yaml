@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TR23.872-Ph1-0.0.0
 title:
 - content: Study on architecture of IP Multimedia Subsystem (IMS) based Customized
@@ -12,9 +12,6 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 23.872:Ph1/0.0.0
-date:
-- type: confirmed
-  value: '2008-06-03'
 contributor:
 - organization:
     name:
@@ -34,8 +31,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: WANG, Jing
+      given:
+        forename:
+        - content: Jing
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Wang
         language:
         - en
         script:
@@ -43,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: China Mobile Com. Corporation
+        - content: China Mobile Communications Corporation (CMCC)
   role:
   - type: author
 language:
@@ -52,20 +56,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: S2
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '3'
-  version3g: "-"
-  defunct: true
   wpm_code_2g: GSM_PH1
-  freeze_meeting: gsm-25b
-  freeze_stage1_meeting: GSM-25b
-  freeze_stage2_meeting: GSM-25b
-  freeze_stage3_meeting: GSM-25b
-  close_meeting: SMG-17
+  close_meeting: SA#25
+  project_start: '1982-12-07'

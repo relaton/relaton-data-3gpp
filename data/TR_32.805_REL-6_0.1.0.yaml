@@ -1,19 +1,19 @@
 ---
-schema-version: v1.2.3
-id: TR32.805-Rel-6-0.1.0
+schema-version: v1.2.9
+id: TR32.805-REL-6-0.1.0
 title:
 - content: Telecommunication management; Process guide; Backward compatibility recommendations
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.805/32805-010.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/32_series/32.805/32805-010.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 32.805:Rel-6/0.1.0
+- id: 3GPP TR 32.805:REL-6/0.1.0
   type: 3GPP
   primary: true
-docnumber: TR 32.805:Rel-6/0.1.0
+docnumber: TR 32.805:REL-6/0.1.0
 date:
 - type: published
   value: '2004-11-26'
@@ -36,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: TSE, Edwin
+      given:
+        forename:
+        - content: Edwin
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Tse
         language:
         - en
         script:
@@ -45,36 +52,29 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Ericsson LM
+        - content: Ericsson Telefonaktiebolaget LM
   role:
   - type: author
 revdate: '2004-11-26'
-biblionote:
-- content: '2006-05-22: Clarified that this TR will not be propagated to Rel-7.'
-  type: remark
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: S5
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '6'
-  version3g: '6'
-  defunct: true
   wpm_code_2g: GSM_Release_6
   wpm_code_3g: 3G_Rel-6
-  freeze_meeting: SP-27
-  freeze_stage1_meeting: SP-26
-  freeze_stage2_meeting: SP-26
-  freeze_stage3_meeting: SP-27
-  close_meeting: SP-65
-  project_start: '2001-12-01'
+  freeze_stage1_meeting: SA#26
+  freeze_stage2_meeting: SA#26
+  freeze_stage3_meeting: SA#27
+  close_meeting: SA#65
+  project_start: '2000-03-28'
   project_end: '2005-09-28'

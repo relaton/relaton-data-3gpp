@@ -1,6 +1,6 @@
 ---
-schema-version: v1.2.3
-id: TR22.865-Rel-19-0.0.0
+schema-version: v1.2.9
+id: TR22.865-REL-19-0.0.0
 title:
 - content: Study on satellite access - Phase 3
   format: text/plain
@@ -10,10 +10,10 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.865:Rel-19/0.0.0
+- id: 3GPP TR 22.865:REL-19/0.0.0
   type: 3GPP
   primary: true
-docnumber: TR 22.865:Rel-19/0.0.0
+docnumber: TR 22.865:REL-19/0.0.0
 date:
 - type: published
   value: '2022-08-12'
@@ -36,8 +36,36 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: BERISOT, Thierry
+      given:
+        forename:
+        - content: XU
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: XIA
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: China Telecomunication Corporation
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Thierry
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Berisot
         language:
         - en
         script:
@@ -55,17 +83,18 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: S1
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 5G
 release:
-  version2g: j
-  version3g: j
-  defunct: false
   wpm_code_2g: GSM_Release_19
   wpm_code_3g: 3G4G5G_Rel-19
+  freeze_stage1_meeting: SA#102
+  freeze_stage2_meeting: SA#106
+  freeze_stage3_meeting: SA#109
   project_start: '2021-06-18'
+  project_end: '2025-12-12'

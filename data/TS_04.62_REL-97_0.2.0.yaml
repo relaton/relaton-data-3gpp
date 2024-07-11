@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: TS04.62-REL-97-0.2.0
+title:
+- content: General Packet Radio Service (GPRS); Point-to-multipoint group call; Stage
+    3
+  format: text/plain
+  type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/04_series/04.62/0462-020.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 04.62:REL-97/0.2.0
+  type: 3GPP
+  primary: true
+docnumber: TS 04.62:REL-97/0.2.0
+date:
+- type: published
+  value: '1996-11-14'
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Leske
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: SCANDEW PTY Ltd
+  role:
+  - type: author
+revdate: '1996-11-14'
+language:
+- en
+script:
+- Latn
+place:
+- Sophia Antipolis Cedex, France
+doctype:
+  type: TS
+ext:
+  schema-version: v1.0.1
+release:
+  wpm_code_2g: GSM_Release_97
+  close_meeting: SA#28
+  project_start: '1996-04-15'

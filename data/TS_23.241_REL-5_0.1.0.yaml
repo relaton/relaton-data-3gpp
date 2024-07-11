@@ -1,19 +1,16 @@
 ---
-schema-version: v1.2.3
-id: TS23.241-Rel-5-0.1.0
+schema-version: v1.2.9
+id: TS23.241-REL-5-0.1.0
 title:
 - content: 3GPP Generic User Profile (GUP); Stage 2; Data Description Method (DDM)
   format: text/plain
   type: main
 type: standard
 docid:
-- id: 3GPP TS 23.241:Rel-5/0.1.0
+- id: 3GPP TS 23.241:REL-5/0.1.0
   type: 3GPP
   primary: true
-docnumber: TS 23.241:Rel-5/0.1.0
-date:
-- type: confirmed
-  value: '2004-03-25'
+docnumber: TS 23.241:REL-5/0.1.0
 contributor:
 - organization:
     name:
@@ -33,8 +30,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: KOZA, Yvette
+      given:
+        forename:
+        - content: Yvette
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Koza
         language:
         - en
         script:
@@ -45,19 +49,14 @@ contributor:
         - content: Deutsche Telekom AG
   role:
   - type: author
-biblionote:
-- content: 'TP-15: Delayed to Rel-6.'
-  type: remark
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: N4
   type: prime
@@ -65,17 +64,12 @@ editorialgroup:
   type: other
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: '5'
-  version3g: '5'
-  defunct: true
   wpm_code_2g: GSM_Release_5
   wpm_code_3g: 3G_Rel-5
-  freeze_meeting: SP-15
-  freeze_stage1_meeting: SP-15
-  freeze_stage2_meeting: SP-15
-  freeze_stage3_meeting: SP-15
-  close_meeting: SP-65
-  project_start: '2000-03-01'
+  freeze_stage1_meeting: SA-#15
+  freeze_stage2_meeting: SA-#15
+  freeze_stage3_meeting: SA-#15
+  close_meeting: SA#65
+  project_start: '2000-05-01'
   project_end: '2002-09-12'

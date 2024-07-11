@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TS11.11-Ph2-4.19.0
 title:
 - content: Specification of the Subscriber Identity Module - Mobile Equipment (SIM-ME)
@@ -7,7 +7,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/11_series/11.11/1111-4j0.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/11_series/11.11/1111-4j0.zip
   type: src
 type: standard
 docid:
@@ -18,8 +18,6 @@ docnumber: TS 11.11:Ph2/4.19.0
 date:
 - type: published
   value: '1997-06-13'
-- type: confirmed
-  value: '2005-06-14'
 contributor:
 - organization:
     name:
@@ -39,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: L'HERITEAU, Denis
+      given:
+        forename:
+        - content: Ly Thanh
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Phan
         language:
         - en
         script:
@@ -48,7 +53,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Waiting for new Company
+        - content: Gemalto N.V.
   role:
   - type: author
 revdate: '1997-06-13'
@@ -56,27 +61,16 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: C6
   type: prime
-- name: SMG09
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '4'
-  version3g: "-"
-  defunct: true
   wpm_code_2g: GSM_PH2
-  freeze_meeting: smg-11b
-  freeze_stage1_meeting: SMG-11b
-  freeze_stage2_meeting: SMG-11b
-  freeze_stage3_meeting: SMG-11b
-  close_meeting: SP-25
+  close_meeting: SA#25
+  project_start: '1993-03-25'

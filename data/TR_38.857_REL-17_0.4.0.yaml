@@ -1,6 +1,6 @@
 ---
-schema-version: v1.2.3
-id: TR38.857-Rel-17-0.4.0
+schema-version: v1.2.9
+id: TR38.857-REL-17-0.4.0
 title:
 - content: Study on NR positioning enhancements
   format: text/plain
@@ -10,10 +10,10 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 38.857:Rel-17/0.4.0
+- id: 3GPP TR 38.857:REL-17/0.4.0
   type: 3GPP
   primary: true
-docnumber: TR 38.857:Rel-17/0.4.0
+docnumber: TR 38.857:REL-17/0.4.0
 date:
 - type: published
   value: '2020-11-24'
@@ -36,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: MUNIER, Florent
+      given:
+        forename:
+        - content: Florent
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Munier
         language:
         - en
         script:
@@ -45,20 +52,60 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Ericsson Inc.
+        - content: Ericsson Incorporated
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Yi
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Guo
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Intel Corporation (UK) Ltd
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Ren
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Da
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: China Academy of Telecommunications Technology (CATT)
   role:
   - type: author
 revdate: '2020-11-24'
-biblionote:
-- content: Endorsed in R1-2009842
-  type: comment
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: R1
   type: prime
@@ -66,16 +113,11 @@ editorialgroup:
   type: other
 ext:
   schema-version: v1.0.1
-radiotechnology: 5G
 release:
-  version2g: h
-  version3g: h
-  defunct: false
   wpm_code_2g: GSM_Release_17
   wpm_code_3g: 3G4G5G_Rel-17
-  freeze_meeting: SA#95-e
   freeze_stage1_meeting: SA#86
   freeze_stage2_meeting: SA#92-e
   freeze_stage3_meeting: SA#95
   project_start: '2018-06-15'
-  project_end: '2022-03-25'
+  project_end: '2022-06-10'

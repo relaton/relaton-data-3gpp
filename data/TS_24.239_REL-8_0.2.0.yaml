@@ -1,27 +1,23 @@
 ---
-schema-version: v1.2.3
-id: TS24.239-Rel-8-0.2.0
+schema-version: v1.2.9
+id: TS24.239-REL-8-0.2.0
 title:
 - content: Flexible Alerting (FA) using IP Multimedia (IM) Core Network (CN) subsystem;
     Protocol specification
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.239/24239-020.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/24_series/24.239/24239-020.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 24.239:Rel-8/0.2.0
+- id: 3GPP TS 24.239:REL-8/0.2.0
   type: 3GPP
   primary: true
-docnumber: TS 24.239:Rel-8/0.2.0
+docnumber: TS 24.239:REL-8/0.2.0
 date:
-- type: created
-  value: '2008-05-15'
 - type: published
   value: '2008-05-15'
-- type: confirmed
-  value: '2008-12-18'
 contributor:
 - organization:
     name:
@@ -41,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: LAUSTER, Reinhard
+      given:
+        forename:
+        - content: Reinhard
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Lauster
         language:
         - en
         script:
@@ -58,28 +61,20 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: C1
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
-common-ims-spec: true
 release:
-  version2g: '8'
-  version3g: '8'
-  defunct: false
   wpm_code_2g: GSM_Release_8
   wpm_code_3g: 3G_Rel-8
-  freeze_meeting: SP-42
-  freeze_stage1_meeting: SP-38
-  freeze_stage2_meeting: SP-40
-  freeze_stage3_meeting: SP-42
-  project_start: '2004-12-01'
+  freeze_stage1_meeting: SA#38
+  freeze_stage2_meeting: SA#40
+  freeze_stage3_meeting: SA#42
+  project_start: '2006-01-23'
   project_end: '2009-03-12'

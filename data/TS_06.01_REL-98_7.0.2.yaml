@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.9
+id: TS06.01-REL-98-7.0.2
+title:
+- content: Full Rate Speech Processing Functions
+  format: text/plain
+  type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/06_series/06.01/0601-702.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 06.01:REL-98/7.0.2
+  type: 3GPP
+  primary: true
+docnumber: TS 06.01:REL-98/7.0.2
+date:
+- type: published
+  value: '1999-12-14'
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Paolino
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Usai
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: European Telecommunications Standards Institute
+  role:
+  - type: author
+revdate: '1999-12-14'
+language:
+- en
+script:
+- Latn
+place:
+- Sophia Antipolis Cedex, France
+doctype:
+  type: TS
+editorialgroup:
+- name: S4
+  type: prime
+ext:
+  schema-version: v1.0.1
+release:
+  wpm_code_2g: GSM_Release_98
+  freeze_stage1_meeting: SMG-#28
+  freeze_stage2_meeting: SMG-#28
+  freeze_stage3_meeting: SMG-#28
+  close_meeting: SA#28
+  project_start: '1996-03-26'
+  project_end: '1999-02-12'

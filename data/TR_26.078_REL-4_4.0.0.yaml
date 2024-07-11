@@ -1,16 +1,16 @@
 ---
-schema-version: v1.2.3
-id: TR26.078-Rel-4-4.0.0
+schema-version: v1.2.9
+id: TR26.078-REL-4-4.0.0
 title:
 - content: Results of the AMR noise suppression selection phase
   format: text/plain
   type: main
 type: standard
 docid:
-- id: 3GPP TR 26.078:Rel-4/4.0.0
+- id: 3GPP TR 26.078:REL-4/4.0.0
   type: 3GPP
   primary: true
-docnumber: TR 26.078:Rel-4/4.0.0
+docnumber: TR 26.078:REL-4/4.0.0
 contributor:
 - organization:
     name:
@@ -30,8 +30,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: USAI, Paolino
+      given:
+        forename:
+        - content: Paolino
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Usai
         language:
         - en
         script:
@@ -39,40 +46,28 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: ETSI
+        - content: European Telecommunications Standards Institute
   role:
   - type: author
-biblionote:
-- content: Replaced by 26.978.
-  type: remark
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: S4
   type: prime
-- name: SMG11
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: '4'
-  version3g: '4'
-  defunct: true
   wpm_code_2g: GSM_Release_4
   wpm_code_3g: 3G_Rel-4
-  freeze_meeting: SP-11
-  freeze_stage1_meeting: SP-11
-  freeze_stage2_meeting: SP-11
-  freeze_stage3_meeting: SP-11
-  close_meeting: SP-65
-  project_start: '1999-12-01'
+  freeze_stage1_meeting: SA-#11
+  freeze_stage2_meeting: SA-#11
+  freeze_stage3_meeting: SA-#11
+  close_meeting: SA#65
+  project_start: '1998-08-01'
   project_end: '2001-06-21'

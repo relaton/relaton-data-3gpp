@@ -1,19 +1,16 @@
 ---
-schema-version: v1.2.3
-id: TR36.851-Rel-12-0.9.0
+schema-version: v1.2.9
+id: TR36.851-REL-12-0.9.0
 title:
 - content: Inter-band carrier aggregation
   format: text/plain
   type: main
 type: standard
 docid:
-- id: 3GPP TR 36.851:Rel-12/0.9.0
+- id: 3GPP TR 36.851:REL-12/0.9.0
   type: 3GPP
   primary: true
-docnumber: TR 36.851:Rel-12/0.9.0
-date:
-- type: confirmed
-  value: '2013-03-22'
+docnumber: TR 36.851:REL-12/0.9.0
 contributor:
 - organization:
     name:
@@ -33,8 +30,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: KHAN, Asif Ali
+      given:
+        forename:
+        - content: Asif Ali
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Khan
         language:
         - en
         script:
@@ -42,40 +46,27 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Ericsson LM
+        - content: Ericsson Telefonaktiebolaget LM
   role:
   - type: author
-biblionote:
-- content: '2015-01: This TR proposed to be superseded by 36.852-12 to harmonize TR
-    numbering.'
-  type: remark
-- content: R4-140843
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: R4
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: LTE
 release:
-  version2g: c
-  version3g: c
-  defunct: false
   wpm_code_2g: GSM_Release_12
   wpm_code_3g: 3G4G_Rel-12
-  freeze_meeting: SP-65
-  freeze_stage1_meeting: SP-59
-  freeze_stage2_meeting: SP-62
-  freeze_stage3_meeting: SP-65
-  project_start: '2010-06-01'
+  freeze_stage1_meeting: SA#59
+  freeze_stage2_meeting: SA#62
+  freeze_stage3_meeting: SA#65
+  project_start: '2011-06-26'
   project_end: '2015-03-13'

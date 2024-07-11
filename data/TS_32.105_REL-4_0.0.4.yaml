@@ -1,19 +1,19 @@
 ---
-schema-version: v1.2.3
-id: TS32.105-Rel-4-0.0.4
+schema-version: v1.2.9
+id: TS32.105-REL-4-0.0.4
 title:
 - content: 3G charging and billing; Stage 2 description
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.105/32105-004.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/32_series/32.105/32105-004.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 32.105:Rel-4/0.0.4
+- id: 3GPP TS 32.105:REL-4/0.0.4
   type: 3GPP
   primary: true
-docnumber: TS 32.105:Rel-4/0.0.4
+docnumber: TS 32.105:REL-4/0.0.4
 date:
 - type: published
   value: '2000-10-10'
@@ -36,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: KOBYLARZ, Thaddeus
+      given:
+        forename:
+        - content: Thaddeus
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kobylarz
         language:
         - en
         script:
@@ -49,40 +56,25 @@ contributor:
   role:
   - type: author
 revdate: '2000-10-10'
-biblionote:
-- content: 'New at SP-06. SP-10:R99 version scrapped, will be Rel-4. SP-12: Rel-4
-    withdrawn.'
-  type: remark
-- content: 'SP-12: Rel-4 withdrawn.'
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: S5
   type: prime
-- name: S5
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: '4'
-  version3g: '4'
-  defunct: true
   wpm_code_2g: GSM_Release_4
   wpm_code_3g: 3G_Rel-4
-  freeze_meeting: SP-11
-  freeze_stage1_meeting: SP-11
-  freeze_stage2_meeting: SP-11
-  freeze_stage3_meeting: SP-11
-  close_meeting: SP-65
-  project_start: '1999-12-01'
+  freeze_stage1_meeting: SA-#11
+  freeze_stage2_meeting: SA-#11
+  freeze_stage3_meeting: SA-#11
+  close_meeting: SA#65
+  project_start: '1998-08-01'
   project_end: '2001-06-21'

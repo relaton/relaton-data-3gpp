@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TS08.60-Ph2-4.2.0
 title:
 - content: In-band control of remote transcoders and rate adaptors for Enhanced Full
@@ -7,7 +7,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/08_series/08.60/0860-420.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/08_series/08.60/0860-420.zip
   type: src
 type: standard
 docid:
@@ -18,8 +18,6 @@ docnumber: TS 08.60:Ph2/4.2.0
 date:
 - type: published
   value: '1995-01-27'
-- type: confirmed
-  value: '2002-02-19'
 contributor:
 - organization:
     name:
@@ -39,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: ANDERSEN, Niels Peter Skov
+      given:
+        forename:
+        - content: Niels Peter Skov
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Andersen
         language:
         - en
         script:
@@ -56,27 +61,16 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
-- name: G1
+- name: R6
   type: prime
-- name: SMG02
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '4'
-  version3g: "-"
-  defunct: true
   wpm_code_2g: GSM_PH2
-  freeze_meeting: smg-11b
-  freeze_stage1_meeting: SMG-11b
-  freeze_stage2_meeting: SMG-11b
-  freeze_stage3_meeting: SMG-11b
-  close_meeting: SP-25
+  close_meeting: SA#25
+  project_start: '1993-03-25'

@@ -1,27 +1,23 @@
 ---
-schema-version: v1.2.3
-id: TS22.093-Rel-9-9.0.0
+schema-version: v1.2.9
+id: TS22.093-REL-9-9.0.0
 title:
 - content: Completion of Calls to Busy Subscriber (CCBS); Service description, Stage
     1
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.093/22093-900.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/22_series/22.093/22093-900.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 22.093:Rel-9/9.0.0
+- id: 3GPP TS 22.093:REL-9/9.0.0
   type: 3GPP
   primary: true
-docnumber: TS 22.093:Rel-9/9.0.0
+docnumber: TS 22.093:REL-9/9.0.0
 date:
-- type: created
-  value: '2009-12-20'
 - type: published
   value: '2009-12-20'
-- type: confirmed
-  value: '2012-09-28'
 contributor:
 - organization:
     name:
@@ -41,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: SCARRONE, Enrico
+      given:
+        forename:
+        - content: Enrico
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Scarrone
         language:
         - en
         script:
@@ -50,51 +53,28 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: TELECOM ITALIA S.p.A.
+        - content: Telecom Italia S.p.A.
   role:
   - type: author
 revdate: '2009-12-20'
-biblionote:
-- content: Upgraded from previous Release without technical change
-  type: remark
-- content: Automatic upgrade from previous Release
-  type: comment
 language:
 - en
 script:
 - Latn
-abstract:
-- content: "In the situation when subscriber A encounters a network determined user
-    busy (NDUB) destination B, the subscriber A can request the CCBS supplementary
-    service (i.e. activate a CCBS request against destination B). The network will
-    then monitor the wanted destination B for becoming idle.\r\nWhen the wanted destination
-    B becomes idle, then the network will wait a short time in order to allow destination
-    B to make an outgoing call. If destination B does not make any outgoing call within
-    this time, then the network shall automatically recall subscriber A."
-  format: text/plain
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: S1
   type: prime
-- name: S1
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '9'
-  version3g: '9'
-  defunct: false
   wpm_code_2g: GSM_Release_9
   wpm_code_3g: 3G_Rel-9
-  freeze_meeting: SP-46
-  freeze_stage1_meeting: SP-42
-  freeze_stage2_meeting: SP-44
-  freeze_stage3_meeting: SP-46
-  project_start: '2007-06-01'
+  freeze_stage1_meeting: SA#42
+  freeze_stage2_meeting: SA#44
+  freeze_stage3_meeting: SA#46
+  project_start: '2008-03-06'
   project_end: '2010-03-25'

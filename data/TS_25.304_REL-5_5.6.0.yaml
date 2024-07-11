@@ -1,24 +1,22 @@
 ---
-schema-version: v1.2.3
-id: TS25.304-Rel-5-5.6.0
+schema-version: v1.2.9
+id: TS25.304-REL-5-5.6.0
 title:
 - content: User Equipment (UE) procedures in idle mode and procedures for cell reselection
     in connected mode
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.304/25304-560.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/25_series/25.304/25304-560.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 25.304:Rel-5/5.6.0
+- id: 3GPP TS 25.304:REL-5/5.6.0
   type: 3GPP
   primary: true
-docnumber: TS 25.304:Rel-5/5.6.0
+docnumber: TS 25.304:REL-5/5.6.0
 date:
 - type: published
-  value: '2004-09-23'
-- type: confirmed
   value: '2004-09-23'
 contributor:
 - organization:
@@ -39,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: CHEN, Jun
+      given:
+        forename:
+        - content: Jun
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Chen
         language:
         - en
         script:
@@ -48,7 +53,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: HUAWEI TECHNOLOGIES Co. Ltd.
+        - content: Huawei Technologies Co. Ltd.
   role:
   - type: author
 revdate: '2004-09-23'
@@ -56,41 +61,23 @@ language:
 - en
 script:
 - Latn
-abstract:
-- content: "This specification describes the overall idle mode process for the UE
-    and the functional division between the non-access stratum and access stratum
-    in the UE. The UE is in idle mode when the connection of the UE is closed on all
-    layers, e.g. there is neither an MM connection nor an RRC connection.\r\nThis
-    specification presents also examples of inter-layer procedures related to the
-    idle mode processes and describes idle mode functionality of a dual mode UMTS/GSM
-    UE."
-  format: text/plain
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: RP
   type: prime
 - name: R2
   type: other
-- name: R2
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: '5'
-  version3g: '5'
-  defunct: true
   wpm_code_2g: GSM_Release_5
   wpm_code_3g: 3G_Rel-5
-  freeze_meeting: SP-15
-  freeze_stage1_meeting: SP-15
-  freeze_stage2_meeting: SP-15
-  freeze_stage3_meeting: SP-15
-  close_meeting: SP-65
-  project_start: '2000-03-01'
+  freeze_stage1_meeting: SA-#15
+  freeze_stage2_meeting: SA-#15
+  freeze_stage3_meeting: SA-#15
+  close_meeting: SA#65
+  project_start: '2000-05-01'
   project_end: '2002-09-12'

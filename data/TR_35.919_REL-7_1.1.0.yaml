@@ -1,27 +1,23 @@
 ---
-schema-version: v1.2.3
-id: TR35.919-Rel-7-1.1.0
+schema-version: v1.2.9
+id: TR35.919-REL-7-1.1.0
 title:
 - content: 'Specification of the 3GPP Confidentiality and Integrity Algorithms UEA2
     & UIA2; Document 5: Design and evaluation report'
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/35_series/35.919/35919-110.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/35_series/35.919/35919-110.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 35.919:Rel-7/1.1.0
+- id: 3GPP TR 35.919:REL-7/1.1.0
   type: 3GPP
   primary: true
-docnumber: TR 35.919:Rel-7/1.1.0
+docnumber: TR 35.919:REL-7/1.1.0
 date:
-- type: created
-  value: '2006-04-06'
 - type: published
   value: '2006-04-06'
-- type: confirmed
-  value: '2006-03-24'
 contributor:
 - organization:
     name:
@@ -41,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: SAHLIN, Bengt
+      given:
+        forename:
+        - content: Bengt
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Sahlin
         language:
         - en
         script:
@@ -50,40 +53,29 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Ericsson LM
+        - content: Ericsson Telefonaktiebolaget LM
   role:
   - type: author
 revdate: '2006-04-06'
-biblionote:
-- content: ex MCC; provisions given by means of a pointer to the licensing conditions,
-    for consistency with documents 1 to 4 in the UEA2 set
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: S3
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '7'
-  version3g: '7'
-  defunct: true
   wpm_code_2g: GSM_Release_7
   wpm_code_3g: 3G_Rel-7
-  freeze_meeting: SP-35
-  freeze_stage1_meeting: SP-29
-  freeze_stage2_meeting: SP-33
-  freeze_stage3_meeting: SP-35
-  close_meeting: SP-65
-  project_start: '2003-12-01'
+  freeze_stage1_meeting: SA#29
+  freeze_stage2_meeting: SA#33
+  freeze_stage3_meeting: SA#35
+  close_meeting: SA#65
+  project_start: '2003-10-06'
   project_end: '2008-03-13'

@@ -1,12 +1,12 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TS03.45-Ph1-3.3.0
 title:
 - content: Technical Realization of Facsimile Group 3 Service - transparent
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.45/0345-330.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/03_series/03.45/0345-330.zip
   type: src
 type: standard
 docid:
@@ -36,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: HOLM, Jan
+      given:
+        forename:
+        - content: Jan
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Holm
         language:
         - en
         script:
@@ -45,38 +52,24 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Ericsson LM
+        - content: Ericsson Telefonaktiebolaget LM
   role:
   - type: author
 revdate: '1995-01-01'
-biblionote:
-- content: exists in PDF only
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: C3
   type: prime
-- name: N3 / SMG03D
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '3'
-  version3g: "-"
-  defunct: true
   wpm_code_2g: GSM_PH1
-  freeze_meeting: gsm-25b
-  freeze_stage1_meeting: GSM-25b
-  freeze_stage2_meeting: GSM-25b
-  freeze_stage3_meeting: GSM-25b
-  close_meeting: SMG-17
+  close_meeting: SA#25
+  project_start: '1982-12-07'

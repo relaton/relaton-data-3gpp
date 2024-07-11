@@ -1,6 +1,6 @@
 ---
-schema-version: v1.2.3
-id: TR37.717-33-Rel-17-17.0.0
+schema-version: v1.2.9
+id: TR37.717-33-REL-17-17.0.0
 title:
 - content: Rel-17 Dual Connectivity (DC) of x bands (x=1,2) LTE inter-band CA (xDL/xUL)
     and y bands (y=3-x) NR inter-band CA (yDL/yUL)
@@ -11,10 +11,10 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 37.717-33:Rel-17/17.0.0
+- id: 3GPP TR 37.717-33:REL-17/17.0.0
   type: 3GPP
   primary: true
-docnumber: TR 37.717-33:Rel-17/17.0.0
+docnumber: TR 37.717-33:REL-17/17.0.0
 date:
 - type: published
   value: '2022-06-24'
@@ -37,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: ZHOU, Wubin
+      given:
+        forename:
+        - content: Wubin
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Zhou
         language:
         - en
         script:
@@ -56,22 +63,18 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: R4
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: LTE
 release:
-  version2g: h
-  version3g: h
-  defunct: false
   wpm_code_2g: GSM_Release_17
   wpm_code_3g: 3G4G5G_Rel-17
-  freeze_meeting: SA#95-e
   freeze_stage1_meeting: SA#86
   freeze_stage2_meeting: SA#92-e
   freeze_stage3_meeting: SA#95
   project_start: '2018-06-15'
-  project_end: '2022-03-25'
+  project_end: '2022-06-10'

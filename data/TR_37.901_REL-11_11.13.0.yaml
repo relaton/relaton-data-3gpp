@@ -1,26 +1,22 @@
 ---
-schema-version: v1.2.3
-id: TR37.901-Rel-11-11.13.0
+schema-version: v1.2.9
+id: TR37.901-REL-11-11.13.0
 title:
 - content: User Equipment (UE) application layer data throughput performance
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.901/37901-bd0.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/37_series/37.901/37901-bd0.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 37.901:Rel-11/11.13.0
+- id: 3GPP TR 37.901:REL-11/11.13.0
   type: 3GPP
   primary: true
-docnumber: TR 37.901:Rel-11/11.13.0
+docnumber: TR 37.901:REL-11/11.13.0
 date:
-- type: created
-  value: '2014-12-18'
 - type: published
   value: '2014-12-18'
-- type: confirmed
-  value: '2011-09-26'
 contributor:
 - organization:
     name:
@@ -40,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: BORSATO, Ronald
+      given:
+        forename:
+        - content: Ronald
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Borsato
         language:
         - en
         script:
@@ -49,7 +52,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: AT&T GNS Belgium SPRL
+        - content: AT&T Global Network Services Belgium SPRL
   role:
   - type: author
 revdate: '2014-12-18'
@@ -57,27 +60,20 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: R5
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: b
-  version3g: b
-  defunct: false
   wpm_code_2g: GSM_Release_11
   wpm_code_3g: 3G4G_Rel-11
-  freeze_meeting: SP-57
-  freeze_stage1_meeting: SP-53
-  freeze_stage2_meeting: SP-55
-  freeze_stage3_meeting: SP-57
-  project_start: '2009-03-01'
+  freeze_stage1_meeting: SA#53
+  freeze_stage2_meeting: SA#55
+  freeze_stage3_meeting: SA#57
+  project_start: '2010-01-22'
   project_end: '2013-03-06'

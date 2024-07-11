@@ -1,6 +1,6 @@
 ---
-schema-version: v1.2.3
-id: TR23.886-Rel-10-0.0.0
+schema-version: v1.2.9
+id: TR23.886-REL-10-0.0.0
 title:
 - content: Feasibility Study of Single Radio Video Call Continuity (vSRVCC); Stage
     2
@@ -8,13 +8,10 @@ title:
   type: main
 type: standard
 docid:
-- id: 3GPP TR 23.886:Rel-10/0.0.0
+- id: 3GPP TR 23.886:REL-10/0.0.0
   type: 3GPP
   primary: true
-docnumber: TR 23.886:Rel-10/0.0.0
-date:
-- type: confirmed
-  value: '2010-09-29'
+docnumber: TR 23.886:REL-10/0.0.0
 contributor:
 - organization:
     name:
@@ -34,8 +31,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: ZISIMOPOULOS, Haris
+      given:
+        forename:
+        - content: Haris
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Zisimopoulos
         language:
         - en
         script:
@@ -43,34 +47,27 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: ZTE Corporation.
+        - content: ZTE Corporation
   role:
   - type: author
-biblionote:
-- content: S2-101269
-  type: comment
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: S2
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: a
-  version3g: a
-  defunct: false
   wpm_code_2g: GSM_Release_10
   wpm_code_3g: 3G4G_Rel-10
-  freeze_meeting: SP-51
-  freeze_stage1_meeting: SP-47
-  freeze_stage2_meeting: SP-49
-  freeze_stage3_meeting: SP-51
-  project_start: '2009-03-01'
+  freeze_stage1_meeting: SA#47
+  freeze_stage2_meeting: SA#49
+  freeze_stage3_meeting: SA#51
+  project_start: '2009-01-20'
   project_end: '2011-06-08'

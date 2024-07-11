@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TS07.06-Ph2-4.2.0
 title:
 - content: Use of the V Series Data Terminal Equipment - Data Circuit Terminating
@@ -8,7 +8,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/07_series/07.06/0706-420.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/07_series/07.06/0706-420.zip
   type: src
 type: standard
 docid:
@@ -38,8 +38,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: HARRIS, Ian
+      given:
+        forename:
+        - content: Ian
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Harris
         language:
         - en
         script:
@@ -51,34 +58,20 @@ contributor:
   role:
   - type: author
 revdate: '1995-03-06'
-biblionote:
-- content: "#7: 4.1.0   #13: 4.2.0  #15: withdrawn"
-  type: remark
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: T2
   type: prime
-- name: T2  /  SMG04
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '4'
-  version3g: "-"
-  defunct: true
   wpm_code_2g: GSM_PH2
-  freeze_meeting: smg-11b
-  freeze_stage1_meeting: SMG-11b
-  freeze_stage2_meeting: SMG-11b
-  freeze_stage3_meeting: SMG-11b
-  close_meeting: SP-25
+  close_meeting: SA#25
+  project_start: '1993-03-25'

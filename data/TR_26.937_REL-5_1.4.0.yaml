@@ -1,25 +1,23 @@
 ---
-schema-version: v1.2.3
-id: TR26.937-Rel-5-1.4.0
+schema-version: v1.2.9
+id: TR26.937-REL-5-1.4.0
 title:
 - content: Transparent end-to-end Packet-switched Streaming Service (PSS); Real-time
     Transport Protocol (RTP) usage model
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.937/26937-140.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/26_series/26.937/26937-140.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 26.937:Rel-5/1.4.0
+- id: 3GPP TR 26.937:REL-5/1.4.0
   type: 3GPP
   primary: true
-docnumber: TR 26.937:Rel-5/1.4.0
+docnumber: TR 26.937:REL-5/1.4.0
 date:
 - type: published
   value: '2003-04-04'
-- type: confirmed
-  value: '2011-04-05'
 contributor:
 - organization:
     name:
@@ -39,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: CURCIO, Igor
+      given:
+        forename:
+        - content: Igor
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Curcio
         language:
         - en
         script:
@@ -52,36 +57,25 @@ contributor:
   role:
   - type: author
 revdate: '2003-04-04'
-biblionote:
-- content: '2003-01-14: WG Secretary reports that this TS should be approved at SP-19.  SP-19:
-    still under revision, anticipated for approval at SP-20.'
-  type: remark
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: S4
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: '5'
-  version3g: '5'
-  defunct: true
   wpm_code_2g: GSM_Release_5
   wpm_code_3g: 3G_Rel-5
-  freeze_meeting: SP-15
-  freeze_stage1_meeting: SP-15
-  freeze_stage2_meeting: SP-15
-  freeze_stage3_meeting: SP-15
-  close_meeting: SP-65
-  project_start: '2000-03-01'
+  freeze_stage1_meeting: SA-#15
+  freeze_stage2_meeting: SA-#15
+  freeze_stage3_meeting: SA-#15
+  close_meeting: SA#65
+  project_start: '2000-05-01'
   project_end: '2002-09-12'

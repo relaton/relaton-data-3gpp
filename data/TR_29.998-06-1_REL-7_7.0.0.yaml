@@ -1,6 +1,6 @@
 ---
-schema-version: v1.2.3
-id: TR29.998-06-1-Rel-7-7.0.0
+schema-version: v1.2.9
+id: TR29.998-06-1-REL-7-7.0.0
 title:
 - content: 'Open Service Access (OSA); Application Programming Interface (API) Mapping
     for Open Service Access; Part 6: User location - user status service mapping;
@@ -8,21 +8,17 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.998-06-1/29998-06-1-700.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/29_series/29.998-06-1/29998-06-1-700.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 29.998-06-1:Rel-7/7.0.0
+- id: 3GPP TR 29.998-06-1:REL-7/7.0.0
   type: 3GPP
   primary: true
-docnumber: TR 29.998-06-1:Rel-7/7.0.0
+docnumber: TR 29.998-06-1:REL-7/7.0.0
 date:
-- type: created
-  value: '2007-03-22'
 - type: published
   value: '2007-03-22'
-- type: confirmed
-  value: '2008-06-20'
 contributor:
 - organization:
     name:
@@ -42,8 +38,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: NADOUR, Tarek
+      given:
+        forename:
+        - content: Tarek
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Nadour
         language:
         - en
         script:
@@ -55,35 +58,25 @@ contributor:
   role:
   - type: author
 revdate: '2007-03-22'
-biblionote:
-- content: " CP-42: No upgrade to Rel-8 (see CP-080896)."
-  type: remark
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: CP
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '7'
-  version3g: '7'
-  defunct: true
   wpm_code_2g: GSM_Release_7
   wpm_code_3g: 3G_Rel-7
-  freeze_meeting: SP-35
-  freeze_stage1_meeting: SP-29
-  freeze_stage2_meeting: SP-33
-  freeze_stage3_meeting: SP-35
-  close_meeting: SP-65
-  project_start: '2003-12-01'
+  freeze_stage1_meeting: SA#29
+  freeze_stage2_meeting: SA#33
+  freeze_stage3_meeting: SA#35
+  close_meeting: SA#65
+  project_start: '2003-10-06'
   project_end: '2008-03-13'

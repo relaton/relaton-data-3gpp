@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TR11.22-Ph2-4.0.0
 title:
 - content: GSM Base Station and Ancillary Equipment, Physical and Electronical Parameters,
@@ -31,8 +31,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: PERRY, Malcolm
+      given:
+        forename:
+        - content: Malcolm
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Perry
         language:
         - en
         script:
@@ -47,27 +54,16 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
-- name: G1
+- name: R6
   type: prime
-- name: SMG02c
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '4'
-  version3g: "-"
-  defunct: true
   wpm_code_2g: GSM_PH2
-  freeze_meeting: smg-11b
-  freeze_stage1_meeting: SMG-11b
-  freeze_stage2_meeting: SMG-11b
-  freeze_stage3_meeting: SMG-11b
-  close_meeting: SP-25
+  close_meeting: SA#25
+  project_start: '1993-03-25'

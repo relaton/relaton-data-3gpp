@@ -1,24 +1,22 @@
 ---
-schema-version: v1.2.3
-id: TS24.083-Rel-4-4.0.0
+schema-version: v1.2.9
+id: TS24.083-REL-4-4.0.0
 title:
 - content: Call Waiting (CW) and Call Hold (HOLD) supplementary services; Stage 3
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.083/24083-400.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/24_series/24.083/24083-400.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 24.083:Rel-4/4.0.0
+- id: 3GPP TS 24.083:REL-4/4.0.0
   type: 3GPP
   primary: true
-docnumber: TS 24.083:Rel-4/4.0.0
+docnumber: TS 24.083:REL-4/4.0.0
 date:
 - type: published
   value: '2001-04-04'
-- type: confirmed
-  value: '2008-12-16'
 contributor:
 - organization:
     name:
@@ -38,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: WILD, Peter A.
+      given:
+        forename:
+        - content: Peter A.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Wild
         language:
         - en
         script:
@@ -55,30 +60,21 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: C4
   type: prime
-- name: N4 (ex NSS)
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '4'
-  version3g: '4'
-  defunct: true
   wpm_code_2g: GSM_Release_4
   wpm_code_3g: 3G_Rel-4
-  freeze_meeting: SP-11
-  freeze_stage1_meeting: SP-11
-  freeze_stage2_meeting: SP-11
-  freeze_stage3_meeting: SP-11
-  close_meeting: SP-65
-  project_start: '1999-12-01'
+  freeze_stage1_meeting: SA-#11
+  freeze_stage2_meeting: SA-#11
+  freeze_stage3_meeting: SA-#11
+  close_meeting: SA#65
+  project_start: '1998-08-01'
   project_end: '2001-06-21'

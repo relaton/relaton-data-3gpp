@@ -1,19 +1,16 @@
 ---
-schema-version: v1.2.3
-id: TS38.455-Rel-15-0.4.0
+schema-version: v1.2.9
+id: TS38.455-REL-15-0.4.0
 title:
 - content: NG-RAN; NR Positioning Protocol A (NRPPa)
   format: text/plain
   type: main
 type: standard
 docid:
-- id: 3GPP TS 38.455:Rel-15/0.4.0
+- id: 3GPP TS 38.455:REL-15/0.4.0
   type: 3GPP
   primary: true
-docnumber: TS 38.455:Rel-15/0.4.0
-date:
-- type: confirmed
-  value: '2019-01-02'
+docnumber: TS 38.455:REL-15/0.4.0
 contributor:
 - organization:
     name:
@@ -33,8 +30,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: LYAZIDI, Yazid
+      given:
+        forename:
+        - content: Yazid
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Lyazidi
         language:
         - en
         script:
@@ -42,35 +46,25 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Ericsson LM
+        - content: Ericsson Telefonaktiebolaget LM
   role:
   - type: author
-biblionote:
-- content: This version not provided at RAN3#98.
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: R3
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 5G
 release:
-  version2g: f
-  version3g: f
-  defunct: false
   wpm_code_2g: GSM_Release_15
   wpm_code_3g: 3G4G5G_Rel-15
-  freeze_meeting: SA#83
   freeze_stage1_meeting: SA#76
   freeze_stage2_meeting: SA#78
   freeze_stage3_meeting: SA#83

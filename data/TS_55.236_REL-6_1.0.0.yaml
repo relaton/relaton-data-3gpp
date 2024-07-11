@@ -1,27 +1,23 @@
 ---
-schema-version: v1.2.3
-id: TS55.236-Rel-6-1.0.0
+schema-version: v1.2.9
+id: TS55.236-REL-6-1.0.0
 title:
 - content: 'Specification of A8_V MILENAGE Algorithm: An example algorithm for the
     key generation function A8_V'
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/55_series/55.236/55236-100.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/55_series/55.236/55236-100.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 55.236:Rel-6/1.0.0
+- id: 3GPP TS 55.236:REL-6/1.0.0
   type: 3GPP
   primary: true
-docnumber: TS 55.236:Rel-6/1.0.0
+docnumber: TS 55.236:REL-6/1.0.0
 date:
-- type: created
-  value: '2006-02-20'
 - type: published
   value: '2006-02-20'
-- type: confirmed
-  value: '2006-02-09'
 contributor:
 - organization:
     name:
@@ -41,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: JERICHOW, Anja
+      given:
+        forename:
+        - content: Anja
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Jerichow
         language:
         - en
         script:
@@ -50,40 +53,29 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Nokia Germany
+        - content: Nokia Solutions and Networks GmbH & Co. KG
   role:
   - type: author
 revdate: '2006-02-20'
-biblionote:
-- content: draft S3-060174.  Needs considerable editorial work before presentation
-    to SP-31.
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: S3
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '6'
-  version3g: '6'
-  defunct: true
   wpm_code_2g: GSM_Release_6
   wpm_code_3g: 3G_Rel-6
-  freeze_meeting: SP-27
-  freeze_stage1_meeting: SP-26
-  freeze_stage2_meeting: SP-26
-  freeze_stage3_meeting: SP-27
-  close_meeting: SP-65
-  project_start: '2001-12-01'
+  freeze_stage1_meeting: SA#26
+  freeze_stage2_meeting: SA#26
+  freeze_stage3_meeting: SA#27
+  close_meeting: SA#65
+  project_start: '2000-03-28'
   project_end: '2005-09-28'

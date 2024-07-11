@@ -1,24 +1,22 @@
 ---
-schema-version: v1.2.3
-id: TS43.059-Rel-4-4.6.0
+schema-version: v1.2.9
+id: TS43.059-REL-4-4.6.0
 title:
 - content: Functional stage 2 description of Location Services (LCS) in GERAN
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/43_series/43.059/43059-460.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/43_series/43.059/43059-460.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 43.059:Rel-4/4.6.0
+- id: 3GPP TS 43.059:REL-4/4.6.0
   type: 3GPP
   primary: true
-docnumber: TS 43.059:Rel-4/4.6.0
+docnumber: TS 43.059:REL-4/4.6.0
 date:
 - type: published
   value: '2004-05-06'
-- type: confirmed
-  value: '2005-07-07'
 contributor:
 - organization:
     name:
@@ -38,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: HOFMANN, Juergen
+      given:
+        forename:
+        - content: Juergen
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hofmann
         language:
         - en
         script:
@@ -47,7 +52,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Nokia Germany
+        - content: Nokia Solutions and Networks GmbH & Co. KG
   role:
   - type: author
 revdate: '2004-05-06'
@@ -55,30 +60,21 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: RP
   type: prime
-- name: SMG02
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '4'
-  version3g: '4'
-  defunct: true
   wpm_code_2g: GSM_Release_4
   wpm_code_3g: 3G_Rel-4
-  freeze_meeting: SP-11
-  freeze_stage1_meeting: SP-11
-  freeze_stage2_meeting: SP-11
-  freeze_stage3_meeting: SP-11
-  close_meeting: SP-65
-  project_start: '1999-12-01'
+  freeze_stage1_meeting: SA-#11
+  freeze_stage2_meeting: SA-#11
+  freeze_stage3_meeting: SA-#11
+  close_meeting: SA#65
+  project_start: '1998-08-01'
   project_end: '2001-06-21'

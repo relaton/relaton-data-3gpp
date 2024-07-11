@@ -1,19 +1,19 @@
 ---
-schema-version: v1.2.3
-id: TR36.898-Rel-14-1.6.0
+schema-version: v1.2.9
+id: TR36.898-REL-14-1.6.0
 title:
 - content: Network Assistance for Network Synchronization
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.898/36898-160.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.898/36898-160.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.898:Rel-14/1.6.0
+- id: 3GPP TR 36.898:REL-14/1.6.0
   type: 3GPP
   primary: true
-docnumber: TR 36.898:Rel-14/1.6.0
+docnumber: TR 36.898:REL-14/1.6.0
 date:
 - type: published
   value: '2016-06-02'
@@ -36,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: WANG, Yan
+      given:
+        forename:
+        - content: Yan
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Wang
         language:
         - en
         script:
@@ -45,7 +52,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Huawei Tech.(UK) Co.. Ltd
+        - content: Huawei Technologies (UK) Co., Ltd.
   role:
   - type: author
 revdate: '2016-06-02'
@@ -55,20 +62,16 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: R3
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: LTE
 release:
-  version2g: e
-  version3g: e
-  defunct: false
   wpm_code_2g: GSM_Release_14
   wpm_code_3g: 3G4G_Rel-14
-  freeze_meeting: SA#75
   freeze_stage1_meeting: SA#71
   freeze_stage2_meeting: SA#73
   freeze_stage3_meeting: SA#75

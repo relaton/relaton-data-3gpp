@@ -1,6 +1,6 @@
 ---
-schema-version: v1.2.3
-id: TS35.207-Rel-9-9.0.0
+schema-version: v1.2.9
+id: TS35.207-REL-9-9.0.0
 title:
 - content: '3G Security; Specification of the MILENAGE algorithm set: An example algorithm
     set for the 3GPP authentication and key generation functions f1, f1*, f2, f3,
@@ -8,21 +8,17 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/35_series/35.207/35207-900.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/35_series/35.207/35207-900.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 35.207:Rel-9/9.0.0
+- id: 3GPP TS 35.207:REL-9/9.0.0
   type: 3GPP
   primary: true
-docnumber: TS 35.207:Rel-9/9.0.0
+docnumber: TS 35.207:REL-9/9.0.0
 date:
-- type: created
-  value: '2009-12-31'
 - type: published
   value: '2009-12-31'
-- type: confirmed
-  value: '2012-09-27'
 contributor:
 - organization:
     name:
@@ -42,8 +38,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: EVANS, Tim P.
+      given:
+        forename:
+        - content: Tim P.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Evans
         language:
         - en
         script:
@@ -51,40 +54,28 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: VODAFONE Group Plc
+        - content: Vodafone Group Plc
   role:
   - type: author
 revdate: '2009-12-31'
-biblionote:
-- content: Upgraded from previous Release without technical change
-  type: remark
-- content: Automatic upgrade from previous Release
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: S3
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: '9'
-  version3g: '9'
-  defunct: false
   wpm_code_2g: GSM_Release_9
   wpm_code_3g: 3G_Rel-9
-  freeze_meeting: SP-46
-  freeze_stage1_meeting: SP-42
-  freeze_stage2_meeting: SP-44
-  freeze_stage3_meeting: SP-46
-  project_start: '2007-06-01'
+  freeze_stage1_meeting: SA#42
+  freeze_stage2_meeting: SA#44
+  freeze_stage3_meeting: SA#46
+  project_start: '2008-03-06'
   project_end: '2010-03-25'

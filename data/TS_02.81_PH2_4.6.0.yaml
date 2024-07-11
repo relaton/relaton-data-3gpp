@@ -1,12 +1,12 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TS02.81-Ph2-4.6.0
 title:
 - content: Line Identification Supplementary Services; Stage 1
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/02_series/02.81/0281-460.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/02_series/02.81/0281-460.zip
   type: src
 type: standard
 docid:
@@ -36,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: SCARRONE, Enrico
+      given:
+        forename:
+        - content: Enrico
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Scarrone
         language:
         - en
         script:
@@ -45,38 +52,24 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: TELECOM ITALIA S.p.A.
+        - content: Telecom Italia S.p.A.
   role:
   - type: author
 revdate: '1997-12-19'
-biblionote:
-- content: "#7: 4.3.1  #10: 4.4.0   #11: 4.4.1   #12: 4.5.0  #16: 4.5.1  #24: 4.6.0"
-  type: remark
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: S1
   type: prime
-- name: S1  /  SMG01
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '4'
-  version3g: "-"
-  defunct: true
   wpm_code_2g: GSM_PH2
-  freeze_meeting: smg-11b
-  freeze_stage1_meeting: SMG-11b
-  freeze_stage2_meeting: SMG-11b
-  freeze_stage3_meeting: SMG-11b
-  close_meeting: SP-25
+  close_meeting: SA#25
+  project_start: '1993-03-25'

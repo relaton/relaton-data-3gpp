@@ -1,26 +1,22 @@
 ---
-schema-version: v1.2.3
-id: TR37.834-Rel-12-1.1.0
+schema-version: v1.2.9
+id: TR37.834-REL-12-1.1.0
 title:
 - content: Study on Wireless Local Area Network (WLAN) - 3GPP radio interworking
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.834/37834-110.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/37_series/37.834/37834-110.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 37.834:Rel-12/1.1.0
+- id: 3GPP TR 37.834:REL-12/1.1.0
   type: 3GPP
   primary: true
-docnumber: TR 37.834:Rel-12/1.1.0
+docnumber: TR 37.834:REL-12/1.1.0
 date:
-- type: created
-  value: '2014-02-26'
 - type: published
   value: '2014-02-26'
-- type: confirmed
-  value: '2014-01-07'
 contributor:
 - organization:
     name:
@@ -40,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: SIROTKIN, Sasha
+      given:
+        forename:
+        - content: Sasha
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Sirotkin
         language:
         - en
         script:
@@ -53,31 +56,24 @@ contributor:
   role:
   - type: author
 revdate: '2014-02-26'
-biblionote:
-- content: R2-133627
-  type: comment
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: R2
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: c
-  version3g: c
-  defunct: false
   wpm_code_2g: GSM_Release_12
   wpm_code_3g: 3G4G_Rel-12
-  freeze_meeting: SP-65
-  freeze_stage1_meeting: SP-59
-  freeze_stage2_meeting: SP-62
-  freeze_stage3_meeting: SP-65
-  project_start: '2010-06-01'
+  freeze_stage1_meeting: SA#59
+  freeze_stage2_meeting: SA#62
+  freeze_stage3_meeting: SA#65
+  project_start: '2011-06-26'
   project_end: '2015-03-13'

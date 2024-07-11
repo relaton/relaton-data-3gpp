@@ -1,16 +1,16 @@
 ---
-schema-version: v1.2.3
-id: TR50.099-Rel-7-0.50.0
+schema-version: v1.2.9
+id: TR50.099-REL-7-0.50.0
 title:
 - content: GERAN project plan and open issues
   format: text/plain
   type: main
 type: standard
 docid:
-- id: 3GPP TR 50.099:Rel-7/0.50.0
+- id: 3GPP TR 50.099:REL-7/0.50.0
   type: 3GPP
   primary: true
-docnumber: TR 50.099:Rel-7/0.50.0
+docnumber: TR 50.099:REL-7/0.50.0
 contributor:
 - organization:
     name:
@@ -30,8 +30,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: GRANT, Marc
+      given:
+        forename:
+        - content: Marc
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Grant
         language:
         - en
         script:
@@ -39,43 +46,28 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: AT&T GNS Belgium SPRL
+        - content: AT&T Global Network Services Belgium SPRL
   role:
   - type: author
-biblionote:
-- content: 'GP-35: Discontinued; GERAN work plan will henceforward be continued in
-    same manner as for other TSGs.'
-  type: remark
-- content: GP 060973
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: GP
   type: prime
-- name: SMG02
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '7'
-  version3g: '7'
-  defunct: true
   wpm_code_2g: GSM_Release_7
   wpm_code_3g: 3G_Rel-7
-  freeze_meeting: SP-35
-  freeze_stage1_meeting: SP-29
-  freeze_stage2_meeting: SP-33
-  freeze_stage3_meeting: SP-35
-  close_meeting: SP-65
-  project_start: '2003-12-01'
+  freeze_stage1_meeting: SA#29
+  freeze_stage2_meeting: SA#33
+  freeze_stage3_meeting: SA#35
+  close_meeting: SA#65
+  project_start: '2003-10-06'
   project_end: '2008-03-13'

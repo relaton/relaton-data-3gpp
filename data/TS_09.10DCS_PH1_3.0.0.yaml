@@ -1,0 +1,77 @@
+---
+schema-version: v1.2.9
+id: TS09.10dcs-Ph1-3.0.0
+title:
+- content: Information Element Mapping between Mobile Station - Base Station System
+    (MS - BSS) and Base Station System - Mobile-services Switching Centre (BSS - MCS)
+    Signalling Procedures and the Mobile Application Part (MAP) (DCS 1800)
+  format: text/plain
+  type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/09_series/09.10dcs/0910dcs-300.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 09.10dcs:Ph1/3.0.0
+  type: 3GPP
+  primary: true
+docnumber: TS 09.10dcs:Ph1/3.0.0
+date:
+- type: published
+  value: '1995-01-01'
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Peter
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Schmitt
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Huawei Technologies (UK) Co., Ltd.
+  role:
+  - type: author
+revdate: '1995-01-01'
+language:
+- en
+script:
+- Latn
+place:
+- Sophia Antipolis Cedex, France
+doctype:
+  type: TS
+editorialgroup:
+- name: C4
+  type: prime
+ext:
+  schema-version: v1.0.1
+release:
+  wpm_code_2g: GSM_PH1
+  close_meeting: SA#25
+  project_start: '1992-12-03'

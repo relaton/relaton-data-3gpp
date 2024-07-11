@@ -1,0 +1,75 @@
+---
+schema-version: v1.2.9
+id: TS03.60-REL-96-2.0.0
+title:
+- content: General Packet Radio Service (GPRS); Service description; Stage 2
+  format: text/plain
+  type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/03_series/03.60/0360-200.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 03.60:REL-96/2.0.0
+  type: 3GPP
+  primary: true
+docnumber: TS 03.60:REL-96/2.0.0
+date:
+- type: published
+  value: '1998-07-30'
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Ravi
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kuchibhotla
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Motorola Mobility UK Ltd.
+  role:
+  - type: author
+revdate: '1998-07-30'
+language:
+- en
+script:
+- Latn
+place:
+- Sophia Antipolis Cedex, France
+doctype:
+  type: TS
+editorialgroup:
+- name: S2
+  type: prime
+ext:
+  schema-version: v1.0.1
+release:
+  wpm_code_2g: GSM_Release_96
+  close_meeting: SA#25
+  project_start: '1995-07-20'

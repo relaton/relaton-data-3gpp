@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: TS25.213-REL-99-3.3.0
+title:
+- content: Spreading and modulation (FDD)
+  format: text/plain
+  type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/25_series/25.213/25213-330.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 25.213:REL-99/3.3.0
+  type: 3GPP
+  primary: true
+docnumber: TS 25.213:REL-99/3.3.0
+date:
+- type: published
+  value: '2000-06-23'
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Francesco
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Pica
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Qualcomm Incorporated
+  role:
+  - type: author
+revdate: '2000-06-23'
+language:
+- en
+script:
+- Latn
+place:
+- Sophia Antipolis Cedex, France
+doctype:
+  type: TS
+editorialgroup:
+- name: RP
+  type: prime
+- name: R1
+  type: other
+ext:
+  schema-version: v1.0.1
+release:
+  wpm_code_2g: GSM_Release_99
+  wpm_code_3g: 3G_R1999
+  freeze_stage1_meeting: SA-#6
+  freeze_stage2_meeting: SA-#6
+  freeze_stage3_meeting: SA-#6
+  close_meeting: SA#40
+  project_start: '1996-11-01'
+  project_end: '1999-12-17'

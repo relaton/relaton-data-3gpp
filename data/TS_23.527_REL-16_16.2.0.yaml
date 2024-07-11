@@ -1,24 +1,22 @@
 ---
-schema-version: v1.2.3
-id: TS23.527-Rel-16-16.2.0
+schema-version: v1.2.9
+id: TS23.527-REL-16-16.2.0
 title:
 - content: 5G System; Restoration procedures
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp//Specs/archive/23_series/23.527/23527-g20.zip
+- content: https://www.3gpp.org/ftp//Specs/archive/23_series/23.527/23527-g20.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.527:Rel-16/16.2.0
+- id: 3GPP TS 23.527:REL-16/16.2.0
   type: 3GPP
   primary: true
-docnumber: TS 23.527:Rel-16/16.2.0
+docnumber: TS 23.527:REL-16/16.2.0
 date:
 - type: published
   value: '2019-12-20'
-- type: confirmed
-  value: '2019-01-02'
 contributor:
 - organization:
     name:
@@ -38,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: WILD, Peter A.
+      given:
+        forename:
+        - content: Peter A.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Wild
         language:
         - en
         script:
@@ -55,25 +60,18 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: C4
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 5G
 release:
-  version2g: g
-  version3g: g
-  defunct: false
   wpm_code_2g: GSM_Release_16
   wpm_code_3g: 3G4G5G_Rel-16
-  freeze_meeting: SA#88-e
   freeze_stage1_meeting: SA#82
   freeze_stage2_meeting: SA#84
   freeze_stage3_meeting: SA#88-e

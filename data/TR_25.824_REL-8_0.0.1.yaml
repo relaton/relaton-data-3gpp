@@ -1,19 +1,16 @@
 ---
-schema-version: v1.2.3
-id: TR25.824-Rel-8-0.0.1
+schema-version: v1.2.9
+id: TR25.824-REL-8-0.0.1
 title:
 - content: Scope of HighSpeed Packet Access (HSPA) Evolution for 1.28Mcps TDD
   format: text/plain
   type: main
 type: standard
 docid:
-- id: 3GPP TR 25.824:Rel-8/0.0.1
+- id: 3GPP TR 25.824:REL-8/0.0.1
   type: 3GPP
   primary: true
-docnumber: TR 25.824:Rel-8/0.0.1
-date:
-- type: confirmed
-  value: '2008-06-24'
+docnumber: TR 25.824:REL-8/0.0.1
 contributor:
 - organization:
     name:
@@ -33,8 +30,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: XU, Fei
+      given:
+        forename:
+        - content: Fei
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Xu
         language:
         - en
         script:
@@ -51,7 +55,8 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: RP
   type: prime
@@ -59,16 +64,11 @@ editorialgroup:
   type: other
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: '8'
-  version3g: '8'
-  defunct: false
   wpm_code_2g: GSM_Release_8
   wpm_code_3g: 3G_Rel-8
-  freeze_meeting: SP-42
-  freeze_stage1_meeting: SP-38
-  freeze_stage2_meeting: SP-40
-  freeze_stage3_meeting: SP-42
-  project_start: '2004-12-01'
+  freeze_stage1_meeting: SA#38
+  freeze_stage2_meeting: SA#40
+  freeze_stage3_meeting: SA#42
+  project_start: '2006-01-23'
   project_end: '2009-03-12'

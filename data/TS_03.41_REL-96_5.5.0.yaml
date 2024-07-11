@@ -1,0 +1,75 @@
+---
+schema-version: v1.2.9
+id: TS03.41-REL-96-5.5.0
+title:
+- content: Technical Realization of Short Message Service Cell Broadcast (SMSCB)
+  format: text/plain
+  type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/03_series/03.41/0341-550.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 03.41:REL-96/5.5.0
+  type: 3GPP
+  primary: true
+docnumber: TS 03.41:REL-96/5.5.0
+date:
+- type: published
+  value: '1997-02-14'
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Burbidge
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Intel Corporation (UK) Ltd
+  role:
+  - type: author
+revdate: '1997-02-14'
+language:
+- en
+script:
+- Latn
+place:
+- Sophia Antipolis Cedex, France
+doctype:
+  type: TS
+editorialgroup:
+- name: C1
+  type: prime
+ext:
+  schema-version: v1.0.1
+release:
+  wpm_code_2g: GSM_Release_96
+  close_meeting: SA#25
+  project_start: '1995-07-20'

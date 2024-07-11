@@ -1,22 +1,20 @@
 ---
-schema-version: v1.2.3
-id: TR23.830-Rel-9-0.5.0
+schema-version: v1.2.9
+id: TR23.830-REL-9-0.5.0
 title:
 - content: Architecture aspects of Home Node B (HNB) / Home enhanced Node B (HeNB)
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.830/23830-050.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/23_series/23.830/23830-050.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.830:Rel-9/0.5.0
+- id: 3GPP TR 23.830:REL-9/0.5.0
   type: 3GPP
   primary: true
-docnumber: TR 23.830:Rel-9/0.5.0
+docnumber: TR 23.830:REL-9/0.5.0
 date:
-- type: created
-  value: '2009-06-08'
 - type: published
   value: '2009-06-08'
 contributor:
@@ -38,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: SPEICHER, Sebastian
+      given:
+        forename:
+        - content: Sebastian
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Speicher
         language:
         - en
         script:
@@ -57,22 +62,18 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: S2
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: '9'
-  version3g: '9'
-  defunct: false
   wpm_code_2g: GSM_Release_9
   wpm_code_3g: 3G_Rel-9
-  freeze_meeting: SP-46
-  freeze_stage1_meeting: SP-42
-  freeze_stage2_meeting: SP-44
-  freeze_stage3_meeting: SP-46
-  project_start: '2007-06-01'
+  freeze_stage1_meeting: SA#42
+  freeze_stage2_meeting: SA#44
+  freeze_stage3_meeting: SA#46
+  project_start: '2008-03-06'
   project_end: '2010-03-25'

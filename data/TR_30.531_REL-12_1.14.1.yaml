@@ -1,26 +1,22 @@
 ---
-schema-version: v1.2.3
-id: TR30.531-Rel-12-1.14.1
+schema-version: v1.2.9
+id: TR30.531-REL-12-1.14.1
 title:
 - content: Work Plan and Working Procedures - RAN WG3
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/30_series/30.531/30531-1e1.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/30_series/30.531/30531-1e1.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 30.531:Rel-12/1.14.1
+- id: 3GPP TR 30.531:REL-12/1.14.1
   type: 3GPP
   primary: true
-docnumber: TR 30.531:Rel-12/1.14.1
+docnumber: TR 30.531:REL-12/1.14.1
 date:
-- type: created
-  value: '2014-01-16'
 - type: published
   value: '2014-01-16'
-- type: confirmed
-  value: '2011-09-05'
 contributor:
 - organization:
     name:
@@ -40,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: KORHONEN, Juha
+      given:
+        forename:
+        - content: Seonggu
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Shim
         language:
         - en
         script:
@@ -49,7 +52,28 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: ETSI
+        - content: Telecommunications Technology Association (TTA)
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Juha
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Korhonen
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: European Telecommunications Standards Institute
   role:
   - type: author
 revdate: '2014-01-16'
@@ -57,29 +81,20 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: R3
   type: prime
-- name: R3
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: LTE
 release:
-  version2g: c
-  version3g: c
-  defunct: false
   wpm_code_2g: GSM_Release_12
   wpm_code_3g: 3G4G_Rel-12
-  freeze_meeting: SP-65
-  freeze_stage1_meeting: SP-59
-  freeze_stage2_meeting: SP-62
-  freeze_stage3_meeting: SP-65
-  project_start: '2010-06-01'
+  freeze_stage1_meeting: SA#59
+  freeze_stage2_meeting: SA#62
+  freeze_stage3_meeting: SA#65
+  project_start: '2011-06-26'
   project_end: '2015-03-13'

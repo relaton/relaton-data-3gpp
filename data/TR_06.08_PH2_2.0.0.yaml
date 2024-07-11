@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TR06.08-Ph2-2.0.0
 title:
 - content: Half Rate Speech; Performance Characterization of the GSM Half Rate speech
@@ -31,8 +31,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: USAI, Paolino
+      given:
+        forename:
+        - content: Paolino
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Usai
         language:
         - en
         script:
@@ -40,39 +47,23 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: ETSI
+        - content: European Telecommunications Standards Institute
   role:
   - type: author
-biblionote:
-- content: "#16: 4.0.0"
-  type: remark
-- content: P-95-663
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: S4
   type: prime
-- name: SMG11
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '4'
-  version3g: "-"
-  defunct: true
   wpm_code_2g: GSM_PH2
-  freeze_meeting: smg-11b
-  freeze_stage1_meeting: SMG-11b
-  freeze_stage2_meeting: SMG-11b
-  freeze_stage3_meeting: SMG-11b
-  close_meeting: SP-25
+  close_meeting: SA#25
+  project_start: '1993-03-25'

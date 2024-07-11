@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: TS28.622-REL-18-18.6.0
+title:
+- content: Telecommunication management; Generic Network Resource Model (NRM) Integration
+    Reference Point (IRP); Information Service (IS)
+  format: text/plain
+  type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/28_series/28.622/28622-i60.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 28.622:REL-18/18.6.0
+  type: 3GPP
+  primary: true
+docnumber: TS 28.622:REL-18/18.6.0
+date:
+- type: published
+  value: '2024-04-05'
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Mark
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Scott
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Ericsson Telefonaktiebolaget LM
+  role:
+  - type: author
+revdate: '2024-04-05'
+language:
+- en
+script:
+- Latn
+place:
+- Sophia Antipolis Cedex, France
+doctype:
+  type: TS
+editorialgroup:
+- name: S5
+  type: prime
+ext:
+  schema-version: v1.0.1
+release:
+  wpm_code_2g: GSM_Release_18
+  wpm_code_3g: 3G4G5G_Rel-18
+  freeze_stage1_meeting: SA#94-e
+  freeze_stage2_meeting: SA#100
+  freeze_stage3_meeting: SA#103
+  project_start: '2019-09-16'
+  project_end: '2024-06-21'

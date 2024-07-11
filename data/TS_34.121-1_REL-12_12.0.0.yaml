@@ -1,27 +1,23 @@
 ---
-schema-version: v1.2.3
-id: TS34.121-1-Rel-12-12.0.0
+schema-version: v1.2.9
+id: TS34.121-1-REL-12-12.0.0
 title:
 - content: 'User Equipment (UE) conformance specification; Radio transmission and
     reception (FDD); Part 1: Conformance specification'
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.121-1/34121-1-c00.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/34_series/34.121-1/34121-1-c00.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 34.121-1:Rel-12/12.0.0
+- id: 3GPP TS 34.121-1:REL-12/12.0.0
   type: 3GPP
   primary: true
-docnumber: TS 34.121-1:Rel-12/12.0.0
+docnumber: TS 34.121-1:REL-12/12.0.0
 date:
-- type: created
-  value: '2015-07-10'
 - type: published
   value: '2015-12-14'
-- type: confirmed
-  value: '2007-09-28'
 contributor:
 - organization:
     name:
@@ -41,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: ZIRÉN, Mikael
+      given:
+        forename:
+        - content: Mikael
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Zirén
         language:
         - en
         script:
@@ -50,7 +53,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Nanjing Ericsson Panda Com Ltd
+        - content: NANJING ERICSSON PANDA COMMUNICATIONS LTD
   role:
   - type: author
 revdate: '2015-12-14'
@@ -58,27 +61,102 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
+relation:
+- type: adoptedAs
+  bibitem:
+    id: TS34.121-1-REL-12-12.0.0
+    title:
+    - content: 'User Equipment (UE) conformance specification; Radio transmission
+        and reception (FDD); Part 1: Conformance specification'
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.3gpp.org/ftp/Specs/archive/34_series/34.121-1/34121-1-c00.zip
+      type: src
+    type: standard
+    docid:
+    - id: 3GPP TS 34.121-1:REL-12/12.0.0
+      type: 3GPP
+      primary: true
+    docnumber: TS 34.121-1:REL-12/12.0.0
+    date:
+    - type: published
+      value: '2016-03-17'
+    contributor:
+    - organization:
+        name:
+        - content: 3rd Generation Partnership Project
+        abbreviation:
+          content: 3GPP
+        contact:
+        - address:
+            street:
+            - c/o ETSI 650, route des Lucioles
+            - 3GPP Mobile Competence Centre
+            city: Sophia Antipolis Cedex
+            country: France
+            postcode: '06921'
+      role:
+      - type: author
+      - type: publisher
+    - person:
+        name:
+          given:
+            forename:
+            - content: Mikael
+              language:
+              - en
+              script:
+              - Latn
+          surname:
+            content: Zirén
+            language:
+            - en
+            script:
+            - Latn
+        affiliation:
+        - organization:
+            name:
+            - content: NANJING ERICSSON PANDA COMMUNICATIONS LTD
+      role:
+      - type: author
+    revdate: '2016-03-17'
+    language:
+    - en
+    script:
+    - Latn
+    place:
+    - Sophia Antipolis Cedex, France
+    doctype:
+      type: TS
+    editorialgroup:
+    - name: R5
+      type: prime
+    release:
+      wpm_code_2g: GSM_Release_12
+      wpm_code_3g: 3G4G_Rel-12
+      freeze_stage1_meeting: SA#59
+      freeze_stage2_meeting: SA#62
+      freeze_stage3_meeting: SA#65
+      project_start: '2011-06-26'
+      project_end: '2015-03-13'
+  description:
+    content: equivalent
+    format: text/plain
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: R5
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: c
-  version3g: c
-  defunct: false
   wpm_code_2g: GSM_Release_12
   wpm_code_3g: 3G4G_Rel-12
-  freeze_meeting: SP-65
-  freeze_stage1_meeting: SP-59
-  freeze_stage2_meeting: SP-62
-  freeze_stage3_meeting: SP-65
-  project_start: '2010-06-01'
+  freeze_stage1_meeting: SA#59
+  freeze_stage2_meeting: SA#62
+  freeze_stage3_meeting: SA#65
+  project_start: '2011-06-26'
   project_end: '2015-03-13'

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TS11.10-Ph1-3.13.0
 title:
 - content: Mobile Station Conformity Specification
@@ -30,8 +30,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: LEGRAND, Walter
+      given:
+        forename:
+        - content: Walter
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Legrand
         language:
         - en
         script:
@@ -42,36 +49,26 @@ contributor:
         - content: Airbus Group SAS
   role:
   - type: author
-biblionote:
-- content: 1993-06
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
-- name: G3new
+- name: R5
   type: prime
-- name: S1 / G3new / CP / SCP
+- name: R5
   type: other
-- name: SMG07  /  SMG01  /  SMG02 / SMG03 / SMG04 / SMG09
-  type: former
+- name: S1
+  type: other
+- name: CP
+  type: other
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '3'
-  version3g: "-"
-  defunct: true
   wpm_code_2g: GSM_PH1
-  freeze_meeting: gsm-25b
-  freeze_stage1_meeting: GSM-25b
-  freeze_stage2_meeting: GSM-25b
-  freeze_stage3_meeting: GSM-25b
-  close_meeting: SMG-17
+  close_meeting: SA#25
+  project_start: '1982-12-07'

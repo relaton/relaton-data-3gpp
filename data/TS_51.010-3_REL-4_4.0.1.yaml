@@ -1,25 +1,23 @@
 ---
-schema-version: v1.2.3
-id: TS51.010-3-Rel-4-4.0.1
+schema-version: v1.2.9
+id: TS51.010-3-REL-4-4.0.1
 title:
 - content: 'Mobile Station (MS) conformance specification; Part 3: Layer3 (L3) Abstract
     Test Suite (ATS)'
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/51_series/51.010-3/51010-3-401.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/51_series/51.010-3/51010-3-401.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 51.010-3:Rel-4/4.0.1
+- id: 3GPP TS 51.010-3:REL-4/4.0.1
   type: 3GPP
   primary: true
-docnumber: TS 51.010-3:Rel-4/4.0.1
+docnumber: TS 51.010-3:REL-4/4.0.1
 date:
 - type: published
   value: '2000-10-24'
-- type: confirmed
-  value: '2004-09-23'
 contributor:
 - organization:
     name:
@@ -39,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: GENOUD, Olivier
+      given:
+        forename:
+        - content: Olivier
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Genoud
         language:
         - en
         script:
@@ -48,7 +53,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: ETSI
+        - content: European Telecommunications Standards Institute
   role:
   - type: author
 revdate: '2000-10-24'
@@ -56,32 +61,25 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: R5
   type: prime
-- name: CP, S1
+- name: S1
   type: other
-- name: SMG07 / SMG01 / SMG02 / SMG03 / SMG04 / SMG09
-  type: former
+- name: CP
+  type: other
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '4'
-  version3g: '4'
-  defunct: true
   wpm_code_2g: GSM_Release_4
   wpm_code_3g: 3G_Rel-4
-  freeze_meeting: SP-11
-  freeze_stage1_meeting: SP-11
-  freeze_stage2_meeting: SP-11
-  freeze_stage3_meeting: SP-11
-  close_meeting: SP-65
-  project_start: '1999-12-01'
+  freeze_stage1_meeting: SA-#11
+  freeze_stage2_meeting: SA-#11
+  freeze_stage3_meeting: SA-#11
+  close_meeting: SA#65
+  project_start: '1998-08-01'
   project_end: '2001-06-21'

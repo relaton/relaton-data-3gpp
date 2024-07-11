@@ -1,24 +1,22 @@
 ---
-schema-version: v1.2.3
-id: TS45.001-Rel-16-16.0.0
+schema-version: v1.2.9
+id: TS45.001-REL-16-16.0.0
 title:
 - content: GSM/EDGE Physical layer on the radio path; General description
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp//Specs/archive/45_series/45.001/45001-g00.zip
+- content: https://www.3gpp.org/ftp//Specs/archive/45_series/45.001/45001-g00.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 45.001:Rel-16/16.0.0
+- id: 3GPP TS 45.001:REL-16/16.0.0
   type: 3GPP
   primary: true
-docnumber: TS 45.001:Rel-16/16.0.0
+docnumber: TS 45.001:REL-16/16.0.0
 date:
 - type: published
   value: '2020-07-19'
-- type: confirmed
-  value: '2003-03-05'
 contributor:
 - organization:
     name:
@@ -38,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: CHEN, Jun
+      given:
+        forename:
+        - content: Jun
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Chen
         language:
         - en
         script:
@@ -47,38 +52,26 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: HiSilicon Technologies Co. Ltd
+        - content: HiSilicon Technologies Co.Ltd
   role:
   - type: author
 revdate: '2020-07-19'
-biblionote:
-- content: upgraded
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: RP
   type: prime
-- name: SMG02
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: g
-  version3g: g
-  defunct: false
   wpm_code_2g: GSM_Release_16
   wpm_code_3g: 3G4G5G_Rel-16
-  freeze_meeting: SA#88-e
   freeze_stage1_meeting: SA#82
   freeze_stage2_meeting: SA#84
   freeze_stage3_meeting: SA#88-e

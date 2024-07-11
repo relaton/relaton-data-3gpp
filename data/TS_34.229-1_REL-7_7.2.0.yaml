@@ -1,6 +1,6 @@
 ---
-schema-version: v1.2.3
-id: TS34.229-1-Rel-7-7.2.0
+schema-version: v1.2.9
+id: TS34.229-1-REL-7-7.2.0
 title:
 - content: 'Internet Protocol (IP) multimedia call control protocol based on Session
     Initiation Protocol (SIP) and Session Description Protocol (SDP); User Equipment
@@ -8,21 +8,17 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.229-1/34229-1-720.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/34_series/34.229-1/34229-1-720.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 34.229-1:Rel-7/7.2.0
+- id: 3GPP TS 34.229-1:REL-7/7.2.0
   type: 3GPP
   primary: true
-docnumber: TS 34.229-1:Rel-7/7.2.0
+docnumber: TS 34.229-1:REL-7/7.2.0
 date:
-- type: created
-  value: '2008-06-17'
 - type: published
   value: '2008-06-17'
-- type: confirmed
-  value: '2010-04-11'
 contributor:
 - organization:
     name:
@@ -42,8 +38,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: HAGENFELDT, Calle
+      given:
+        forename:
+        - content: Calle
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hagenfeldt
         language:
         - en
         script:
@@ -51,7 +54,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Ericsson LM
+        - content: Ericsson Telefonaktiebolaget LM
   role:
   - type: author
 revdate: '2008-06-17'
@@ -59,29 +62,21 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: R5
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
-common-ims-spec: true
 release:
-  version2g: '7'
-  version3g: '7'
-  defunct: true
   wpm_code_2g: GSM_Release_7
   wpm_code_3g: 3G_Rel-7
-  freeze_meeting: SP-35
-  freeze_stage1_meeting: SP-29
-  freeze_stage2_meeting: SP-33
-  freeze_stage3_meeting: SP-35
-  close_meeting: SP-65
-  project_start: '2003-12-01'
+  freeze_stage1_meeting: SA#29
+  freeze_stage2_meeting: SA#33
+  freeze_stage3_meeting: SA#35
+  close_meeting: SA#65
+  project_start: '2003-10-06'
   project_end: '2008-03-13'

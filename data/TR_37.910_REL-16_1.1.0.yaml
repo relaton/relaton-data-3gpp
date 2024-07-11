@@ -1,19 +1,19 @@
 ---
-schema-version: v1.2.3
-id: TR37.910-Rel-16-1.1.0
+schema-version: v1.2.9
+id: TR37.910-REL-16-1.1.0
 title:
 - content: Study on self evaluation towards IMT-2020 submission
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp//Specs/archive/37_series/37.910/37910-110.zip
+- content: https://www.3gpp.org/ftp//Specs/archive/37_series/37.910/37910-110.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 37.910:Rel-16/1.1.0
+- id: 3GPP TR 37.910:REL-16/1.1.0
   type: 3GPP
   primary: true
-docnumber: TR 37.910:Rel-16/1.1.0
+docnumber: TR 37.910:REL-16/1.1.0
 date:
 - type: published
   value: '2019-02-19'
@@ -36,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: WU, Yong
+      given:
+        forename:
+        - content: Yong
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Wu
         language:
         - en
         script:
@@ -49,34 +56,30 @@ contributor:
   role:
   - type: author
 revdate: '2019-02-19'
-biblionote:
-- content: RP-182786
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: RP
   type: prime
-- name: R1, R2, R4, Ritu
+- name: Ritu
+  type: other
+- name: R1
+  type: other
+- name: R2
+  type: other
+- name: R4
   type: other
 ext:
   schema-version: v1.0.1
-radiotechnology: 5G
 release:
-  version2g: g
-  version3g: g
-  defunct: false
   wpm_code_2g: GSM_Release_16
   wpm_code_3g: 3G4G5G_Rel-16
-  freeze_meeting: SA#88-e
   freeze_stage1_meeting: SA#82
   freeze_stage2_meeting: SA#84
   freeze_stage3_meeting: SA#88-e

@@ -1,12 +1,12 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TS04.02-Ph2-4.0.4
 title:
 - content: GSM Public Land Mobile Network (PLMN) Access Reference Configuration
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/04_series/04.02/0402-404.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/04_series/04.02/0402-404.zip
   type: src
 type: standard
 docid:
@@ -36,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: WASS, Mikael
+      given:
+        forename:
+        - content: Ivo
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Sedlacek
         language:
         - en
         script:
@@ -45,38 +52,24 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Ericsson LM
+        - content: Ericsson Telefonaktiebolaget LM
   role:
   - type: author
 revdate: '1996-01-19'
-biblionote:
-- content: "#7: 4.0.1"
-  type: remark
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: C1
   type: prime
-- name: N1  /  SMG03A
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '4'
-  version3g: "-"
-  defunct: true
   wpm_code_2g: GSM_PH2
-  freeze_meeting: smg-11b
-  freeze_stage1_meeting: SMG-11b
-  freeze_stage2_meeting: SMG-11b
-  freeze_stage3_meeting: SMG-11b
-  close_meeting: SP-25
+  close_meeting: SA#25
+  project_start: '1993-03-25'

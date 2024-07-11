@@ -1,19 +1,16 @@
 ---
-schema-version: v1.2.3
-id: TS22.258-Rel-7-0.2.0
+schema-version: v1.2.9
+id: TS22.258-REL-7-0.2.0
 title:
 - content: Service requirements for an All-IP Network (AIPN); Stage 1
   format: text/plain
   type: main
 type: standard
 docid:
-- id: 3GPP TS 22.258:Rel-7/0.2.0
+- id: 3GPP TS 22.258:REL-7/0.2.0
   type: 3GPP
   primary: true
-docnumber: TS 22.258:Rel-7/0.2.0
-date:
-- type: confirmed
-  value: '2005-07-27'
+docnumber: TS 22.258:REL-7/0.2.0
 contributor:
 - organization:
     name:
@@ -33,8 +30,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: SACHNO, Chris
+      given:
+        forename:
+        - content: Chris
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Sachno
         language:
         - en
         script:
@@ -45,36 +49,25 @@ contributor:
         - content: NTT DOCOMO INC.
   role:
   - type: author
-biblionote:
-- content: '2005-08-02: May be postponed to Rel-8 since later stages will not be ready
-    for Rel-7. SP-31: Withdrawn from Rel-7, becomes Rel-8.'
-  type: remark
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: S1
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '7'
-  version3g: '7'
-  defunct: true
   wpm_code_2g: GSM_Release_7
   wpm_code_3g: 3G_Rel-7
-  freeze_meeting: SP-35
-  freeze_stage1_meeting: SP-29
-  freeze_stage2_meeting: SP-33
-  freeze_stage3_meeting: SP-35
-  close_meeting: SP-65
-  project_start: '2003-12-01'
+  freeze_stage1_meeting: SA#29
+  freeze_stage2_meeting: SA#33
+  freeze_stage3_meeting: SA#35
+  close_meeting: SA#65
+  project_start: '2003-10-06'
   project_end: '2008-03-13'

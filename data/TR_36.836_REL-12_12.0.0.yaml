@@ -1,25 +1,21 @@
 ---
-schema-version: v1.2.3
-id: TR36.836-Rel-12-12.0.0
+schema-version: v1.2.9
+id: TR36.836-REL-12-12.0.0
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA); Study on mobile relay
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.836/36836-c00.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.836/36836-c00.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.836:Rel-12/12.0.0
+- id: 3GPP TR 36.836:REL-12/12.0.0
   type: 3GPP
   primary: true
-docnumber: TR 36.836:Rel-12/12.0.0
+docnumber: TR 36.836:REL-12/12.0.0
 date:
-- type: created
-  value: '2014-06-27'
 - type: published
-  value: '2014-06-27'
-- type: confirmed
   value: '2014-06-27'
 contributor:
 - organization:
@@ -40,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: HU, Haijing
+      given:
+        forename:
+        - content: Haijing
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hu
         language:
         - en
         script:
@@ -49,38 +52,29 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: CATT
+        - content: China Academy of Telecommunication Technology - (Datang Telecom
+            Technology and Industry Group)
   role:
   - type: author
 revdate: '2014-06-27'
-biblionote:
-- content: 'RP-60: WI was stopped at RP-60, but this was probably an accident. Expect
-    rescussitation at RP-61. Meanwhile, this TR is in limbo.'
-  type: remark
-- content: approval based on v2.1.0
-  type: comment
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: R3
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: LTE
 release:
-  version2g: c
-  version3g: c
-  defunct: false
   wpm_code_2g: GSM_Release_12
   wpm_code_3g: 3G4G_Rel-12
-  freeze_meeting: SP-65
-  freeze_stage1_meeting: SP-59
-  freeze_stage2_meeting: SP-62
-  freeze_stage3_meeting: SP-65
-  project_start: '2010-06-01'
+  freeze_stage1_meeting: SA#59
+  freeze_stage2_meeting: SA#62
+  freeze_stage3_meeting: SA#65
+  project_start: '2011-06-26'
   project_end: '2015-03-13'

@@ -1,26 +1,22 @@
 ---
-schema-version: v1.2.3
-id: TS29.168-Rel-10-10.3.1
+schema-version: v1.2.9
+id: TS29.168-REL-10-10.3.1
 title:
 - content: Cell Broadcast Centre interfaces with the Evolved Packet Core;  Stage 3
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.168/29168-a31.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/29_series/29.168/29168-a31.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 29.168:Rel-10/10.3.1
+- id: 3GPP TS 29.168:REL-10/10.3.1
   type: 3GPP
   primary: true
-docnumber: TS 29.168:Rel-10/10.3.1
+docnumber: TS 29.168:REL-10/10.3.1
 date:
-- type: created
-  value: '2016-02-03'
 - type: published
   value: '2016-02-03'
-- type: confirmed
-  value: '2009-06-24'
 contributor:
 - organization:
     name:
@@ -40,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: TAMURA, Toshiyuki
+      given:
+        forename:
+        - content: Toshiyuki
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Tamura
         language:
         - en
         script:
@@ -53,34 +56,24 @@ contributor:
   role:
   - type: author
 revdate: '2016-02-03'
-biblionote:
-- content: Corrects history table
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: C4
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: a
-  version3g: a
-  defunct: false
   wpm_code_2g: GSM_Release_10
   wpm_code_3g: 3G4G_Rel-10
-  freeze_meeting: SP-51
-  freeze_stage1_meeting: SP-47
-  freeze_stage2_meeting: SP-49
-  freeze_stage3_meeting: SP-51
-  project_start: '2009-03-01'
+  freeze_stage1_meeting: SA#47
+  freeze_stage2_meeting: SA#49
+  freeze_stage3_meeting: SA#51
+  project_start: '2009-01-20'
   project_end: '2011-06-08'

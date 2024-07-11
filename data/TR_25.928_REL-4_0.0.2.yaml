@@ -1,16 +1,16 @@
 ---
-schema-version: v1.2.3
-id: TR25.928-Rel-4-0.0.2
+schema-version: v1.2.9
+id: TR25.928-REL-4-0.0.2
 title:
 - content: 1,28 Mcps functionality for UTRA TDD physical layer
   format: text/plain
   type: main
 type: standard
 docid:
-- id: 3GPP TR 25.928:Rel-4/0.0.2
+- id: 3GPP TR 25.928:REL-4/0.0.2
   type: 3GPP
   primary: true
-docnumber: TR 25.928:Rel-4/0.0.2
+docnumber: TR 25.928:REL-4/0.0.2
 contributor:
 - organization:
     name:
@@ -30,8 +30,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: AKSENTIJEVIC, Mirko
+      given:
+        forename:
+        - content: Mirko
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Aksentijevic
         language:
         - en
         script:
@@ -42,41 +49,27 @@ contributor:
         - content: Nokia Corporation
   role:
   - type: author
-biblionote:
-- content: 'RP-15: Not to be promoted to Rel-5.'
-  type: remark
-- content: RP-000091
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: RP
   type: prime
 - name: R1
   type: other
-- name: R1
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: '4'
-  version3g: '4'
-  defunct: true
   wpm_code_2g: GSM_Release_4
   wpm_code_3g: 3G_Rel-4
-  freeze_meeting: SP-11
-  freeze_stage1_meeting: SP-11
-  freeze_stage2_meeting: SP-11
-  freeze_stage3_meeting: SP-11
-  close_meeting: SP-65
-  project_start: '1999-12-01'
+  freeze_stage1_meeting: SA-#11
+  freeze_stage2_meeting: SA-#11
+  freeze_stage3_meeting: SA-#11
+  close_meeting: SA#65
+  project_start: '1998-08-01'
   project_end: '2001-06-21'

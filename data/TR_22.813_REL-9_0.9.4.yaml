@@ -1,6 +1,6 @@
 ---
-schema-version: v1.2.3
-id: TR22.813-Rel-9-0.9.4
+schema-version: v1.2.9
+id: TR22.813-REL-9-0.9.4
 title:
 - content: Study of use cases and requirements for enhanced voice codecs for the Evolved
     Packet System (EPS)
@@ -8,13 +8,10 @@ title:
   type: main
 type: standard
 docid:
-- id: 3GPP TR 22.813:Rel-9/0.9.4
+- id: 3GPP TR 22.813:REL-9/0.9.4
   type: 3GPP
   primary: true
-docnumber: TR 22.813:Rel-9/0.9.4
-date:
-- type: confirmed
-  value: '2010-03-31'
+docnumber: TR 22.813:REL-9/0.9.4
 contributor:
 - organization:
     name:
@@ -34,8 +31,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: LOTTIN, Philippe
+      given:
+        forename:
+        - content: Philippe
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Lottin
         language:
         - en
         script:
@@ -46,22 +50,14 @@ contributor:
         - content: Orange
   role:
   - type: author
-biblionote:
-- content: 'SP-46: impasse @ S4. Likely to be delayed to Rel-10. S1 work complete,
-    awaits S4 work.'
-  type: remark
-- content: cited in S4 report to SP-45
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: S1
   type: prime
@@ -69,16 +65,11 @@ editorialgroup:
   type: other
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '9'
-  version3g: '9'
-  defunct: false
   wpm_code_2g: GSM_Release_9
   wpm_code_3g: 3G_Rel-9
-  freeze_meeting: SP-46
-  freeze_stage1_meeting: SP-42
-  freeze_stage2_meeting: SP-44
-  freeze_stage3_meeting: SP-46
-  project_start: '2007-06-01'
+  freeze_stage1_meeting: SA#42
+  freeze_stage2_meeting: SA#44
+  freeze_stage3_meeting: SA#46
+  project_start: '2008-03-06'
   project_end: '2010-03-25'

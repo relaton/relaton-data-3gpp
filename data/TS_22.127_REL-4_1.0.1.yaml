@@ -1,19 +1,16 @@
 ---
-schema-version: v1.2.3
-id: TS22.127-Rel-4-1.0.1
+schema-version: v1.2.9
+id: TS22.127-REL-4-1.0.1
 title:
 - content: Service requirement for the Open Services Access (OSA); Stage 1
   format: text/plain
   type: main
 type: standard
 docid:
-- id: 3GPP TS 22.127:Rel-4/1.0.1
+- id: 3GPP TS 22.127:REL-4/1.0.1
   type: 3GPP
   primary: true
-docnumber: TS 22.127:Rel-4/1.0.1
-date:
-- type: confirmed
-  value: '2005-06-24'
+docnumber: TS 22.127:REL-4/1.0.1
 contributor:
 - organization:
     name:
@@ -33,8 +30,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: SWETINA, Joerg
+      given:
+        forename:
+        - content: Joerg
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Swetina
         language:
         - en
         script:
@@ -49,29 +53,21 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: S1
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
-common-ims-spec: true
 release:
-  version2g: '4'
-  version3g: '4'
-  defunct: true
   wpm_code_2g: GSM_Release_4
   wpm_code_3g: 3G_Rel-4
-  freeze_meeting: SP-11
-  freeze_stage1_meeting: SP-11
-  freeze_stage2_meeting: SP-11
-  freeze_stage3_meeting: SP-11
-  close_meeting: SP-65
-  project_start: '1999-12-01'
+  freeze_stage1_meeting: SA-#11
+  freeze_stage2_meeting: SA-#11
+  freeze_stage3_meeting: SA-#11
+  close_meeting: SA#65
+  project_start: '1998-08-01'
   project_end: '2001-06-21'

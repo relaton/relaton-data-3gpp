@@ -1,24 +1,22 @@
 ---
-schema-version: v1.2.3
-id: TR37.816-Rel-16-0.2.0
+schema-version: v1.2.9
+id: TR37.816-REL-16-0.2.0
 title:
 - content: Study on RAN-centric data collection and utilization for LTE and NR
   format: text/plain
   type: main
 link:
-- content: http://ftp.3gpp.org//Specs/archive/37_series/37.816/37816-020.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/37_series/37.816/37816-020.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 37.816:Rel-16/0.2.0
+- id: 3GPP TR 37.816:REL-16/0.2.0
   type: 3GPP
   primary: true
-docnumber: TR 37.816:Rel-16/0.2.0
+docnumber: TR 37.816:REL-16/0.2.0
 date:
 - type: published
   value: '2019-03-29'
-- type: confirmed
-  value: '2019-06-20'
 contributor:
 - organization:
     name:
@@ -38,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: LIU, Liang
+      given:
+        forename:
+        - content: Liang
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: LIU
         language:
         - en
         script:
@@ -47,7 +52,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: China Mobile International Ltd
+        - content: China Mobile International Limited
   role:
   - type: author
 revdate: '2019-03-29'
@@ -57,20 +62,16 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: R3
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: LTE
 release:
-  version2g: g
-  version3g: g
-  defunct: false
   wpm_code_2g: GSM_Release_16
   wpm_code_3g: 3G4G5G_Rel-16
-  freeze_meeting: SA#88-e
   freeze_stage1_meeting: SA#82
   freeze_stage2_meeting: SA#84
   freeze_stage3_meeting: SA#88-e

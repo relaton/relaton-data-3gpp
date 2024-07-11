@@ -1,6 +1,6 @@
 ---
-schema-version: v1.2.3
-id: TR28.900-Rel-15-0.1.1
+schema-version: v1.2.9
+id: TR28.900-REL-15-0.1.1
 title:
 - content: 'Telecommunications management; Study on integration of Open Network Automation
     Platform (ONAP) ata Collection, Analytics and Events (DCAE) and 3GPP reference
@@ -8,14 +8,14 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/28_series/28.900/28900-011.zip
+- content: https://www.3gpp.org/ftp//Specs/archive/28_series/28.900/28900-011.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 28.900:Rel-15/0.1.1
+- id: 3GPP TR 28.900:REL-15/0.1.1
   type: 3GPP
   primary: true
-docnumber: TR 28.900:Rel-15/0.1.1
+docnumber: TR 28.900:REL-15/0.1.1
 date:
 - type: published
   value: '2018-01-11'
@@ -38,8 +38,36 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: CORNILY, Jean Michel
+      given:
+        forename:
+        - content: David K.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Smith
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: AT&T Global Network Services Belgium SPRL
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Jean Michel
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Cornily
         language:
         - en
         script:
@@ -51,32 +79,22 @@ contributor:
   role:
   - type: author
 revdate: '2018-01-11'
-biblionote:
-- content: Editorial changes (MCC)
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: S5
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: LTE
 release:
-  version2g: f
-  version3g: f
-  defunct: false
   wpm_code_2g: GSM_Release_15
   wpm_code_3g: 3G4G5G_Rel-15
-  freeze_meeting: SA#83
   freeze_stage1_meeting: SA#76
   freeze_stage2_meeting: SA#78
   freeze_stage3_meeting: SA#83

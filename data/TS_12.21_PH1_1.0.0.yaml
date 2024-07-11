@@ -1,12 +1,12 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TS12.21-Ph1-1.0.0
 title:
 - content: Network Management (NM) procedures and messages on the A-bis interface
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/12_series/12.21/1221-100.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/12_series/12.21/1221-100.zip
   type: src
 type: standard
 docid:
@@ -17,8 +17,6 @@ docnumber: TS 12.21:Ph1/1.0.0
 date:
 - type: published
   value: '1995-01-01'
-- type: confirmed
-  value: '2002-05-06'
 contributor:
 - organization:
     name:
@@ -38,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: TOCHE, Christian
+      given:
+        forename:
+        - content: Christian
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Toche
         language:
         - en
         script:
@@ -55,29 +60,18 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
-- name: G1
+- name: R6
   type: prime
 - name: S5
   type: other
-- name: SMG06 / SMG02
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '3'
-  version3g: "-"
-  defunct: true
   wpm_code_2g: GSM_PH1
-  freeze_meeting: gsm-25b
-  freeze_stage1_meeting: GSM-25b
-  freeze_stage2_meeting: GSM-25b
-  freeze_stage3_meeting: GSM-25b
-  close_meeting: SMG-17
+  close_meeting: SA#25
+  project_start: '1982-12-07'

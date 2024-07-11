@@ -1,19 +1,19 @@
 ---
-schema-version: v1.2.3
-id: TR38.847-Rel-17-0.3.0
+schema-version: v1.2.9
+id: TR38.847-REL-17-0.3.0
 title:
 - content: New frequency range for NR (47.2 – 48.2 GHz)
   format: text/plain
   type: main
 link:
-- content: https://ftp.3gpp.org//Specs/archive/38_series/38.847/38847-030.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.847/38847-030.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 38.847:Rel-17/0.3.0
+- id: 3GPP TR 38.847:REL-17/0.3.0
   type: 3GPP
   primary: true
-docnumber: TR 38.847:Rel-17/0.3.0
+docnumber: TR 38.847:REL-17/0.3.0
 date:
 - type: published
   value: '2021-05-11'
@@ -36,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: EVERAERE, Dominique
+      given:
+        forename:
+        - content: Dominique
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Everaere
         language:
         - en
         script:
@@ -55,22 +62,18 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: R4
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 5G
 release:
-  version2g: h
-  version3g: h
-  defunct: false
   wpm_code_2g: GSM_Release_17
   wpm_code_3g: 3G4G5G_Rel-17
-  freeze_meeting: SA#95-e
   freeze_stage1_meeting: SA#86
   freeze_stage2_meeting: SA#92-e
   freeze_stage3_meeting: SA#95
   project_start: '2018-06-15'
-  project_end: '2022-03-25'
+  project_end: '2022-06-10'

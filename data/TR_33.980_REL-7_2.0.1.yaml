@@ -1,6 +1,6 @@
 ---
-schema-version: v1.2.3
-id: TR33.980-Rel-7-2.0.1
+schema-version: v1.2.9
+id: TR33.980-REL-7-2.0.1
 title:
 - content: Liberty Alliance and 3GPP security interworking; Interworking of Liberty
     Alliance Identity Federation Framework (ID-FF), Identity Web Services Framework
@@ -8,21 +8,17 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.980/33980-201.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/33_series/33.980/33980-201.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.980:Rel-7/2.0.1
+- id: 3GPP TR 33.980:REL-7/2.0.1
   type: 3GPP
   primary: true
-docnumber: TR 33.980:Rel-7/2.0.1
+docnumber: TR 33.980:REL-7/2.0.1
 date:
-- type: created
-  value: '2006-03-01'
 - type: published
   value: '2006-03-01'
-- type: confirmed
-  value: '2005-07-21'
 contributor:
 - organization:
     name:
@@ -42,8 +38,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: HOLTMANNS, Silke
+      given:
+        forename:
+        - content: Silke
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Holtmanns
         language:
         - en
         script:
@@ -55,37 +58,25 @@ contributor:
   role:
   - type: author
 revdate: '2006-03-01'
-biblionote:
-- content: 'SP-30: approval target SP-31.'
-  type: remark
-- content: Contains version with and without revision marks, but still shows v2.0.0
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: S3
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '7'
-  version3g: '7'
-  defunct: true
   wpm_code_2g: GSM_Release_7
   wpm_code_3g: 3G_Rel-7
-  freeze_meeting: SP-35
-  freeze_stage1_meeting: SP-29
-  freeze_stage2_meeting: SP-33
-  freeze_stage3_meeting: SP-35
-  close_meeting: SP-65
-  project_start: '2003-12-01'
+  freeze_stage1_meeting: SA#29
+  freeze_stage2_meeting: SA#33
+  freeze_stage3_meeting: SA#35
+  close_meeting: SA#65
+  project_start: '2003-10-06'
   project_end: '2008-03-13'

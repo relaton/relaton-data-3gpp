@@ -1,12 +1,12 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TS04.82-Ph2-4.9.0
 title:
 - content: Call Forwarding (CF) Supplementary Services; Stage 3
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/04_series/04.82/0482-490.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/04_series/04.82/0482-490.zip
   type: src
 type: standard
 docid:
@@ -36,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: WIEHE, Ulrich
+      given:
+        forename:
+        - content: Ulrich
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Wiehe
         language:
         - en
         script:
@@ -45,38 +52,24 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Nokia Solutions & Networks (S)
+        - content: Nokia Solutions and Networks (shanghai) Ltd.
   role:
   - type: author
 revdate: '1996-02-02'
-biblionote:
-- content: "#7: 4.6.0   #11: 4.7.0   #12: 4.8.0  #17: 4.9.0"
-  type: remark
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: C4
   type: prime
-- name: N4  /  SMG03?
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '4'
-  version3g: "-"
-  defunct: true
   wpm_code_2g: GSM_PH2
-  freeze_meeting: smg-11b
-  freeze_stage1_meeting: SMG-11b
-  freeze_stage2_meeting: SMG-11b
-  freeze_stage3_meeting: SMG-11b
-  close_meeting: SP-25
+  close_meeting: SA#25
+  project_start: '1993-03-25'

@@ -1,24 +1,22 @@
 ---
-schema-version: v1.2.3
-id: TR25.992-Rel-6-2.0.2
+schema-version: v1.2.9
+id: TR25.992-REL-6-2.0.2
 title:
 - content: Multimedia Broadcast/Multicast Service (MBMS); UTRAN/GERAN requirements
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.992/25992-202.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/25_series/25.992/25992-202.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.992:Rel-6/2.0.2
+- id: 3GPP TR 25.992:REL-6/2.0.2
   type: 3GPP
   primary: true
-docnumber: TR 25.992:Rel-6/2.0.2
+docnumber: TR 25.992:REL-6/2.0.2
 date:
 - type: published
   value: '2003-09-29'
-- type: confirmed
-  value: '2011-04-06'
 contributor:
 - organization:
     name:
@@ -38,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: PIRSKANEN, Juho
+      given:
+        forename:
+        - content: Juho
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Pirskanen
         language:
         - en
         script:
@@ -47,23 +52,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Nokia Networks
+        - content: Nokia Solutions and Networks GmbH & Co. KG
   role:
   - type: author
 revdate: '2003-09-29'
-biblionote:
-- content: RP-030426
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: RP
   type: prime
@@ -71,17 +71,12 @@ editorialgroup:
   type: other
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '6'
-  version3g: '6'
-  defunct: true
   wpm_code_2g: GSM_Release_6
   wpm_code_3g: 3G_Rel-6
-  freeze_meeting: SP-27
-  freeze_stage1_meeting: SP-26
-  freeze_stage2_meeting: SP-26
-  freeze_stage3_meeting: SP-27
-  close_meeting: SP-65
-  project_start: '2001-12-01'
+  freeze_stage1_meeting: SA#26
+  freeze_stage2_meeting: SA#26
+  freeze_stage3_meeting: SA#27
+  close_meeting: SA#65
+  project_start: '2000-03-28'
   project_end: '2005-09-28'

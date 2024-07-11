@@ -1,26 +1,22 @@
 ---
-schema-version: v1.2.3
-id: TR22.986-Rel-9-9.0.0
+schema-version: v1.2.9
+id: TR22.986-REL-9-9.0.0
 title:
 - content: Study on Service Specific Access Control
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.986/22986-900.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/22_series/22.986/22986-900.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.986:Rel-9/9.0.0
+- id: 3GPP TR 22.986:REL-9/9.0.0
   type: 3GPP
   primary: true
-docnumber: TR 22.986:Rel-9/9.0.0
+docnumber: TR 22.986:REL-9/9.0.0
 date:
-- type: created
-  value: '2008-12-19'
 - type: published
   value: '2008-12-19'
-- type: confirmed
-  value: '2011-04-08'
 contributor:
 - organization:
     name:
@@ -40,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: ISOBE, Shin-ichi
+      given:
+        forename:
+        - content: Shin-ichi
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Isobe
         language:
         - en
         script:
@@ -57,27 +60,20 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: S1
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: '9'
-  version3g: '9'
-  defunct: false
   wpm_code_2g: GSM_Release_9
   wpm_code_3g: 3G_Rel-9
-  freeze_meeting: SP-46
-  freeze_stage1_meeting: SP-42
-  freeze_stage2_meeting: SP-44
-  freeze_stage3_meeting: SP-46
-  project_start: '2007-06-01'
+  freeze_stage1_meeting: SA#42
+  freeze_stage2_meeting: SA#44
+  freeze_stage3_meeting: SA#46
+  project_start: '2008-03-06'
   project_end: '2010-03-25'

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TS04.08-Ph1-3.8.0
 title:
 - content: Mobile radio interface layer 3 specification
@@ -11,9 +11,6 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TS 04.08:Ph1/3.8.0
-date:
-- type: confirmed
-  value: '2010-08-23'
 contributor:
 - organization:
     name:
@@ -33,8 +30,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: BURBIDGE, Richard
+      given:
+        forename:
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Burbidge
         language:
         - en
         script:
@@ -49,29 +53,20 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: C1
   type: prime
-- name: G2
+- name: R6
   type: other
-- name: N1  /  SMG03A / SMG02
-  type: former
+- name: R6
+  type: other
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '3'
-  version3g: "-"
-  defunct: true
   wpm_code_2g: GSM_PH1
-  freeze_meeting: gsm-25b
-  freeze_stage1_meeting: GSM-25b
-  freeze_stage2_meeting: GSM-25b
-  freeze_stage3_meeting: GSM-25b
-  close_meeting: SMG-17
+  close_meeting: SA#25
+  project_start: '1982-12-07'

@@ -1,12 +1,12 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TS02.82-Ph2-4.5.2
 title:
 - content: Call Forwarding (CF) Supplementary Services; Stage 1
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/02_series/02.82/0282-452.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/02_series/02.82/0282-452.zip
   type: src
 type: standard
 docid:
@@ -36,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: DONG, Song
+      given:
+        forename:
+        - content: Song
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Dong
         language:
         - en
         script:
@@ -49,34 +56,20 @@ contributor:
   role:
   - type: author
 revdate: '1995-10-20'
-biblionote:
-- content: "#7: 4.4.2   #10: 4.5.0  #16: 4.5.2"
-  type: remark
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: S1
   type: prime
-- name: S1  /  SMG01
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '4'
-  version3g: "-"
-  defunct: true
   wpm_code_2g: GSM_PH2
-  freeze_meeting: smg-11b
-  freeze_stage1_meeting: SMG-11b
-  freeze_stage2_meeting: SMG-11b
-  freeze_stage3_meeting: SMG-11b
-  close_meeting: SP-25
+  close_meeting: SA#25
+  project_start: '1993-03-25'

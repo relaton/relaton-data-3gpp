@@ -1,6 +1,6 @@
 ---
-schema-version: v1.2.3
-id: TS38.101-3-Rel-17-17.0.0
+schema-version: v1.2.9
+id: TS38.101-3-REL-17-17.0.0
 title:
 - content: 'NR; User Equipment (UE) radio transmission and reception; Part 3: Range
     1 and Range 2 Interworking operation with other radios'
@@ -11,15 +11,13 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 38.101-3:Rel-17/17.0.0
+- id: 3GPP TS 38.101-3:REL-17/17.0.0
   type: 3GPP
   primary: true
-docnumber: TS 38.101-3:Rel-17/17.0.0
+docnumber: TS 38.101-3:REL-17/17.0.0
 date:
 - type: published
   value: '2021-01-12'
-- type: confirmed
-  value: '2019-01-02'
 contributor:
 - organization:
     name:
@@ -39,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: VINTOLA, Ville
+      given:
+        forename:
+        - content: Ville
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Vintola
         language:
         - en
         script:
@@ -56,27 +61,20 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: R4
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 5G
 release:
-  version2g: h
-  version3g: h
-  defunct: false
   wpm_code_2g: GSM_Release_17
   wpm_code_3g: 3G4G5G_Rel-17
-  freeze_meeting: SA#95-e
   freeze_stage1_meeting: SA#86
   freeze_stage2_meeting: SA#92-e
   freeze_stage3_meeting: SA#95
   project_start: '2018-06-15'
-  project_end: '2022-03-25'
+  project_end: '2022-06-10'

@@ -1,12 +1,12 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TS06.41-Ph1-4.0.2
 title:
 - content: Discontinuous Transmission (DTX) for Half Rate Speech Traffic Channels
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/06_series/06.41/0641-402.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/06_series/06.41/0641-402.zip
   type: src
 type: standard
 docid:
@@ -36,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: USAI, Paolino
+      given:
+        forename:
+        - content: Paolino
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Usai
         language:
         - en
         script:
@@ -45,7 +52,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: ETSI
+        - content: European Telecommunications Standards Institute
   role:
   - type: author
 revdate: '1995-12-19'
@@ -53,27 +60,16 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: S4
   type: prime
-- name: SMG11
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '3'
-  version3g: "-"
-  defunct: true
   wpm_code_2g: GSM_PH1
-  freeze_meeting: gsm-25b
-  freeze_stage1_meeting: GSM-25b
-  freeze_stage2_meeting: GSM-25b
-  freeze_stage3_meeting: GSM-25b
-  close_meeting: SMG-17
+  close_meeting: SA#25
+  project_start: '1982-12-07'

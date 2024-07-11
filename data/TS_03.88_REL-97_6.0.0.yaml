@@ -1,0 +1,75 @@
+---
+schema-version: v1.2.9
+id: TS03.88-REL-97-6.0.0
+title:
+- content: Call Barring (CB) supplementary services; Stage 2
+  format: text/plain
+  type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/03_series/03.88/0388-600.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 03.88:REL-97/6.0.0
+  type: 3GPP
+  primary: true
+docnumber: TS 03.88:REL-97/6.0.0
+date:
+- type: published
+  value: '1998-10-16'
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Ulrich
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Wiehe
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Nokia Solutions and Networks (shanghai) Ltd.
+  role:
+  - type: author
+revdate: '1998-10-16'
+language:
+- en
+script:
+- Latn
+place:
+- Sophia Antipolis Cedex, France
+doctype:
+  type: TS
+editorialgroup:
+- name: C4
+  type: prime
+ext:
+  schema-version: v1.0.1
+release:
+  wpm_code_2g: GSM_Release_97
+  close_meeting: SA#28
+  project_start: '1996-04-15'

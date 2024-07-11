@@ -1,6 +1,6 @@
 ---
-schema-version: v1.2.3
-id: TS48.001-Rel-10-10.0.0
+schema-version: v1.2.9
+id: TS48.001-REL-10-10.0.0
 title:
 - content: Base Station System - Mobile-services Switching Centre (BSS - MSC) interface;
     General aspects
@@ -8,13 +8,10 @@ title:
   type: main
 type: standard
 docid:
-- id: 3GPP TS 48.001:Rel-10/10.0.0
+- id: 3GPP TS 48.001:REL-10/10.0.0
   type: 3GPP
   primary: true
-docnumber: TS 48.001:Rel-10/10.0.0
-date:
-- type: confirmed
-  value: '2005-02-14'
+docnumber: TS 48.001:REL-10/10.0.0
 contributor:
 - organization:
     name:
@@ -34,8 +31,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: ANDERSEN, Niels Peter Skov
+      given:
+        forename:
+        - content: Niels Peter Skov
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Andersen
         language:
         - en
         script:
@@ -46,38 +50,24 @@ contributor:
         - content: Anemone Technology
   role:
   - type: author
-biblionote:
-- content: Upgraded from previous Release without technical change
-  type: remark
-- content: Automatic upgrade from previous Release version 9.0.0
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: RP
   type: prime
-- name: SMG02
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: a
-  version3g: a
-  defunct: false
   wpm_code_2g: GSM_Release_10
   wpm_code_3g: 3G4G_Rel-10
-  freeze_meeting: SP-51
-  freeze_stage1_meeting: SP-47
-  freeze_stage2_meeting: SP-49
-  freeze_stage3_meeting: SP-51
-  project_start: '2009-03-01'
+  freeze_stage1_meeting: SA#47
+  freeze_stage2_meeting: SA#49
+  freeze_stage3_meeting: SA#51
+  project_start: '2009-01-20'
   project_end: '2011-06-08'

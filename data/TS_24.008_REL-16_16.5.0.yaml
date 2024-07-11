@@ -1,25 +1,23 @@
 ---
-schema-version: v1.2.3
-id: TS24.008-Rel-16-16.5.0
+schema-version: v1.2.9
+id: TS24.008-REL-16-16.5.0
 title:
 - content: Mobile radio interface Layer 3 specification; Core network protocols; Stage
     3
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp//Specs/archive/24_series/24.008/24008-g50.zip
+- content: https://www.3gpp.org/ftp//Specs/archive/24_series/24.008/24008-g50.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 24.008:Rel-16/16.5.0
+- id: 3GPP TS 24.008:REL-16/16.5.0
   type: 3GPP
   primary: true
-docnumber: TS 24.008:Rel-16/16.5.0
+docnumber: TS 24.008:REL-16/16.5.0
 date:
 - type: published
   value: '2020-07-09'
-- type: confirmed
-  value: '2001-10-05'
 contributor:
 - organization:
     name:
@@ -39,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: CHIN, ChenHo
+      given:
+        forename:
+        - content: ChenHo
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: CHIN
         language:
         - en
         script:
@@ -48,7 +53,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Guangdong OPPO Mobile Telecom.
+        - content: Guangdong OPPO Mobile Telecommunications Corp., Ltd
   role:
   - type: author
 revdate: '2020-07-09'
@@ -56,33 +61,18 @@ language:
 - en
 script:
 - Latn
-abstract:
-- content: "This specification describes the procedures used at the radio interface
-    for CC, MM and SM.\r\nThe procedures currently described are for the CC of circuit-switched
-    connections, SM for GPRS services, MM and radio resource management for circuit-switched
-    and GPRS services."
-  format: text/plain
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: C1
   type: prime
-- name: N1
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: g
-  version3g: g
-  defunct: false
   wpm_code_2g: GSM_Release_16
   wpm_code_3g: 3G4G5G_Rel-16
-  freeze_meeting: SA#88-e
   freeze_stage1_meeting: SA#82
   freeze_stage2_meeting: SA#84
   freeze_stage3_meeting: SA#88-e

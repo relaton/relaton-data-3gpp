@@ -1,19 +1,19 @@
 ---
-schema-version: v1.2.3
-id: TR23.792-Rel-16-16.0.0
+schema-version: v1.2.9
+id: TR23.792-REL-16-16.0.0
 title:
 - content: Study on MBMS APIs for Mission Critical Services
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp//Specs/archive/23_series/23.792/23792-g00.zip
+- content: https://www.3gpp.org/ftp//Specs/archive/23_series/23.792/23792-g00.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.792:Rel-16/16.0.0
+- id: 3GPP TR 23.792:REL-16/16.0.0
   type: 3GPP
   primary: true
-docnumber: TR 23.792:Rel-16/16.0.0
+docnumber: TR 23.792:REL-16/16.0.0
 date:
 - type: published
   value: '2018-06-22'
@@ -36,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: AMOGH, Niranth
+      given:
+        forename:
+        - content: Niranth
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Amogh
         language:
         - en
         script:
@@ -45,7 +52,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: HUAWEI TECHNOLOGIES Co. Ltd.
+        - content: Huawei Technologies Co. Ltd.
   role:
   - type: author
 revdate: '2018-06-22'
@@ -55,20 +62,16 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: S6
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: LTE
 release:
-  version2g: g
-  version3g: g
-  defunct: false
   wpm_code_2g: GSM_Release_16
   wpm_code_3g: 3G4G5G_Rel-16
-  freeze_meeting: SA#88-e
   freeze_stage1_meeting: SA#82
   freeze_stage2_meeting: SA#84
   freeze_stage3_meeting: SA#88-e

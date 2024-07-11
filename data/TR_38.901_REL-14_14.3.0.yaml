@@ -1,24 +1,22 @@
 ---
-schema-version: v1.2.3
-id: TR38.901-Rel-14-14.3.0
+schema-version: v1.2.9
+id: TR38.901-REL-14-14.3.0
 title:
 - content: Study on channel model for frequencies from 0.5 to 100 GHz
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.901/38901-e30.zip
+- content: https://www.3gpp.org/ftp//Specs/archive/38_series/38.901/38901-e30.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 38.901:Rel-14/14.3.0
+- id: 3GPP TR 38.901:REL-14/14.3.0
   type: 3GPP
   primary: true
-docnumber: TR 38.901:Rel-14/14.3.0
+docnumber: TR 38.901:REL-14/14.3.0
 date:
 - type: published
   value: '2018-01-05'
-- type: confirmed
-  value: '2017-03-31'
 contributor:
 - organization:
     name:
@@ -38,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: JANG, Youngrok
+      given:
+        forename:
+        - content: Youngrok
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Jang
         language:
         - en
         script:
@@ -47,7 +52,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Samsung Electronics Co., Ltd
+        - content: Samsung Electronics Co., Ltd.
   role:
   - type: author
 revdate: '2018-01-05'
@@ -55,27 +60,24 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: R1
   type: prime
-- name: R2, R3, R4
+- name: R2
+  type: other
+- name: R3
+  type: other
+- name: R4
   type: other
 ext:
   schema-version: v1.0.1
-radiotechnology: 5G
 release:
-  version2g: e
-  version3g: e
-  defunct: false
   wpm_code_2g: GSM_Release_14
   wpm_code_3g: 3G4G_Rel-14
-  freeze_meeting: SA#75
   freeze_stage1_meeting: SA#71
   freeze_stage2_meeting: SA#73
   freeze_stage3_meeting: SA#75

@@ -1,19 +1,19 @@
 ---
-schema-version: v1.2.3
-id: TR23.930-Rel-4-4.0.0
+schema-version: v1.2.9
+id: TR23.930-REL-4-4.0.0
 title:
 - content: Iu principles
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.930/23930-400.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/23_series/23.930/23930-400.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.930:Rel-4/4.0.0
+- id: 3GPP TR 23.930:REL-4/4.0.0
   type: 3GPP
   primary: true
-docnumber: TR 23.930:Rel-4/4.0.0
+docnumber: TR 23.930:REL-4/4.0.0
 date:
 - type: published
   value: '2001-04-11'
@@ -36,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: AXERUD, Bo
+      given:
+        forename:
+        - content: Bo
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Axerud
         language:
         - en
         script:
@@ -45,7 +52,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: NOKIA TELECOMMUNICATIONS
+        - content: NOKIA TELECOMMUNICATIONS FINLAND
   role:
   - type: author
 revdate: '2001-04-11'
@@ -53,34 +60,21 @@ language:
 - en
 script:
 - Latn
-abstract:
-- content: This specification describes the requirements on the Iu and studies relevant
-    principles to guide further standardization of the related interface(s).
-  format: text/plain
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: S2
   type: prime
-- name: S2
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: '4'
-  version3g: '4'
-  defunct: true
   wpm_code_2g: GSM_Release_4
   wpm_code_3g: 3G_Rel-4
-  freeze_meeting: SP-11
-  freeze_stage1_meeting: SP-11
-  freeze_stage2_meeting: SP-11
-  freeze_stage3_meeting: SP-11
-  close_meeting: SP-65
-  project_start: '1999-12-01'
+  freeze_stage1_meeting: SA-#11
+  freeze_stage2_meeting: SA-#11
+  freeze_stage3_meeting: SA-#11
+  close_meeting: SA#65
+  project_start: '1998-08-01'
   project_end: '2001-06-21'

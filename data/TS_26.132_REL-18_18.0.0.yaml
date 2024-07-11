@@ -1,19 +1,22 @@
 ---
-schema-version: v1.2.3
-id: TS26.132-Rel-18-18.0.0
+schema-version: v1.2.9
+id: TS26.132-REL-18-18.0.0
 title:
 - content: Speech and video telephony terminal acoustic test specification
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/26_series/26.132/26132-i00.zip
+  type: src
 type: standard
 docid:
-- id: 3GPP TS 26.132:Rel-18/18.0.0
+- id: 3GPP TS 26.132:REL-18/18.0.0
   type: 3GPP
   primary: true
-docnumber: TS 26.132:Rel-18/18.0.0
+docnumber: TS 26.132:REL-18/18.0.0
 date:
-- type: confirmed
-  value: '2007-02-22'
+- type: published
+  value: '2023-01-06'
 contributor:
 - organization:
     name:
@@ -33,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: REIMES, Jan
+      given:
+        forename:
+        - content: Jan
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Reimes
         language:
         - en
         script:
@@ -45,32 +55,25 @@ contributor:
         - content: HEAD acoustics GmbH
   role:
   - type: author
+revdate: '2023-01-06'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: S4
   type: prime
-- name: S4
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: i
-  version3g: i
-  defunct: false
   wpm_code_2g: GSM_Release_18
   wpm_code_3g: 3G4G5G_Rel-18
-  freeze_meeting: SA#102
   freeze_stage1_meeting: SA#94-e
-  freeze_stage2_meeting: SA#99
-  freeze_stage3_meeting: SA#102
+  freeze_stage2_meeting: SA#100
+  freeze_stage3_meeting: SA#103
   project_start: '2019-09-16'
+  project_end: '2024-06-21'

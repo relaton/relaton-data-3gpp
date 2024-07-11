@@ -1,12 +1,12 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TS02.09-Ph2-4.2.1
 title:
 - content: Security aspects
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/02_series/02.09/0209-421.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/02_series/02.09/0209-421.zip
   type: src
 type: standard
 docid:
@@ -17,8 +17,6 @@ docnumber: TS 02.09:Ph2/4.2.1
 date:
 - type: published
   value: '1993-06-25'
-- type: confirmed
-  value: '2002-02-06'
 contributor:
 - organization:
     name:
@@ -38,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: CHRISTOFFERSSON, Per
+      given:
+        forename:
+        - content: Per
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Christoffersson
         language:
         - en
         script:
@@ -55,29 +60,20 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: S3
   type: prime
-- name: S1 / CP
+- name: S1
   type: other
-- name: SMG10  /  SMG01  /  SMG03
-  type: former
+- name: CP
+  type: other
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '4'
-  version3g: "-"
-  defunct: true
   wpm_code_2g: GSM_PH2
-  freeze_meeting: smg-11b
-  freeze_stage1_meeting: SMG-11b
-  freeze_stage2_meeting: SMG-11b
-  freeze_stage3_meeting: SMG-11b
-  close_meeting: SP-25
+  close_meeting: SA#25
+  project_start: '1993-03-25'

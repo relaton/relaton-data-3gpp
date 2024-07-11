@@ -1,6 +1,6 @@
 ---
-schema-version: v1.2.3
-id: TS44.160-Rel-5-5.4.0
+schema-version: v1.2.9
+id: TS44.160-REL-5-5.4.0
 title:
 - content: General Packet Radio Service (GPRS); Mobile Station (MS) - Base Station
     System (BSS) interface; Radio Link Control / Medium Access Control (RLC/MAC) protocol
@@ -8,19 +8,17 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/44_series/44.160/44160-540.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/44_series/44.160/44160-540.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 44.160:Rel-5/5.4.0
+- id: 3GPP TS 44.160:REL-5/5.4.0
   type: 3GPP
   primary: true
-docnumber: TS 44.160:Rel-5/5.4.0
+docnumber: TS 44.160:REL-5/5.4.0
 date:
 - type: published
   value: '2003-04-29'
-- type: confirmed
-  value: '2011-04-01'
 contributor:
 - organization:
     name:
@@ -40,8 +38,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: SEBIRE, Guillaume
+      given:
+        forename:
+        - content: Guillaume
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Sebire
         language:
         - en
         script:
@@ -49,7 +54,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: MediaTek Inc.
+        - content: MediaTek Incorporated
   role:
   - type: author
 revdate: '2003-04-29'
@@ -57,28 +62,21 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: RP
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '5'
-  version3g: '5'
-  defunct: true
   wpm_code_2g: GSM_Release_5
   wpm_code_3g: 3G_Rel-5
-  freeze_meeting: SP-15
-  freeze_stage1_meeting: SP-15
-  freeze_stage2_meeting: SP-15
-  freeze_stage3_meeting: SP-15
-  close_meeting: SP-65
-  project_start: '2000-03-01'
+  freeze_stage1_meeting: SA-#15
+  freeze_stage2_meeting: SA-#15
+  freeze_stage3_meeting: SA-#15
+  close_meeting: SA#65
+  project_start: '2000-05-01'
   project_end: '2002-09-12'

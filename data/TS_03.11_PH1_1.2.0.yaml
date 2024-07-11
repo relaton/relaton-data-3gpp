@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TS03.11-Ph1-1.2.0
 title:
 - content: Technical Realization of Supplementary Services - General Aspects
@@ -30,8 +30,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: KOZA, Yvette
+      given:
+        forename:
+        - content: Yvette
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Koza
         language:
         - en
         script:
@@ -42,34 +49,20 @@ contributor:
         - content: Deutsche Telekom AG
   role:
   - type: author
-biblionote:
-- content: cited in GSM01_1991-07-01_Reading TD3
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: C4
   type: prime
-- name: N4  /  SMG03?
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '3'
-  version3g: "-"
-  defunct: true
   wpm_code_2g: GSM_PH1
-  freeze_meeting: gsm-25b
-  freeze_stage1_meeting: GSM-25b
-  freeze_stage2_meeting: GSM-25b
-  freeze_stage3_meeting: GSM-25b
-  close_meeting: SMG-17
+  close_meeting: SA#25
+  project_start: '1982-12-07'

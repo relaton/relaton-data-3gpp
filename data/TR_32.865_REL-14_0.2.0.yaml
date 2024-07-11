@@ -1,20 +1,20 @@
 ---
-schema-version: v1.2.3
-id: TR32.865-Rel-14-0.2.0
+schema-version: v1.2.9
+id: TR32.865-REL-14-0.2.0
 title:
 - content: Study on Operations, Administration and Maintenance (OAM) aspects of Self-Organizing
     Network (SON)  for Active Antenna System (AAS) based deployments
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.865/32865-020.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/32_series/32.865/32865-020.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 32.865:Rel-14/0.2.0
+- id: 3GPP TR 32.865:REL-14/0.2.0
   type: 3GPP
   primary: true
-docnumber: TR 32.865:Rel-14/0.2.0
+docnumber: TR 32.865:REL-14/0.2.0
 date:
 - type: published
   value: '2016-05-11'
@@ -37,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: WANG, Weixing
+      given:
+        forename:
+        - content: Weixing
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: WANG
         language:
         - en
         script:
@@ -50,32 +57,22 @@ contributor:
   role:
   - type: author
 revdate: '2016-05-11'
-biblionote:
-- content: S6-162315
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: S5
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: LTE
 release:
-  version2g: e
-  version3g: e
-  defunct: false
   wpm_code_2g: GSM_Release_14
   wpm_code_3g: 3G4G_Rel-14
-  freeze_meeting: SA#75
   freeze_stage1_meeting: SA#71
   freeze_stage2_meeting: SA#73
   freeze_stage3_meeting: SA#75

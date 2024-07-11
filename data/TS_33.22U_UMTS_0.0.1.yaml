@@ -1,12 +1,12 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.9
 id: TS33.22U-UMTS-0.0.1
 title:
 - content: Security Features
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.22U/3322U-001.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/33_series/33.22U/3322U-001.zip
   type: src
 type: standard
 docid:
@@ -39,25 +39,16 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
-editorialgroup:
-- name: SMG10
-  type: prime
+doctype:
+  type: TS
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: '3'
-  version3g: '3'
-  defunct: true
-  freeze_meeting: SMG-28
-  freeze_stage1_meeting: SMG-28
-  freeze_stage2_meeting: SMG-28
-  freeze_stage3_meeting: SMG-28
-  close_meeting: SP-28
+  freeze_stage1_meeting: SMG-#28
+  freeze_stage2_meeting: SMG-#28
+  freeze_stage3_meeting: SMG-#28
+  close_meeting: SA#28
+  project_start: '1994-08-18'
   project_end: '1999-02-12'

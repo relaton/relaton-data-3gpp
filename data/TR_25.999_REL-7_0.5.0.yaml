@@ -1,26 +1,22 @@
 ---
-schema-version: v1.2.3
-id: TR25.999-Rel-7-0.5.0
+schema-version: v1.2.9
+id: TR25.999-REL-7-0.5.0
 title:
 - content: High Speed Packet Access (HSPA) evolution; Frequency Division Duplex (FDD)
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.999/25999-050.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/25_series/25.999/25999-050.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.999:Rel-7/0.5.0
+- id: 3GPP TR 25.999:REL-7/0.5.0
   type: 3GPP
   primary: true
-docnumber: TR 25.999:Rel-7/0.5.0
+docnumber: TR 25.999:REL-7/0.5.0
 date:
-- type: created
-  value: '2006-11-19'
 - type: published
   value: '2006-11-19'
-- type: confirmed
-  value: '2007-12-19'
 contributor:
 - organization:
     name:
@@ -40,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: GRANT, Marc
+      given:
+        forename:
+        - content: Marc
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Grant
         language:
         - en
         script:
@@ -49,41 +52,37 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: AT&T GNS Belgium SPRL
+        - content: AT&T Global Network Services Belgium SPRL
   role:
   - type: author
 revdate: '2006-11-19'
-biblionote:
-- content: R2-063591
-  type: comment
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: RP
   type: prime
-- name: R1, R2, R3, R4
+- name: R1
+  type: other
+- name: R2
+  type: other
+- name: R3
+  type: other
+- name: R4
   type: other
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: '7'
-  version3g: '7'
-  defunct: true
   wpm_code_2g: GSM_Release_7
   wpm_code_3g: 3G_Rel-7
-  freeze_meeting: SP-35
-  freeze_stage1_meeting: SP-29
-  freeze_stage2_meeting: SP-33
-  freeze_stage3_meeting: SP-35
-  close_meeting: SP-65
-  project_start: '2003-12-01'
+  freeze_stage1_meeting: SA#29
+  freeze_stage2_meeting: SA#33
+  freeze_stage3_meeting: SA#35
+  close_meeting: SA#65
+  project_start: '2003-10-06'
   project_end: '2008-03-13'

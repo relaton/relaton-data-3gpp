@@ -1,25 +1,23 @@
 ---
-schema-version: v1.2.3
-id: TS36.579-4-Rel-13-1.0.0
+schema-version: v1.2.9
+id: TS36.579-4-REL-13-1.0.0
 title:
 - content: 'Mission Critical (MC) services over LTE; Part 4: Test Applicability and
     Implementation Conformance Statement (ICS) proforma specification'
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.579-4/36579-4-100.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.579-4/36579-4-100.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 36.579-4:Rel-13/1.0.0
+- id: 3GPP TS 36.579-4:REL-13/1.0.0
   type: 3GPP
   primary: true
-docnumber: TS 36.579-4:Rel-13/1.0.0
+docnumber: TS 36.579-4:REL-13/1.0.0
 date:
 - type: published
   value: '2017-12-11'
-- type: confirmed
-  value: '2018-10-03'
 contributor:
 - organization:
     name:
@@ -39,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: KAHN, Jason
+      given:
+        forename:
+        - content: Jason
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kahn
         language:
         - en
         script:
@@ -48,7 +53,28 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: NIST
+        - content: National Institute of Standards and Technology
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Stoyan
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Baev
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Samsung R&D Institute UK
   role:
   - type: author
 revdate: '2017-12-11'
@@ -56,28 +82,20 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: R5
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: LTE
-common-ims-spec: true
 release:
-  version2g: d
-  version3g: d
-  defunct: false
   wpm_code_2g: GSM_Release_13
   wpm_code_3g: 3G4G_Rel-13
-  freeze_meeting: SP-70
-  freeze_stage1_meeting: SP-65
-  freeze_stage2_meeting: SP-68
-  freeze_stage3_meeting: SP-70
-  project_start: '2012-12-30'
+  freeze_stage1_meeting: SA#65
+  freeze_stage2_meeting: SA#68
+  freeze_stage3_meeting: SA#70
+  project_start: '2012-09-30'
   project_end: '2016-03-11'

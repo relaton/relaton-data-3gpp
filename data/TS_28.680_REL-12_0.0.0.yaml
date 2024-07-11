@@ -1,23 +1,21 @@
 ---
-schema-version: v1.2.3
-id: TS28.680-Rel-12-0.0.0
+schema-version: v1.2.9
+id: TS28.680-REL-12-0.0.0
 title:
 - content: Telecommunication management; Wireless Local Area Network (WLAN) management;
     Concepts and requirements
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/28_series/28.680/28680-000.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/28_series/28.680/28680-000.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 28.680:Rel-12/0.0.0
+- id: 3GPP TS 28.680:REL-12/0.0.0
   type: 3GPP
   primary: true
-docnumber: TS 28.680:Rel-12/0.0.0
+docnumber: TS 28.680:REL-12/0.0.0
 date:
-- type: created
-  value: '2014-01-14'
 - type: published
   value: '2014-01-14'
 contributor:
@@ -39,8 +37,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: CHOU, Joey
+      given:
+        forename:
+        - content: Joey
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Chou
         language:
         - en
         script:
@@ -52,34 +57,24 @@ contributor:
   role:
   - type: author
 revdate: '2014-01-14'
-biblionote:
-- content: 'SP-65: timed out of Rel-12.'
-  type: remark
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: S5
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
 release:
-  version2g: c
-  version3g: c
-  defunct: false
   wpm_code_2g: GSM_Release_12
   wpm_code_3g: 3G4G_Rel-12
-  freeze_meeting: SP-65
-  freeze_stage1_meeting: SP-59
-  freeze_stage2_meeting: SP-62
-  freeze_stage3_meeting: SP-65
-  project_start: '2010-06-01'
+  freeze_stage1_meeting: SA#59
+  freeze_stage2_meeting: SA#62
+  freeze_stage3_meeting: SA#65
+  project_start: '2011-06-26'
   project_end: '2015-03-13'

@@ -1,26 +1,22 @@
 ---
-schema-version: v1.2.3
-id: TS22.097-Rel-9-9.0.0
+schema-version: v1.2.9
+id: TS22.097-REL-9-9.0.0
 title:
 - content: Multiple Subscriber Profile (MSP) Phase 2; Service description; Stage 1
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.097/22097-900.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/22_series/22.097/22097-900.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TS 22.097:Rel-9/9.0.0
+- id: 3GPP TS 22.097:REL-9/9.0.0
   type: 3GPP
   primary: true
-docnumber: TS 22.097:Rel-9/9.0.0
+docnumber: TS 22.097:REL-9/9.0.0
 date:
-- type: created
-  value: '2009-12-20'
 - type: published
   value: '2009-12-20'
-- type: confirmed
-  value: '2005-03-22'
 contributor:
 - organization:
     name:
@@ -40,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: DEOL, Amar
+      given:
+        forename:
+        - content: Amar
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Deol
         language:
         - en
         script:
@@ -49,51 +52,28 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: HUAWEI TECHNOLOGIES Co. Ltd.
+        - content: Huawei Technologies Co. Ltd.
   role:
   - type: author
 revdate: '2009-12-20'
-biblionote:
-- content: Upgraded from previous Release without technical change
-  type: remark
-- content: Automatic upgrade from previous Release
-  type: comment
 language:
 - en
 script:
 - Latn
-abstract:
-- content: "MSP is an optional service to enable mobile subscribers to have several
-    profiles associated with a single subscriber identity (SIM) and a single international
-    mobile subscriber identity (IMSI), with each profile being a subscription option.
-    Each profile may be used for mobile originated and mobile terminated calls. \r\nUp
-    to four different profiles can be provisioned against a subscriber using the MSP
-    feature. This will allow the subscriber to separate her telecommunication service
-    needs into different identities (e.g. business and home)."
-  format: text/plain
-docstatus:
-  stage:
-    value: published
 place:
 - Sophia Antipolis Cedex, France
-doctype: TS
+doctype:
+  type: TS
 editorialgroup:
 - name: S1
   type: prime
-- name: S1
-  type: former
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
 release:
-  version2g: '9'
-  version3g: '9'
-  defunct: false
   wpm_code_2g: GSM_Release_9
   wpm_code_3g: 3G_Rel-9
-  freeze_meeting: SP-46
-  freeze_stage1_meeting: SP-42
-  freeze_stage2_meeting: SP-44
-  freeze_stage3_meeting: SP-46
-  project_start: '2007-06-01'
+  freeze_stage1_meeting: SA#42
+  freeze_stage2_meeting: SA#44
+  freeze_stage3_meeting: SA#46
+  project_start: '2008-03-06'
   project_end: '2010-03-25'

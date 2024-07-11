@@ -1,6 +1,6 @@
 ---
-schema-version: v1.2.3
-id: TR37.716-11-11-Rel-16-0.2.0
+schema-version: v1.2.9
+id: TR37.716-11-11-REL-16-0.2.0
 title:
 - content: E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity
     (EN-DC) of 1 band  LTE (1 Down Link (DL) / 1 Up Link (UL)) and 1 NR band (1 DL
@@ -8,14 +8,14 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp//Specs/archive/37_series/37.716-11-11/37716-11-11-020.zip
+- content: https://www.3gpp.org/ftp//Specs/archive/37_series/37.716-11-11/37716-11-11-020.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 37.716-11-11:Rel-16/0.2.0
+- id: 3GPP TR 37.716-11-11:REL-16/0.2.0
   type: 3GPP
   primary: true
-docnumber: TR 37.716-11-11:Rel-16/0.2.0
+docnumber: TR 37.716-11-11:REL-16/0.2.0
 date:
 - type: published
   value: '2020-02-28'
@@ -38,8 +38,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: OGUMA, Yuta
+      given:
+        forename:
+        - content: Yuta
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Oguma
         language:
         - en
         script:
@@ -51,29 +58,22 @@ contributor:
   role:
   - type: author
 revdate: '2020-02-28'
-biblionote:
-- content: R4-1815067
-  type: comment
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: R4
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: LTE
 release:
-  version2g: g
-  version3g: g
-  defunct: false
   wpm_code_2g: GSM_Release_16
   wpm_code_3g: 3G4G5G_Rel-16
-  freeze_meeting: SA#88-e
   freeze_stage1_meeting: SA#82
   freeze_stage2_meeting: SA#84
   freeze_stage3_meeting: SA#88-e

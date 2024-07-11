@@ -1,22 +1,20 @@
 ---
-schema-version: v1.2.3
-id: TR36.876-Rel-13-0.1.0
+schema-version: v1.2.9
+id: TR36.876-REL-13-0.1.0
 title:
 - content: Study on further enhancements of small cell high layer aspects for LTE
   format: text/plain
   type: main
 link:
-- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.876/36876-010.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.876/36876-010.zip
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.876:Rel-13/0.1.0
+- id: 3GPP TR 36.876:REL-13/0.1.0
   type: 3GPP
   primary: true
-docnumber: TR 36.876:Rel-13/0.1.0
+docnumber: TR 36.876:REL-13/0.1.0
 date:
-- type: created
-  value: '2015-03-18'
 - type: published
   value: '2015-03-18'
 contributor:
@@ -38,8 +36,15 @@ contributor:
   - type: publisher
 - person:
     name:
-      completename:
-        content: HAN, Feng
+      given:
+        forename:
+        - content: Feng
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Han
         language:
         - en
         script:
@@ -47,7 +52,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: HUAWEI TECHNOLOGIES Co. Ltd.
+        - content: Huawei Technologies Co. Ltd.
   role:
   - type: author
 revdate: '2015-03-18'
@@ -57,22 +62,18 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype: TR
+doctype:
+  type: TR
 editorialgroup:
 - name: R3
   type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: LTE
 release:
-  version2g: d
-  version3g: d
-  defunct: false
   wpm_code_2g: GSM_Release_13
   wpm_code_3g: 3G4G_Rel-13
-  freeze_meeting: SP-70
-  freeze_stage1_meeting: SP-65
-  freeze_stage2_meeting: SP-68
-  freeze_stage3_meeting: SP-70
-  project_start: '2012-12-30'
+  freeze_stage1_meeting: SA#65
+  freeze_stage2_meeting: SA#68
+  freeze_stage3_meeting: SA#70
+  project_start: '2012-09-30'
   project_end: '2016-03-11'
