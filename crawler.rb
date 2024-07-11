@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-system("sudo apt-get install mdbtools")
-
 mode = ARGV.shift || ""
 mode = mode == "force" ? "-#{mode}" : ""
 
