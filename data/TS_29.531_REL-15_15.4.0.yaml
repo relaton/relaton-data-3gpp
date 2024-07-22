@@ -44,7 +44,7 @@ contributor:
           script:
           - Latn
       surname:
-        content: Jing
+        content: Zhang
         language:
         - en
         script:
@@ -52,7 +52,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Huawei Technologies Co. Ltd.
+        - content: China Mobile Communications Corporation (CMCC)
   role:
   - type: author
 revdate: '2019-06-13'

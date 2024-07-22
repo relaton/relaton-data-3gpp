@@ -5,12 +5,18 @@ title:
 - content: UE requirements for 3Tx inter-band UL CA and EN-DC
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.880/38880-030.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 38.880:REL-18/0.3.0
   type: 3GPP
   primary: true
 docnumber: TR 38.880:REL-18/0.3.0
+date:
+- type: published
+  value: '2024-06-01'
 contributor:
 - organization:
     name:
@@ -49,6 +55,7 @@ contributor:
         - content: Beijing OPPO Telecommunications Corp., ltd.
   role:
   - type: author
+revdate: '2024-06-01'
 language:
 - en
 script:

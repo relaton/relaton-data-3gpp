@@ -38,13 +38,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Wenliang
+        - content: Tianmei
           language:
           - en
           script:
           - Latn
       surname:
-        content: Xu
+        content: Liang
         language:
         - en
         script:
@@ -52,7 +52,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Ericsson India Private Limited
+        - content: Ericsson Telefonaktiebolaget LM
   role:
   - type: author
 revdate: '2023-06-26'

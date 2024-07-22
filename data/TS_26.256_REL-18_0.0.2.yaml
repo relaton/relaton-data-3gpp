@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: TS26.256-REL-18-0.0.2
 title:
-- content: Codec for Immersive Voice and Audio Services - Jitter Buffer Management
+- content: Codec for Immersive Voice and Audio Services (IVAS); Jitter Buffer Management
   format: text/plain
   type: main
 link:

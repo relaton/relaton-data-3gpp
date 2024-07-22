@@ -5,12 +5,18 @@ title:
 - content: Rel-18 Dual Connectivity (DC) of 1 band LTE (1DL/1UL) and 1 NR band (1DL/1UL)
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/37_series/37.718-11-11/37718-11-11-140.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 37.718-11-11:REL-18/1.4.0
   type: 3GPP
   primary: true
 docnumber: TR 37.718-11-11:REL-18/1.4.0
+date:
+- type: published
+  value: '2024-06-01'
 contributor:
 - organization:
     name:
@@ -50,6 +56,7 @@ contributor:
             Co.
   role:
   - type: author
+revdate: '2024-06-01'
 language:
 - en
 script:

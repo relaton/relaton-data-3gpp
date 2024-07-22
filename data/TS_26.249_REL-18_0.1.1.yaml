@@ -2,7 +2,8 @@
 schema-version: v1.2.9
 id: TS26.249-REL-18-0.1.1
 title:
-- content: Immersive Audio for Split Rendering Scenarios
+- content: Immersive Audio for Split Rendering Scenarios; Detailed Algorithmic Description
+    of Split Rendering Functions
   format: text/plain
   type: main
 link:

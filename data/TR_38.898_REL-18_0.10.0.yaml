@@ -6,12 +6,18 @@ title:
     1, 2, 3, 4; y=1, 2; m<3)
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.898/38898-0a0.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 38.898:REL-18/0.10.0
   type: 3GPP
   primary: true
 docnumber: TR 38.898:REL-18/0.10.0
+date:
+- type: published
+  value: '2024-06-01'
 contributor:
 - organization:
     name:
@@ -50,6 +56,7 @@ contributor:
         - content: Ericsson Telefonaktiebolaget LM
   role:
   - type: author
+revdate: '2024-06-01'
 language:
 - en
 script:

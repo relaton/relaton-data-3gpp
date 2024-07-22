@@ -2,8 +2,8 @@
 schema-version: v1.2.9
 id: TS26.253-REL-18-1.0.0
 title:
-- content: Codec for Immersive Voice and Audio Services - Detailed Algorithmic Description
-    incl. RTP payload format and SDP parameter definitions
+- content: Codec for Immersive Voice and Audio Services (IVAS); Detailed Algorithmic
+    Description including RTP payload format and SDP parameter definitions
   format: text/plain
   type: main
 link:

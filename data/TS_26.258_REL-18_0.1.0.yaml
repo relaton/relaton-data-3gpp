@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: TS26.258-REL-18-0.1.0
 title:
-- content: Codec for Immersive Voice and Audio Services; C code (floating-point)
+- content: Codec for Immersive Voice and Audio Services (IVAS); C code (floating-point)
   format: text/plain
   type: main
 link:

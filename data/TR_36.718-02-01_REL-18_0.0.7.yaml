@@ -6,12 +6,18 @@ title:
     y bands (y=1,2) UL
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.718-02-01/36718-02-01-007.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 36.718-02-01:REL-18/0.0.7
   type: 3GPP
   primary: true
 docnumber: TR 36.718-02-01:REL-18/0.0.7
+date:
+- type: published
+  value: '2024-06-01'
 contributor:
 - organization:
     name:
@@ -50,6 +56,7 @@ contributor:
         - content: Huawei Technologies France
   role:
   - type: author
+revdate: '2024-06-01'
 language:
 - en
 script:

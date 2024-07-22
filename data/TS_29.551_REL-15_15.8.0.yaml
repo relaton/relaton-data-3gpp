@@ -38,13 +38,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Xingyue
+        - content: Xiaojian
           language:
           - en
           script:
           - Latn
       surname:
-        content: Zhou
+        content: Yan
         language:
         - en
         script:

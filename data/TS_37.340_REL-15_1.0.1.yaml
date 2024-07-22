@@ -2,7 +2,8 @@
 schema-version: v1.2.9
 id: TS37.340-REL-15-1.0.1
 title:
-- content: NR; Multi-connectivity; Overall description; Stage-2
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA) and NR; Multi-connectivity;
+    Overall Description; Stage-2
   format: text/plain
   type: main
 link:

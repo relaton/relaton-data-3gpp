@@ -5,12 +5,18 @@ title:
 - content: Personalisation of Mobile Equipment (ME); Mobile functionality specification
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/22_series/22.022/22022-i01.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 22.022:REL-18/18.0.1
   type: 3GPP
   primary: true
 docnumber: TS 22.022:REL-18/18.0.1
+date:
+- type: published
+  value: '2024-06-14'
 contributor:
 - organization:
     name:
@@ -49,6 +55,7 @@ contributor:
         - content: Orange
   role:
   - type: author
+revdate: '2024-06-14'
 language:
 - en
 script:

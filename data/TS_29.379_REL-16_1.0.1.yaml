@@ -39,13 +39,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Val
+        - content: Kiran
           language:
           - en
           script:
           - Latn
       surname:
-        content: Oprescu
+        content: Kapale
         language:
         - en
         script:
@@ -53,7 +53,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: AT&T
+        - content: Samsung R&D Institute India - Bangalore Pvt. Ltd
   role:
   - type: author
 revdate: '2019-06-12'

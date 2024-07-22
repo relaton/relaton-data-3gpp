@@ -2,8 +2,8 @@
 schema-version: v1.2.9
 id: TS26.255-REL-18-1.0.1
 title:
-- content: Codec for Immersive Voice and Audio Services - Error concealment of lost
-    packets
+- content: Codec for Immersive Voice and Audio Services (IVAS); Error concealment
+    of lost packets
   format: text/plain
   type: main
 link:

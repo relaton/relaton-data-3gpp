@@ -5,12 +5,18 @@ title:
 - content: Dual Connectivity of 2 bands LTE inter-band CA and 1 NR band
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/37_series/37.718-21-11/37718-21-11-0c0.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 37.718-21-11:REL-18/0.12.0
   type: 3GPP
   primary: true
 docnumber: TR 37.718-21-11:REL-18/0.12.0
+date:
+- type: published
+  value: '2024-06-01'
 contributor:
 - organization:
     name:
@@ -49,6 +55,7 @@ contributor:
         - content: Huawei Technologies (UK) Co., Ltd.
   role:
   - type: author
+revdate: '2024-06-01'
 language:
 - en
 script:

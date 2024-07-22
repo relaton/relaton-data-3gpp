@@ -7,12 +7,18 @@ title:
     power class m (m<3) and high power on TDD band(s)
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.899/38899-0a0.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 38.899:REL-18/0.10.0
   type: 3GPP
   primary: true
 docnumber: TR 38.899:REL-18/0.10.0
+date:
+- type: published
+  value: '2024-06-01'
 contributor:
 - organization:
     name:
@@ -51,6 +57,7 @@ contributor:
         - content: Huawei Technologies Research & Development (UK) Limited
   role:
   - type: author
+revdate: '2024-06-01'
 language:
 - en
 script:

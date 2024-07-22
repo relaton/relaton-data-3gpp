@@ -39,13 +39,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Val
+        - content: Magnus
           language:
           - en
           script:
           - Latn
       surname:
-        content: Oprescu
+        content: Trank
         language:
         - en
         script:
@@ -53,7 +53,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: AT&T
+        - content: Ericsson Telefonaktiebolaget LM
   role:
   - type: author
 revdate: '2019-05-23'
