@@ -55,6 +55,8 @@ contributor:
         - content: TELEFONICA S.A.
   role:
   - type: author
+version:
+- draft: 0.0.1
 revdate: '2009-07-15'
 language:
 - en

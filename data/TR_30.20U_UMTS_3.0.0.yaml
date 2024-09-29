@@ -50,6 +50,8 @@ contributor:
         - content: PHILIPS CONSUMER COMMUNICATION
   role:
   - type: author
+version:
+- draft: 3.0.0
 language:
 - en
 script:

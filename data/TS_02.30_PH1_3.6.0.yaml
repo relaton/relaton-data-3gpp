@@ -55,6 +55,8 @@ contributor:
         - content: Telecom Italia S.p.A.
   role:
   - type: author
+version:
+- draft: 3.6.0
 revdate: '1995-05-10'
 language:
 - en
@@ -69,6 +71,7 @@ editorialgroup:
   type: prime
 ext:
   schema-version: v1.0.1
+radiotechnology: 2G
 release:
   wpm_code_2g: GSM_PH1
   close_meeting: SA#25

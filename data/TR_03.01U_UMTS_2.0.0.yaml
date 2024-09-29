@@ -35,6 +35,8 @@ contributor:
   role:
   - type: author
   - type: publisher
+version:
+- draft: 2.0.0
 revdate: '1996-10-10'
 language:
 - en

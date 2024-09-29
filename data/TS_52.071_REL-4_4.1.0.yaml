@@ -55,6 +55,8 @@ contributor:
         - content: Nortel Networks (USA)
   role:
   - type: author
+version:
+- draft: 4.1.0
 revdate: '2001-10-03'
 language:
 - en
@@ -69,6 +71,7 @@ editorialgroup:
   type: prime
 ext:
   schema-version: v1.0.1
+radiotechnology: 3G
 release:
   wpm_code_2g: GSM_Release_4
   wpm_code_3g: 3G_Rel-4

@@ -55,6 +55,8 @@ contributor:
         - content: Huawei Technologies Co. Ltd.
   role:
   - type: author
+version:
+- draft: 3.1.0
 revdate: '1996-05-15'
 language:
 - en

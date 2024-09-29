@@ -55,6 +55,8 @@ contributor:
         - content: Deutsche Telekom AG
   role:
   - type: author
+version:
+- draft: 0.2.0
 revdate: '2006-09-04'
 language:
 - en
@@ -71,6 +73,7 @@ editorialgroup:
   type: other
 ext:
   schema-version: v1.0.1
+radiotechnology: 3G
 release:
   wpm_code_2g: GSM_Release_8
   wpm_code_3g: 3G_Rel-8

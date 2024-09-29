@@ -55,6 +55,8 @@ contributor:
         - content: Ericsson Telefonaktiebolaget LM
   role:
   - type: author
+version:
+- draft: 3.3.0
 revdate: '1998-07-07'
 language:
 - en

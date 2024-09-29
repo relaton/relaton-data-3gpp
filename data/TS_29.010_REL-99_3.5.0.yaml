@@ -57,6 +57,8 @@ contributor:
         - content: Huawei Technologies (UK) Co., Ltd.
   role:
   - type: author
+version:
+- draft: 3.5.0
 revdate: '2001-03-30'
 language:
 - en
@@ -71,6 +73,7 @@ editorialgroup:
   type: prime
 ext:
   schema-version: v1.0.1
+radiotechnology: 3G
 release:
   wpm_code_2g: GSM_Release_99
   wpm_code_3g: 3G_R1999

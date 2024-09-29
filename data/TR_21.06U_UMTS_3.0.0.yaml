@@ -55,6 +55,8 @@ contributor:
         - content: Vodafone GmbH
   role:
   - type: author
+version:
+- draft: 3.0.0
 revdate: '1998-03-20'
 language:
 - en

@@ -50,6 +50,8 @@ contributor:
         - content: Morpho Cards GmbH
   role:
   - type: author
+version:
+- draft: 1.3.0
 language:
 - en
 script:
@@ -63,6 +65,7 @@ editorialgroup:
   type: prime
 ext:
   schema-version: v1.0.1
+radiotechnology: 2G
 release:
   wpm_code_2g: GSM_Release_96
   close_meeting: SA#25

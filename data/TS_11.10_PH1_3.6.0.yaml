@@ -49,6 +49,8 @@ contributor:
         - content: Airbus Group SAS
   role:
   - type: author
+version:
+- draft: 3.6.0
 language:
 - en
 script:
@@ -68,6 +70,7 @@ editorialgroup:
   type: other
 ext:
   schema-version: v1.0.1
+radiotechnology: 2G
 release:
   wpm_code_2g: GSM_PH1
   close_meeting: SA#25

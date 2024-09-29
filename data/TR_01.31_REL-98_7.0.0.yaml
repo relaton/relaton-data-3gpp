@@ -56,6 +56,8 @@ contributor:
         - content: Ericsson Telefonaktiebolaget LM
   role:
   - type: author
+version:
+- draft: 7.0.0
 revdate: '1998-03-20'
 language:
 - en
@@ -70,6 +72,7 @@ editorialgroup:
   type: prime
 ext:
   schema-version: v1.0.1
+radiotechnology: 2G
 release:
   wpm_code_2g: GSM_Release_98
   freeze_stage1_meeting: SMG-#28

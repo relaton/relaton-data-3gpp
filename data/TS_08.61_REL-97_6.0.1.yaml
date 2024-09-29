@@ -56,6 +56,8 @@ contributor:
         - content: Anemone Technology
   role:
   - type: author
+version:
+- draft: 6.0.1
 revdate: '1998-11-18'
 language:
 - en
@@ -72,6 +74,7 @@ editorialgroup:
   type: other
 ext:
   schema-version: v1.0.1
+radiotechnology: 2G
 release:
   wpm_code_2g: GSM_Release_97
   close_meeting: SA#28

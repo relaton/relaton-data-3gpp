@@ -55,6 +55,8 @@ contributor:
         - content: Orange
   role:
   - type: author
+version:
+- draft: 9.0.0
 revdate: '2001-01-16'
 language:
 - en

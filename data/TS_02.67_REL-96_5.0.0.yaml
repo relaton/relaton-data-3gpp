@@ -56,6 +56,8 @@ contributor:
         - content: NEC Europe Ltd
   role:
   - type: author
+version:
+- draft: 5.0.0
 revdate: '1995-10-20'
 language:
 - en
@@ -70,6 +72,7 @@ editorialgroup:
   type: prime
 ext:
   schema-version: v1.0.1
+radiotechnology: 2G
 release:
   wpm_code_2g: GSM_Release_96
   close_meeting: SA#25

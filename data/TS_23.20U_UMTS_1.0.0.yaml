@@ -49,6 +49,8 @@ contributor:
         - content: NOKIA UK R&D Ltd
   role:
   - type: author
+version:
+- draft: 1.0.0
 language:
 - en
 script:

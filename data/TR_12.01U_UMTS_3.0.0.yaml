@@ -55,6 +55,8 @@ contributor:
         - content: NOKIA UK R&D Ltd
   role:
   - type: author
+version:
+- draft: 3.0.0
 revdate: '1995-10-12'
 language:
 - en

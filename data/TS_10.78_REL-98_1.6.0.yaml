@@ -55,6 +55,8 @@ contributor:
         - content: Vodafone GmbH
   role:
   - type: author
+version:
+- draft: 1.6.0
 revdate: '1998-03-10'
 language:
 - en
@@ -118,6 +120,8 @@ relation:
             - content: Vodafone GmbH
       role:
       - type: author
+    version:
+    - draft: 1.6.0
     revdate: '1998-06-04'
     language:
     - en
@@ -130,6 +134,7 @@ relation:
     editorialgroup:
     - name: S2
       type: prime
+    radiotechnology: 2G
     release:
       wpm_code_2g: GSM_Release_98
       freeze_stage1_meeting: SMG-#28
@@ -150,6 +155,7 @@ editorialgroup:
   type: prime
 ext:
   schema-version: v1.0.1
+radiotechnology: 2G
 release:
   wpm_code_2g: GSM_Release_98
   freeze_stage1_meeting: SMG-#28

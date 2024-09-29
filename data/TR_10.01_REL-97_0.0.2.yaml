@@ -34,6 +34,8 @@ contributor:
   role:
   - type: author
   - type: publisher
+version:
+- draft: 0.0.2
 revdate: '1997-10-23'
 language:
 - en
@@ -45,6 +47,7 @@ doctype:
   type: TR
 ext:
   schema-version: v1.0.1
+radiotechnology: 2G
 release:
   wpm_code_2g: GSM_Release_97
   close_meeting: SA#28

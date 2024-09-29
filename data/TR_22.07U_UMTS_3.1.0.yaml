@@ -49,6 +49,8 @@ contributor:
         - content: Nokia Corporation
   role:
   - type: author
+version:
+- draft: 3.1.0
 language:
 - en
 script:

@@ -49,6 +49,8 @@ contributor:
         - content: Nokia Networks Oy
   role:
   - type: author
+version:
+- draft: 2.0.0
 language:
 - en
 script:
@@ -62,6 +64,7 @@ editorialgroup:
   type: prime
 ext:
   schema-version: v1.0.1
+radiotechnology: 3G
 release:
   wpm_code_2g: GSM_Release_99
   wpm_code_3g: 3G_R1999

@@ -55,6 +55,8 @@ contributor:
         - content: FUJITSU Laboratories of Europe
   role:
   - type: author
+version:
+- draft: 3.0.0
 revdate: '1997-06-13'
 language:
 - en

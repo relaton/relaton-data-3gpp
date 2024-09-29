@@ -29,6 +29,8 @@ contributor:
   role:
   - type: author
   - type: publisher
+version:
+- draft: 0.8.0
 language:
 - en
 script:

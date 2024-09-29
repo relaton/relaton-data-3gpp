@@ -55,6 +55,8 @@ contributor:
         - content: SK TELECOM
   role:
   - type: author
+version:
+- draft: 0.0.1
 revdate: '2000-08-15'
 language:
 - en

@@ -55,6 +55,8 @@ contributor:
         - content: Orange
   role:
   - type: author
+version:
+- draft: 3.0.0
 revdate: '1995-01-01'
 language:
 - en
@@ -118,6 +120,8 @@ relation:
             - content: Orange
       role:
       - type: author
+    version:
+    - draft: 3.0.0
     revdate: '2003-09-01'
     language:
     - en
@@ -136,6 +140,7 @@ relation:
       type: other
     - name: CP
       type: other
+    radiotechnology: 2G
     release:
       wpm_code_2g: GSM_PH1
       close_meeting: SA#25
@@ -158,6 +163,7 @@ editorialgroup:
   type: other
 ext:
   schema-version: v1.0.1
+radiotechnology: 2G
 release:
   wpm_code_2g: GSM_PH1
   close_meeting: SA#25

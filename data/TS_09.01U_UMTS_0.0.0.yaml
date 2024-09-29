@@ -49,6 +49,8 @@ contributor:
         - content: Vodafone Group Plc
   role:
   - type: author
+version:
+- draft: 0.0.0
 language:
 - en
 script:

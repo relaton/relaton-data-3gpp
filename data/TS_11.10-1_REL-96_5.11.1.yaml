@@ -55,6 +55,8 @@ contributor:
         - content: Samsung R&D Institute UK
   role:
   - type: author
+version:
+- draft: 5.11.1
 revdate: '2000-02-16'
 language:
 - en
@@ -73,6 +75,7 @@ editorialgroup:
   type: other
 ext:
   schema-version: v1.0.1
+radiotechnology: 2G
 release:
   wpm_code_2g: GSM_Release_96
   close_meeting: SA#25

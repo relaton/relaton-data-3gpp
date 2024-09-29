@@ -56,6 +56,8 @@ contributor:
         - content: Nokia Corporation
   role:
   - type: author
+version:
+- draft: 6.4.0
 revdate: '1999-11-11'
 language:
 - en
@@ -70,6 +72,7 @@ editorialgroup:
   type: prime
 ext:
   schema-version: v1.0.1
+radiotechnology: 2G
 release:
   wpm_code_2g: GSM_Release_97
   close_meeting: SA#28

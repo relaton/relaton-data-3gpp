@@ -28,6 +28,8 @@ contributor:
   role:
   - type: author
   - type: publisher
+version:
+- draft: 1.0.0
 language:
 - en
 script:

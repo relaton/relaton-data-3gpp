@@ -55,6 +55,8 @@ contributor:
         - content: NOKIA TELECOMMUNICATIONS FINLAND
   role:
   - type: author
+version:
+- draft: 1.0.2
 revdate: '1997-10-19'
 language:
 - en

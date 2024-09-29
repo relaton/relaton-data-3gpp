@@ -56,6 +56,8 @@ contributor:
         - content: Nokia Solutions and Networks GmbH & Co. KG
   role:
   - type: author
+version:
+- draft: 18.0.0
 revdate: '2024-04-05'
 language:
 - en
@@ -70,6 +72,7 @@ editorialgroup:
   type: prime
 ext:
   schema-version: v1.0.1
+radiotechnology: 5G
 release:
   wpm_code_2g: GSM_Release_18
   wpm_code_3g: 3G4G5G_Rel-18

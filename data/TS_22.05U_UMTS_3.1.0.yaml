@@ -55,6 +55,8 @@ contributor:
         - content: Waiting for new Company
   role:
   - type: author
+version:
+- draft: 3.1.0
 revdate: '1998-07-01'
 language:
 - en

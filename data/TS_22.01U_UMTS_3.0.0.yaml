@@ -50,6 +50,8 @@ contributor:
         - content: Waiting for new Company
   role:
   - type: author
+version:
+- draft: 3.0.0
 language:
 - en
 script:

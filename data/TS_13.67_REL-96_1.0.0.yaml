@@ -35,6 +35,8 @@ contributor:
   role:
   - type: author
   - type: publisher
+version:
+- draft: 1.0.0
 revdate: '1998-10-01'
 language:
 - en
@@ -49,6 +51,7 @@ editorialgroup:
   type: other
 ext:
   schema-version: v1.0.1
+radiotechnology: 2G
 release:
   wpm_code_2g: GSM_Release_96
   close_meeting: SA#25

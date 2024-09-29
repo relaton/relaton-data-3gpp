@@ -97,6 +97,8 @@ contributor:
         - content: HuaWei Technologies Co., Ltd
   role:
   - type: author
+version:
+- draft: 0.0.1
 revdate: '2015-09-11'
 language:
 - en
@@ -115,6 +117,7 @@ editorialgroup:
   type: other
 ext:
   schema-version: v1.0.1
+radiotechnology: LTE
 release:
   wpm_code_2g: GSM_Release_14
   wpm_code_3g: 3G4G_Rel-14

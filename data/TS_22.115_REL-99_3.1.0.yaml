@@ -55,6 +55,8 @@ contributor:
         - content: Telecom Italia S.p.A.
   role:
   - type: author
+version:
+- draft: 3.1.0
 revdate: '1999-04-23'
 language:
 - en
@@ -118,6 +120,8 @@ relation:
             - content: Telecom Italia S.p.A.
       role:
       - type: author
+    version:
+    - draft: 3.1.0
     revdate: '1999-06-23'
     language:
     - en
@@ -130,6 +134,7 @@ relation:
     editorialgroup:
     - name: S1
       type: prime
+    radiotechnology: 3G
     release:
       wpm_code_2g: GSM_Release_99
       wpm_code_3g: 3G_R1999
@@ -151,6 +156,7 @@ editorialgroup:
   type: prime
 ext:
   schema-version: v1.0.1
+radiotechnology: 3G
 release:
   wpm_code_2g: GSM_Release_99
   wpm_code_3g: 3G_R1999

@@ -56,6 +56,8 @@ contributor:
         - content: Ericsson (China) Communications, Co.Ltd
   role:
   - type: author
+version:
+- draft: 12.0.0
 revdate: '2015-12-14'
 language:
 - en
@@ -120,6 +122,8 @@ relation:
             - content: Ericsson (China) Communications, Co.Ltd
       role:
       - type: author
+    version:
+    - draft: 12.0.0
     revdate: '2016-03-17'
     language:
     - en
@@ -132,6 +136,7 @@ relation:
     editorialgroup:
     - name: R5
       type: prime
+    radiotechnology: LTE
     release:
       wpm_code_2g: GSM_Release_12
       wpm_code_3g: 3G4G_Rel-12
@@ -152,6 +157,7 @@ editorialgroup:
   type: prime
 ext:
   schema-version: v1.0.1
+radiotechnology: LTE
 release:
   wpm_code_2g: GSM_Release_12
   wpm_code_3g: 3G4G_Rel-12

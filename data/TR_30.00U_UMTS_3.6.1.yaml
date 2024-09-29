@@ -49,6 +49,8 @@ contributor:
         - content: Ericsson Telefonaktiebolaget LM
   role:
   - type: author
+version:
+- draft: 3.6.1
 language:
 - en
 script:

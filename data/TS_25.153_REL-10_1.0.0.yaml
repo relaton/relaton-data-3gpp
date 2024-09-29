@@ -55,6 +55,8 @@ contributor:
         - content: China Academy of Telecommunication Research of MIIT
   role:
   - type: author
+version:
+- draft: 1.0.0
 revdate: '2010-03-19'
 language:
 - en
@@ -69,6 +71,7 @@ editorialgroup:
   type: prime
 ext:
   schema-version: v1.0.1
+radiotechnology: LTE
 release:
   wpm_code_2g: GSM_Release_10
   wpm_code_3g: 3G4G_Rel-10

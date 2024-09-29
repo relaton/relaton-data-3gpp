@@ -50,6 +50,8 @@ contributor:
         - content: Nokia Networks Oy
   role:
   - type: author
+version:
+- draft: 1.1.8
 language:
 - en
 script:
@@ -63,6 +65,7 @@ editorialgroup:
   type: other
 ext:
   schema-version: v1.0.1
+radiotechnology: 2G
 release:
   wpm_code_2g: GSM_Release_98
   freeze_stage1_meeting: SMG-#28

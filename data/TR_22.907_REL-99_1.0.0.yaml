@@ -55,6 +55,8 @@ contributor:
         - content: NOKIA MOBILE PHONES
   role:
   - type: author
+version:
+- draft: 1.0.0
 revdate: '1997-12-19'
 language:
 - en
@@ -66,6 +68,7 @@ doctype:
   type: TR
 ext:
   schema-version: v1.0.1
+radiotechnology: 3G
 release:
   wpm_code_2g: GSM_Release_99
   wpm_code_3g: 3G_R1999

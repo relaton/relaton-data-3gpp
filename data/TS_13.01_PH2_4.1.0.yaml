@@ -56,6 +56,8 @@ contributor:
         - content: DoCoMo Europe S.A.
   role:
   - type: author
+version:
+- draft: 4.1.0
 revdate: '1999-11-11'
 language:
 - en
@@ -70,6 +72,7 @@ editorialgroup:
   type: other
 ext:
   schema-version: v1.0.1
+radiotechnology: 2G
 release:
   wpm_code_2g: GSM_PH2
   close_meeting: SA#25

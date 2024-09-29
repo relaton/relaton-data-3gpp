@@ -56,6 +56,8 @@ contributor:
         - content: Anemone Technology
   role:
   - type: author
+version:
+- draft: 7.3.0
 revdate: '2003-01-03'
 language:
 - en
@@ -70,6 +72,7 @@ editorialgroup:
   type: prime
 ext:
   schema-version: v1.0.1
+radiotechnology: 2G
 release:
   wpm_code_2g: GSM_Release_98
   freeze_stage1_meeting: SMG-#28

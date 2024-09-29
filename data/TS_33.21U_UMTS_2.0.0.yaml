@@ -55,6 +55,8 @@ contributor:
         - content: Hillebrand Consulting Engineers GmbH
   role:
   - type: author
+version:
+- draft: 2.0.0
 revdate: '1999-02-27'
 language:
 - en

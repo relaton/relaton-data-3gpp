@@ -56,6 +56,8 @@ contributor:
         - content: Waiting for new Company
   role:
   - type: author
+version:
+- draft: 1.0.0
 revdate: '1998-02-16'
 language:
 - en
@@ -67,6 +69,7 @@ doctype:
   type: TS
 ext:
   schema-version: v1.0.1
+radiotechnology: 2G
 release:
   wpm_code_2g: GSM_Release_98
   freeze_stage1_meeting: SMG-#28

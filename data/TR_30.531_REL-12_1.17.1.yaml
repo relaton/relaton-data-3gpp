@@ -76,6 +76,8 @@ contributor:
         - content: European Telecommunications Standards Institute
   role:
   - type: author
+version:
+- draft: 1.17.1
 revdate: '2014-08-26'
 language:
 - en
@@ -90,6 +92,7 @@ editorialgroup:
   type: prime
 ext:
   schema-version: v1.0.1
+radiotechnology: LTE
 release:
   wpm_code_2g: GSM_Release_12
   wpm_code_3g: 3G4G_Rel-12

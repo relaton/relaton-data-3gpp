@@ -56,6 +56,8 @@ contributor:
         - content: WorldCell (International Mobile Communications, Inc.)
   role:
   - type: author
+version:
+- draft: 3.3.4
 revdate: '1994-02-21'
 language:
 - en
@@ -120,6 +122,8 @@ relation:
             - content: WorldCell (International Mobile Communications, Inc.)
       role:
       - type: author
+    version:
+    - draft: 3.3.4
     revdate: '1994-11-07'
     language:
     - en
@@ -132,6 +136,7 @@ relation:
     editorialgroup:
     - name: C6
       type: prime
+    radiotechnology: 2G
     release:
       wpm_code_2g: GSM_PH1
       close_meeting: SA#25
@@ -148,6 +153,7 @@ editorialgroup:
   type: prime
 ext:
   schema-version: v1.0.1
+radiotechnology: 2G
 release:
   wpm_code_2g: GSM_PH1
   close_meeting: SA#25

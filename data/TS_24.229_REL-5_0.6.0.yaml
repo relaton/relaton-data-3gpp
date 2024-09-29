@@ -56,6 +56,8 @@ contributor:
         - content: Nokia Solutions and Networks GmbH & Co. KG
   role:
   - type: author
+version:
+- draft: 0.6.0
 revdate: '2001-10-09'
 language:
 - en
@@ -70,6 +72,7 @@ editorialgroup:
   type: prime
 ext:
   schema-version: v1.0.1
+radiotechnology: 3G
 release:
   wpm_code_2g: GSM_Release_5
   wpm_code_3g: 3G_Rel-5

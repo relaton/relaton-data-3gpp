@@ -56,6 +56,8 @@ contributor:
         - content: BlackBerry UK Limited
   role:
   - type: author
+version:
+- draft: 0.4.0
 revdate: '2015-08-31'
 language:
 - en
@@ -72,6 +74,7 @@ editorialgroup:
   type: other
 ext:
   schema-version: v1.0.1
+radiotechnology: LTE
 release:
   wpm_code_2g: GSM_Release_13
   wpm_code_3g: 3G4G_Rel-13

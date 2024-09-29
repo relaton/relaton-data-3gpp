@@ -56,6 +56,8 @@ contributor:
         - content: Nokia Solutions and Networks (shanghai) Ltd.
   role:
   - type: author
+version:
+- draft: 7.4.1
 revdate: '2003-10-09'
 language:
 - en
@@ -70,6 +72,7 @@ editorialgroup:
   type: prime
 ext:
   schema-version: v1.0.1
+radiotechnology: 2G
 release:
   wpm_code_2g: GSM_Release_98
   freeze_stage1_meeting: SMG-#28

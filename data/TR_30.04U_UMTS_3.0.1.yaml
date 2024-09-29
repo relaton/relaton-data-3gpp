@@ -55,6 +55,8 @@ contributor:
         - content: Anemone Technology
   role:
   - type: author
+version:
+- draft: 3.0.1
 revdate: '1998-11-03'
 language:
 - en

@@ -49,6 +49,8 @@ contributor:
         - content: Huawei Technologies (UK) Co., Ltd.
   role:
   - type: author
+version:
+- draft: 0.1.0
 language:
 - en
 script:

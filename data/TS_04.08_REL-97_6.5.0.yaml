@@ -55,6 +55,8 @@ contributor:
         - content: Intel Corporation (UK) Ltd
   role:
   - type: author
+version:
+- draft: 6.5.0
 revdate: '1999-10-08'
 language:
 - en
@@ -73,6 +75,7 @@ editorialgroup:
   type: other
 ext:
   schema-version: v1.0.1
+radiotechnology: 2G
 release:
   wpm_code_2g: GSM_Release_97
   close_meeting: SA#28

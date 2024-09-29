@@ -56,6 +56,8 @@ contributor:
         - content: HuaWei Technologies Co., Ltd
   role:
   - type: author
+version:
+- draft: 3.1.0
 revdate: '1999-10-13'
 language:
 - en
@@ -120,6 +122,8 @@ relation:
             - content: HuaWei Technologies Co., Ltd
       role:
       - type: author
+    version:
+    - draft: 3.1.0
     revdate: '1999-12-12'
     language:
     - en
@@ -132,6 +136,7 @@ relation:
     editorialgroup:
     - name: R3
       type: prime
+    radiotechnology: 3G
     release:
       wpm_code_2g: GSM_Release_99
       wpm_code_3g: 3G_R1999
@@ -153,6 +158,7 @@ editorialgroup:
   type: prime
 ext:
   schema-version: v1.0.1
+radiotechnology: 3G
 release:
   wpm_code_2g: GSM_Release_99
   wpm_code_3g: 3G_R1999

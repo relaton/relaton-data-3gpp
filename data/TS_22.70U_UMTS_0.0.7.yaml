@@ -49,6 +49,8 @@ contributor:
         - content: FUJITSU Laboratories of Europe
   role:
   - type: author
+version:
+- draft: 0.0.7
 language:
 - en
 script:
