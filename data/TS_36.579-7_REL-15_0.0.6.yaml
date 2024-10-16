@@ -33,13 +33,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Jason
+        - content: Calle
           language:
           - en
           script:
           - Latn
       surname:
-        content: Kahn
+        content: Hagenfeldt
         language:
         - en
         script:
@@ -47,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: National Institute of Standards and Technology
+        - content: Ericsson Telefonaktiebolaget LM
   role:
   - type: author
 version:

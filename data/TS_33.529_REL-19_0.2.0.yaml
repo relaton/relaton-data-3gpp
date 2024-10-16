@@ -2,8 +2,8 @@
 schema-version: v1.2.9
 id: TS33.529-REL-19-0.2.0
 title:
-- content: Security Assurance Specification (SCAS) for Short Message Service Function
-    (SMSF)
+- content: Security Assurance Specification (SCAS) for the Short  Message Service
+    Function (SMSF) network product class
   format: text/plain
   type: main
 link:

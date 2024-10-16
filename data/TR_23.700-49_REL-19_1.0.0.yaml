@@ -2,7 +2,8 @@
 schema-version: v1.2.9
 id: TR23.700-49-REL-19-1.0.0
 title:
-- content: Study on 5G System Enhancements for Edge Computing - Phase 3
+- content: Study on Enhancement of support for Edge Computing in 5G Core network;
+    Phase 3
   format: text/plain
   type: main
 link:

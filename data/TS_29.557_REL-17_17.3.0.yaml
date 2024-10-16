@@ -38,13 +38,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Xiaoyan
+        - content: Baixiao
           language:
           - en
           script:
           - Latn
       surname:
-        content: Duan
+        content: Wang
         language:
         - en
         script:
@@ -52,7 +52,8 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: China Academy of Telecommunications Technology (CATT)
+        - content: China Academy of Telecommunication Technology - (Datang Telecom
+            Technology and Industry Group)
   role:
   - type: author
 version:

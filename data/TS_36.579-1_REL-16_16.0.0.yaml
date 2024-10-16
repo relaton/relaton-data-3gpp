@@ -38,13 +38,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Jason
+        - content: Calle
           language:
           - en
           script:
           - Latn
       surname:
-        content: Kahn
+        content: Hagenfeldt
         language:
         - en
         script:
@@ -52,28 +52,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: National Institute of Standards and Technology
-  role:
-  - type: author
-- person:
-    name:
-      given:
-        forename:
-        - content: Stoyan
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Baev
-        language:
-        - en
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Samsung R&D Institute UK
+        - content: Ericsson Telefonaktiebolaget LM
   role:
   - type: author
 version:

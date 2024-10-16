@@ -38,13 +38,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Scott
+        - content: Srilakshmi
           language:
           - en
           script:
           - Latn
       surname:
-        content: Probasco
+        content: Srinivasaraju
         language:
         - en
         script:
@@ -52,7 +52,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Nokia
+        - content: Nokia Corporation
   role:
   - type: author
 version:

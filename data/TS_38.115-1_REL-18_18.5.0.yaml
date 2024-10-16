@@ -5,12 +5,18 @@ title:
 - content: 'NR; Repeater conformance testing - Part 1: Conducted conformance testing'
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.115-1/38115-1-i50.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 38.115-1:REL-18/18.5.0
   type: 3GPP
   primary: true
 docnumber: TS 38.115-1:REL-18/18.5.0
+date:
+- type: published
+  value: '2024-07-22'
 contributor:
 - organization:
     name:
@@ -51,6 +57,7 @@ contributor:
   - type: author
 version:
 - draft: 18.5.0
+revdate: '2024-07-22'
 language:
 - en
 script:

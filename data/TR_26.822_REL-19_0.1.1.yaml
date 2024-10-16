@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: TR26.822-REL-19-0.1.1
+title:
+- content: Study of 5G Real-time Transport Protocol Configurations, Phase 2
+  format: text/plain
+  type: main
+link:
+- content: https://ftp.3gpp.org//Specs/archive/26_series/26.822/26822-011.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 26.822:REL-19/0.1.1
+  type: 3GPP
+  primary: true
+docnumber: TR 26.822:REL-19/0.1.1
+date:
+- type: published
+  value: '2024-08-12'
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Igor
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Curcio
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Nokia Corporation
+  role:
+  - type: author
+version:
+- draft: 0.1.1
+revdate: '2024-08-12'
+language:
+- en
+script:
+- Latn
+place:
+- Sophia Antipolis Cedex, France
+doctype:
+  type: TR
+editorialgroup:
+- name: S4
+  type: prime
+ext:
+  schema-version: v1.0.1
+radiotechnology: 5G
+release:
+  wpm_code_2g: GSM_Release_19
+  wpm_code_3g: 3G4G5G_Rel-19
+  freeze_stage1_meeting: SA#102
+  freeze_stage2_meeting: SA#106
+  freeze_stage3_meeting: SA#109
+  project_start: '2021-06-18'
+  project_end: '2025-12-12'

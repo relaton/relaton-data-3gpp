@@ -6,12 +6,18 @@ title:
     (BS) radio transmission and reception
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/37_series/37.104/37104-hd0.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 37.104:REL-17/17.13.0
   type: 3GPP
   primary: true
 docnumber: TS 37.104:REL-17/17.13.0
+date:
+- type: published
+  value: '2024-07-20'
 contributor:
 - organization:
     name:
@@ -52,6 +58,7 @@ contributor:
   - type: author
 version:
 - draft: 17.13.0
+revdate: '2024-07-20'
 language:
 - en
 script:

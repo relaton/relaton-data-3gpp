@@ -34,27 +34,6 @@ contributor:
   role:
   - type: author
   - type: publisher
-- person:
-    name:
-      given:
-        forename:
-        - content: Peter
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Hedman
-        language:
-        - en
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Ericsson Telefonaktiebolaget LM
-  role:
-  - type: author
 version:
 - draft: 1.0.0
 revdate: '2022-05-31'

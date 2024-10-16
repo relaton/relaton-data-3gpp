@@ -6,12 +6,18 @@ title:
     2: radiated conformance testing'
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/37_series/37.145-2/37145-2-i60.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 37.145-2:REL-18/18.6.0
   type: 3GPP
   primary: true
 docnumber: TS 37.145-2:REL-18/18.6.0
+date:
+- type: published
+  value: '2024-07-22'
 contributor:
 - organization:
     name:
@@ -52,6 +58,7 @@ contributor:
   - type: author
 version:
 - draft: 18.6.0
+revdate: '2024-07-22'
 language:
 - en
 script:

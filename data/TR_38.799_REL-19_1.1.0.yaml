@@ -5,12 +5,18 @@ title:
 - content: Study on Additional Topological Enhancements for NR
   format: text/plain
   type: main
+link:
+- content: https://ftp.3gpp.org//Specs/archive/38_series/38.799/38799-110.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 38.799:REL-19/1.1.0
   type: 3GPP
   primary: true
 docnumber: TR 38.799:REL-19/1.1.0
+date:
+- type: published
+  value: '2024-08-06'
 contributor:
 - organization:
     name:
@@ -72,6 +78,7 @@ contributor:
   - type: author
 version:
 - draft: 1.1.0
+revdate: '2024-08-06'
 language:
 - en
 script:

@@ -5,12 +5,18 @@ title:
 - content: Active Antenna System (AAS) Base Station (BS) transmission and reception
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/37_series/37.105/37105-i50.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 37.105:REL-18/18.5.0
   type: 3GPP
   primary: true
 docnumber: TS 37.105:REL-18/18.5.0
+date:
+- type: published
+  value: '2024-07-22'
 contributor:
 - organization:
     name:
@@ -51,6 +57,7 @@ contributor:
   - type: author
 version:
 - draft: 18.5.0
+revdate: '2024-07-22'
 language:
 - en
 script:
