@@ -131,38 +131,39 @@ relation:
     - Latn
     place:
     - Sophia Antipolis Cedex, France
-    doctype:
-      type: TS
-    editorialgroup:
-    - name: R5
-      type: prime
-    - name: S1
-      type: other
-    - name: CP
-      type: other
-    radiotechnology: 2G
-    release:
-      wpm_code_2g: GSM_Release_96
-      close_meeting: SA#25
-      project_start: '1995-07-20'
+    ext:
+      doctype:
+        type: TS
+      editorialgroup:
+      - name: R5
+        type: prime
+      - name: S1
+        type: other
+      - name: CP
+        type: other
+      radiotechnology: 2G
+      release:
+        wpm_code_2g: GSM_Release_96
+        close_meeting: SA#25
+        project_start: '1995-07-20'
   description:
     content: equivalent
     format: text/plain
 place:
 - Sophia Antipolis Cedex, France
-doctype:
-  type: TS
-editorialgroup:
-- name: R5
-  type: prime
-- name: S1
-  type: other
-- name: CP
-  type: other
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
-release:
-  wpm_code_2g: GSM_Release_96
-  close_meeting: SA#25
-  project_start: '1995-07-20'
+  doctype:
+    type: TS
+  editorialgroup:
+  - name: R5
+    type: prime
+  - name: S1
+    type: other
+  - name: CP
+    type: other
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_Release_96
+    close_meeting: SA#25
+    project_start: '1995-07-20'

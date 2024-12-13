@@ -64,20 +64,20 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype:
-  type: TS
-editorialgroup:
-- name: C4
-  type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 3G
-release:
-  wpm_code_2g: GSM_Release_6
-  wpm_code_3g: 3G_Rel-6
-  freeze_stage1_meeting: SA#26
-  freeze_stage2_meeting: SA#26
-  freeze_stage3_meeting: SA#27
-  close_meeting: SA#65
-  project_start: '2000-03-28'
-  project_end: '2005-09-28'
+  doctype:
+    type: TS
+  editorialgroup:
+  - name: C4
+    type: prime
+  radiotechnology: 3G
+  release:
+    wpm_code_2g: GSM_Release_6
+    wpm_code_3g: 3G_Rel-6
+    freeze_stage1_meeting: SA#26
+    freeze_stage2_meeting: SA#26
+    freeze_stage3_meeting: SA#27
+    close_meeting: SA#65
+    project_start: '2000-03-28'
+    project_end: '2005-09-28'

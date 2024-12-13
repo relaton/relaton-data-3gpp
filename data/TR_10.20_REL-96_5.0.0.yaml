@@ -64,15 +64,15 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype:
-  type: TR
-editorialgroup:
-- name: S3
-  type: prime
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
-release:
-  wpm_code_2g: GSM_Release_96
-  close_meeting: SA#25
-  project_start: '1995-07-20'
+  doctype:
+    type: TR
+  editorialgroup:
+  - name: S3
+    type: prime
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_Release_96
+    close_meeting: SA#25
+    project_start: '1995-07-20'

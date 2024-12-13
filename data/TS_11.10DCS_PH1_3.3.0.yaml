@@ -57,23 +57,23 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype:
-  type: TS
-editorialgroup:
-- name: R5
-  type: prime
-- name: R5
-  type: other
-- name: S1
-  type: other
-- name: CP
-  type: other
-- name: CP
-  type: other
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
-release:
-  wpm_code_2g: GSM_PH1
-  close_meeting: SA#25
-  project_start: '1992-12-03'
+  doctype:
+    type: TS
+  editorialgroup:
+  - name: R5
+    type: prime
+  - name: R5
+    type: other
+  - name: S1
+    type: other
+  - name: CP
+    type: other
+  - name: CP
+    type: other
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_PH1
+    close_meeting: SA#25
+    project_start: '1992-12-03'

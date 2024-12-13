@@ -64,13 +64,13 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype:
-  type: TR
-editorialgroup:
-- name: R3
-  type: prime
 ext:
   schema-version: v1.0.1
-release:
-  close_meeting: SA-#6
-  project_start: '1999-03-30'
+  doctype:
+    type: TR
+  editorialgroup:
+  - name: R3
+    type: prime
+  release:
+    close_meeting: SA-#6
+    project_start: '1999-03-30'

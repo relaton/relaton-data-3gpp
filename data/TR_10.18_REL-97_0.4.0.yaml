@@ -36,12 +36,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-doctype:
-  type: TR
 ext:
   schema-version: v1.0.1
-radiotechnology: 2G
-release:
-  wpm_code_2g: GSM_Release_97
-  close_meeting: SA#28
-  project_start: '1996-04-15'
+  doctype:
+    type: TR
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_Release_97
+    close_meeting: SA#28
+    project_start: '1996-04-15'
