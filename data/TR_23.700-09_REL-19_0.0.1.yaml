@@ -2,7 +2,8 @@
 schema-version: v1.2.9
 id: TR23.700-09-REL-19-0.0.1
 title:
-- content: Study on MC services support on generic IOPS mode of operation
+- content: Study on Mission critical services support in the Isolated Operation for
+    Public Safety (IOPS) mode of operations
   format: text/plain
   type: main
 link:

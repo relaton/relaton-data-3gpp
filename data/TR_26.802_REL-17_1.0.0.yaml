@@ -38,13 +38,13 @@ contributor:
     name:
       given:
         forename:
-        - content: PENG
+        - content: Thomas
           language:
           - en
           script:
           - Latn
       surname:
-        content: TAN
+        content: Stockhammer
         language:
         - en
         script:
@@ -52,7 +52,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: TELUS
+        - content: Qualcomm Germany GmbH
   role:
   - type: author
 version:

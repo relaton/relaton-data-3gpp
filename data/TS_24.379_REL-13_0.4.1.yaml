@@ -32,13 +32,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Kiran
+        - content: Vijay
           language:
           - en
           script:
           - Latn
       surname:
-        content: Kapale
+        content: Sangameshwara
         language:
         - en
         script:

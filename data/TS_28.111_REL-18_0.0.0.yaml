@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: TS28.111-REL-18-0.0.0
 title:
-- content: Fault management
+- content: Management and orchestration; Fault management
   format: text/plain
   type: main
 link:

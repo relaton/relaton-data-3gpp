@@ -34,6 +34,27 @@ contributor:
   role:
   - type: author
   - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Stefan
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Rommer
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Ericsson Telefonaktiebolaget LM
+  role:
+  - type: author
 version:
 - draft: 0.1.0
 revdate: '2022-03-04'

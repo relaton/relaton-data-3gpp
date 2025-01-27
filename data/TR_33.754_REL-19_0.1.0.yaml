@@ -2,7 +2,8 @@
 schema-version: v1.2.9
 id: TR33.754-REL-19-0.1.0
 title:
-- content: Study on security aspects for multi-access (dualSteer + ATSSS Ph-4)
+- content: Study on security aspects for multi-access(DualSteer +Access Traffic Steering,
+    Switch and Splitting support in the 5G system architecture phase 4 (ATSSS Ph-4)
   format: text/plain
   type: main
 link:

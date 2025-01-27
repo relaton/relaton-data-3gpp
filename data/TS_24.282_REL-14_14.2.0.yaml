@@ -38,13 +38,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Kiran
+        - content: Adinarayana K
           language:
           - en
           script:
           - Latn
       surname:
-        content: Kapale
+        content: Setty
         language:
         - en
         script:
@@ -52,7 +52,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Samsung R&D Institute India - Bangalore Pvt. Ltd
+        - content: Motorola Solutions UK Ltd.
   role:
   - type: author
 version:

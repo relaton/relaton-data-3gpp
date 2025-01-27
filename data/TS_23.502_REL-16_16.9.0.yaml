@@ -34,6 +34,48 @@ contributor:
   role:
   - type: author
   - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Tao
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Sun
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: China Mobile US Research Center
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: Qian
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Chen
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Ericsson (China) Communications, Co.Ltd
+  role:
+  - type: author
 version:
 - draft: 16.9.0
 revdate: '2021-06-24'

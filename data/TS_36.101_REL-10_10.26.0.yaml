@@ -39,6 +39,27 @@ contributor:
     name:
       given:
         forename:
+        - content: Petri
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Vasenkari
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Nokia Corporation
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
         - content: Suhwan
           language:
           - en

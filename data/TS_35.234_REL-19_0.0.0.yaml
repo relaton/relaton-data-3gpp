@@ -2,8 +2,8 @@
 schema-version: v1.2.9
 id: TS35.234-REL-19-0.0.0
 title:
-- content: 'Specification of the MILENAGE-256 algorithm set:  An example set of 256-bit
-    3GPP Authentication and Key Generation functions f1, f1*, f2, f3, f4, f5, f5*
+- content: 'Specification of the MILENAGE-256 algorithm set; An example set of 256-bit
+    3GPP authentication and key generation functions f1, f1*, f2, f3, f4, f5, f5*
     and f5**; Document 1: General'
   format: text/plain
   type: main

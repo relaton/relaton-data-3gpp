@@ -7,12 +7,18 @@ title:
     and 1 NR band)
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/37_series/37.719-11-11/37719-11-11-020.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 37.719-11-11:REL-19/0.2.0
   type: 3GPP
   primary: true
 docnumber: TR 37.719-11-11:REL-19/0.2.0
+date:
+- type: published
+  value: '2024-12-01'
 contributor:
 - organization:
     name:
@@ -54,6 +60,7 @@ contributor:
   - type: author
 version:
 - draft: 0.2.0
+revdate: '2024-12-01'
 language:
 - en
 script:

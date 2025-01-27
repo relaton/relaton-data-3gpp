@@ -5,12 +5,18 @@ title:
 - content: Protection of Earth Exploration Satellite Service (EESS)
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.749/38749-001.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 38.749:REL-19/0.0.1
   type: 3GPP
   primary: true
 docnumber: TR 38.749:REL-19/0.0.1
+date:
+- type: published
+  value: '2024-10-25'
 contributor:
 - organization:
     name:
@@ -51,6 +57,7 @@ contributor:
   - type: author
 version:
 - draft: 0.0.1
+revdate: '2024-10-25'
 language:
 - en
 script:

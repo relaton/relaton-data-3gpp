@@ -6,12 +6,18 @@ title:
     different bands DL with up to 2 different bands UL
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.719-02-01/38719-02-01-020.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 38.719-02-01:REL-19/0.2.0
   type: 3GPP
   primary: true
 docnumber: TR 38.719-02-01:REL-19/0.2.0
+date:
+- type: published
+  value: '2024-10-25'
 contributor:
 - organization:
     name:
@@ -52,6 +58,7 @@ contributor:
   - type: author
 version:
 - draft: 0.2.0
+revdate: '2024-10-25'
 language:
 - en
 script:
