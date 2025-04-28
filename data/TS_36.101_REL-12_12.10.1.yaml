@@ -56,27 +56,6 @@ contributor:
         - content: Nokia Corporation
   role:
   - type: author
-- person:
-    name:
-      given:
-        forename:
-        - content: Suhwan
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Lim
-        language:
-        - en
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Meta Platforms Ireland Ltd.
-  role:
-  - type: author
 version:
 - draft: 12.10.1
 revdate: '2016-01-15'

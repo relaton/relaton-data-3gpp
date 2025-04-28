@@ -6,12 +6,18 @@ title:
     combinations of LTE band(s) and NR band(s)
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/37_series/37.898/37898-030.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 37.898:REL-19/0.3.0
   type: 3GPP
   primary: true
 docnumber: TR 37.898:REL-19/0.3.0
+date:
+- type: published
+  value: '2025-03-03'
 contributor:
 - organization:
     name:
@@ -52,6 +58,7 @@ contributor:
   - type: author
 version:
 - draft: 0.3.0
+revdate: '2025-03-03'
 language:
 - en
 script:

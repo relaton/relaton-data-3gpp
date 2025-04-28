@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: TS28.567-REL-19-0.0.0
 title:
-- content: Management Aspects of Closed Control Loops
+- content: Management and orchestration; Management Aspects of Closed Control Loops
   format: text/plain
   type: main
 link:

@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: TS28.572-REL-19-0.2.0
 title:
-- content: Management of planned configurations
+- content: Management and orchestration; Management of planned configurations
   format: text/plain
   type: main
 link:

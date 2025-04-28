@@ -6,12 +6,18 @@ title:
     services phase 2
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/33_series/33.790/33790-110.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 33.790:REL-19/1.1.0
   type: 3GPP
   primary: true
 docnumber: TR 33.790:REL-19/1.1.0
+date:
+- type: published
+  value: '2025-01-28'
 contributor:
 - organization:
     name:
@@ -73,6 +79,7 @@ contributor:
   - type: author
 version:
 - draft: 1.1.0
+revdate: '2025-01-28'
 language:
 - en
 script:

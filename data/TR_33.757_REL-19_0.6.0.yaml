@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: TR33.757-REL-19-0.6.0
 title:
-- content: Study on security for PLMN hosting a NPN
+- content: Study on security for a PLMN hosting a Non-Public Network (NPN)
   format: text/plain
   type: main
 link:

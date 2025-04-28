@@ -2,7 +2,8 @@
 schema-version: v1.2.9
 id: TR33.700-29-REL-19-0.2.0
 title:
-- content: Study on Security and Privacy Aspects of 5G Satellite Access Phase 3
+- content: Study on security aspects of 5G satellite access in the 5G architecture
+    phase 3
   format: text/plain
   type: main
 link:
