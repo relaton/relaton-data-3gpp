@@ -1,0 +1,65 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Subscriber Related Call and Event Data
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/12_series/12.05/1205-600.zip
+docidentifier:
+- content: 3GPP TS 12.05:REL-97/6.0.0
+  type: 3GPP
+  primary: true
+docnumber: TS 12.05:REL-97/6.0.0
+date:
+- type: published
+  at: '1998-10-16'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Gerald
+      surname:
+        language: en
+        script: Latn
+        content: Goermer
+    affiliation:
+    - organization:
+        name:
+        - content: Nokia Networks Oy
+version:
+- draft: 6.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: S5
+    - type: other
+      content: S1
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_Release_97
+    close_meeting: SA#28
+    project_start: '1996-04-15'

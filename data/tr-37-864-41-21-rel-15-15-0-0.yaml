@@ -1,0 +1,69 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity
+    (EN-DC) of LTE x Down Link (DL) / 1 Up Link (UL) (x=1, 2, 3, 4) and Inter-band
+    NR 2 Down Link (DL) / 1 Up Link (UL)
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp//Specs/archive/37_series/37.864-41-21/37864-41-21-f00.zip
+docidentifier:
+- content: 3GPP TR 37.864-41-21:REL-15/15.0.0
+  type: 3GPP
+  primary: true
+docnumber: TR 37.864-41-21:REL-15/15.0.0
+date:
+- type: published
+  at: '2018-07-16'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Suhwan
+      surname:
+        language: en
+        script: Latn
+        content: Lim
+    affiliation:
+    - organization:
+        name:
+        - content: LG Electronics Inc.
+version:
+- draft: 15.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: R4
+  radiotechnology: 5G
+  release:
+    wpm_code_2g: GSM_Release_15
+    wpm_code_3g: 3G4G5G_Rel-15
+    freeze_stage1_meeting: SA#76
+    freeze_stage2_meeting: SA#78
+    freeze_stage3_meeting: SA#83
+    project_start: '2016-06-01'
+    project_end: '2019-06-07'

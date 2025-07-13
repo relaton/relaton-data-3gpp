@@ -1,0 +1,50 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Universal Mobile Telecommunications System (UMTS); Objectives and framework
+    for the Telecommunications Management Network (TMN) of the UMTS
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/05_series/05.01U/0501U-200.zip
+docidentifier:
+- content: 3GPP TR 05.01U:UMTS/2.0.0
+  type: 3GPP
+  primary: true
+docnumber: TR 05.01U:UMTS/2.0.0
+date:
+- type: published
+  at: '1997-10-10'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+version:
+- draft: 2.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: SP
+  release:
+    freeze_stage1_meeting: SMG-#28
+    freeze_stage2_meeting: SMG-#28
+    freeze_stage3_meeting: SMG-#28
+    close_meeting: SA#28
+    project_start: '1994-08-18'
+    project_end: '1999-02-12'

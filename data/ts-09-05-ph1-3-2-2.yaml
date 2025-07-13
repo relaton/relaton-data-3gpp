@@ -1,0 +1,63 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Interworking between the PLMN and the PSPDN for PAD Access
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/09_series/09.05/0905-322.zip
+docidentifier:
+- content: 3GPP TS 09.05:Ph1/3.2.2
+  type: 3GPP
+  primary: true
+docnumber: TS 09.05:Ph1/3.2.2
+date:
+- type: published
+  at: '1995-01-01'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Nevenka
+      surname:
+        language: en
+        script: Latn
+        content: Biondic
+    affiliation:
+    - organization:
+        name:
+        - content: Ericsson Telefonaktiebolaget LM
+version:
+- draft: 3.2.2
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: C3
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_PH1
+    close_meeting: SA#25
+    project_start: '1982-12-07'

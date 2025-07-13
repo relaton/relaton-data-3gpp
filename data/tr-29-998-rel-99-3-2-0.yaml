@@ -1,0 +1,69 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Open Services Architecture (OSA) Application Programming Interface (API)
+    part 2
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/29_series/29.998/29998-320.zip
+docidentifier:
+- content: 3GPP TR 29.998:REL-99/3.2.0
+  type: 3GPP
+  primary: true
+docnumber: TR 29.998:REL-99/3.2.0
+date:
+- type: published
+  at: '2001-01-03'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Musa
+      surname:
+        language: en
+        script: Latn
+        content: Unmehopa
+    affiliation:
+    - organization:
+        name:
+        - content: Philips International B.V.
+version:
+- draft: 3.2.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: CP
+  radiotechnology: 3G
+  release:
+    wpm_code_2g: GSM_Release_99
+    wpm_code_3g: 3G_R1999
+    freeze_stage1_meeting: SA-#6
+    freeze_stage2_meeting: SA-#6
+    freeze_stage3_meeting: SA-#6
+    close_meeting: SA#40
+    project_start: '1996-11-01'
+    project_end: '1999-12-17'

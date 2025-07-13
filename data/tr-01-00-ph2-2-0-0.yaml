@@ -1,0 +1,57 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Working Procedures for SMG and PT SMG
+  type: main
+docidentifier:
+- content: 3GPP TR 01.00:Ph2/2.0.0
+  type: 3GPP
+  primary: true
+docnumber: TR 01.00:Ph2/2.0.0
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ansgar
+      surname:
+        language: en
+        script: Latn
+        content: Bergmann
+    affiliation:
+    - organization:
+        name:
+        - content: Hillebrand Consulting Engineers GmbH
+version:
+- draft: 2.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: SP
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_PH2
+    close_meeting: SA#25
+    project_start: '1993-03-25'

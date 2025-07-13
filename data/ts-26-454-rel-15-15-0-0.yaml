@@ -1,0 +1,51 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Codec for Enhanced Voice Services (EVS); Interface to Iu, Uu, Nb and Mb
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp//Specs/archive/26_series/26.454/26454-f00.zip
+docidentifier:
+- content: 3GPP TS 26.454:REL-15/15.0.0
+  type: 3GPP
+  primary: true
+docnumber: TS 26.454:REL-15/15.0.0
+date:
+- type: published
+  at: '2018-06-22'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+version:
+- draft: 15.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: S4
+  radiotechnology: 5G
+  release:
+    wpm_code_2g: GSM_Release_15
+    wpm_code_3g: 3G4G5G_Rel-15
+    freeze_stage1_meeting: SA#76
+    freeze_stage2_meeting: SA#78
+    freeze_stage3_meeting: SA#83
+    project_start: '2016-06-01'
+    project_end: '2019-06-07'

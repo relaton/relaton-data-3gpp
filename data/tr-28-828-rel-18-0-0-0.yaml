@@ -1,0 +1,67 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Study on charging aspects for enhanced support of non-public networks
+  type: main
+source:
+- type: src
+  content: https://ftp.3gpp.org//Specs/archive/28_series/28.828/28828-000.zip
+docidentifier:
+- content: 3GPP TR 28.828:REL-18/0.0.0
+  type: 3GPP
+  primary: true
+docnumber: TR 28.828:REL-18/0.0.0
+date:
+- type: published
+  at: '2022-03-25'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ai
+      surname:
+        language: en
+        script: Latn
+        content: Chen
+    affiliation:
+    - organization:
+        name:
+        - content: China Mobile Communications Corporation (CMCC)
+version:
+- draft: 0.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: S5
+  radiotechnology: 5G
+  release:
+    wpm_code_2g: GSM_Release_18
+    wpm_code_3g: 3G4G5G_Rel-18
+    freeze_stage1_meeting: SA#94-e
+    freeze_stage2_meeting: SA#100
+    freeze_stage3_meeting: SA#103
+    project_start: '2019-09-16'
+    project_end: '2024-06-21'

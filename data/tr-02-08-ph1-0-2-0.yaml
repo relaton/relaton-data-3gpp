@@ -1,0 +1,59 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Quality of Service (QoS) / GSM system performance
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/02_series/02.08/0208-020.zip
+docidentifier:
+- content: 3GPP TR 02.08:Ph1/0.2.0
+  type: 3GPP
+  primary: true
+docnumber: TR 02.08:Ph1/0.2.0
+date:
+- type: published
+  at: '1995-08-25'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jonas
+      surname:
+        language: en
+        script: Latn
+        content: Twingler
+    affiliation:
+    - organization:
+        name:
+        - content: inCode
+version:
+- draft: 0.2.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_PH1
+    close_meeting: SA#25
+    project_start: '1982-12-07'

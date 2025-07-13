@@ -1,0 +1,63 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Overall architecture aspects of IP flow based bearer level charging; Stage
+    2
+  type: main
+docidentifier:
+- content: 3GPP TR 23.825:REL-6/0.1.0
+  type: 3GPP
+  primary: true
+docnumber: TR 23.825:REL-6/0.1.0
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Brian
+      surname:
+        language: en
+        script: Latn
+        content: Williams
+    affiliation:
+    - organization:
+        name:
+        - content: Ericsson Telefonaktiebolaget LM
+version:
+- draft: 0.1.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: S2
+  radiotechnology: 3G
+  release:
+    wpm_code_2g: GSM_Release_6
+    wpm_code_3g: 3G_Rel-6
+    freeze_stage1_meeting: SA#26
+    freeze_stage2_meeting: SA#26
+    freeze_stage3_meeting: SA#27
+    close_meeting: SA#65
+    project_start: '2000-03-28'
+    project_end: '2005-09-28'

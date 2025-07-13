@@ -1,0 +1,68 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Base Station (BS) conformance testing (TDD)
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/25_series/25.142/25142-001.zip
+docidentifier:
+- content: 3GPP TS 25.142:REL-99/0.0.1
+  type: 3GPP
+  primary: true
+docnumber: TS 25.142:REL-99/0.0.1
+date:
+- type: published
+  at: '1999-06-23'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Juergen
+      surname:
+        language: en
+        script: Latn
+        content: Meyer
+    affiliation:
+    - organization:
+        name:
+        - content: BlackBerry UK Limited
+version:
+- draft: 0.0.1
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: R4
+  radiotechnology: 3G
+  release:
+    wpm_code_2g: GSM_Release_99
+    wpm_code_3g: 3G_R1999
+    freeze_stage1_meeting: SA-#6
+    freeze_stage2_meeting: SA-#6
+    freeze_stage3_meeting: SA-#6
+    close_meeting: SA#40
+    project_start: '1996-11-01'
+    project_end: '1999-12-17'

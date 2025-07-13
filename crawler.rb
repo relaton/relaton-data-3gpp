@@ -3,5 +3,5 @@
 mode = ARGV.shift || ""
 mode = mode == "force" ? "-#{mode}" : ""
 
-require "relaton_3gpp"
-Relaton3gpp::DataFetcher.fetch("status-smg-3GPP#{mode}")
+require "relaton/3gpp/data_fetcher"
+Relaton::ThreeGpp::DataFetcher.fetch("status-smg-3GPP#{mode}")

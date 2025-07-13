@@ -1,0 +1,57 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Support of Mobile Number Portability (MNP); Project plan
+  type: main
+docidentifier:
+- content: 3GPP TR 10.66:REL-96/5.0.0
+  type: 3GPP
+  primary: true
+docnumber: TR 10.66:REL-96/5.0.0
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Roger
+      surname:
+        language: en
+        script: Latn
+        content: Tarazi
+    affiliation:
+    - organization:
+        name:
+        - content: EDP Telecom
+version:
+- draft: 5.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: S1
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_Release_96
+    close_meeting: SA#25
+    project_start: '1995-07-20'

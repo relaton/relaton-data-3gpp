@@ -1,0 +1,69 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Study on
+    LTE - High Rate Packet Data in 3GPP2 (HRPD) Inter-Radio-Access-Technology (RAT)
+    self-configuring and self-optimizing network (SON) use cases and solutions
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/37_series/37.813/37813-120.zip
+docidentifier:
+- content: 3GPP TR 37.813:REL-12/1.2.0
+  type: 3GPP
+  primary: true
+docnumber: TR 37.813:REL-12/1.2.0
+date:
+- type: published
+  at: '2013-08-01'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jin lian
+      surname:
+        language: en
+        script: Latn
+        content: Wu
+    affiliation:
+    - organization:
+        name:
+        - content: China Telecommunications Corporation
+version:
+- draft: 1.2.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: R3
+  radiotechnology: LTE
+  release:
+    wpm_code_2g: GSM_Release_12
+    wpm_code_3g: 3G4G_Rel-12
+    freeze_stage1_meeting: SA#59
+    freeze_stage2_meeting: SA#62
+    freeze_stage3_meeting: SA#65
+    project_start: '2011-06-26'
+    project_end: '2015-03-13'

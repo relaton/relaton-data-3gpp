@@ -1,0 +1,68 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: RAB Quality of Service (QoS) Negotiation over Iu
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/25_series/25.946/25946-400.zip
+docidentifier:
+- content: 3GPP TR 25.946:REL-4/4.0.0
+  type: 3GPP
+  primary: true
+docnumber: TR 25.946:REL-4/4.0.0
+date:
+- type: published
+  at: '2001-04-06'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Alexander
+      surname:
+        language: en
+        script: Latn
+        content: Vesely
+    affiliation:
+    - organization:
+        name:
+        - content: Ericsson Telefonaktiebolaget LM
+version:
+- draft: 4.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: R3
+  radiotechnology: 3G
+  release:
+    wpm_code_2g: GSM_Release_4
+    wpm_code_3g: 3G_Rel-4
+    freeze_stage1_meeting: SA-#11
+    freeze_stage2_meeting: SA-#11
+    freeze_stage3_meeting: SA-#11
+    close_meeting: SA#65
+    project_start: '1998-08-01'
+    project_end: '2001-06-21'

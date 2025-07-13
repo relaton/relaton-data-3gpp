@@ -1,0 +1,37 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: unknown
+  type: main
+docidentifier:
+- content: 3GPP TS 13.57:REL-96/1.0.0
+  type: 3GPP
+  primary: true
+docnumber: TS 13.57:REL-96/1.0.0
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+version:
+- draft: 1.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_Release_96
+    close_meeting: SA#25
+    project_start: '1995-07-20'

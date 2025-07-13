@@ -1,0 +1,68 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Technical report for 450MHz E-UTRA FDD Band for LTE PPDR and PMR/PAMR in
+    Europe
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.748/36748-200.zip
+docidentifier:
+- content: 3GPP TR 36.748:REL-15/2.0.0
+  type: 3GPP
+  primary: true
+docnumber: TR 36.748:REL-15/2.0.0
+date:
+- type: published
+  at: '2017-09-04'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Eric
+      surname:
+        language: en
+        script: Latn
+        content: Georgeaux
+    affiliation:
+    - organization:
+        name:
+        - content: Airbus DS SLC
+version:
+- draft: 2.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: R4
+  radiotechnology: 5G
+  release:
+    wpm_code_2g: GSM_Release_15
+    wpm_code_3g: 3G4G5G_Rel-15
+    freeze_stage1_meeting: SA#76
+    freeze_stage2_meeting: SA#78
+    freeze_stage3_meeting: SA#83
+    project_start: '2016-06-01'
+    project_end: '2019-06-07'

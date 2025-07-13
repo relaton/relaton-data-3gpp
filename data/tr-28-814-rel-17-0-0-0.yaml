@@ -1,0 +1,67 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Management and orchestration; Study on enhancements of edge computing management
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/28_series/28.814/28814-000.zip
+docidentifier:
+- content: 3GPP TR 28.814:REL-17/0.0.0
+  type: 3GPP
+  primary: true
+docnumber: TR 28.814:REL-17/0.0.0
+date:
+- type: published
+  at: '2020-08-07'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Joey
+      surname:
+        language: en
+        script: Latn
+        content: Chou
+    affiliation:
+    - organization:
+        name:
+        - content: Intel Corporation (UK) Ltd
+version:
+- draft: 0.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: S5
+  radiotechnology: 5G
+  release:
+    wpm_code_2g: GSM_Release_17
+    wpm_code_3g: 3G4G5G_Rel-17
+    freeze_stage1_meeting: SA#86
+    freeze_stage2_meeting: SA#92-e
+    freeze_stage3_meeting: SA#95
+    project_start: '2018-06-15'
+    project_end: '2022-06-10'

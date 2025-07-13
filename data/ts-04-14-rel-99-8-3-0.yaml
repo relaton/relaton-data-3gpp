@@ -1,0 +1,69 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Individual equipment type requirements and interworking; Special conformance
+    testing functions
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/04_series/04.14/0414-830.zip
+docidentifier:
+- content: 3GPP TS 04.14:REL-99/8.3.0
+  type: 3GPP
+  primary: true
+docnumber: TS 04.14:REL-99/8.3.0
+date:
+- type: published
+  at: '2001-06-18'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Andrew
+      surname:
+        language: en
+        script: Latn
+        content: Howell
+    affiliation:
+    - organization:
+        name:
+        - content: HOME OFFICE
+version:
+- draft: 8.3.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: R6
+  radiotechnology: 3G
+  release:
+    wpm_code_2g: GSM_Release_99
+    wpm_code_3g: 3G_R1999
+    freeze_stage1_meeting: SA-#6
+    freeze_stage2_meeting: SA-#6
+    freeze_stage3_meeting: SA-#6
+    close_meeting: SA#40
+    project_start: '1996-11-01'
+    project_end: '1999-12-17'

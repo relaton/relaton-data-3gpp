@@ -1,0 +1,59 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Radio Local Loop (RLL) using GSM
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/01_series/01.50/0150-100.zip
+docidentifier:
+- content: 3GPP TR 01.50:REL-96/1.0.0
+  type: 3GPP
+  primary: true
+docnumber: TR 01.50:REL-96/1.0.0
+date:
+- type: published
+  at: '1995-11-07'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Clayton
+    affiliation:
+    - organization:
+        name:
+        - content: EMCOM Ltd
+version:
+- draft: 1.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_Release_96
+    close_meeting: SA#25
+    project_start: '1995-07-20'

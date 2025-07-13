@@ -1,0 +1,116 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Study on Non-Orthogonal Multiple Access (NOMA) for NR
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp//Specs/archive/38_series/38.812/38812-000.zip
+docidentifier:
+- content: 3GPP TR 38.812:REL-15/0.0.0
+  type: 3GPP
+  primary: true
+docnumber: TR 38.812:REL-15/0.0.0
+date:
+- type: published
+  at: '2018-03-16'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Yifei
+      surname:
+        language: en
+        script: Latn
+        content: Yuan
+    affiliation:
+    - organization:
+        name:
+        - content: ZTE Corporation
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Bin
+      surname:
+        language: en
+        script: Latn
+        content: Yu
+    affiliation:
+    - organization:
+        name:
+        - content: BEIJING SAMSUNG TELECOM R&D CENTER
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Anthony
+      surname:
+        language: en
+        script: Latn
+        content: Ekpenyong
+    affiliation:
+    - organization:
+        name:
+        - content: China Academy of Telecommunication Technology - (Datang Telecom
+            Technology and Industry Group)
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Debdeep
+      surname:
+        language: en
+        script: Latn
+        content: Chatterjee
+    affiliation:
+    - organization:
+        name:
+        - content: Intel Corporation (UK) Ltd
+version:
+- draft: 0.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: R1
+  radiotechnology: 5G
+  release:
+    wpm_code_2g: GSM_Release_15
+    wpm_code_3g: 3G4G5G_Rel-15
+    freeze_stage1_meeting: SA#76
+    freeze_stage2_meeting: SA#78
+    freeze_stage3_meeting: SA#83
+    project_start: '2016-06-01'
+    project_end: '2019-06-07'

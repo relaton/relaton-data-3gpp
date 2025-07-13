@@ -1,0 +1,61 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: 'UMTS Baseline document: Collection of the SMG’s positions on the UMTS'
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/30_series/30.01U/3001U-330.zip
+docidentifier:
+- content: 3GPP TR 30.01U:UMTS/3.3.0
+  type: 3GPP
+  primary: true
+docnumber: TR 30.01U:UMTS/3.3.0
+date:
+- type: published
+  at: '1998-07-07'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Antun
+      surname:
+        language: en
+        script: Latn
+        content: Samukic
+    affiliation:
+    - organization:
+        name:
+        - content: Ericsson Telefonaktiebolaget LM
+version:
+- draft: 3.3.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  release:
+    freeze_stage1_meeting: SMG-#28
+    freeze_stage2_meeting: SMG-#28
+    freeze_stage3_meeting: SMG-#28
+    close_meeting: SA#28
+    project_start: '1994-08-18'
+    project_end: '1999-02-12'

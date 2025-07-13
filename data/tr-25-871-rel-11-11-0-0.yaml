@@ -1,0 +1,70 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Uplink Multiple Input Multiple Output (MIMO) for High Speed Packet Access
+    (HSPA)
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/25_series/25.871/25871-b00.zip
+docidentifier:
+- content: 3GPP TR 25.871:REL-11/11.0.0
+  type: 3GPP
+  primary: true
+docnumber: TR 25.871:REL-11/11.0.0
+date:
+- type: published
+  at: '2011-09-27'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sharad
+      surname:
+        language: en
+        script: Latn
+        content: Sambhwani
+    affiliation:
+    - organization:
+        name:
+        - content: Qualcomm UK Ltd
+version:
+- draft: 11.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: RP
+    - type: other
+      content: R1
+  radiotechnology: LTE
+  release:
+    wpm_code_2g: GSM_Release_11
+    wpm_code_3g: 3G4G_Rel-11
+    freeze_stage1_meeting: SA#53
+    freeze_stage2_meeting: SA#55
+    freeze_stage3_meeting: SA#57
+    project_start: '2010-01-22'
+    project_end: '2013-03-06'

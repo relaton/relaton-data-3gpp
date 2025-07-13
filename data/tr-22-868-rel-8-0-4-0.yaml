@@ -1,0 +1,63 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Study on facilitating machine to machine communication in 3GPP systems
+  type: main
+docidentifier:
+- content: 3GPP TR 22.868:REL-8/0.4.0
+  type: 3GPP
+  primary: true
+docnumber: TR 22.868:REL-8/0.4.0
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jürgen
+      surname:
+        language: en
+        script: Latn
+        content: Merkel
+    affiliation:
+    - organization:
+        name:
+        - content: Nokia Solutions and Networks GmbH & Co. KG
+version:
+- draft: 0.4.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: S1
+    - type: other
+      content: S2
+  radiotechnology: 3G
+  release:
+    wpm_code_2g: GSM_Release_8
+    wpm_code_3g: 3G_Rel-8
+    freeze_stage1_meeting: SA#38
+    freeze_stage2_meeting: SA#40
+    freeze_stage3_meeting: SA#42
+    project_start: '2006-01-23'
+    project_end: '2009-03-12'

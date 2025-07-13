@@ -1,0 +1,67 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: LTE Radio Access Network (RAN) enhancements for diverse data applications
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.822/36822-020.zip
+docidentifier:
+- content: 3GPP TR 36.822:REL-11/0.2.0
+  type: 3GPP
+  primary: true
+docnumber: TR 36.822:REL-11/0.2.0
+date:
+- type: published
+  at: '2011-12-01'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Gordon
+      surname:
+        language: en
+        script: Latn
+        content: Young
+    affiliation:
+    - organization:
+        name:
+        - content: BlackBerry UK Limited
+version:
+- draft: 0.2.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: R2
+  radiotechnology: LTE
+  release:
+    wpm_code_2g: GSM_Release_11
+    wpm_code_3g: 3G4G_Rel-11
+    freeze_stage1_meeting: SA#53
+    freeze_stage2_meeting: SA#55
+    freeze_stage3_meeting: SA#57
+    project_start: '2010-01-22'
+    project_end: '2013-03-06'

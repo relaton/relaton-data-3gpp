@@ -1,0 +1,43 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Requirements of High Speed Circuit Switched Data (HSCSD)
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/01_series/01.34/0134-060.zip
+docidentifier:
+- content: 3GPP TS 01.34:Ph1/0.6.0
+  type: 3GPP
+  primary: true
+docnumber: TS 01.34:Ph1/0.6.0
+date:
+- type: published
+  at: '1998-07-30'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+version:
+- draft: 0.6.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_PH1
+    close_meeting: SA#25
+    project_start: '1982-12-07'

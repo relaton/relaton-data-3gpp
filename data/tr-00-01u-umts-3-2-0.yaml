@@ -1,0 +1,62 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Work programme for the standardization of Universal Mobile Telecommunications
+    System (UMTS)
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/00_series/00.01U/0001U-320.zip
+docidentifier:
+- content: 3GPP TR 00.01U:UMTS/3.2.0
+  type: 3GPP
+  primary: true
+docnumber: TR 00.01U:UMTS/3.2.0
+date:
+- type: published
+  at: '1996-09-04'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Juha
+      surname:
+        language: en
+        script: Latn
+        content: Rapeli
+    affiliation:
+    - organization:
+        name:
+        - content: PHILIPS CONSUMER COMMUNICATION
+version:
+- draft: 3.2.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  release:
+    freeze_stage1_meeting: SMG-#28
+    freeze_stage2_meeting: SMG-#28
+    freeze_stage3_meeting: SMG-#28
+    close_meeting: SA#28
+    project_start: '1994-08-18'
+    project_end: '1999-02-12'

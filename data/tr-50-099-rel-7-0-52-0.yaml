@@ -1,0 +1,62 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: GERAN project plan and open issues
+  type: main
+docidentifier:
+- content: 3GPP TR 50.099:REL-7/0.52.0
+  type: 3GPP
+  primary: true
+docnumber: TR 50.099:REL-7/0.52.0
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Marc
+      surname:
+        language: en
+        script: Latn
+        content: Grant
+    affiliation:
+    - organization:
+        name:
+        - content: AT&T Global Network Services Belgium SPRL
+version:
+- draft: 0.52.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: GP
+  radiotechnology: 3G
+  release:
+    wpm_code_2g: GSM_Release_7
+    wpm_code_3g: 3G_Rel-7
+    freeze_stage1_meeting: SA#29
+    freeze_stage2_meeting: SA#33
+    freeze_stage3_meeting: SA#35
+    close_meeting: SA#65
+    project_start: '2003-10-06'
+    project_end: '2008-03-13'

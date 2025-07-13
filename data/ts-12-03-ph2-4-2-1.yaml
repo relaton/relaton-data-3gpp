@@ -1,0 +1,67 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Security Management
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/12_series/12.03/1203-421.zip
+docidentifier:
+- content: 3GPP TS 12.03:Ph2/4.2.1
+  type: 3GPP
+  primary: true
+docnumber: TS 12.03:Ph2/4.2.1
+date:
+- type: published
+  at: '1996-02-02'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Christian
+      surname:
+        language: en
+        script: Latn
+        content: Toche
+    affiliation:
+    - organization:
+        name:
+        - content: Huawei Technologies France
+version:
+- draft: 4.2.1
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: S5
+    - type: other
+      content: S1
+    - type: other
+      content: CP
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_PH2
+    close_meeting: SA#25
+    project_start: '1993-03-25'

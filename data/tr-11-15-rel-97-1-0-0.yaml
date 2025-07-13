@@ -1,0 +1,38 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Standardised Security Mechanisms for SIM Application Toolkit; Feasibility
+    study
+  type: main
+docidentifier:
+- content: 3GPP TR 11.15:REL-97/1.0.0
+  type: 3GPP
+  primary: true
+docnumber: TR 11.15:REL-97/1.0.0
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+version:
+- draft: 1.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_Release_97
+    close_meeting: SA#28
+    project_start: '1996-04-15'

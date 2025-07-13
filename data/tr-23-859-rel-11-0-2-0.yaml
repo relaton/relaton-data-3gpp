@@ -1,0 +1,68 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Local IP access (LIPA) mobility and Selected IP Traffic Offload (SIPTO)
+    at the local network
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/23_series/23.859/23859-020.zip
+docidentifier:
+- content: 3GPP TR 23.859:REL-11/0.2.0
+  type: 3GPP
+  primary: true
+docnumber: TR 23.859:REL-11/0.2.0
+date:
+- type: published
+  at: '2011-04-27'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Fenqin
+      surname:
+        language: en
+        script: Latn
+        content: Zhu
+    affiliation:
+    - organization:
+        name:
+        - content: Huawei Technologies Co. Ltd.
+version:
+- draft: 0.2.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: S2
+  radiotechnology: LTE
+  release:
+    wpm_code_2g: GSM_Release_11
+    wpm_code_3g: 3G4G_Rel-11
+    freeze_stage1_meeting: SA#53
+    freeze_stage2_meeting: SA#55
+    freeze_stage3_meeting: SA#57
+    project_start: '2010-01-22'
+    project_end: '2013-03-06'

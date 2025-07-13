@@ -1,0 +1,68 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: 'Mobile Station (MS) conformance specification; Part 3: Layer3 (L3) Abstract
+    Test Suite (ATS)'
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/11_series/11.10-3/1110-3-4g0.zip
+docidentifier:
+- content: 3GPP TS 11.10-3:Ph2/4.16.0
+  type: 3GPP
+  primary: true
+docnumber: TS 11.10-3:Ph2/4.16.0
+date:
+- type: published
+  at: '1996-06-28'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Stoyan
+      surname:
+        language: en
+        script: Latn
+        content: Baev
+    affiliation:
+    - organization:
+        name:
+        - content: Samsung R&D Institute UK
+version:
+- draft: 4.16.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: R5
+    - type: other
+      content: S1
+    - type: other
+      content: CP
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_PH2
+    close_meeting: SA#25
+    project_start: '1993-03-25'

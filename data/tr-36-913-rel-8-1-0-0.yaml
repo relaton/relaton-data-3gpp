@@ -1,0 +1,76 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Requirements for further advancements for Evolved Universal Terrestrial
+    Radio Access (E-UTRA)  (LTE-Advanced)
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.913/36913-100.zip
+docidentifier:
+- content: 3GPP TR 36.913:REL-8/1.0.0
+  type: 3GPP
+  primary: true
+docnumber: TR 36.913:REL-8/1.0.0
+date:
+- type: published
+  at: '2008-06-06'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Takehiro
+      surname:
+        language: en
+        script: Latn
+        content: Nakamura
+    affiliation:
+    - organization:
+        name:
+        - content: NTT DOCOMO INC.
+version:
+- draft: 1.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: RP
+    - type: other
+      content: R1
+    - type: other
+      content: R2
+    - type: other
+      content: R3
+    - type: other
+      content: R4
+  radiotechnology: 3G
+  release:
+    wpm_code_2g: GSM_Release_8
+    wpm_code_3g: 3G_Rel-8
+    freeze_stage1_meeting: SA#38
+    freeze_stage2_meeting: SA#40
+    freeze_stage3_meeting: SA#42
+    project_start: '2006-01-23'
+    project_end: '2009-03-12'

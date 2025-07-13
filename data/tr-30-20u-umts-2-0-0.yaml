@@ -1,0 +1,56 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Technical characteristics, capabilities and limitations of mobile satellite
+    systems applicable to the UMTS
+  type: main
+docidentifier:
+- content: 3GPP TR 30.20U:UMTS/2.0.0
+  type: 3GPP
+  primary: true
+docnumber: TR 30.20U:UMTS/2.0.0
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Juha
+      surname:
+        language: en
+        script: Latn
+        content: Rapeli
+    affiliation:
+    - organization:
+        name:
+        - content: PHILIPS CONSUMER COMMUNICATION
+version:
+- draft: 2.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  release:
+    freeze_stage1_meeting: SMG-#28
+    freeze_stage2_meeting: SMG-#28
+    freeze_stage3_meeting: SMG-#28
+    close_meeting: SA#28
+    project_start: '1994-08-18'
+    project_end: '1999-02-12'

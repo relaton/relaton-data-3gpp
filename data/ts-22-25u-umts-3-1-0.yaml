@@ -1,0 +1,61 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Quality of Service (QoS) and network performance
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/22_series/22.25U/2225U-310.zip
+docidentifier:
+- content: 3GPP TS 22.25U:UMTS/3.1.0
+  type: 3GPP
+  primary: true
+docnumber: TS 22.25U:UMTS/3.1.0
+date:
+- type: published
+  at: '1998-05-28'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Seppo
+      surname:
+        language: en
+        script: Latn
+        content: Tiainen
+    affiliation:
+    - organization:
+        name:
+        - content: TeliaSonera AB
+version:
+- draft: 3.1.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  release:
+    freeze_stage1_meeting: SMG-#28
+    freeze_stage2_meeting: SMG-#28
+    freeze_stage3_meeting: SMG-#28
+    close_meeting: SA#28
+    project_start: '1994-08-18'
+    project_end: '1999-02-12'

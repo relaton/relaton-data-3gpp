@@ -1,0 +1,66 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: 'Network Management (NM); Part 2: Common aspects of SM/DCS 1800 Network
+    Management'
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/12_series/12.01/1201-440.zip
+docidentifier:
+- content: 3GPP TS 12.01:Ph2/4.4.0
+  type: 3GPP
+  primary: true
+docnumber: TS 12.01:Ph2/4.4.0
+date:
+- type: published
+  at: '1996-02-02'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Christian
+      surname:
+        language: en
+        script: Latn
+        content: Toche
+    affiliation:
+    - organization:
+        name:
+        - content: Huawei Technologies France
+version:
+- draft: 4.4.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: S5
+    - type: other
+      content: CP
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_PH2
+    close_meeting: SA#25
+    project_start: '1993-03-25'

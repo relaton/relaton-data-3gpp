@@ -1,0 +1,65 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Study on Ultra Low Bit rate Speech Codecs
+  type: main
+source:
+- type: src
+  content: https://ftp.3gpp.org//Specs/archive/26_series/26.940/26940-010.zip
+docidentifier:
+- content: 3GPP TR 26.940:REL-20/0.1.0
+  type: 3GPP
+  primary: true
+docnumber: TR 26.940:REL-20/0.1.0
+date:
+- type: published
+  at: '2025-04-17'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jiayi
+      surname:
+        language: en
+        script: Latn
+        content: Xu
+    affiliation:
+    - organization:
+        name:
+        - content: China Mobile Communications Corporation (CMCC)
+version:
+- draft: 0.1.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: S4
+  radiotechnology: 5G
+  release:
+    wpm_code_2g: GSM_Release_20
+    wpm_code_3g: 3G4G5G_Rel-20
+    freeze_stage1_meeting: SA#108
+    freeze_stage2_meeting: SA#113
+    project_start: '2024-03-14'

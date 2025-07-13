@@ -1,0 +1,67 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: NR; Requirements for support of radio resource management
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.133/38133-hc0.zip
+docidentifier:
+- content: 3GPP TS 38.133:REL-17/17.12.0
+  type: 3GPP
+  primary: true
+docnumber: TS 38.133:REL-17/17.12.0
+date:
+- type: published
+  at: '2024-01-19'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Yang
+      surname:
+        language: en
+        script: Latn
+        content: Tang
+    affiliation:
+    - organization:
+        name:
+        - content: Apple AB
+version:
+- draft: 17.12.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: R4
+  radiotechnology: 5G
+  release:
+    wpm_code_2g: GSM_Release_17
+    wpm_code_3g: 3G4G5G_Rel-17
+    freeze_stage1_meeting: SA#86
+    freeze_stage2_meeting: SA#92-e
+    freeze_stage3_meeting: SA#95
+    project_start: '2018-06-15'
+    project_end: '2022-06-10'

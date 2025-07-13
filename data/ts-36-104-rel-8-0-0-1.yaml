@@ -1,0 +1,62 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); Base Station (BS)
+    radio transmission and reception
+  type: main
+docidentifier:
+- content: 3GPP TS 36.104:REL-8/0.0.1
+  type: 3GPP
+  primary: true
+docnumber: TS 36.104:REL-8/0.0.1
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Johan
+      surname:
+        language: en
+        script: Latn
+        content: Skold
+    affiliation:
+    - organization:
+        name:
+        - content: Ericsson Telefonaktiebolaget LM
+version:
+- draft: 0.0.1
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: R4
+  radiotechnology: 3G
+  release:
+    wpm_code_2g: GSM_Release_8
+    wpm_code_3g: 3G_Rel-8
+    freeze_stage1_meeting: SA#38
+    freeze_stage2_meeting: SA#40
+    freeze_stage3_meeting: SA#42
+    project_start: '2006-01-23'
+    project_end: '2009-03-12'

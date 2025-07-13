@@ -1,0 +1,67 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Evaluation and Characterization of Beyond 2D Video Formats and Codecs
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/26_series/26.956/26956-003.zip
+docidentifier:
+- content: 3GPP TR 26.956:REL-19/0.0.3
+  type: 3GPP
+  primary: true
+docnumber: TR 26.956:REL-19/0.0.3
+date:
+- type: published
+  at: '2024-07-12'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jiayi
+      surname:
+        language: en
+        script: Latn
+        content: Xu
+    affiliation:
+    - organization:
+        name:
+        - content: China Mobile Communications Corporation (CMCC)
+version:
+- draft: 0.0.3
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: S4
+  radiotechnology: 5G
+  release:
+    wpm_code_2g: GSM_Release_19
+    wpm_code_3g: 3G4G5G_Rel-19
+    freeze_stage1_meeting: SA#102
+    freeze_stage2_meeting: SA#106
+    freeze_stage3_meeting: SA#109
+    project_start: '2021-06-18'
+    project_end: '2025-12-12'

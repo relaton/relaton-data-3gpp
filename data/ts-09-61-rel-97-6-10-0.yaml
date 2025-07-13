@@ -1,0 +1,64 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: General Packet Radio Service (GPRS); Interworking between the Public Land
+    Mobile Network (PLMN) supporting GPRS and Packet Data Networks (PDN)
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/09_series/09.61/0961-6a0.zip
+docidentifier:
+- content: 3GPP TS 09.61:REL-97/6.10.0
+  type: 3GPP
+  primary: true
+docnumber: TS 09.61:REL-97/6.10.0
+date:
+- type: published
+  at: '2003-03-27'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sven-ove
+      surname:
+        language: en
+        script: Latn
+        content: Emanuelsson
+    affiliation:
+    - organization:
+        name:
+        - content: Ericsson Telefonaktiebolaget LM
+version:
+- draft: 6.10.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: C3
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_Release_97
+    close_meeting: SA#28
+    project_start: '1996-04-15'

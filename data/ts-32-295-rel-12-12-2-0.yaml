@@ -1,0 +1,68 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Telecommunication management; Charging management; Charging Data Record
+    (CDR) transfer
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/32_series/32.295/32295-c20.zip
+docidentifier:
+- content: 3GPP TS 32.295:REL-12/12.2.0
+  type: 3GPP
+  primary: true
+docnumber: TS 32.295:REL-12/12.2.0
+date:
+- type: published
+  at: '2014-12-22'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Maryse
+      surname:
+        language: en
+        script: Latn
+        content: Gardella
+    affiliation:
+    - organization:
+        name:
+        - content: Alcatel-Lucent International
+version:
+- draft: 12.2.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: S5
+  radiotechnology: LTE
+  release:
+    wpm_code_2g: GSM_Release_12
+    wpm_code_3g: 3G4G_Rel-12
+    freeze_stage1_meeting: SA#59
+    freeze_stage2_meeting: SA#62
+    freeze_stage3_meeting: SA#65
+    project_start: '2011-06-26'
+    project_end: '2015-03-13'

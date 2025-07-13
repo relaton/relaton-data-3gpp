@@ -1,0 +1,69 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Subscriber Identity Module Application Programming Interface (SIM API);
+    Stage 1
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/02_series/02.19/0219-800.zip
+docidentifier:
+- content: 3GPP TS 02.19:REL-99/8.0.0
+  type: 3GPP
+  primary: true
+docnumber: TS 02.19:REL-99/8.0.0
+date:
+- type: published
+  at: '2002-02-01'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sebastian
+      surname:
+        language: en
+        script: Latn
+        content: Hans
+    affiliation:
+    - organization:
+        name:
+        - content: Oracle Corporation
+version:
+- draft: 8.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: C6
+  radiotechnology: 3G
+  release:
+    wpm_code_2g: GSM_Release_99
+    wpm_code_3g: 3G_R1999
+    freeze_stage1_meeting: SA-#6
+    freeze_stage2_meeting: SA-#6
+    freeze_stage3_meeting: SA-#6
+    close_meeting: SA#40
+    project_start: '1996-11-01'
+    project_end: '1999-12-17'

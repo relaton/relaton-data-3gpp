@@ -1,0 +1,48 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Attachment requirements for Global System for Mobile communications (GSM);
+    High Speed Circuit Switched Data (HSCSD) Multislot Mobile Stations; Access
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/13_series/13.34/1334-200.zip
+docidentifier:
+- content: 3GPP TS 13.34:REL-96/2.0.0
+  type: 3GPP
+  primary: true
+docnumber: TS 13.34:REL-96/2.0.0
+date:
+- type: published
+  at: '1998-06-05'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+version:
+- draft: 2.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: other
+      content: R5
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_Release_96
+    close_meeting: SA#25
+    project_start: '1995-07-20'

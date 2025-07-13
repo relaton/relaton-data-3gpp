@@ -1,0 +1,61 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Security requirements
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/33_series/33.21U/3321U-103.zip
+docidentifier:
+- content: 3GPP TS 33.21U:UMTS/1.0.3
+  type: 3GPP
+  primary: true
+docnumber: TS 33.21U:UMTS/1.0.3
+date:
+- type: published
+  at: '1998-10-31'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ansgar
+      surname:
+        language: en
+        script: Latn
+        content: Bergmann
+    affiliation:
+    - organization:
+        name:
+        - content: Hillebrand Consulting Engineers GmbH
+version:
+- draft: 1.0.3
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  release:
+    freeze_stage1_meeting: SMG-#28
+    freeze_stage2_meeting: SMG-#28
+    freeze_stage3_meeting: SMG-#28
+    close_meeting: SA#28
+    project_start: '1994-08-18'
+    project_end: '1999-02-12'

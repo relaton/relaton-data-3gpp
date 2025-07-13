@@ -1,0 +1,62 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced inter-band
+    Carrier Aggregation (CA) Rel-14 for 5 Down Link (DL) / 1 Up Link (UL)
+  type: main
+docidentifier:
+- content: 3GPP TR 36.714-05-01:REL-14/0.0.3
+  type: 3GPP
+  primary: true
+docnumber: TR 36.714-05-01:REL-14/0.0.3
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Iwajlo
+      surname:
+        language: en
+        script: Latn
+        content: Angelow
+    affiliation:
+    - organization:
+        name:
+        - content: Nokia Solutions and Networks GmbH & Co. KG
+version:
+- draft: 0.0.3
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: R4
+  radiotechnology: LTE
+  release:
+    wpm_code_2g: GSM_Release_14
+    wpm_code_3g: 3G4G_Rel-14
+    freeze_stage1_meeting: SA#71
+    freeze_stage2_meeting: SA#73
+    freeze_stage3_meeting: SA#75
+    project_start: '2014-09-17'
+    project_end: '2017-06-09'

@@ -1,0 +1,65 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Digital Cellular Telecommunications System (Phase 2) Interface Protocols
+    for the Connection of Short Message Service Centers (SMSCs) to Short Message Entities
+    (SMEs)
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/03_series/03.39/0339-400.zip
+docidentifier:
+- content: 3GPP TR 03.39:Ph2/4.0.0
+  type: 3GPP
+  primary: true
+docnumber: TR 03.39:Ph2/4.0.0
+date:
+- type: published
+  at: '1995-10-20'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ian
+      surname:
+        language: en
+        script: Latn
+        content: Harris
+    affiliation:
+    - organization:
+        name:
+        - content: Waiting for new Company
+version:
+- draft: 4.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: T2
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_PH2
+    close_meeting: SA#25
+    project_start: '1993-03-25'

@@ -1,0 +1,68 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: General Packet Radio Service (GPRS) enhancements for Evolved Universal
+    Terrestrial Radio Access Network (E-UTRAN) access
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp//Specs/archive/23_series/23.401/23401-e60.zip
+docidentifier:
+- content: 3GPP TS 23.401:REL-14/14.6.0
+  type: 3GPP
+  primary: true
+docnumber: TS 23.401:REL-14/14.6.0
+date:
+- type: published
+  at: '2017-12-22'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Chris
+      surname:
+        language: en
+        script: Latn
+        content: Pudney
+    affiliation:
+    - organization:
+        name:
+        - content: Vodafone Group Plc
+version:
+- draft: 14.6.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: S2
+  radiotechnology: LTE
+  release:
+    wpm_code_2g: GSM_Release_14
+    wpm_code_3g: 3G4G_Rel-14
+    freeze_stage1_meeting: SA#71
+    freeze_stage2_meeting: SA#73
+    freeze_stage3_meeting: SA#75
+    project_start: '2014-09-17'
+    project_end: '2017-06-09'

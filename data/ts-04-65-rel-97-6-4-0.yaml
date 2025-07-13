@@ -1,0 +1,64 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: General Packet Radio Service (GPRS); Mobile Station (MS) - Serving GPRS
+    Support Node (SGSN); Subnetwork Dependent Convergence Protocol (SNDCP)
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/04_series/04.65/0465-640.zip
+docidentifier:
+- content: 3GPP TS 04.65:REL-97/6.4.0
+  type: 3GPP
+  primary: true
+docnumber: TS 04.65:REL-97/6.4.0
+date:
+- type: published
+  at: '1999-06-25'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Behrouz
+      surname:
+        language: en
+        script: Latn
+        content: Aghili
+    affiliation:
+    - organization:
+        name:
+        - content: InterDigital Communications Corporation
+version:
+- draft: 6.4.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: C1
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_Release_97
+    close_meeting: SA#28
+    project_start: '1996-04-15'

@@ -1,0 +1,68 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced inter-band
+    Carrier Aggregation (CA) Rel-15 for x Down Link (DL) / 1 Up Link (UL) with x>5
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.715-00-01/36715-00-01-100.zip
+docidentifier:
+- content: 3GPP TR 36.715-00-01:REL-15/1.0.0
+  type: 3GPP
+  primary: true
+docnumber: TR 36.715-00-01:REL-15/1.0.0
+date:
+- type: published
+  at: '2018-06-04'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Bin
+      surname:
+        language: en
+        script: Latn
+        content: Han
+    affiliation:
+    - organization:
+        name:
+        - content: Qualcomm Incorporated
+version:
+- draft: 1.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: R4
+  radiotechnology: 5G
+  release:
+    wpm_code_2g: GSM_Release_15
+    wpm_code_3g: 3G4G5G_Rel-15
+    freeze_stage1_meeting: SA#76
+    freeze_stage2_meeting: SA#78
+    freeze_stage3_meeting: SA#83
+    project_start: '2016-06-01'
+    project_end: '2019-06-07'

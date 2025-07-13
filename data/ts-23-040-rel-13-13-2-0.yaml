@@ -1,0 +1,67 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Technical realization of the Short Message Service (SMS)
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/23_series/23.040/23040-d20.zip
+docidentifier:
+- content: 3GPP TS 23.040:REL-13/13.2.0
+  type: 3GPP
+  primary: true
+docnumber: TS 23.040:REL-13/13.2.0
+date:
+- type: published
+  at: '2016-09-30'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mohamed Amin
+      surname:
+        language: en
+        script: Latn
+        content: Nassar
+    affiliation:
+    - organization:
+        name:
+        - content: Nokia Solutions and Networks GmbH & Co. KG
+version:
+- draft: 13.2.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: C1
+  radiotechnology: LTE
+  release:
+    wpm_code_2g: GSM_Release_13
+    wpm_code_3g: 3G4G_Rel-13
+    freeze_stage1_meeting: SA#65
+    freeze_stage2_meeting: SA#68
+    freeze_stage3_meeting: SA#70
+    project_start: '2012-09-30'
+    project_end: '2016-03-11'

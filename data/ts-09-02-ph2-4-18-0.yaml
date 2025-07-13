@@ -1,0 +1,63 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Mobile Application Part (MAP) Specification
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/09_series/09.02/0902-4I0.zip
+docidentifier:
+- content: 3GPP TS 09.02:Ph2/4.18.0
+  type: 3GPP
+  primary: true
+docnumber: TS 09.02:Ph2/4.18.0
+date:
+- type: published
+  at: '1997-10-17'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ulrich
+      surname:
+        language: en
+        script: Latn
+        content: Wiehe
+    affiliation:
+    - organization:
+        name:
+        - content: Nokia Solutions and Networks (shanghai) Ltd.
+version:
+- draft: 4.18.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: C4
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_PH2
+    close_meeting: SA#25
+    project_start: '1993-03-25'

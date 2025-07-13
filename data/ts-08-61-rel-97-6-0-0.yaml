@@ -1,0 +1,66 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: In-band control of remote transcoders and rate adaptors for half rate traffic
+    channels
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/08_series/08.61/0861-600.zip
+docidentifier:
+- content: 3GPP TS 08.61:REL-97/6.0.0
+  type: 3GPP
+  primary: true
+docnumber: TS 08.61:REL-97/6.0.0
+date:
+- type: published
+  at: '1998-10-18'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Niels Peter Skov
+      surname:
+        language: en
+        script: Latn
+        content: Andersen
+    affiliation:
+    - organization:
+        name:
+        - content: Anemone Technology
+version:
+- draft: 6.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: R6
+    - type: other
+      content: CP
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_Release_97
+    close_meeting: SA#28
+    project_start: '1996-04-15'

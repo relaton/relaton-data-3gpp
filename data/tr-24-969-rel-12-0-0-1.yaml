@@ -1,0 +1,68 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Business trunking; Next Generation Corporate Network (NGCN) - Next Generation
+    Network (NGN) interfaces implementation guide
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/24_series/24.969/24969-001.zip
+docidentifier:
+- content: 3GPP TR 24.969:REL-12/0.0.1
+  type: 3GPP
+  primary: true
+docnumber: TR 24.969:REL-12/0.0.1
+date:
+- type: published
+  at: '2014-09-01'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mariusz
+      surname:
+        language: en
+        script: Latn
+        content: Skrocki
+    affiliation:
+    - organization:
+        name:
+        - content: Orange
+version:
+- draft: 0.0.1
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: C1
+  radiotechnology: LTE
+  release:
+    wpm_code_2g: GSM_Release_12
+    wpm_code_3g: 3G4G_Rel-12
+    freeze_stage1_meeting: SA#59
+    freeze_stage2_meeting: SA#62
+    freeze_stage3_meeting: SA#65
+    project_start: '2011-06-26'
+    project_end: '2015-03-13'

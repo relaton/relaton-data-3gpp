@@ -1,0 +1,63 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Types of Mobile Stations (MS)
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/02_series/02.06/0206-501.zip
+docidentifier:
+- content: 3GPP TS 02.06:REL-96/5.0.1
+  type: 3GPP
+  primary: true
+docnumber: TS 02.06:REL-96/5.0.1
+date:
+- type: published
+  at: '1997-05-02'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Amin
+      surname:
+        language: en
+        script: Latn
+        content: Tofabi
+    affiliation:
+    - organization:
+        name:
+        - content: SONY INTERNATIONAL (EUROPE) Gmbh
+version:
+- draft: 5.0.1
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: S1
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_Release_96
+    close_meeting: SA#25
+    project_start: '1995-07-20'

@@ -1,0 +1,67 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Study on further enhancements of small cell high layer aspects for LTE
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.876/36876-040.zip
+docidentifier:
+- content: 3GPP TR 36.876:REL-13/0.4.0
+  type: 3GPP
+  primary: true
+docnumber: TR 36.876:REL-13/0.4.0
+date:
+- type: published
+  at: '2015-08-31'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Feng
+      surname:
+        language: en
+        script: Latn
+        content: Han
+    affiliation:
+    - organization:
+        name:
+        - content: Huawei Technologies Co. Ltd.
+version:
+- draft: 0.4.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: R3
+  radiotechnology: LTE
+  release:
+    wpm_code_2g: GSM_Release_13
+    wpm_code_3g: 3G4G_Rel-13
+    freeze_stage1_meeting: SA#65
+    freeze_stage2_meeting: SA#68
+    freeze_stage3_meeting: SA#70
+    project_start: '2012-09-30'
+    project_end: '2016-03-11'

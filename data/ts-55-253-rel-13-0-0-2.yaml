@@ -1,0 +1,68 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Specification of the GEA5 encryption and GIA5 integrity algorithms for
+    General Packet Radio Service (GPRS); Design conformance test data
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp//Specs/archive/55_series/55.253/55253-002.zip
+docidentifier:
+- content: 3GPP TS 55.253:REL-13/0.0.2
+  type: 3GPP
+  primary: true
+docnumber: TS 55.253:REL-13/0.0.2
+date:
+- type: published
+  at: '2017-02-16'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Tim P.
+      surname:
+        language: en
+        script: Latn
+        content: Evans
+    affiliation:
+    - organization:
+        name:
+        - content: Vodafone Group Plc
+version:
+- draft: 0.0.2
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: S3
+  radiotechnology: LTE
+  release:
+    wpm_code_2g: GSM_Release_13
+    wpm_code_3g: 3G4G_Rel-13
+    freeze_stage1_meeting: SA#65
+    freeze_stage2_meeting: SA#68
+    freeze_stage3_meeting: SA#70
+    project_start: '2012-09-30'
+    project_end: '2016-03-11'

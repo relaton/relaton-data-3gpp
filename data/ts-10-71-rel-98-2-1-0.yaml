@@ -1,0 +1,67 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Project scheduling and open issues:Location services (LCS)
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/10_series/10.71/1071-210.zip
+docidentifier:
+- content: 3GPP TS 10.71:REL-98/2.1.0
+  type: 3GPP
+  primary: true
+docnumber: TS 10.71:REL-98/2.1.0
+date:
+- type: published
+  at: '2001-01-24'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sonia
+      surname:
+        language: en
+        script: Latn
+        content: Garapaty
+    affiliation:
+    - organization:
+        name:
+        - content: Nortel Networks (USA)
+version:
+- draft: 2.1.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: S1
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_Release_98
+    freeze_stage1_meeting: SMG-#28
+    freeze_stage2_meeting: SMG-#28
+    freeze_stage3_meeting: SMG-#28
+    close_meeting: SA#28
+    project_start: '1996-03-26'
+    project_end: '1999-02-12'

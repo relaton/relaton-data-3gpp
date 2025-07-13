@@ -1,0 +1,68 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: 3rd Generation mobile system Release 4 specifications
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/21_series/21.102/21102-420.zip
+docidentifier:
+- content: 3GPP TS 21.102:REL-4/4.2.0
+  type: 3GPP
+  primary: true
+docnumber: TS 21.102:REL-4/4.2.0
+date:
+- type: published
+  at: '2001-10-01'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John M
+      surname:
+        language: en
+        script: Latn
+        content: Meredith
+    affiliation:
+    - organization:
+        name:
+        - content: European Telecommunications Standards Institute
+version:
+- draft: 4.2.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: SP
+  radiotechnology: 3G
+  release:
+    wpm_code_2g: GSM_Release_4
+    wpm_code_3g: 3G_Rel-4
+    freeze_stage1_meeting: SA-#11
+    freeze_stage2_meeting: SA-#11
+    freeze_stage3_meeting: SA-#11
+    close_meeting: SA#65
+    project_start: '1998-08-01'
+    project_end: '2001-06-21'

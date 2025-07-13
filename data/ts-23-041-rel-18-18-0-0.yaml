@@ -1,0 +1,67 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Technical realization of Cell Broadcast Service (CBS)
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/23_series/23.041/23041-i00.zip
+docidentifier:
+- content: 3GPP TS 23.041:REL-18/18.0.0
+  type: 3GPP
+  primary: true
+docnumber: TS 23.041:REL-18/18.0.0
+date:
+- type: published
+  at: '2022-06-09'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ivo
+      surname:
+        language: en
+        script: Latn
+        content: Sedlacek
+    affiliation:
+    - organization:
+        name:
+        - content: Ericsson Telefonaktiebolaget LM
+version:
+- draft: 18.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: C1
+  radiotechnology: 5G
+  release:
+    wpm_code_2g: GSM_Release_18
+    wpm_code_3g: 3G4G5G_Rel-18
+    freeze_stage1_meeting: SA#94-e
+    freeze_stage2_meeting: SA#100
+    freeze_stage3_meeting: SA#103
+    project_start: '2019-09-16'
+    project_end: '2024-06-21'

@@ -1,0 +1,69 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Study on integration of satellite components in the 5G architecture; Phase
+    3
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-29/23700-29-100.zip
+docidentifier:
+- content: 3GPP TR 23.700-29:REL-19/1.0.0
+  type: 3GPP
+  primary: true
+docnumber: TR 23.700-29:REL-19/1.0.0
+date:
+- type: published
+  at: '2024-06-10'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hucheng
+      surname:
+        language: en
+        script: Latn
+        content: Wang
+    affiliation:
+    - organization:
+        name:
+        - content: China Academy of Telecommunication Technology - (Datang Telecom
+            Technology and Industry Group)
+version:
+- draft: 1.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: S2
+  radiotechnology: 5G
+  release:
+    wpm_code_2g: GSM_Release_19
+    wpm_code_3g: 3G4G5G_Rel-19
+    freeze_stage1_meeting: SA#102
+    freeze_stage2_meeting: SA#106
+    freeze_stage3_meeting: SA#109
+    project_start: '2021-06-18'
+    project_end: '2025-12-12'

@@ -1,0 +1,48 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Attachment requirements for mobile stations in the DCS 1800 band and additional
+    GSM 900 band; Access
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/13_series/13.01-2/1301-2-000.zip
+docidentifier:
+- content: 3GPP TS 13.01-2:Ph2/0.0.0
+  type: 3GPP
+  primary: true
+docnumber: TS 13.01-2:Ph2/0.0.0
+date:
+- type: published
+  at: '1998-06-20'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+version:
+- draft: 0.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: other
+      content: R5
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_PH2
+    close_meeting: SA#25
+    project_start: '1993-03-25'

@@ -1,0 +1,63 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Comfort Noise Aspects for Half Rate Speech Traffic Channels
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/06_series/06.22/0622-400.zip
+docidentifier:
+- content: 3GPP TS 06.22:Ph2/4.0.0
+  type: 3GPP
+  primary: true
+docnumber: TS 06.22:Ph2/4.0.0
+date:
+- type: published
+  at: '1995-01-27'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Steve
+      surname:
+        language: en
+        script: Latn
+        content: Aftelak
+    affiliation:
+    - organization:
+        name:
+        - content: Waiting for new Company
+version:
+- draft: 4.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: S4
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_PH2
+    close_meeting: SA#25
+    project_start: '1993-03-25'

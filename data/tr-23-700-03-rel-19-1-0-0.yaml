@@ -1,0 +1,84 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Study on system enhancement for Proximity based Services (ProSe) in the
+    5G System (5GS); Phase 3
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-03/23700-03-100.zip
+docidentifier:
+- content: 3GPP TR 23.700-03:REL-19/1.0.0
+  type: 3GPP
+  primary: true
+docnumber: TR 23.700-03:REL-19/1.0.0
+date:
+- type: published
+  at: '2024-06-09'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Nassima
+      surname:
+        language: en
+        script: Latn
+        content: Toumi
+    affiliation:
+    - organization:
+        name:
+        - content: TNO
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hugh
+      surname:
+        language: en
+        script: Latn
+        content: Shieh
+    affiliation:
+    - organization:
+        name:
+        - content: AT&T Global Network Services Belgium SPRL
+version:
+- draft: 1.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: S2
+  radiotechnology: 5G
+  release:
+    wpm_code_2g: GSM_Release_19
+    wpm_code_3g: 3G4G5G_Rel-19
+    freeze_stage1_meeting: SA#102
+    freeze_stage2_meeting: SA#106
+    freeze_stage3_meeting: SA#109
+    project_start: '2021-06-18'
+    project_end: '2025-12-12'

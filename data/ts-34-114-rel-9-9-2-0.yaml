@@ -1,0 +1,70 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: User Equipment (UE) / Mobile Station (MS) Over The Air (OTA) antenna performance;
+    Conformance testing
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/34_series/34.114/34114-920.zip
+docidentifier:
+- content: 3GPP TS 34.114:REL-9/9.2.0
+  type: 3GPP
+  primary: true
+docnumber: TS 34.114:REL-9/9.2.0
+date:
+- type: published
+  at: '2011-09-30'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jose M.
+      surname:
+        language: en
+        script: Latn
+        content: Fortes Lopez
+    affiliation:
+    - organization:
+        name:
+        - content: ROHDE & SCHWARZ GmbH & Co.KG
+version:
+- draft: 9.2.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: R5
+    - type: other
+      content: R5
+  radiotechnology: 3G
+  release:
+    wpm_code_2g: GSM_Release_9
+    wpm_code_3g: 3G_Rel-9
+    freeze_stage1_meeting: SA#42
+    freeze_stage2_meeting: SA#44
+    freeze_stage3_meeting: SA#46
+    project_start: '2008-03-06'
+    project_end: '2010-03-25'

@@ -1,0 +1,58 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: 'Introduction to the services: enhanced Multi-Level Precedence and Pre-emption
+    (eMLPP), Voice Group Call Service (VGCS), Voice Broadcast Service (VBS)'
+  type: main
+docidentifier:
+- content: 3GPP TR 10.68:REL-96/5.0.0
+  type: 3GPP
+  primary: true
+docnumber: TR 10.68:REL-96/5.0.0
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Peter
+      surname:
+        language: en
+        script: Latn
+        content: Van der Arend
+    affiliation:
+    - organization:
+        name:
+        - content: Koninklijke KPN N.V.
+version:
+- draft: 5.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: S2
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_Release_96
+    close_meeting: SA#25
+    project_start: '1995-07-20'

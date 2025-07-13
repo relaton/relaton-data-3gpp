@@ -1,0 +1,83 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Study on 3GPP AI/ML Consistency Alignment
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/22_series/22.850/22850-020.zip
+docidentifier:
+- content: 3GPP TS 22.850:REL-19/0.2.0
+  type: 3GPP
+  primary: true
+docnumber: TS 22.850:REL-19/0.2.0
+date:
+- type: published
+  at: '2024-12-20'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Xiaobo
+      surname:
+        language: en
+        script: Latn
+        content: Wu
+    affiliation:
+    - organization:
+        name:
+        - content: vivo Mobile Communication Co., Ltd
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Johannes
+      surname:
+        language: en
+        script: Latn
+        content: Achter
+    affiliation:
+    - organization:
+        name:
+        - content: Deutsche Telekom AG
+version:
+- draft: 0.2.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: SP
+  radiotechnology: 5G
+  release:
+    wpm_code_2g: GSM_Release_19
+    wpm_code_3g: 3G4G5G_Rel-19
+    freeze_stage1_meeting: SA#102
+    freeze_stage2_meeting: SA#106
+    freeze_stage3_meeting: SA#109
+    project_start: '2021-06-18'
+    project_end: '2025-12-12'

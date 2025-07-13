@@ -1,0 +1,64 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: General Packet Radio Service (GPRS); GPRS Tunnelling Protocol GPT) across
+    the Gn and Gp Interface
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/09_series/09.60/0960-650.zip
+docidentifier:
+- content: 3GPP TS 09.60:REL-97/6.5.0
+  type: 3GPP
+  primary: true
+docnumber: TS 09.60:REL-97/6.5.0
+date:
+- type: published
+  at: '1999-10-08'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Peter
+      surname:
+        language: en
+        script: Latn
+        content: Schmitt
+    affiliation:
+    - organization:
+        name:
+        - content: Huawei Technologies (UK) Co., Ltd.
+version:
+- draft: 6.5.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: C4
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_Release_97
+    close_meeting: SA#28
+    project_start: '1996-04-15'

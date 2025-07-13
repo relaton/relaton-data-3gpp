@@ -1,0 +1,68 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA) and NR; Service Data
+    Adaptation Protocol (SDAP) specification
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp//Specs/archive/37_series/37.324/37324-140.zip
+docidentifier:
+- content: 3GPP TS 37.324:REL-15/1.4.0
+  type: 3GPP
+  primary: true
+docnumber: TS 37.324:REL-15/1.4.0
+date:
+- type: published
+  at: '2018-04-27'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Yunsong
+      surname:
+        language: en
+        script: Latn
+        content: Yang
+    affiliation:
+    - organization:
+        name:
+        - content: Futurewei Technologies Inc.
+version:
+- draft: 1.4.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: R2
+  radiotechnology: 5G
+  release:
+    wpm_code_2g: GSM_Release_15
+    wpm_code_3g: 3G4G5G_Rel-15
+    freeze_stage1_meeting: SA#76
+    freeze_stage2_meeting: SA#78
+    freeze_stage3_meeting: SA#83
+    project_start: '2016-06-01'
+    project_end: '2019-06-07'

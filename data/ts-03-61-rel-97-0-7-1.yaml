@@ -1,0 +1,60 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: General Packet Radio Service (GPRS); Point To Multipoint Multicast Service
+    Description; Stage 2
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/03_series/03.61/0361-071.zip
+docidentifier:
+- content: 3GPP TS 03.61:REL-97/0.7.1
+  type: 3GPP
+  primary: true
+docnumber: TS 03.61:REL-97/0.7.1
+date:
+- type: published
+  at: '1998-03-20'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hans Petter
+      surname:
+        language: en
+        script: Latn
+        content: Naper
+    affiliation:
+    - organization:
+        name:
+        - content: Waiting for new Company
+version:
+- draft: 0.7.1
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_Release_97
+    close_meeting: SA#28
+    project_start: '1996-04-15'

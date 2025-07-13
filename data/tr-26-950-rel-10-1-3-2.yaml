@@ -1,0 +1,68 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Study on Surround Sound codec extension for Packet Switched Streaming (PSS)
+    and Multimedia Broadcast/Multicast Service (MBMS)
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/26_series/26.950/26950-132.zip
+docidentifier:
+- content: 3GPP TR 26.950:REL-10/1.3.2
+  type: 3GPP
+  primary: true
+docnumber: TR 26.950:REL-10/1.3.2
+date:
+- type: published
+  at: '2010-06-27'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jan
+      surname:
+        language: en
+        script: Latn
+        content: Plogsties
+    affiliation:
+    - organization:
+        name:
+        - content: Fraunhofer Institut für Integrierte Schaltungen IIS
+version:
+- draft: 1.3.2
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: S4
+  radiotechnology: LTE
+  release:
+    wpm_code_2g: GSM_Release_10
+    wpm_code_3g: 3G4G_Rel-10
+    freeze_stage1_meeting: SA#47
+    freeze_stage2_meeting: SA#49
+    freeze_stage3_meeting: SA#51
+    project_start: '2009-01-20'
+    project_end: '2011-06-08'

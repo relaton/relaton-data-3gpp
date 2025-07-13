@@ -1,0 +1,84 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Study on further enhancements to Coordinated Multi-Point (CoMP) operation
+    for LTE
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp//Specs/archive/36_series/36.741/36741-200.zip
+docidentifier:
+- content: 3GPP TR 36.741:REL-14/2.0.0
+  type: 3GPP
+  primary: true
+docnumber: TR 36.741:REL-14/2.0.0
+date:
+- type: published
+  at: '2017-02-27'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ruyue Yu-Ngok
+      surname:
+        language: en
+        script: Latn
+        content: Li
+    affiliation:
+    - organization:
+        name:
+        - content: ZTE Corporation
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Davydov
+      surname:
+        language: en
+        script: Latn
+        content: Alexei
+    affiliation:
+    - organization:
+        name:
+        - content: Intel Corporation (UK) Ltd
+version:
+- draft: 2.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: R1
+  radiotechnology: LTE
+  release:
+    wpm_code_2g: GSM_Release_14
+    wpm_code_3g: 3G4G_Rel-14
+    freeze_stage1_meeting: SA#71
+    freeze_stage2_meeting: SA#73
+    freeze_stage3_meeting: SA#75
+    project_start: '2014-09-17'
+    project_end: '2017-06-09'

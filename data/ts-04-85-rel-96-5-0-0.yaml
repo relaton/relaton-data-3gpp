@@ -1,0 +1,63 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Closed User Group (CUG) Supplementary Services; Stage 3
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/04_series/04.85/0485-500.zip
+docidentifier:
+- content: 3GPP TS 04.85:REL-96/5.0.0
+  type: 3GPP
+  primary: true
+docnumber: TS 04.85:REL-96/5.0.0
+date:
+- type: published
+  at: '1996-10-11'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ulrich
+      surname:
+        language: en
+        script: Latn
+        content: Wiehe
+    affiliation:
+    - organization:
+        name:
+        - content: Nokia Solutions and Networks (shanghai) Ltd.
+version:
+- draft: 5.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: C4
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_Release_96
+    close_meeting: SA#25
+    project_start: '1995-07-20'

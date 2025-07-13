@@ -1,0 +1,67 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Adaptive Multi Rate (AMR) speech; ANSI-C code for the AMR speech codec
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/06_series/06.73/0673-750.zip
+docidentifier:
+- content: 3GPP TS 06.73:REL-98/7.5.0
+  type: 3GPP
+  primary: true
+docnumber: TS 06.73:REL-98/7.5.0
+date:
+- type: published
+  at: '2001-04-10'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Stefan
+      surname:
+        language: en
+        script: Latn
+        content: Bruhn
+    affiliation:
+    - organization:
+        name:
+        - content: Ericsson Telefonaktiebolaget LM
+version:
+- draft: 7.5.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: S4
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_Release_98
+    freeze_stage1_meeting: SMG-#28
+    freeze_stage2_meeting: SMG-#28
+    freeze_stage3_meeting: SMG-#28
+    close_meeting: SA#28
+    project_start: '1996-03-26'
+    project_end: '1999-02-12'

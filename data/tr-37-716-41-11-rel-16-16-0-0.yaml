@@ -1,0 +1,69 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity
+    (EN-DC) of 4 bands LTE inter-band Carrier aggregation (CA) (4 Down Link (DL) /
+    1 Up Link (UL)) and 1 NR band (1 DL / 1 UL)
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp//Specs/archive/37_series/37.716-41-11/37716-41-11-g00.zip
+docidentifier:
+- content: 3GPP TR 37.716-41-11:REL-16/16.0.0
+  type: 3GPP
+  primary: true
+docnumber: TR 37.716-41-11:REL-16/16.0.0
+date:
+- type: published
+  at: '2020-07-22'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Johannes
+      surname:
+        language: en
+        script: Latn
+        content: Hejselbaek
+    affiliation:
+    - organization:
+        name:
+        - content: Nokia Denmark A/S
+version:
+- draft: 16.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: R4
+  radiotechnology: 5G
+  release:
+    wpm_code_2g: GSM_Release_16
+    wpm_code_3g: 3G4G5G_Rel-16
+    freeze_stage1_meeting: SA#82
+    freeze_stage2_meeting: SA#84
+    freeze_stage3_meeting: SA#88-e
+    project_start: '2017-03-22'
+    project_end: '2020-07-03'

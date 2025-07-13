@@ -1,0 +1,60 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: 'Universal Mobile Telecommunications System (UMTS): Service aspects; Service
+    principles'
+  type: main
+docidentifier:
+- content: 3GPP TS 22.01U:UMTS/3.2.1
+  type: 3GPP
+  primary: true
+docnumber: TS 22.01U:UMTS/3.2.1
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Paul
+      surname:
+        language: en
+        script: Latn
+        content: Dwyer
+    affiliation:
+    - organization:
+        name:
+        - content: Waiting for new Company
+version:
+- draft: 3.2.1
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: S1
+  release:
+    freeze_stage1_meeting: SMG-#28
+    freeze_stage2_meeting: SMG-#28
+    freeze_stage3_meeting: SMG-#28
+    close_meeting: SA#28
+    project_start: '1994-08-18'
+    project_end: '1999-02-12'

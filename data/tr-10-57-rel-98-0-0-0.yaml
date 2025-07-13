@@ -1,0 +1,62 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: 'Project scheduling and open issues: Mobile Station Execution Environment
+    (MExE)'
+  type: main
+docidentifier:
+- content: 3GPP TR 10.57:REL-98/0.0.0
+  type: 3GPP
+  primary: true
+docnumber: TR 10.57:REL-98/0.0.0
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Friedhelm
+      surname:
+        language: en
+        script: Latn
+        content: Rodermund
+    affiliation:
+    - organization:
+        name:
+        - content: Vodafone Group Plc
+version:
+- draft: 0.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: T2
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_Release_98
+    freeze_stage1_meeting: SMG-#28
+    freeze_stage2_meeting: SMG-#28
+    freeze_stage3_meeting: SMG-#28
+    close_meeting: SA#28
+    project_start: '1996-03-26'
+    project_end: '1999-02-12'

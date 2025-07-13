@@ -1,0 +1,67 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Mobile Application Part (MAP) Specification
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/09_series/09.02/0902-770.zip
+docidentifier:
+- content: 3GPP TS 09.02:REL-98/7.7.0
+  type: 3GPP
+  primary: true
+docnumber: TS 09.02:REL-98/7.7.0
+date:
+- type: published
+  at: '2000-12-21'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ulrich
+      surname:
+        language: en
+        script: Latn
+        content: Wiehe
+    affiliation:
+    - organization:
+        name:
+        - content: Nokia Solutions and Networks (shanghai) Ltd.
+version:
+- draft: 7.7.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: C4
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_Release_98
+    freeze_stage1_meeting: SMG-#28
+    freeze_stage2_meeting: SMG-#28
+    freeze_stage3_meeting: SMG-#28
+    close_meeting: SA#28
+    project_start: '1996-03-26'
+    project_end: '1999-02-12'

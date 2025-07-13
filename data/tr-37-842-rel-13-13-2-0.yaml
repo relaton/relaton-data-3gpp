@@ -1,0 +1,69 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA) and Universal Terrestrial
+    Radio Access (UTRA; Radio Frequency (RF) requirement background for Active Antenna
+    System (AAS) Base Station (BS)
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp//Specs/archive/37_series/37.842/37842-d20.zip
+docidentifier:
+- content: 3GPP TR 37.842:REL-13/13.2.0
+  type: 3GPP
+  primary: true
+docnumber: TR 37.842:REL-13/13.2.0
+date:
+- type: published
+  at: '2017-03-28'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Richard
+      surname:
+        language: en
+        script: Latn
+        content: Kybett
+    affiliation:
+    - organization:
+        name:
+        - content: Huawei Technologies (UK) Co., Ltd.
+version:
+- draft: 13.2.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TR
+    content: Technical Report
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: R4
+  radiotechnology: LTE
+  release:
+    wpm_code_2g: GSM_Release_13
+    wpm_code_3g: 3G4G_Rel-13
+    freeze_stage1_meeting: SA#65
+    freeze_stage2_meeting: SA#68
+    freeze_stage3_meeting: SA#70
+    project_start: '2012-09-30'
+    project_end: '2016-03-11'

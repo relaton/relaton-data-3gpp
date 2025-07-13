@@ -1,0 +1,62 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Mobile-services Switching Centre - Base Station system (MSC-BSS) Interface
+    Layer 3 Specification
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/08_series/08.08/0808-820.zip
+docidentifier:
+- content: 3GPP TS 08.08:Release 2000/8.2.0
+  type: 3GPP
+  primary: true
+docnumber: TS 08.08:Release 2000/8.2.0
+date:
+- type: published
+  at: '1999-12-06'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Niels Peter Skov
+      surname:
+        language: en
+        script: Latn
+        content: Andersen
+    affiliation:
+    - organization:
+        name:
+        - content: Anemone Technology
+version:
+- draft: 8.2.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: R6
+  release:
+    close_meeting: SA-#6
+    project_start: '1999-03-30'

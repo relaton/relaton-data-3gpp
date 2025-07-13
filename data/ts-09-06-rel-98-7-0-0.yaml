@@ -1,0 +1,69 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Interworking between a Public Land Mobile Network (PLMN) and a Packet Switched
+    Public Data Network/Intergrated Services digital Network (PSPDN/ISDN) for Support
+    of Packet Switched Data Transmission Services
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/09_series/09.06/0906-700.zip
+docidentifier:
+- content: 3GPP TS 09.06:REL-98/7.0.0
+  type: 3GPP
+  primary: true
+docnumber: TS 09.06:REL-98/7.0.0
+date:
+- type: published
+  at: '1999-06-25'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Nevenka
+      surname:
+        language: en
+        script: Latn
+        content: Biondic
+    affiliation:
+    - organization:
+        name:
+        - content: Ericsson Telefonaktiebolaget LM
+version:
+- draft: 7.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: C3
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_Release_98
+    freeze_stage1_meeting: SMG-#28
+    freeze_stage2_meeting: SMG-#28
+    freeze_stage3_meeting: SMG-#28
+    close_meeting: SA#28
+    project_start: '1996-03-26'
+    project_end: '1999-02-12'

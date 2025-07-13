@@ -1,0 +1,64 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Specification of the Subscriber Identity Module - Mobile Equipment (SIM-ME)
+    Interface
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/11_series/11.11/1111-540.zip
+docidentifier:
+- content: 3GPP TS 11.11:REL-96/5.4.0
+  type: 3GPP
+  primary: true
+docnumber: TS 11.11:REL-96/5.4.0
+date:
+- type: published
+  at: '1996-10-11'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ly Thanh
+      surname:
+        language: en
+        script: Latn
+        content: Phan
+    affiliation:
+    - organization:
+        name:
+        - content: Gemalto N.V.
+version:
+- draft: 5.4.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: C6
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_Release_96
+    close_meeting: SA#25
+    project_start: '1995-07-20'

@@ -1,0 +1,61 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Location services (LCS) GERAN; Stage 2
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/03_series/03.59/0359-001.zip
+docidentifier:
+- content: 3GPP TS 03.59:Release 2000/0.0.1
+  type: 3GPP
+  primary: true
+docnumber: TS 03.59:Release 2000/0.0.1
+date:
+- type: published
+  at: '2000-05-30'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Margaret
+      surname:
+        language: en
+        script: Latn
+        content: Livingston
+    affiliation:
+    - organization:
+        name:
+        - content: Operational Technology Division (OTD)
+version:
+- draft: 0.0.1
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: G1
+  release:
+    close_meeting: SA-#6
+    project_start: '1999-03-30'

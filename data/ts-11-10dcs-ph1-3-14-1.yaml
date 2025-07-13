@@ -1,0 +1,65 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Mobile Station Conformity Specification (DCS 1800)
+  type: main
+docidentifier:
+- content: 3GPP TS 11.10dcs:Ph1/3.14.1
+  type: 3GPP
+  primary: true
+docnumber: TS 11.10dcs:Ph1/3.14.1
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Walter
+      surname:
+        language: en
+        script: Latn
+        content: Legrand
+    affiliation:
+    - organization:
+        name:
+        - content: Airbus Group SAS
+version:
+- draft: 3.14.1
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: R5
+    - type: other
+      content: R5
+    - type: other
+      content: S1
+    - type: other
+      content: CP
+    - type: other
+      content: CP
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_PH1
+    close_meeting: SA#25
+    project_start: '1992-12-03'

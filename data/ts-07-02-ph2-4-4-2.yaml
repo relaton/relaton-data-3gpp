@@ -1,0 +1,64 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Terminal Adaptation Functions (TAF) for Services Using Asynchronous Bearer
+    Capabilities
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/07_series/07.02/0702-442.zip
+docidentifier:
+- content: 3GPP TS 07.02:Ph2/4.4.2
+  type: 3GPP
+  primary: true
+docnumber: TS 07.02:Ph2/4.4.2
+date:
+- type: published
+  at: '1994-01-21'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Nevenka
+      surname:
+        language: en
+        script: Latn
+        content: Biondic
+    affiliation:
+    - organization:
+        name:
+        - content: Ericsson Telefonaktiebolaget LM
+version:
+- draft: 4.4.2
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: C3
+  radiotechnology: 2G
+  release:
+    wpm_code_2g: GSM_PH2
+    close_meeting: SA#25
+    project_start: '1993-03-25'

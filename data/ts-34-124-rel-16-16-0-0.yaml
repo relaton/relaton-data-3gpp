@@ -1,0 +1,68 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: Electromagnetic compatibility (EMC) requirements for mobile terminals and
+    ancillary equipment
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp//Specs/archive/34_series/34.124/34124-g00.zip
+docidentifier:
+- content: 3GPP TS 34.124:REL-16/16.0.0
+  type: 3GPP
+  primary: true
+docnumber: TS 34.124:REL-16/16.0.0
+date:
+- type: published
+  at: '2020-07-16'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ole Bak
+      surname:
+        language: en
+        script: Latn
+        content: Sorensen
+    affiliation:
+    - organization:
+        name:
+        - content: TELE DANMARK A/S
+version:
+- draft: 16.0.0
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  editorialgroup:
+    technical_committee:
+    - type: prime
+      content: R4
+  radiotechnology: 5G
+  release:
+    wpm_code_2g: GSM_Release_16
+    wpm_code_3g: 3G4G5G_Rel-16
+    freeze_stage1_meeting: SA#82
+    freeze_stage2_meeting: SA#84
+    freeze_stage3_meeting: SA#88-e
+    project_start: '2017-03-22'
+    project_end: '2020-07-03'

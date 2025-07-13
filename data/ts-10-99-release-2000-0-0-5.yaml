@@ -1,0 +1,57 @@
+---
+type: standard
+schema_version: v1.4.1
+title:
+- content: GERAN project plan and open issues
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/10_series/10.99/1099-005.zip
+docidentifier:
+- content: 3GPP TS 10.99:Release 2000/0.0.5
+  type: 3GPP
+  primary: true
+docnumber: TS 10.99:Release 2000/0.0.5
+date:
+- type: published
+  at: '2000-05-30'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Frank
+      surname:
+        language: en
+        script: Latn
+        content: Mueller
+    affiliation:
+    - organization:
+        name:
+        - content: Ericsson Telefonaktiebolaget LM
+version:
+- draft: 0.0.5
+language:
+- en
+script:
+- Latn
+place:
+- formatted_place: Sophia Antipolis Cedex, France
+ext:
+  doctype:
+    abbreviation: TS
+    content: Technical Specification
+  release:
+    close_meeting: SA-#6
+    project_start: '1999-03-30'
