@@ -117,9 +117,9 @@ relation:
 place:
 - formatted_place: Sophia Antipolis Cedex, France
 ext:
+  schema_version: v1.0.1
   doctype:
-    abbreviation: TR
-    content: Technical Report
+    content: TR
   editorialgroup:
     technical_committee:
     - type: prime

@@ -42,9 +42,9 @@ script:
 place:
 - formatted_place: Sophia Antipolis Cedex, France
 ext:
+  schema_version: v1.0.1
   doctype:
-    abbreviation: TR
-    content: Technical Report
+    content: TR
   release:
     freeze_stage1_meeting: SMG-#28
     freeze_stage2_meeting: SMG-#28
