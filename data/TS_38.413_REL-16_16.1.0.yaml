@@ -38,13 +38,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Sean
+        - content: Steven
           language:
           - en
           script:
           - Latn
       surname:
-        content: Kelley
+        content: XU
         language:
         - en
         script:
@@ -52,7 +52,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Nokia Japan
+        - content: Nokia Shanghai Bell Co., Ltd
   role:
   - type: author
 version:

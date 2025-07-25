@@ -38,13 +38,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Jianhua
+        - content: Yang
           language:
           - en
           script:
           - Latn
       surname:
-        content: Liu
+        content: Xu
         language:
         - en
         script:

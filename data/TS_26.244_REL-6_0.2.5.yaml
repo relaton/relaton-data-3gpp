@@ -33,13 +33,13 @@ contributor:
     name:
       given:
         forename:
-        - content: David
+        - content: Waqar
           language:
           - en
           script:
           - Latn
       surname:
-        content: Singer
+        content: Zia
         language:
         - en
         script:
@@ -47,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Apple (UK) Limited
+        - content: Apple Switzerland AG
   role:
   - type: author
 version:

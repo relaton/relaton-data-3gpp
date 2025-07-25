@@ -32,13 +32,13 @@ contributor:
     name:
       given:
         forename:
-        - content: ChenHo
+        - content: Fei
           language:
           - en
           script:
           - Latn
       surname:
-        content: CHIN
+        content: Lu
         language:
         - en
         script:
@@ -46,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Guangdong OPPO Mobile Telecommunications Corp., Ltd
+        - content: Guangdong OPPO Mobile Telecommunications Corp.,Ltd.
   role:
   - type: author
 version:

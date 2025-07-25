@@ -39,13 +39,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Kaj
+        - content: Ivo
           language:
           - en
           script:
           - Latn
       surname:
-        content: Johansson
+        content: Sedlacek
         language:
         - en
         script:

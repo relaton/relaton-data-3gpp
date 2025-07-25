@@ -7,12 +7,18 @@ title:
     power on TDD band(s)
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.746/38746-040.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 38.746:REL-19/0.4.0
   type: 3GPP
   primary: true
 docnumber: TR 38.746:REL-19/0.4.0
+date:
+- type: published
+  value: '2025-06-01'
 contributor:
 - organization:
     name:
@@ -53,6 +59,7 @@ contributor:
   - type: author
 version:
 - draft: 0.4.0
+revdate: '2025-06-01'
 language:
 - en
 script:

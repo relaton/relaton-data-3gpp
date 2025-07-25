@@ -38,13 +38,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Jinglei
+        - content: Yue
           language:
           - en
           script:
           - Latn
       surname:
-        content: Liu
+        content: Song
         language:
         - en
         script:

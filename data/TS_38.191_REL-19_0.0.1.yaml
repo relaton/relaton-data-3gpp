@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: TS38.191-REL-19-0.0.1
 title:
-- content: Ambient IoT device radio transmission and reception
+- content: NR; Ambient IoT device radio transmission and reception
   format: text/plain
   type: main
 link:

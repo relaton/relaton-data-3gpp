@@ -2,15 +2,21 @@
 schema-version: v1.2.9
 id: TS38.291-REL-19-0.1.0
 title:
-- content: Ambient IoT Physical layer
+- content: NR; Ambient IoT Physical layer
   format: text/plain
   type: main
+link:
+- content: https://ftp.3gpp.org//Specs/archive/38_series/38.291/38291-010.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 38.291:REL-19/0.1.0
   type: 3GPP
   primary: true
 docnumber: TS 38.291:REL-19/0.1.0
+date:
+- type: published
+  value: '2025-05-13'
 contributor:
 - organization:
     name:
@@ -51,6 +57,7 @@ contributor:
   - type: author
 version:
 - draft: 0.1.0
+revdate: '2025-05-13'
 language:
 - en
 script:

@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: TS38.194-REL-19-0.0.1
 title:
-- content: Ambient IoT Base Station (BS) and Carrier-Wave (CW) node radio transmission
+- content: NR; Ambient IoT Base Station (BS) and Carrier-Wave (CW) node radio transmission
     and reception
   format: text/plain
   type: main

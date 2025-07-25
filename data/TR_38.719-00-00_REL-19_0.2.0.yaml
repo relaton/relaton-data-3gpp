@@ -32,13 +32,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Peng
+        - content: Ling
           language:
           - en
           script:
           - Latn
       surname:
-        content: Zhang
+        content: Lin
         language:
         - en
         script:
@@ -46,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: HUAWEI Technologies Japan K.K.
+        - content: Huawei Device Co., Ltd
   role:
   - type: author
 version:

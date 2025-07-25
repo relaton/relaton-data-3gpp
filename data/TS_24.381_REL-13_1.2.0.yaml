@@ -38,13 +38,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Jörgen
+        - content: Magnus
           language:
           - en
           script:
           - Latn
       surname:
-        content: Axell
+        content: Trank
         language:
         - en
         script:

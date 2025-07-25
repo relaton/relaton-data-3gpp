@@ -5,12 +5,18 @@ title:
 - content: 'Mission Critical (MC) services; Part 5: Abstract test suite (ATS)'
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/37_series/37.579-5/37579-5-h10.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 37.579-5:REL-17/17.1.0
   type: 3GPP
   primary: true
 docnumber: TS 37.579-5:REL-17/17.1.0
+date:
+- type: published
+  value: '2025-07-07'
 contributor:
 - organization:
     name:
@@ -51,6 +57,7 @@ contributor:
   - type: author
 version:
 - draft: 17.1.0
+revdate: '2025-07-07'
 language:
 - en
 script:

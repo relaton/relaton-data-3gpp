@@ -38,13 +38,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Rajesh Babu
+        - content: Bhaskar
           language:
           - en
           script:
           - Latn
       surname:
-        content: Natarajan
+        content: Paul
         language:
         - en
         script:
