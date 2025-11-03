@@ -38,13 +38,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Ingo
+        - content: Guillaume
           language:
           - en
           script:
           - Latn
       surname:
-        content: Wendler
+        content: Gach
         language:
         - en
         script:
@@ -52,7 +52,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Swiss Federal Railways Ltd
+        - content: Union Internationale des Chemins de Fer
   role:
   - type: author
 version:

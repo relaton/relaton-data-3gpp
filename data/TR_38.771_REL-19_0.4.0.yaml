@@ -5,12 +5,18 @@ title:
 - content: 'Study on NR frequency range 2 (FR2) OTA (Over the Air) testing Phase 3 '
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.771/38771-040.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 38.771:REL-19/0.4.0
   type: 3GPP
   primary: true
 docnumber: TR 38.771:REL-19/0.4.0
+date:
+- type: published
+  value: '2025-09-05'
 contributor:
 - organization:
     name:
@@ -51,6 +57,7 @@ contributor:
   - type: author
 version:
 - draft: 0.4.0
+revdate: '2025-09-05'
 language:
 - en
 script:

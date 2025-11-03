@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: TR23.700-67-REL-20-0.1.0
 title:
-- content: Study on Energy Efficiency and Energy Saving; Phase2
+- content: Study on Energy Efficiency and Energy Saving; Phase 2
   format: text/plain
   type: main
 link:
@@ -98,4 +98,6 @@ ext:
     wpm_code_3g: 3G4G5G_Rel-20
     freeze_stage1_meeting: SA#108
     freeze_stage2_meeting: SA#113
+    freeze_stage3_meeting: SA#115
     project_start: '2024-03-14'
+    project_end: '2027-06-18'

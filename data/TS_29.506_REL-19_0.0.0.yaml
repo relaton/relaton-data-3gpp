@@ -2,8 +2,8 @@
 schema-version: v1.2.9
 id: TS29.506-REL-19-0.0.0
 title:
-- content: 5G System; Usage of the Unified Data Repository services for AIoT Device
-    Profile Data, Stage 3
+- content: 5G System; Usage of the Unified Data Repository services for Ambient IoT
+    Data; Stage 3
   format: text/plain
   type: main
 link:

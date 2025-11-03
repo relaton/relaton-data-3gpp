@@ -32,13 +32,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Amandeep
+        - content: Stanley
           language:
           - en
           script:
           - Latn
       surname:
-        content: Virk
+        content: Mayalil
         language:
         - en
         script:
@@ -46,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Qualcomm Germany GmbH
+        - content: Apple AB, filial AF Apple Aktiebolag, Sverige
   role:
   - type: author
 version:

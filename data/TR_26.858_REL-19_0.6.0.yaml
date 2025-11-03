@@ -5,12 +5,18 @@ title:
 - content: Study on APIs for 3GPP Speech and Audio Codecs
   format: text/plain
   type: main
+link:
+- content: https://ftp.3gpp.org//Specs/archive/26_series/26.858/26858-060.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 26.858:REL-19/0.6.0
   type: 3GPP
   primary: true
 docnumber: TR 26.858:REL-19/0.6.0
+date:
+- type: published
+  value: '2025-07-24'
 contributor:
 - organization:
     name:
@@ -51,6 +57,7 @@ contributor:
   - type: author
 version:
 - draft: 0.6.0
+revdate: '2025-07-24'
 language:
 - en
 script:

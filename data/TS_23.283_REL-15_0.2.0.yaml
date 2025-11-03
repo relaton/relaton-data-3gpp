@@ -38,13 +38,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Derek
+        - content: Kit
           language:
           - en
           script:
           - Latn
       surname:
-        content: Wells
+        content: Kilgour
         language:
         - en
         script:
@@ -52,7 +52,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: L3Harris Technologies
+        - content: Sepura Limited
   role:
   - type: author
 version:

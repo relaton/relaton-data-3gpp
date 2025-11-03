@@ -39,6 +39,27 @@ contributor:
     name:
       given:
         forename:
+        - content: Siting
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Zhu
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: China Academy of Information and Communications Technology
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
         - content: Xuan
           language:
           - en

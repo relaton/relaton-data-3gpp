@@ -39,13 +39,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Jin
+        - content: Leyi
           language:
           - en
           script:
           - Latn
       surname:
-        content: PENG
+        content: Zhang
         language:
         - en
         script:
@@ -53,7 +53,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: ZTE Corporation
+        - content: ZTE FRANCE SASU
   role:
   - type: author
 version:

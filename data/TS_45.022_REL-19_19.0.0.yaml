@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: TS45.022-REL-19-19.0.0
+title:
+- content: GSM/EDGE Radio link management in hierarchical networks
+  format: text/plain
+  type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/45_series/45.022/45022-j00.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 45.022:REL-19/19.0.0
+  type: 3GPP
+  primary: true
+docnumber: TS 45.022:REL-19/19.0.0
+date:
+- type: published
+  value: '2025-10-14'
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Juergen
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hofmann
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Nokia Solutions and Networks GmbH & Co. KG
+  role:
+  - type: author
+version:
+- draft: 19.0.0
+revdate: '2025-10-14'
+language:
+- en
+script:
+- Latn
+place:
+- Sophia Antipolis Cedex, France
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: TS
+  editorialgroup:
+  - name: RP
+    type: prime
+  radiotechnology: 5G
+  release:
+    wpm_code_2g: GSM_Release_19
+    wpm_code_3g: 3G4G5G_Rel-19
+    freeze_stage1_meeting: SA#102
+    freeze_stage2_meeting: SA#106
+    freeze_stage3_meeting: SA#109
+    project_start: '2021-06-18'
+    project_end: '2025-12-12'

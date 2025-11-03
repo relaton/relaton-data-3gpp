@@ -5,12 +5,18 @@ title:
 - content: Lawful Interception (LI) implementation guidance; LI for IMS based RCS
   format: text/plain
   type: main
+link:
+- content: https://ftp.3gpp.org//Specs/archive/33_series/33.929-6/33929-6-002.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 33.929-6:REL-19/0.0.2
   type: 3GPP
   primary: true
 docnumber: TR 33.929-6:REL-19/0.0.2
+date:
+- type: published
+  value: '2025-07-31'
 contributor:
 - organization:
     name:
@@ -51,6 +57,7 @@ contributor:
   - type: author
 version:
 - draft: 0.0.2
+revdate: '2025-07-31'
 language:
 - en
 script:
