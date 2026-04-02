@@ -1,7 +1,7 @@
 ---
 id: TR-25.839-RELEASE-2000-0.0.1
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - content: Uplink Synchronous Transmission Scheme (USTS) (Iur/Iub aspects)
   type: main
@@ -57,13 +57,10 @@ script:
 place:
 - formatted_place: Sophia Antipolis Cedex, France
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: TR
-  editorialgroup:
-    technical_committee:
-    - type: prime
-      content: R3
+  flavor: 3gpp
   release:
     close_meeting: SA-#6
     project_start: '1999-03-30'

@@ -1,7 +1,7 @@
 ---
 id: TS-09.01U-UMTS-0.0.0
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - content: 'UMS Security as[ects; Part 01: Security aspects for UMS'
   type: main
@@ -51,9 +51,10 @@ script:
 place:
 - formatted_place: Sophia Antipolis Cedex, France
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: TS
+  flavor: 3gpp
   release:
     freeze_stage1_meeting: SMG-#28
     freeze_stage2_meeting: SMG-#28

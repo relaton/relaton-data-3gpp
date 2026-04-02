@@ -1,7 +1,7 @@
 ---
 id: TR-37.863-02-01-REL-15-0.7.0
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - content: E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity
     (EN-DC) of LTE 2 Down Link (DL) / 1 Up Link (UL) and 1 NR band
@@ -58,13 +58,10 @@ script:
 place:
 - formatted_place: Sophia Antipolis Cedex, France
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: TR
-  editorialgroup:
-    technical_committee:
-    - type: prime
-      content: R4
+  flavor: 3gpp
   radiotechnology: 5G
   release:
     wpm_code_2g: GSM_Release_15

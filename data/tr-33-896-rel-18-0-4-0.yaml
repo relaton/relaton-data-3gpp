@@ -1,7 +1,7 @@
 ---
 id: TR-33.896-REL-18-0.4.0
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - content: Study of security aspects on user consent for 3GPP services phase 2
   type: main
@@ -57,13 +57,10 @@ script:
 place:
 - formatted_place: Sophia Antipolis Cedex, France
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: TR
-  editorialgroup:
-    technical_committee:
-    - type: prime
-      content: S3
+  flavor: 3gpp
   radiotechnology: 5G
   release:
     wpm_code_2g: GSM_Release_18

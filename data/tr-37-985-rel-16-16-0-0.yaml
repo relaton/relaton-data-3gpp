@@ -1,7 +1,7 @@
 ---
 id: TR-37.985-REL-16-16.0.0
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - content: Overall description of Radio Access Network (RAN) aspects for Vehicle-to-everything
     (V2X) based on LTE and NR
@@ -58,19 +58,10 @@ script:
 place:
 - formatted_place: Sophia Antipolis Cedex, France
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: TR
-  editorialgroup:
-    technical_committee:
-    - type: prime
-      content: R1
-    - type: other
-      content: R2
-    - type: other
-      content: R3
-    - type: other
-      content: R4
+  flavor: 3gpp
   radiotechnology: 5G
   release:
     wpm_code_2g: GSM_Release_16

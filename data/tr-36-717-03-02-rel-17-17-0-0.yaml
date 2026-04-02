@@ -1,7 +1,7 @@
 ---
 id: TR-36.717-03-02-REL-17-17.0.0
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - content: Rel-17 LTE inter-band Carrier Aggregation for x bands DL (x= 3, 4, 5) with
     2 bands UL
@@ -58,13 +58,10 @@ script:
 place:
 - formatted_place: Sophia Antipolis Cedex, France
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: TR
-  editorialgroup:
-    technical_committee:
-    - type: prime
-      content: R4
+  flavor: 3gpp
   radiotechnology: 5G
   release:
     wpm_code_2g: GSM_Release_17

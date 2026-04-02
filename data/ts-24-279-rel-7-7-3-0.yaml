@@ -1,7 +1,7 @@
 ---
 id: TS-24.279-REL-7-7.3.0
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - content: Combining Circuit Switched (CS) and IP Multimedia Subsystem (IMS) services;
     Stage 3
@@ -58,13 +58,10 @@ script:
 place:
 - formatted_place: Sophia Antipolis Cedex, France
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: TS
-  editorialgroup:
-    technical_committee:
-    - type: prime
-      content: C1
+  flavor: 3gpp
   radiotechnology: 3G
   release:
     wpm_code_2g: GSM_Release_7

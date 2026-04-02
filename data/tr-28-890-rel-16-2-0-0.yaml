@@ -1,7 +1,7 @@
 ---
 id: TR-28.890-REL-16-2.0.0
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - content: Management and orchestration; Study on integration of Open Network Automation
     Platform (ONAP) and 3GPP management for 5G networks
@@ -74,13 +74,10 @@ script:
 place:
 - formatted_place: Sophia Antipolis Cedex, France
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: TR
-  editorialgroup:
-    technical_committee:
-    - type: prime
-      content: S5
+  flavor: 3gpp
   radiotechnology: 5G
   release:
     wpm_code_2g: GSM_Release_16

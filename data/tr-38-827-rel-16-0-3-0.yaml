@@ -1,7 +1,7 @@
 ---
 id: TR-38.827-REL-16-0.3.0
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - content: Study on radiated metrics and test methodology for the verification of
     multi-antenna reception performance of NR User Equipment (UE)
@@ -58,13 +58,10 @@ script:
 place:
 - formatted_place: Sophia Antipolis Cedex, France
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: TR
-  editorialgroup:
-    technical_committee:
-    - type: prime
-      content: R4
+  flavor: 3gpp
   radiotechnology: 5G
   release:
     wpm_code_2g: GSM_Release_16

@@ -1,7 +1,7 @@
 ---
 id: TS-07.06-PH2-4.2.1
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - content: Use of the V Series Data Terminal Equipment - Data Circuit Terminating
     Equipment (DTE-DCE) Interface at the Mobile Station (MS) for Mobile Termination
@@ -59,13 +59,10 @@ script:
 place:
 - formatted_place: Sophia Antipolis Cedex, France
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: TS
-  editorialgroup:
-    technical_committee:
-    - type: prime
-      content: T2
+  flavor: 3gpp
   radiotechnology: 2G
   release:
     wpm_code_2g: GSM_PH2

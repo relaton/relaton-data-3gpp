@@ -1,7 +1,7 @@
 ---
 id: TS-41.103-REL-5-2.1.0
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - content: GSM Release 5 specifications
   type: main
@@ -51,13 +51,10 @@ script:
 place:
 - formatted_place: Sophia Antipolis Cedex, France
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: TS
-  editorialgroup:
-    technical_committee:
-    - type: prime
-      content: SP
+  flavor: 3gpp
   radiotechnology: 3G
   release:
     wpm_code_2g: GSM_Release_5

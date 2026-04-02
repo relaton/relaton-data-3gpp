@@ -1,7 +1,7 @@
 ---
 id: TS-03.50-REL-99-8.1.0
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - content: Transmission Planning Aspects of the Speech Service in the GSM Public Land
     Mobile Network (PLMN) System
@@ -58,13 +58,10 @@ script:
 place:
 - formatted_place: Sophia Antipolis Cedex, France
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: TS
-  editorialgroup:
-    technical_committee:
-    - type: prime
-      content: S4
+  flavor: 3gpp
   radiotechnology: 3G
   release:
     wpm_code_2g: GSM_Release_99

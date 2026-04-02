@@ -1,7 +1,7 @@
 ---
 id: TS-23.261-REL-10-0.2.1
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - content: IP flow mobility and seamless Wireless Local Area Network (WLAN) offload;
     Stage 2
@@ -58,13 +58,10 @@ script:
 place:
 - formatted_place: Sophia Antipolis Cedex, France
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: TS
-  editorialgroup:
-    technical_committee:
-    - type: prime
-      content: S2
+  flavor: 3gpp
   radiotechnology: LTE
   release:
     wpm_code_2g: GSM_Release_10

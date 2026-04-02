@@ -1,7 +1,7 @@
 ---
 id: TR-38.898-REL-18-0.5.0
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - content: High power UE for FR1 for DC_R18_xBLTE_yBNR_zDLnUL with power class m (x=
     1, 2, 3, 4; y=1, 2; m<3)
@@ -58,13 +58,10 @@ script:
 place:
 - formatted_place: Sophia Antipolis Cedex, France
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: TR
-  editorialgroup:
-    technical_committee:
-    - type: prime
-      content: R4
+  flavor: 3gpp
   radiotechnology: 5G
   release:
     wpm_code_2g: GSM_Release_18

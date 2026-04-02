@@ -1,7 +1,7 @@
 ---
 id: TR-29.998-01-REL-6-6.0.0
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - content: 'Open Service Access (OSA); Application Programming Interface (API) mapping
     for OSA; Part 1: General issues on API mapping'
@@ -58,13 +58,10 @@ script:
 place:
 - formatted_place: Sophia Antipolis Cedex, France
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: TR
-  editorialgroup:
-    technical_committee:
-    - type: prime
-      content: CP
+  flavor: 3gpp
   radiotechnology: 3G
   release:
     wpm_code_2g: GSM_Release_6

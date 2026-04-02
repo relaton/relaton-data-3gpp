@@ -1,7 +1,7 @@
 ---
 id: TS-26.346-REL-10-10.11.0
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - content: Multimedia Broadcast/Multicast Service (MBMS); Protocols and codecs
   type: main
@@ -57,17 +57,10 @@ script:
 place:
 - formatted_place: Sophia Antipolis Cedex, France
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: TS
-  editorialgroup:
-    technical_committee:
-    - type: prime
-      content: S4
-    - type: other
-      content: S2
-    - type: other
-      content: S3
+  flavor: 3gpp
   radiotechnology: LTE
   release:
     wpm_code_2g: GSM_Release_10

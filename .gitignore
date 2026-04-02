@@ -1,3 +1,4 @@
 .vscode/
 Gemfile.lock
 status_smg_3GPP*
+.claude/settings.local.json

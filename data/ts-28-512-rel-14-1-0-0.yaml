@@ -1,7 +1,7 @@
 ---
 id: TS-28.512-REL-14-1.0.0
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - content: 'Telecommunication management; Configuration Management (CM) for mobile
     networks that include virtualized network functions; Stage 2 '
@@ -58,13 +58,10 @@ script:
 place:
 - formatted_place: Sophia Antipolis Cedex, France
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: TS
-  editorialgroup:
-    technical_committee:
-    - type: prime
-      content: S5
+  flavor: 3gpp
   radiotechnology: LTE
   release:
     wpm_code_2g: GSM_Release_14

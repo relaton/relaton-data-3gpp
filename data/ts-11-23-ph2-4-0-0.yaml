@@ -1,7 +1,7 @@
 ---
 id: TS-11.23-PH2-4.0.0
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - content: GSM Signalling Aspects Base Station System equipment Specification
   type: main
@@ -41,13 +41,10 @@ script:
 place:
 - formatted_place: Sophia Antipolis Cedex, France
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: TS
-  editorialgroup:
-    technical_committee:
-    - type: prime
-      content: R6
+  flavor: 3gpp
   radiotechnology: 2G
   release:
     wpm_code_2g: GSM_PH2

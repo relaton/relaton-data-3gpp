@@ -1,7 +1,7 @@
 ---
 id: TR-22.80U-UMTS-2.0.1
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - content: UMTS Relationship to other Standards
   type: main
@@ -117,9 +117,10 @@ relation:
 place:
 - formatted_place: Sophia Antipolis Cedex, France
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: TR
+  flavor: 3gpp
   release:
     freeze_stage1_meeting: SMG-#28
     freeze_stage2_meeting: SMG-#28

@@ -1,7 +1,7 @@
 ---
 id: TR-36.741-REL-14-0.3.0
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - content: Study on further enhancements to Coordinated Multi-Point (CoMP) operation
     for LTE
@@ -74,13 +74,10 @@ script:
 place:
 - formatted_place: Sophia Antipolis Cedex, France
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: TR
-  editorialgroup:
-    technical_committee:
-    - type: prime
-      content: R1
+  flavor: 3gpp
   radiotechnology: LTE
   release:
     wpm_code_2g: GSM_Release_14

@@ -1,7 +1,7 @@
 ---
 id: TS-29.108-REL-6-6.2.0
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - content: Application of the Radio Access Network Application Part (RANAP) on the
     E-interface
@@ -58,13 +58,10 @@ script:
 place:
 - formatted_place: Sophia Antipolis Cedex, France
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: TS
-  editorialgroup:
-    technical_committee:
-    - type: prime
-      content: R3
+  flavor: 3gpp
   radiotechnology: 3G
   release:
     wpm_code_2g: GSM_Release_6

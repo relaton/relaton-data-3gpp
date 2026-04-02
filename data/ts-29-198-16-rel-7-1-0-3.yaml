@@ -1,7 +1,7 @@
 ---
 id: TS-29.198-16-REL-7-1.0.3
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - content: 'Open Service Access (OSA) Application Programming Interface (API); Part
     16: Service broker Service Capability Feature (SCF)'
@@ -58,13 +58,10 @@ script:
 place:
 - formatted_place: Sophia Antipolis Cedex, France
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: TS
-  editorialgroup:
-    technical_committee:
-    - type: prime
-      content: CP
+  flavor: 3gpp
   radiotechnology: 3G
   release:
     wpm_code_2g: GSM_Release_7

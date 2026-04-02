@@ -1,7 +1,7 @@
 ---
 id: TR-23.887-REL-12-0.1.0
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - content: Study on Machine-Type Communications (MTC) and other mobile data applications
     communications enhancements
@@ -58,13 +58,10 @@ script:
 place:
 - formatted_place: Sophia Antipolis Cedex, France
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: TR
-  editorialgroup:
-    technical_committee:
-    - type: prime
-      content: S2
+  flavor: 3gpp
   radiotechnology: LTE
   release:
     wpm_code_2g: GSM_Release_12

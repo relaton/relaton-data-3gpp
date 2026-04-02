@@ -1,7 +1,7 @@
 ---
 id: TS-23.30U-UMTS-0.1.1
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - content: Iu principles
   type: main
@@ -57,9 +57,10 @@ script:
 place:
 - formatted_place: Sophia Antipolis Cedex, France
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: TS
+  flavor: 3gpp
   release:
     freeze_stage1_meeting: SMG-#28
     freeze_stage2_meeting: SMG-#28

@@ -1,7 +1,7 @@
 ---
 id: TS-44.004-REL-13-13.1.0
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - content: GSM/EDGE Layer 1; General Requirements
   type: main
@@ -57,13 +57,10 @@ script:
 place:
 - formatted_place: Sophia Antipolis Cedex, France
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: TS
-  editorialgroup:
-    technical_committee:
-    - type: prime
-      content: RP
+  flavor: 3gpp
   radiotechnology: LTE
   release:
     wpm_code_2g: GSM_Release_13

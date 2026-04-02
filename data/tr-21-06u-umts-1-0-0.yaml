@@ -1,7 +1,7 @@
 ---
 id: TR-21.06U-UMTS-1.0.0
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - content: O&M requirements for the UMTS
   type: main
@@ -57,9 +57,10 @@ script:
 place:
 - formatted_place: Sophia Antipolis Cedex, France
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: TR
+  flavor: 3gpp
   release:
     freeze_stage1_meeting: SMG-#28
     freeze_stage2_meeting: SMG-#28

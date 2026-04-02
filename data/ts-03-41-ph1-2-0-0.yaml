@@ -1,7 +1,7 @@
 ---
 id: TS-03.41-PH1-2.0.0
 type: standard
-schema_version: v1.4.1
+schema_version: v1.5.6
 title:
 - content: Technical Realization of Short Message Service Cell Broadcast (SMSCB)
   type: main
@@ -57,13 +57,10 @@ script:
 place:
 - formatted_place: Sophia Antipolis Cedex, France
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: TS
-  editorialgroup:
-    technical_committee:
-    - type: prime
-      content: C1
+  flavor: 3gpp
   radiotechnology: 2G
   release:
     wpm_code_2g: GSM_PH1
