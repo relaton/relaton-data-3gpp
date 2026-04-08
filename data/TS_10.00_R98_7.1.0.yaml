@@ -52,7 +52,10 @@ language:
 script:
 - Latn
 place:
-- Sophia Antipolis Cedex, France
+- city: Sophia Antipolis Cedex
+  country:
+  - name: France
+    iso: FR
 doctype: TS
 editorialgroup:
 - name: S2

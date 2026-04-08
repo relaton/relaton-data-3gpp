@@ -48,7 +48,10 @@ docstatus:
   stage:
     value: published
 place:
-- Sophia Antipolis Cedex, France
+- city: Sophia Antipolis Cedex
+  country:
+  - name: France
+    iso: FR
 fetched: '2022-07-22'
 doctype: TS
 editorialgroup:

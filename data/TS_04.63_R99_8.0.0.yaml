@@ -61,7 +61,10 @@ docstatus:
   stage:
     value: withdrawn
 place:
-- Sophia Antipolis Cedex, France
+- city: Sophia Antipolis Cedex
+  country:
+  - name: France
+    iso: FR
 doctype: TS
 editorialgroup:
 - name: C1
