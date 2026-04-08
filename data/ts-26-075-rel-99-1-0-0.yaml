@@ -114,7 +114,10 @@ relation:
     script:
     - Latn
     place:
-    - formatted_place: Sophia Antipolis Cedex, France
+    - city: Sophia Antipolis Cedex
+      country:
+      - content: France
+        iso: FR
 - type: adoptedAs
   description:
     content: equivalent
@@ -174,9 +177,15 @@ relation:
     script:
     - Latn
     place:
-    - formatted_place: Sophia Antipolis Cedex, France
+    - city: Sophia Antipolis Cedex
+      country:
+      - content: France
+        iso: FR
 place:
-- formatted_place: Sophia Antipolis Cedex, France
+- city: Sophia Antipolis Cedex
+  country:
+  - content: France
+    iso: FR
 ext:
   schema_version: v1.0.4
   doctype:
