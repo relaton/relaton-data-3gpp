@@ -1,7 +1,7 @@
 ---
-id: TR-23.700-28-REL-18-0.1.0
-type: standard
+id: 3GPPTR2370028REL18010
 schema_version: v1.5.6
+type: standard
 title:
 - content: Study on Integration of satellite components in the 5G architecture; Phase
     2
@@ -51,6 +51,16 @@ contributor:
         - content: Beijing Xiaomi Mobile Software Co., Ltd
 - role:
   - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S2
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
   person:
     name:
       forename:
@@ -66,7 +76,7 @@ contributor:
         name:
         - content: THALES
 version:
-- draft: 0.1.0
+- content: 0.1.0
 language:
 - en
 script:
@@ -74,8 +84,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

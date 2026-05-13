@@ -1,7 +1,7 @@
 ---
-id: TR-26.862-REL-17-0.0.7
-type: standard
+id: 3GPPTR26862REL17007
 schema_version: v1.5.6
+type: standard
 title:
 - content: Immersive Teleconferencing and Telepresence for Remote Terminals (ITT4RT)
     Use Cases, Requirements and Potential Solutions
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: TNO
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.0.7
+- content: 0.0.7
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

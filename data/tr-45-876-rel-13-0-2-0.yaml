@@ -1,7 +1,7 @@
 ---
-id: TR-45.876-REL-13-0.2.0
-type: standard
+id: 3GPPTR45876REL13020
 schema_version: v1.5.6
+type: standard
 title:
 - content: Uplink Multi-User MIMO
   type: main
@@ -48,8 +48,38 @@ contributor:
     - organization:
         name:
         - content: Huawei Technologies Co. Ltd.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R6
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R6
+      type: technical-committee
+      subtype: other
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R6
+      type: technical-committee
+      subtype: other
 version:
-- draft: 0.2.0
+- content: 0.2.0
 language:
 - en
 script:
@@ -57,8 +87,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

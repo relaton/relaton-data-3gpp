@@ -1,7 +1,7 @@
 ---
-id: TR-38.792-REL-19-0.0.2
-type: standard
+id: 3GPPTR38792REL19002
 schema_version: v1.5.6
+type: standard
 title:
 - content: High power UE (power class 1.5) for NR Inter-band Carrier Aggregation (CA)/Dual
     connectivity (DC) with high power on both FDD and TDD bands
@@ -43,8 +43,18 @@ contributor:
     - organization:
         name:
         - content: Beijing OPPO Telecommunications Corp., ltd.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.0.2
+- content: 0.0.2
 language:
 - en
 script:
@@ -52,8 +62,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,7 +1,7 @@
 ---
-id: TR-23.782-REL-15-0.5.1
-type: standard
+id: 3GPPTR23782REL15051
 schema_version: v1.5.6
+type: standard
 title:
 - content: Study on mission critical communication interworking between LTE and non-LTE
     systems
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: L3Harris Technologies
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S6
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.5.1
+- content: 0.5.1
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

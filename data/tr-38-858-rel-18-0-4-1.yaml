@@ -1,7 +1,7 @@
 ---
-id: TR-38.858-REL-18-0.4.1
-type: standard
+id: 3GPPTR38858REL18041
 schema_version: v1.5.6
+type: standard
 title:
 - content: Study on evolution of NR duplex operation
   type: main
@@ -50,6 +50,26 @@ contributor:
         - content: Samsung Electronics Co., Ltd.
 - role:
   - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R1
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: other
+- role:
+  - type: author
   person:
     name:
       forename:
@@ -65,7 +85,7 @@ contributor:
         name:
         - content: China Mobile Communications Corporation (CMCC)
 version:
-- draft: 0.4.1
+- content: 0.4.1
 language:
 - en
 script:
@@ -73,8 +93,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

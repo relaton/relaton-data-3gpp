@@ -1,7 +1,7 @@
 ---
-id: TS-23.402-REL-14-14.3.0
-type: standard
+id: 3GPPTS23402REL141430
 schema_version: v1.5.6
+type: standard
 title:
 - content: Architecture enhancements for non-3GPP accesses
   type: main
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: Nokia Solutions and Networks GmbH & Co. KG
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S2
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 14.3.0
+- content: 14.3.0
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,7 +1,7 @@
 ---
-id: TS-11.10DCS-PH1-3.4.0
-type: standard
+id: 3GPPTS1110dcsPh1340
 schema_version: v1.5.6
+type: standard
 title:
 - content: Mobile Station Conformity Specification (DCS 1800)
   type: main
@@ -42,8 +42,58 @@ contributor:
     - organization:
         name:
         - content: Airbus Group SAS
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R5
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R5
+      type: technical-committee
+      subtype: other
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S1
+      type: technical-committee
+      subtype: other
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: CP
+      type: technical-committee
+      subtype: other
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: CP
+      type: technical-committee
+      subtype: other
 version:
-- draft: 3.4.0
+- content: 3.4.0
 language:
 - en
 script:
@@ -51,8 +101,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,7 +1,7 @@
 ---
-id: TS-29.199-03-REL-8-8.1.0
-type: standard
+id: 3GPPTS2919903REL8810
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Open Service Access (OSA); Parlay X web services; Part 3: Call notification'
   type: main
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: Philips International B.V.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: CP
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 8.1.0
+- content: 8.1.0
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

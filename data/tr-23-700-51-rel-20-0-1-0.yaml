@@ -1,7 +1,7 @@
 ---
-id: TR-23.700-51-REL-20-0.1.0
-type: standard
+id: 3GPPTR2370051REL20010
 schema_version: v1.5.6
+type: standard
 title:
 - content: Study on Application enabler for XR Services Phase 3
   type: main
@@ -39,17 +39,27 @@ contributor:
       forename:
       - language: en
         script: Latn
-        content: Shaowen
+        content: Tangqing
       surname:
         language: en
         script: Latn
-        content: Zheng
+        content: Liu
     affiliation:
     - organization:
         name:
         - content: China Mobile Communications Corporation (CMCC)
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S6
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.1.0
+- content: 0.1.0
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:
@@ -70,4 +80,6 @@ ext:
     wpm_code_3g: 3G4G5G_Rel-20
     freeze_stage1_meeting: SA#108
     freeze_stage2_meeting: SA#113
+    freeze_stage3_meeting: SA#115
     project_start: '2024-03-14'
+    project_end: '2027-06-18'

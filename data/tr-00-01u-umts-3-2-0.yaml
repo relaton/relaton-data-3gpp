@@ -1,7 +1,7 @@
 ---
-id: TR-00.01U-UMTS-3.2.0
-type: standard
+id: 3GPPTR0001UUMTS320
 schema_version: v1.5.6
+type: standard
 title:
 - content: Work programme for the standardization of Universal Mobile Telecommunications
     System (UMTS)
@@ -50,7 +50,7 @@ contributor:
         name:
         - content: PHILIPS CONSUMER COMMUNICATION
 version:
-- draft: 3.2.0
+- content: 3.2.0
 language:
 - en
 script:
@@ -58,8 +58,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

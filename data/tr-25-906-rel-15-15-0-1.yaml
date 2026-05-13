@@ -1,7 +1,7 @@
 ---
-id: TR-25.906-REL-15-15.0.1
-type: standard
+id: 3GPPTR25906REL151501
 schema_version: v1.5.6
+type: standard
 title:
 - content: Dynamically reconfiguring a Frequency Division Duplex (FDD) User Equipment
     (UE) receiver to reduce power consumption when desired Quality of Service (QoS)
@@ -50,8 +50,18 @@ contributor:
     - organization:
         name:
         - content: Ericsson Limited
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 15.0.1
+- content: 15.0.1
 language:
 - en
 script:
@@ -59,8 +69,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

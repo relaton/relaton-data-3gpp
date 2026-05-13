@@ -1,7 +1,7 @@
 ---
-id: TS-36.523-2-REL-14-14.1.0
-type: standard
+id: 3GPPTS365232REL141410
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Packet
     Core (EPC); User Equipment (UE) conformance specification; Part 2: Implementation
@@ -50,8 +50,18 @@ contributor:
     - organization:
         name:
         - content: China Academy of Telecommunications Technology (CATT)
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R5
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 14.1.0
+- content: 14.1.0
 language:
 - en
 script:
@@ -59,8 +69,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

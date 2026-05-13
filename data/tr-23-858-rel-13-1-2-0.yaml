@@ -1,7 +1,7 @@
 ---
-id: TR-23.858-REL-13-1.2.0
-type: standard
+id: 3GPPTR23858REL13120
 schema_version: v1.5.6
+type: standard
 title:
 - content: Usage Monitoring Control PCC Enhancement
   type: main
@@ -32,8 +32,28 @@ contributor:
     - content: 3rd Generation Partnership Project
     abbreviation:
       content: 3GPP
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S2
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S1
+      type: technical-committee
+      subtype: other
 version:
-- draft: 1.2.0
+- content: 1.2.0
 language:
 - en
 script:
@@ -41,8 +61,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

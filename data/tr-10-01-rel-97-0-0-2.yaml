@@ -1,7 +1,7 @@
 ---
-id: TR-10.01-REL-97-0.0.2
-type: standard
+id: 3GPPTR1001REL97002
 schema_version: v1.5.6
+type: standard
 title:
 - content: GSM features and releases
   type: main
@@ -33,7 +33,7 @@ contributor:
     abbreviation:
       content: 3GPP
 version:
-- draft: 0.0.2
+- content: 0.0.2
 language:
 - en
 script:
@@ -41,8 +41,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,7 +1,7 @@
 ---
-id: TR-23.700-54-REL-19-2.0.0
-type: standard
+id: 3GPPTR2370054REL19200
 schema_version: v1.5.6
+type: standard
 title:
 - content: Study on Multi-Access (DualSteer and ATSSS_Ph4)
   type: main
@@ -50,6 +50,16 @@ contributor:
         - content: Apple Distribution International Limited
 - role:
   - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S2
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
   person:
     name:
       forename:
@@ -65,7 +75,7 @@ contributor:
         name:
         - content: China Telecom Corporation Ltd.
 version:
-- draft: 2.0.0
+- content: 2.0.0
 language:
 - en
 script:
@@ -73,8 +83,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

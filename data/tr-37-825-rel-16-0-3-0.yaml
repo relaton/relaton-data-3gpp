@@ -1,7 +1,7 @@
 ---
-id: TR-37.825-REL-16-0.3.0
-type: standard
+id: 3GPPTR37825REL16030
 schema_version: v1.5.6
+type: standard
 title:
 - content: High power User Equipment (UE) (power class 2) for E-UTRA (Evolved Universal
     Terrestrial Radio Access) - NR Dual Connectivity (EN-DC) (1 LTE TDD band + 1 NR
@@ -50,8 +50,18 @@ contributor:
     - organization:
         name:
         - content: China Mobile Group Device Co., Ltd
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.3.0
+- content: 0.3.0
 language:
 - en
 script:
@@ -59,8 +69,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

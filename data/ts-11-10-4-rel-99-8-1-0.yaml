@@ -1,7 +1,7 @@
 ---
-id: TS-11.10-4-REL-99-8.1.0
-type: standard
+id: 3GPPTS11104REL99810
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Mobile Station (MS) conformance specification; Part 4: Subscriber Identity
     Module (SIM) application toolkit conformance test specification'
@@ -49,8 +49,48 @@ contributor:
     - organization:
         name:
         - content: Qualcomm Germany GmbH
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C6
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R6
+      type: technical-committee
+      subtype: other
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R5
+      type: technical-committee
+      subtype: other
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R6
+      type: technical-committee
+      subtype: other
 version:
-- draft: 8.1.0
+- content: 8.1.0
 language:
 - en
 script:
@@ -58,8 +98,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

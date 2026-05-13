@@ -1,7 +1,7 @@
 ---
-id: TR-33.870-REL-18-0.3.0
-type: standard
+id: 3GPPTR33870REL18030
 schema_version: v1.5.6
+type: standard
 title:
 - content: Study of privacy of identifiers over radio access
   type: main
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: InterDigital, Inc.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S3
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.3.0
+- content: 0.3.0
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

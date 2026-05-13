@@ -1,7 +1,7 @@
 ---
-id: TR-38.717-03-02-REL-17-0.7.0
-type: standard
+id: 3GPPTR387170302REL17070
 schema_version: v1.5.6
+type: standard
 title:
 - content: Rel-17 NR inter-band Carrier Aggregation/Dual Connectivity for 3 bands
     DL with 2 bands UL
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: ZTE Wistron Telecom AB
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.7.0
+- content: 0.7.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

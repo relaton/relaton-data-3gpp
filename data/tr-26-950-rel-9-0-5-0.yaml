@@ -1,7 +1,7 @@
 ---
-id: TR-26.950-REL-9-0.5.0
-type: standard
+id: 3GPPTR26950REL9050
 schema_version: v1.5.6
+type: standard
 title:
 - content: Study on Surround Sound codec extension for Packet Switched Streaming (PSS)
     and Multimedia Broadcast/Multicast Service (MBMS)
@@ -43,8 +43,18 @@ contributor:
     - organization:
         name:
         - content: Fraunhofer Institut für Integrierte Schaltungen IIS
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.5.0
+- content: 0.5.0
 language:
 - en
 script:
@@ -52,8 +62,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

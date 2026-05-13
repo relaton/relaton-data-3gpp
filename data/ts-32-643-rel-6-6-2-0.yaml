@@ -1,7 +1,7 @@
 ---
-id: TS-32.643-REL-6-6.2.0
-type: standard
+id: 3GPPTS32643REL6620
 schema_version: v1.5.6
+type: standard
 title:
 - content: Telecommunication management; Configuration Management (CM); UTRAN network
     resources Integration Reference Point (IRP); Common Object Request Broker Architecture
@@ -50,8 +50,18 @@ contributor:
     - organization:
         name:
         - content: Huawei Technologies France
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S5
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 6.2.0
+- content: 6.2.0
 language:
 - en
 script:
@@ -59,8 +69,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

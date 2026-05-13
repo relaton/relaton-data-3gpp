@@ -1,7 +1,7 @@
 ---
-id: TS-22.01U-UMTS-1.2.1
-type: standard
+id: 3GPPTS2201UUMTS121
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Universal Mobile Telecommunications System (UMTS): Service aspects; Service
     principles'
@@ -43,8 +43,18 @@ contributor:
     - organization:
         name:
         - content: Waiting for new Company
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S1
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 1.2.1
+- content: 1.2.1
 language:
 - en
 script:
@@ -52,8 +62,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

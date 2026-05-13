@@ -1,7 +1,7 @@
 ---
-id: TR-37.842-REL-12-0.3.0
-type: standard
+id: 3GPPTR37842REL12030
 schema_version: v1.5.6
+type: standard
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA) and Universal Terrestrial
     Radio Access (UTRA; Radio Frequency (RF) requirement background for Active Antenna
@@ -50,8 +50,18 @@ contributor:
     - organization:
         name:
         - content: Huawei Technologies (UK) Co., Ltd.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.3.0
+- content: 0.3.0
 language:
 - en
 script:
@@ -59,8 +69,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

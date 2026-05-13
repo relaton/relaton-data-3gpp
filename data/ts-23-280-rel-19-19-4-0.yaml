@@ -1,7 +1,7 @@
 ---
-id: TS-23.280-REL-19-19.4.0
-type: standard
+id: 3GPPTS23280REL191940
 schema_version: v1.5.6
+type: standard
 title:
 - content: Common functional architecture to support mission critical services; Stage
     2
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Huawei Technologies Co. Ltd.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S6
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 19.4.0
+- content: 19.4.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

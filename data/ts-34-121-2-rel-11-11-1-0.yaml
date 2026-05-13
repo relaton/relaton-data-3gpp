@@ -1,7 +1,7 @@
 ---
-id: TS-34.121-2-REL-11-11.1.0
-type: standard
+id: 3GPPTS341212REL111110
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'User Equipment (UE) conformance specification; Radio transmission and
     reception (FDD); Part 2: Implementation Conformance Statement (ICS)'
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Ericsson (China) Communications, Co.Ltd
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R5
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 11.1.0
+- content: 11.1.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

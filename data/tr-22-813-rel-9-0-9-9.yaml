@@ -1,7 +1,7 @@
 ---
-id: TR-22.813-REL-9-0.9.9
-type: standard
+id: 3GPPTR22813REL9099
 schema_version: v1.5.6
+type: standard
 title:
 - content: Study of use cases and requirements for enhanced voice codecs for the Evolved
     Packet System (EPS)
@@ -49,8 +49,28 @@ contributor:
     - organization:
         name:
         - content: Orange
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S1
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S4
+      type: technical-committee
+      subtype: other
 version:
-- draft: 0.9.9
+- content: 0.9.9
 language:
 - en
 script:
@@ -58,8 +78,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

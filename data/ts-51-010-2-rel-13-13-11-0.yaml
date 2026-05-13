@@ -1,7 +1,7 @@
 ---
-id: TS-51.010-2-REL-13-13.11.0
-type: standard
+id: 3GPPTS510102REL1313110
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Mobile Station (MS) conformance specification; Part 2: Protocol Implementation
     Conformance Statement (PICS) proforma specification'
@@ -49,8 +49,38 @@ contributor:
     - organization:
         name:
         - content: Sierra Wireless, S.A.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R5
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S1
+      type: technical-committee
+      subtype: other
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: CP
+      type: technical-committee
+      subtype: other
 version:
-- draft: 13.11.0
+- content: 13.11.0
 language:
 - en
 script:
@@ -58,8 +88,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

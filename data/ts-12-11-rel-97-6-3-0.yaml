@@ -1,7 +1,7 @@
 ---
-id: TS-12.11-REL-97-6.3.0
-type: standard
+id: 3GPPTS1211REL97630
 schema_version: v1.5.6
+type: standard
 title:
 - content: Fault management of the Base Station System (BSS)
   type: main
@@ -48,8 +48,48 @@ contributor:
     - organization:
         name:
         - content: Ericsson Telefonaktiebolaget LM
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S5
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R6
+      type: technical-committee
+      subtype: other
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R6
+      type: technical-committee
+      subtype: other
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S1
+      type: technical-committee
+      subtype: other
 version:
-- draft: 6.3.0
+- content: 6.3.0
 language:
 - en
 script:
@@ -57,8 +97,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,7 +1,7 @@
 ---
-id: TS-31.111-REL-9-9.10.0
-type: standard
+id: 3GPPTS31111REL99100
 schema_version: v1.5.6
+type: standard
 title:
 - content: Universal Subscriber Identity Module (USIM) Application Toolkit (USAT)
   type: main
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: Morpho Cards GmbH
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C6
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 9.10.0
+- content: 9.10.0
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

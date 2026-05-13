@@ -1,7 +1,7 @@
 ---
-id: TR-29.941-REL-17-1.0.0
-type: standard
+id: 3GPPTR29941REL17100
 schema_version: v1.5.6
+type: standard
 title:
 - content: Guidelines on Port Allocation for New 3GPP Interfaces
   type: main
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: Huawei Technologies Sweden AB
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 1.0.0
+- content: 1.0.0
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

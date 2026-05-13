@@ -1,7 +1,7 @@
 ---
-id: TS-36.461-REL-13-0.2.0
-type: standard
+id: 3GPPTS36461REL13020
 schema_version: v1.5.6
+type: standard
 title:
 - content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN) and Wireless
     LAN (WLAN); Xw layer 1
@@ -33,8 +33,18 @@ contributor:
     - content: 3rd Generation Partnership Project
     abbreviation:
       content: 3GPP
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R3
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.2.0
+- content: 0.2.0
 language:
 - en
 script:
@@ -42,8 +52,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

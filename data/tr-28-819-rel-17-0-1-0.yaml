@@ -1,7 +1,7 @@
 ---
-id: TR-28.819-REL-17-0.1.0
-type: standard
+id: 3GPPTR28819REL17010
 schema_version: v1.5.6
+type: standard
 title:
 - content: Study on continuous integration continuous delivery support for 3GPP NFs
   type: main
@@ -50,6 +50,16 @@ contributor:
         - content: Lenovo (Beijing) Ltd
 - role:
   - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S5
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
   person:
     name:
       forename:
@@ -65,7 +75,7 @@ contributor:
         name:
         - content: China Mobile Research Institute
 version:
-- draft: 0.1.0
+- content: 0.1.0
 language:
 - en
 script:
@@ -73,8 +83,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

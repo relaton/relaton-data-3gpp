@@ -1,7 +1,7 @@
 ---
-id: TR-38.716-01-01-REL-16-0.2.0
-type: standard
+id: 3GPPTR387160101REL16020
 schema_version: v1.5.6
+type: standard
 title:
 - content: NR intra band Carrier Aggregation (CA) Rel-16 for xCC Down Link (DL) /
     yCC Up Link (UL) including contiguous and non-contiguous spectrum (x >= y)
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Ericsson Telefonaktiebolaget LM
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.2.0
+- content: 0.2.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

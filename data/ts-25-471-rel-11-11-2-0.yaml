@@ -1,7 +1,7 @@
 ---
-id: TS-25.471-REL-11-11.2.0
-type: standard
+id: 3GPPTS25471REL111120
 schema_version: v1.5.6
+type: standard
 title:
 - content: UTRAN Iurh interface Radio Network Subsystem Application Part (RNSAP) User
     Adaption (RNA) signalling
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Ericsson Korea Partners Co., Ltd.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R3
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 11.2.0
+- content: 11.2.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

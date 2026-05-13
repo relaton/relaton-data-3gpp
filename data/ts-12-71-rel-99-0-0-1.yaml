@@ -1,7 +1,7 @@
 ---
-id: TS-12.71-REL-99-0.0.1
-type: standard
+id: 3GPPTS1271REL99001
 schema_version: v1.5.6
+type: standard
 title:
 - content: Location Services (LCS); Location services management
   type: main
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: Waiting for new Company
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S5
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.0.1
+- content: 0.0.1
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

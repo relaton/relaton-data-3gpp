@@ -1,7 +1,7 @@
 ---
-id: TR-38.816-REL-15-0.0.1
-type: standard
+id: 3GPPTR38816REL15001
 schema_version: v1.5.6
+type: standard
 title:
 - content: Study on Central Unit (CU) - Distributed Unit (DU) lower layer split for
     NR
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: NTT DOCOMO INC.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R3
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.0.1
+- content: 0.0.1
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

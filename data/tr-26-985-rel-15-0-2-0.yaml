@@ -1,7 +1,7 @@
 ---
-id: TR-26.985-REL-15-0.2.0
-type: standard
+id: 3GPPTR26985REL15020
 schema_version: v1.5.6
+type: standard
 title:
 - content: Vehicle-to-everything (V2X); Media handling and interaction
   type: main
@@ -51,8 +51,18 @@ contributor:
     - organization:
         name:
         - content: Meta Platforms Ireland Ltd.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.2.0
+- content: 0.2.0
 language:
 - en
 script:
@@ -60,8 +70,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

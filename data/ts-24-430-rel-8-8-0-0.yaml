@@ -1,7 +1,7 @@
 ---
-id: TS-24.430-REL-8-8.0.0
-type: standard
+id: 3GPPTS24430REL8800
 schema_version: v1.5.6
+type: standard
 title:
 - content: TISPAN; Presence Service Capability; Protocol Specification [3GPP TS 24.141
     V7.0.0, modified and OMA-TS-Presence_SIMPLE-V1_0, modified]
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Nokia Solutions and Networks GmbH & Co. KG
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C1
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 8.0.0
+- content: 8.0.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

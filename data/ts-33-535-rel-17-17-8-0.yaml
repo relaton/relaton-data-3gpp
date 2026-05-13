@@ -1,7 +1,7 @@
 ---
-id: TS-33.535-REL-17-17.8.0
-type: standard
+id: 3GPPTS33535REL171780
 schema_version: v1.5.6
+type: standard
 title:
 - content: Authentication and Key Management for Applications (AKMA) based on 3GPP
     credentials in the 5G System (5GS)
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: China Mobile Communications Corporation (CMCC)
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S3
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 17.8.0
+- content: 17.8.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

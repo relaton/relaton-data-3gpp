@@ -1,7 +1,7 @@
 ---
-id: TR-25.905-REL-7-7.0.0
-type: standard
+id: 3GPPTR25905REL7700
 schema_version: v1.5.6
+type: standard
 title:
 - content: Feasibility study on improvement of the Multimedia Broadcast/Multicast
     Service (MBMS) in UTRAN
@@ -49,8 +49,28 @@ contributor:
     - organization:
         name:
         - content: LG Electronics France
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: RP
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R2
+      type: technical-committee
+      subtype: other
 version:
-- draft: 7.0.0
+- content: 7.0.0
 language:
 - en
 script:
@@ -58,8 +78,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

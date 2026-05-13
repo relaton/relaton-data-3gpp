@@ -1,7 +1,7 @@
 ---
-id: TS-26.411-REL-8-8.0.0
-type: standard
+id: 3GPPTS26411REL8800
 schema_version: v1.5.6
+type: standard
 title:
 - content: General audio codec audio processing functions; Enhanced aacPlus general
     audio codec; Fixed-point ANSI-C code
@@ -40,17 +40,27 @@ contributor:
       forename:
       - language: en
         script: Latn
-        content: Oliver
+        content: Stefan
       surname:
         language: en
         script: Latn
-        content: Kunz
+        content: Bruhn
     affiliation:
     - organization:
         name:
         - content: Dolby Laboratories Inc.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 8.0.0
+- content: 8.0.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

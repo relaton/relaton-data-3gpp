@@ -1,7 +1,7 @@
 ---
-id: TS-37.104-REL-9-9.5.0
-type: standard
+id: 3GPPTS37104REL9950
 schema_version: v1.5.6
+type: standard
 title:
 - content: NR, E-UTRA, UTRA and GSM/EDGE; Multi-Standard Radio (MSR) Base Station
     (BS) radio transmission and reception
@@ -49,8 +49,28 @@ contributor:
     - organization:
         name:
         - content: Ericsson Telefonaktiebolaget LM
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: RP
+      type: technical-committee
+      subtype: other
 version:
-- draft: 9.5.0
+- content: 9.5.0
 language:
 - en
 script:
@@ -58,8 +78,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

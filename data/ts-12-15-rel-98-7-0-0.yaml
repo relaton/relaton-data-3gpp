@@ -1,7 +1,7 @@
 ---
-id: TS-12.15-REL-98-7.0.0
-type: standard
+id: 3GPPTS1215REL98700
 schema_version: v1.5.6
+type: standard
 title:
 - content: General Packet Radio Service (GPRS); GPRS Charging
   type: main
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: Nokia Networks Oy
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S5
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 7.0.0
+- content: 7.0.0
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

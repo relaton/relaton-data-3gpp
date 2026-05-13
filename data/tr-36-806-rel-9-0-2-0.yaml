@@ -1,7 +1,7 @@
 ---
-id: TR-36.806-REL-9-0.2.0
-type: standard
+id: 3GPPTR36806REL9020
 schema_version: v1.5.6
+type: standard
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA); Relay architectures
     for E-UTRA (LTE-Advanced)
@@ -49,8 +49,28 @@ contributor:
     - organization:
         name:
         - content: Ericsson Telefonaktiebolaget LM
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R2
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R3
+      type: technical-committee
+      subtype: other
 version:
-- draft: 0.2.0
+- content: 0.2.0
 language:
 - en
 script:
@@ -58,8 +78,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,7 +1,7 @@
 ---
-id: TR-25.828-REL-8-0.1.0
-type: standard
+id: 3GPPTR25828REL8010
 schema_version: v1.5.6
+type: standard
 title:
 - content: UMTS 2300 TDD Work Item Technical Report
   type: main
@@ -43,8 +43,18 @@ contributor:
         name:
         - content: China Academy of Telecommunication Technology - (Datang Telecom
             Technology and Industry Group)
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.1.0
+- content: 0.1.0
 language:
 - en
 script:
@@ -52,8 +62,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,7 +1,7 @@
 ---
-id: TR-29.892-REL-16-0.0.0
-type: standard
+id: 3GPPTR29892REL16000
 schema_version: v1.5.6
+type: standard
 title:
 - content: Study on User Plane Protocol in 5GC
   type: main
@@ -42,8 +42,18 @@ contributor:
     - organization:
         name:
         - content: SoftBank Corp.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.0.0
+- content: 0.0.0
 language:
 - en
 script:
@@ -51,8 +61,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

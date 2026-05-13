@@ -1,7 +1,7 @@
 ---
-id: TS-48.061-REL-9-9.0.0
-type: standard
+id: 3GPPTS48061REL9900
 schema_version: v1.5.6
+type: standard
 title:
 - content: In-band control of remote transcoders and rate adaptors for half rate traffic
     channels
@@ -49,8 +49,28 @@ contributor:
     - organization:
         name:
         - content: Anemone Technology
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: RP
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: CP
+      type: technical-committee
+      subtype: other
 version:
-- draft: 9.0.0
+- content: 9.0.0
 language:
 - en
 script:
@@ -58,8 +78,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

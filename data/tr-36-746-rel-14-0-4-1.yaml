@@ -1,7 +1,7 @@
 ---
-id: TR-36.746-REL-14-0.4.1
-type: standard
+id: 3GPPTR36746REL14041
 schema_version: v1.5.6
+type: standard
 title:
 - content: Study on further enhancements to LTE Device to Device (D2D), UE to network
     relays for Internet of Things (IoT) and wearables
@@ -51,6 +51,26 @@ contributor:
         - content: LG Electronics France
 - role:
   - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R2
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R1
+      type: technical-committee
+      subtype: other
+- role:
+  - type: author
   person:
     name:
       forename:
@@ -66,7 +86,7 @@ contributor:
         name:
         - content: Intel Corporation (UK) Ltd
 version:
-- draft: 0.4.1
+- content: 0.4.1
 language:
 - en
 script:
@@ -74,8 +94,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

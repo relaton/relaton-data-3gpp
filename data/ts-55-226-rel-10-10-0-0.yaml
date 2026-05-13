@@ -1,7 +1,7 @@
 ---
-id: TS-55.226-REL-10-10.0.0
-type: standard
+id: 3GPPTS55226REL101000
 schema_version: v1.5.6
+type: standard
 title:
 - content: 3G Security; Specification of the A5/4 Encryption Algorithms for GSM and
     ECSD, and the GEA4 Encryption Algorithm for GPRS
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: NEC Europe Ltd
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S3
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 10.0.0
+- content: 10.0.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

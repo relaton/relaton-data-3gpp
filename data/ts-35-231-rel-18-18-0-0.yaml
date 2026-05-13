@@ -1,7 +1,7 @@
 ---
-id: TS-35.231-REL-18-18.0.0
-type: standard
+id: 3GPPTS35231REL181800
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Specification of the TUAK algorithm set: A second example algorithm set
     for the 3GPP authentication and key generation functions f1, f1*, f2, f3, f4,
@@ -50,8 +50,18 @@ contributor:
     - organization:
         name:
         - content: Vodafone Group Plc
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S3
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 18.0.0
+- content: 18.0.0
 language:
 - en
 script:
@@ -59,8 +69,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

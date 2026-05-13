@@ -1,7 +1,7 @@
 ---
-id: TR-36.844-REL-12-0.3.0
-type: standard
+id: 3GPPTR36844REL12030
 schema_version: v1.5.6
+type: standard
 title:
 - content: Study on expansion of LTE in the 1670-1675 MHz Band for the United States
     to include 1670-1680 MHz Band
@@ -43,8 +43,18 @@ contributor:
     - organization:
         name:
         - content: Ligado Networks
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.3.0
+- content: 0.3.0
 language:
 - en
 script:
@@ -52,8 +62,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,7 +1,7 @@
 ---
-id: TS-37.106-REL-15-15.1.0
-type: standard
+id: 3GPPTS37106REL151510
 schema_version: v1.5.6
+type: standard
 title:
 - content: User Equipment (UE) requirements for shared spectrum channel access
   type: main
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: Huawei Technologies France
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 15.1.0
+- content: 15.1.0
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

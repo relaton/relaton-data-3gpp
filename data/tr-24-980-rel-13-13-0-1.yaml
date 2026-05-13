@@ -1,7 +1,7 @@
 ---
-id: TR-24.980-REL-13-13.0.1
-type: standard
+id: 3GPPTR24980REL131301
 schema_version: v1.5.6
+type: standard
 title:
 - content: Minimum requirements for support of MCPTT service over the Gm reference
     point
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Huawei Technologies (UK) Co., Ltd.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C1
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 13.0.1
+- content: 13.0.1
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

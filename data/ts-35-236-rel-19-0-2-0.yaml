@@ -1,7 +1,7 @@
 ---
-id: TS-35.236-REL-19-0.2.0
-type: standard
+id: 3GPPTS35236REL19020
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Specification of the MILENAGE-256 algorithm set; An example set of 256-bit
     3GPP authentication and key generation functions f1, f1*, f2, f3, f4, f5, f5*
@@ -50,8 +50,18 @@ contributor:
     - organization:
         name:
         - content: THALES
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S3
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.2.0
+- content: 0.2.0
 language:
 - en
 script:
@@ -59,8 +69,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

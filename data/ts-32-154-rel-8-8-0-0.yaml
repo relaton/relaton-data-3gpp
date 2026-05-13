@@ -1,7 +1,7 @@
 ---
-id: TS-32.154-REL-8-8.0.0
-type: standard
+id: 3GPPTS32154REL8800
 schema_version: v1.5.6
+type: standard
 title:
 - content: Telecommunication management; Backward and Forward Compatibility (BFC);
     Concept and definitions
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Ericsson Telefonaktiebolaget LM
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S5
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 8.0.0
+- content: 8.0.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

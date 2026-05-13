@@ -1,7 +1,7 @@
 ---
-id: TS-34.171-REL-7-7.2.0
-type: standard
+id: 3GPPTS34171REL7720
 schema_version: v1.5.6
+type: standard
 title:
 - content: Terminal conformance specification; Assisted Global Positioning System
     (A-GPS); Frequency Division Duplex (FDD)
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Spirent Communications
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R5
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 7.2.0
+- content: 7.2.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

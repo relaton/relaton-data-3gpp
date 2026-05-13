@@ -1,7 +1,7 @@
 ---
-id: TR-33.700-22-REL-19-0.3.0
-type: standard
+id: 3GPPTR3370022REL19030
 schema_version: v1.5.6
+type: standard
 title:
 - content: Study on security aspects of Common API Framework (CAPIF) Phase3
   type: main
@@ -50,12 +50,22 @@ contributor:
         - content: Ericsson Telefonaktiebolaget LM
 - role:
   - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S3
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
   person:
     name:
       forename:
       - language: en
         script: Latn
-        content: Henry(Haoran)
+        content: Henry (Haoran)
       surname:
         language: en
         script: Latn
@@ -65,7 +75,7 @@ contributor:
         name:
         - content: Xiaomi Communications
 version:
-- draft: 0.3.0
+- content: 0.3.0
 language:
 - en
 script:
@@ -73,8 +83,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

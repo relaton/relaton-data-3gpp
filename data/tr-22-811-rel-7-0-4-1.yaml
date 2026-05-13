@@ -1,7 +1,7 @@
 ---
-id: TR-22.811-REL-7-0.4.1
-type: standard
+id: 3GPPTR22811REL7041
 schema_version: v1.5.6
+type: standard
 title:
 - content: Review of network selection principles
   type: main
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: Telefónica Germany GmbH & Co OHG
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S1
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.4.1
+- content: 0.4.1
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

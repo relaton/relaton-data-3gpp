@@ -1,7 +1,7 @@
 ---
-id: TS-22.053-REL-16-16.0.0
-type: standard
+id: 3GPPTS22053REL161600
 schema_version: v1.5.6
+type: standard
 title:
 - content: Tandem Free Operation (TFO); Service description; Stage 1
   type: main
@@ -47,9 +47,19 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Ericsson Telefonaktiebolaget LM
+        - content: Dolby France SAS
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 16.0.0
+- content: 16.0.0
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

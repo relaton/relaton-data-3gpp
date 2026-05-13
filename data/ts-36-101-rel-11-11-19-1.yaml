@@ -1,7 +1,7 @@
 ---
-id: TS-36.101-REL-11-11.19.1
-type: standard
+id: 3GPPTS36101REL1111191
 schema_version: v1.5.6
+type: standard
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE)
     radio transmission and reception
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Nokia Corporation
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 11.19.1
+- content: 11.19.1
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

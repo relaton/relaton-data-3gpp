@@ -1,7 +1,7 @@
 ---
-id: TS-02.93-REL-96-5.5.0
-type: standard
+id: 3GPPTS0293REL96550
 schema_version: v1.5.6
+type: standard
 title:
 - content: Completion of Calls to Busy Subcriber (CCBS) Service  Description; Stage
     1
@@ -43,8 +43,18 @@ contributor:
     - organization:
         name:
         - content: Telecom Italia S.p.A.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S1
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 5.5.0
+- content: 5.5.0
 language:
 - en
 script:
@@ -52,8 +62,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,7 +1,7 @@
 ---
-id: TS-38.561-REL-18-18.1.0
-type: standard
+id: 3GPPTS38561REL181810
 schema_version: v1.5.6
+type: standard
 title:
 - content: NR; User Equipment (UE) conformance specification; UE TRP (Total Radiated
     Power) and TRS (Total Radiated Sensitivity) requirements and test methodologies
@@ -50,8 +50,18 @@ contributor:
     - organization:
         name:
         - content: Apple Portugal
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R5
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 18.1.0
+- content: 18.1.0
 language:
 - en
 script:
@@ -59,8 +69,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

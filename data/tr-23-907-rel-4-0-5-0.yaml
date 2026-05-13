@@ -1,7 +1,7 @@
 ---
-id: TR-23.907-REL-4-0.5.0
-type: standard
+id: 3GPPTR23907REL4050
 schema_version: v1.5.6
+type: standard
 title:
 - content: Quality of Service (QoS) concept
   type: main
@@ -32,8 +32,18 @@ contributor:
     - content: 3rd Generation Partnership Project
     abbreviation:
       content: 3GPP
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S2
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.5.0
+- content: 0.5.0
 language:
 - en
 script:
@@ -41,8 +51,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,7 +1,7 @@
 ---
-id: TS-24.167-REL-17-17.0.0
-type: standard
+id: 3GPPTS24167REL171700
 schema_version: v1.5.6
+type: standard
 title:
 - content: 3GPP IMS Management Object (MO); Stage 3
   type: main
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: InterDigital, Europe, Ltd.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C1
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 17.0.0
+- content: 17.0.0
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

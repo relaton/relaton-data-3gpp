@@ -1,7 +1,7 @@
 ---
-id: TS-01.34-PH1-0.6.0
-type: standard
+id: 3GPPTS0134Ph1060
 schema_version: v1.5.6
+type: standard
 title:
 - content: Requirements of High Speed Circuit Switched Data (HSCSD)
   type: main
@@ -33,7 +33,7 @@ contributor:
     abbreviation:
       content: 3GPP
 version:
-- draft: 0.6.0
+- content: 0.6.0
 language:
 - en
 script:
@@ -41,8 +41,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

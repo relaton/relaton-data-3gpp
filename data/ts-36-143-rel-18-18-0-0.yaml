@@ -1,7 +1,7 @@
 ---
-id: TS-36.143-REL-18-18.0.0
-type: standard
+id: 3GPPTS36143REL181800
 schema_version: v1.5.6
+type: standard
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA); FDD repeater conformance
     testing
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Huawei Technologies Sweden AB
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 18.0.0
+- content: 18.0.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

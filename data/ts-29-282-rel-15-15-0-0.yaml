@@ -1,7 +1,7 @@
 ---
-id: TS-29.282-REL-15-15.0.0
-type: standard
+id: 3GPPTS29282REL151500
 schema_version: v1.5.6
+type: standard
 title:
 - content: Mobile IPv6 vendor specific option format and usage within 3GPP
   type: main
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: NTT DOCOMO INC.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 15.0.0
+- content: 15.0.0
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

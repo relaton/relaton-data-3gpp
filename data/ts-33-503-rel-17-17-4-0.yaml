@@ -1,7 +1,7 @@
 ---
-id: TS-33.503-REL-17-17.4.0
-type: standard
+id: 3GPPTS33503REL171740
 schema_version: v1.5.6
+type: standard
 title:
 - content: Security Aspects of Proximity based Services (ProSe) in the 5G System (5GS)
   type: main
@@ -49,8 +49,18 @@ contributor:
         name:
         - content: China Academy of Telecommunication Technology - (Datang Telecom
             Technology and Industry Group)
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S3
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 17.4.0
+- content: 17.4.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

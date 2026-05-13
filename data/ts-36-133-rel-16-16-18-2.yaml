@@ -1,7 +1,7 @@
 ---
-id: TS-36.133-REL-16-16.18.2
-type: standard
+id: 3GPPTS36133REL1616182
 schema_version: v1.5.6
+type: standard
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA); Requirements for support
     of radio resource management
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Ericsson Hungary Ltd
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 16.18.2
+- content: 16.18.2
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

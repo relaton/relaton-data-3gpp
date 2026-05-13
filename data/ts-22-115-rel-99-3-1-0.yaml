@@ -1,7 +1,7 @@
 ---
-id: TS-22.115-REL-99-3.1.0
-type: standard
+id: 3GPPTS22115REL99310
 schema_version: v1.5.6
+type: standard
 title:
 - content: Service aspects; Charging and billing
   type: main
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: Telecom Italia S.p.A.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S1
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 3.1.0
+- content: 3.1.0
 language:
 - en
 script:
@@ -106,8 +116,18 @@ relation:
         - organization:
             name:
             - content: Telecom Italia S.p.A.
+    - role:
+      - type: author
+        description:
+        - content: committee
+      organization:
+        subdivision:
+        - name:
+          - content: S1
+          type: technical-committee
+          subtype: prime
     version:
-    - draft: 3.1.0
+    - content: 3.1.0
     language:
     - en
     script:
@@ -115,13 +135,13 @@ relation:
     place:
     - city: Sophia Antipolis Cedex
       country:
-      - content: France
-        iso: FR
+      - iso: FR
+        content: France
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

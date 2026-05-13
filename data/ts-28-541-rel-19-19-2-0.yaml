@@ -1,7 +1,7 @@
 ---
-id: TS-28.541-REL-19-19.2.0
-type: standard
+id: 3GPPTS28541REL191920
 schema_version: v1.5.6
+type: standard
 title:
 - content: Management and orchestration; 5G Network Resource Model (NRM); Stage 2
     and stage 3
@@ -48,9 +48,19 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Nokia Shanghai Bell Co., Ltd
+        - content: Nokia Solutions (Shanghai) Co., Ltd.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S5
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 19.2.0
+- content: 19.2.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

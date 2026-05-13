@@ -1,7 +1,7 @@
 ---
-id: TS-10.70-REL-98-0.0.1
-type: standard
+id: 3GPPTS1070REL98001
 schema_version: v1.5.6
+type: standard
 title:
 - content: GSM Adaptive Multi-Rate Speech Codec (AMR); Project schedule and open issues
     for AMR
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Ericsson Telefonaktiebolaget LM
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.0.1
+- content: 0.0.1
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

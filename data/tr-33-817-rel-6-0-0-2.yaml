@@ -1,7 +1,7 @@
 ---
-id: TR-33.817-REL-6-0.0.2
-type: standard
+id: 3GPPTR33817REL6002
 schema_version: v1.5.6
+type: standard
 title:
 - content: Feasibility study on (Universal) Subscriber Interface Module (U)SIM security
     reuse by peripheral devices on local interfaces
@@ -43,8 +43,18 @@ contributor:
     - organization:
         name:
         - content: Waiting for new Company
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S3
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.0.2
+- content: 0.0.2
 language:
 - en
 script:
@@ -52,8 +62,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

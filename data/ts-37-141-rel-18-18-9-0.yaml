@@ -1,0 +1,96 @@
+---
+id: 3GPPTS37141REL181890
+schema_version: v1.5.6
+type: standard
+title:
+- content: NR, E-UTRA, UTRA and GSM/EDGE; Multi-Standard Radio (MSR) Base Station
+    (BS) conformance testing
+  type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/37_series/37.141/37141-i90.zip
+docidentifier:
+- content: 3GPP TS 37.141:REL-18/18.9.0
+  type: 3GPP
+  primary: true
+docnumber: TS 37.141:REL-18/18.9.0
+date:
+- type: published
+  at: '2026-03-27'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    address:
+    - street:
+      - c/o ETSI 650, route des Lucioles
+      - 3GPP Mobile Competence Centre
+      city: Sophia Antipolis Cedex
+      country: France
+      postcode: '06921'
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Johan
+      surname:
+        language: en
+        script: Latn
+        content: Skold
+    affiliation:
+    - organization:
+        name:
+        - content: Ericsson Telefonaktiebolaget LM
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: RP
+      type: technical-committee
+      subtype: other
+version:
+- content: 18.9.0
+language:
+- en
+script:
+- Latn
+place:
+- city: Sophia Antipolis Cedex
+  country:
+  - iso: FR
+    content: France
+ext:
+  schema_version: v1.0.4
+  doctype:
+    content: TS
+  flavor: 3gpp
+  radiotechnology: 5G
+  release:
+    wpm_code_2g: GSM_Release_18
+    wpm_code_3g: 3G4G5G_Rel-18
+    freeze_stage1_meeting: SA#94-e
+    freeze_stage2_meeting: SA#100
+    freeze_stage3_meeting: SA#103
+    project_start: '2019-09-16'
+    project_end: '2024-06-21'

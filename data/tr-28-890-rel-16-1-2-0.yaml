@@ -1,7 +1,7 @@
 ---
-id: TR-28.890-REL-16-1.2.0
-type: standard
+id: 3GPPTR28890REL16120
 schema_version: v1.5.6
+type: standard
 title:
 - content: Management and orchestration; Study on integration of Open Network Automation
     Platform (ONAP) and 3GPP management for 5G networks
@@ -51,6 +51,16 @@ contributor:
         - content: AT&T Global Network Services Belgium SPRL
 - role:
   - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S5
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
   person:
     name:
       forename:
@@ -66,7 +76,7 @@ contributor:
         name:
         - content: Orange
 version:
-- draft: 1.2.0
+- content: 1.2.0
 language:
 - en
 script:
@@ -74,8 +84,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

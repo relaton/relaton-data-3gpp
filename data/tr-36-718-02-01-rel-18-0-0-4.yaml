@@ -1,7 +1,7 @@
 ---
-id: TR-36.718-02-01-REL-18-0.0.4
-type: standard
+id: 3GPPTR367180201REL18004
 schema_version: v1.5.6
+type: standard
 title:
 - content: Rel-18 LTE Advanced Carrier Aggregation for x bands (1<= x<=6) DL with
     y bands (y=1,2) UL
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Huawei Technologies France
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.0.4
+- content: 0.0.4
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,7 +1,7 @@
 ---
-id: TR-36.895-REL-13-0.2.0
-type: standard
+id: 3GPPTR36895REL13020
 schema_version: v1.5.6
+type: standard
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA); European 700 supplemental
     downlink band (738-758 MHz) in E-UTRA
@@ -43,8 +43,18 @@ contributor:
     - organization:
         name:
         - content: TeliaSonera AB
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.2.0
+- content: 0.2.0
 language:
 - en
 script:
@@ -52,8 +62,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

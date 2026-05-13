@@ -1,7 +1,7 @@
 ---
-id: TR-36.823-REL-11-0.5.0
-type: standard
+id: 3GPPTR36823REL11050
 schema_version: v1.5.6
+type: standard
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA); Carrier aggregation
     enhancements; User Equipment (UE) and Base Station (BS) radio transmission and
@@ -44,8 +44,48 @@ contributor:
     - organization:
         name:
         - content: Nokia Networks Oy
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R1
+      type: technical-committee
+      subtype: other
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R2
+      type: technical-committee
+      subtype: other
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R3
+      type: technical-committee
+      subtype: other
 version:
-- draft: 0.5.0
+- content: 0.5.0
 language:
 - en
 script:
@@ -53,8 +93,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

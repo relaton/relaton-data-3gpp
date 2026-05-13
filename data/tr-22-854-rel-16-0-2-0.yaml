@@ -1,7 +1,7 @@
 ---
-id: TR-22.854-REL-16-0.2.0
-type: standard
+id: 3GPPTR22854REL16020
 schema_version: v1.5.6
+type: standard
 title:
 - content: Feasibility Study on Multimedia Priority Service (MPS) Phase 2
   type: main
@@ -42,8 +42,18 @@ contributor:
     - organization:
         name:
         - content: Vencore Labs
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S1
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.2.0
+- content: 0.2.0
 language:
 - en
 script:
@@ -51,8 +61,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

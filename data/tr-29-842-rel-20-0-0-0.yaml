@@ -1,0 +1,85 @@
+---
+id: 3GPPTR29842REL20000
+schema_version: v1.5.6
+type: standard
+title:
+- content: Study on Resilience and Reliability in Core Network of the 6G System
+  type: main
+source:
+- type: src
+  content: https://ftp.3gpp.org//Specs/archive/29_series/29.842/29842-000.zip
+docidentifier:
+- content: 3GPP TR 29.842:REL-20/0.0.0
+  type: 3GPP
+  primary: true
+docnumber: TR 29.842:REL-20/0.0.0
+date:
+- type: published
+  at: '2026-04-03'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    address:
+    - street:
+      - c/o ETSI 650, route des Lucioles
+      - 3GPP Mobile Competence Centre
+      city: Sophia Antipolis Cedex
+      country: France
+      postcode: '06921'
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Nivedya
+      surname:
+        language: en
+        script: Latn
+        content: Parambath Sasi
+    affiliation:
+    - organization:
+        name:
+        - content: Samsung R&D Institute India - Bangalore Pvt. Ltd
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C4
+      type: technical-committee
+      subtype: prime
+version:
+- content: 0.0.0
+language:
+- en
+script:
+- Latn
+place:
+- city: Sophia Antipolis Cedex
+  country:
+  - iso: FR
+    content: France
+ext:
+  schema_version: v1.0.4
+  doctype:
+    content: TR
+  flavor: 3gpp
+  radiotechnology: 5G
+  release:
+    wpm_code_2g: GSM_Release_20
+    wpm_code_3g: 3G4G5G_Rel-20
+    freeze_stage1_meeting: SA#108
+    freeze_stage2_meeting: SA#113
+    freeze_stage3_meeting: SA#115
+    project_start: '2024-03-14'
+    project_end: '2027-06-18'

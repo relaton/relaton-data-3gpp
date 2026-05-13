@@ -1,7 +1,7 @@
 ---
-id: TR-38.719-00-00-REL-19-0.2.0
-type: standard
+id: 3GPPTR387190000REL19020
 schema_version: v1.5.6
+type: standard
 title:
 - content: Rel-19 SUL configurations and CA band combinations with SUL(s)
   type: main
@@ -33,17 +33,27 @@ contributor:
       forename:
       - language: en
         script: Latn
-        content: Peng
+        content: Ling
       surname:
         language: en
         script: Latn
-        content: Zhang
+        content: Lin
     affiliation:
     - organization:
         name:
-        - content: HUAWEI Technologies Japan K.K.
+        - content: Huawei Device Co., Ltd
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.2.0
+- content: 0.2.0
 language:
 - en
 script:
@@ -51,8 +61,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

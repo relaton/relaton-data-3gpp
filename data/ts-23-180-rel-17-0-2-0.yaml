@@ -1,7 +1,7 @@
 ---
-id: TS-23.180-REL-17-0.2.0
-type: standard
+id: 3GPPTS23180REL17020
 schema_version: v1.5.6
+type: standard
 title:
 - content: Mission critical services support in the Isolated Operation for Public
     Safety (IOPS) mode of operation
@@ -40,17 +40,47 @@ contributor:
       forename:
       - language: en
         script: Latn
-        content: Camilo
+        content: Rana
       surname:
         language: en
         script: Latn
-        content: Solano
+        content: Alhalaseh
     affiliation:
     - organization:
         name:
         - content: Ericsson GmbH, Eurolab - Unternehmensbereich Forschung und Entwicklung
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S6
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S2
+      type: technical-committee
+      subtype: other
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S3
+      type: technical-committee
+      subtype: other
 version:
-- draft: 0.2.0
+- content: 0.2.0
 language:
 - en
 script:
@@ -58,8 +88,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

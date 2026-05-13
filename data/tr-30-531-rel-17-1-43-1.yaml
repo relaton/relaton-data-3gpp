@@ -1,7 +1,7 @@
 ---
-id: TR-30.531-REL-17-1.43.1
-type: standard
+id: 3GPPTR30531REL171431
 schema_version: v1.5.6
+type: standard
 title:
 - content: Work Plan and Working Procedures - RAN WG3
   type: main
@@ -50,6 +50,16 @@ contributor:
         - content: Telecommunications Technology Association (TTA)
 - role:
   - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R3
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
   person:
     name:
       forename:
@@ -65,7 +75,7 @@ contributor:
         name:
         - content: European Telecommunications Standards Institute
 version:
-- draft: 1.43.1
+- content: 1.43.1
 language:
 - en
 script:
@@ -73,8 +83,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

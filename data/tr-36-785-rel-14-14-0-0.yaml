@@ -1,7 +1,7 @@
 ---
-id: TR-36.785-REL-14-14.0.0
-type: standard
+id: 3GPPTR36785REL141400
 schema_version: v1.5.6
+type: standard
 title:
 - content: Vehicle to Vehicle (V2V) services based on LTE sidelink; User Equipment
     (UE) radio transmission and reception
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: LG Electronics Inc.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 14.0.0
+- content: 14.0.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,7 +1,7 @@
 ---
-id: TS-24.234-REL-10-10.0.0
-type: standard
+id: 3GPPTS24234REL101000
 schema_version: v1.5.6
+type: standard
 title:
 - content: 3GPP system to Wireless Local Area Network (WLAN) interworking; WLAN User
     Equipment (WLAN UE) to network protocols; Stage 3
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Nokia Networks Oy
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C1
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 10.0.0
+- content: 10.0.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

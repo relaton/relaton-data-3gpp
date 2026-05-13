@@ -1,7 +1,7 @@
 ---
-id: TS-23.10U-UMTS-3.0.0
-type: standard
+id: 3GPPTS2310UUMTS300
 schema_version: v1.5.6
+type: standard
 title:
 - content: UMTS Access Stratum; Services and Functions
   type: main
@@ -49,7 +49,7 @@ contributor:
         name:
         - content: InterDigital Communications Corporation
 version:
-- draft: 3.0.0
+- content: 3.0.0
 language:
 - en
 script:
@@ -57,8 +57,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

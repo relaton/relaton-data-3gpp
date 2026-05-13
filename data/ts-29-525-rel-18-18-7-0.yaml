@@ -1,7 +1,7 @@
 ---
-id: TS-29.525-REL-18-18.7.0
-type: standard
+id: 3GPPTS29525REL181870
 schema_version: v1.5.6
+type: standard
 title:
 - content: 5G System; UE Policy Control Service; Stage 3
   type: main
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: Nokia Solutions and Networks GmbH & Co. KG
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C3
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 18.7.0
+- content: 18.7.0
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

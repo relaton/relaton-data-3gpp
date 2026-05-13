@@ -1,7 +1,7 @@
 ---
-id: TS-33.922-REL-8-2.0.0
-type: standard
+id: 3GPPTS33922REL8200
 schema_version: v1.5.6
+type: standard
 title:
 - content: Security aspects for inter-access mobility between non 3GPP and 3GPP access
     network
@@ -43,8 +43,18 @@ contributor:
     - organization:
         name:
         - content: Microsoft Ireland Operations Limited
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S3
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 2.0.0
+- content: 2.0.0
 language:
 - en
 script:
@@ -52,8 +62,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

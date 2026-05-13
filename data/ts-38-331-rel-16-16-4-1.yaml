@@ -1,7 +1,7 @@
 ---
-id: TS-38.331-REL-16-16.4.1
-type: standard
+id: 3GPPTS38331REL161641
 schema_version: v1.5.6
+type: standard
 title:
 - content: NR; Radio Resource Control (RRC); Protocol specification
   type: main
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: Ericsson Telefonaktiebolaget LM
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R2
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 16.4.1
+- content: 16.4.1
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

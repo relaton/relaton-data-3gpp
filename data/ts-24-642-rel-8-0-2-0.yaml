@@ -1,7 +1,7 @@
 ---
-id: TS-24.642-REL-8-0.2.0
-type: standard
+id: 3GPPTS24642REL8020
 schema_version: v1.5.6
+type: standard
 title:
 - content: Completion of Communications to Busy Subscriber (CCBS) and Completion of
     Communications by No Reply (CCNR) using IP Multimedia (IM) Core Network (CN) subsystem;
@@ -50,8 +50,18 @@ contributor:
     - organization:
         name:
         - content: Deutsche Telekom AG
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C1
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.2.0
+- content: 0.2.0
 language:
 - en
 script:
@@ -59,8 +69,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

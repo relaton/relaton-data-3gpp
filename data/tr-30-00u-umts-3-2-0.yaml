@@ -1,7 +1,7 @@
 ---
-id: TR-30.00U-UMTS-3.2.0
-type: standard
+id: 3GPPTR3000UUMTS320
 schema_version: v1.5.6
+type: standard
 title:
 - content: SMG - UMTS Work programme
   type: main
@@ -43,7 +43,7 @@ contributor:
         name:
         - content: Ericsson Telefonaktiebolaget LM
 version:
-- draft: 3.2.0
+- content: 3.2.0
 language:
 - en
 script:
@@ -51,8 +51,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

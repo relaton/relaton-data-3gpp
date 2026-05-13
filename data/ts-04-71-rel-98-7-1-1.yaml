@@ -1,7 +1,7 @@
 ---
-id: TS-04.71-REL-98-7.1.1
-type: standard
+id: 3GPPTS0471REL98711
 schema_version: v1.5.6
+type: standard
 title:
 - content: Location Services (LCS); Mobile radio interface layer 3 specification
   type: main
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: Anemone Technology
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R6
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 7.1.1
+- content: 7.1.1
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

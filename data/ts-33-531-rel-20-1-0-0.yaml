@@ -1,0 +1,86 @@
+---
+id: 3GPPTS33531REL20100
+schema_version: v1.5.6
+type: standard
+title:
+- content: Security Assurance Specification (SCAS) for the Common API Framework (CAPIF)
+    core function
+  type: main
+source:
+- type: src
+  content: https://ftp.3gpp.org//Specs/archive/33_series/33.531/33531-100.zip
+docidentifier:
+- content: 3GPP TS 33.531:REL-20/1.0.0
+  type: 3GPP
+  primary: true
+docnumber: TS 33.531:REL-20/1.0.0
+date:
+- type: published
+  at: '2026-03-03'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    address:
+    - street:
+      - c/o ETSI 650, route des Lucioles
+      - 3GPP Mobile Competence Centre
+      city: Sophia Antipolis Cedex
+      country: France
+      postcode: '06921'
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Raghavendran
+      surname:
+        language: en
+        script: Latn
+        content: Ramiya
+    affiliation:
+    - organization:
+        name:
+        - content: Rakuten Mobile, Inc
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S3
+      type: technical-committee
+      subtype: prime
+version:
+- content: 1.0.0
+language:
+- en
+script:
+- Latn
+place:
+- city: Sophia Antipolis Cedex
+  country:
+  - iso: FR
+    content: France
+ext:
+  schema_version: v1.0.4
+  doctype:
+    content: TS
+  flavor: 3gpp
+  radiotechnology: 5G
+  release:
+    wpm_code_2g: GSM_Release_20
+    wpm_code_3g: 3G4G5G_Rel-20
+    freeze_stage1_meeting: SA#108
+    freeze_stage2_meeting: SA#113
+    freeze_stage3_meeting: SA#115
+    project_start: '2024-03-14'
+    project_end: '2027-06-18'

@@ -1,7 +1,7 @@
 ---
-id: TR-28.832-REL-18-0.7.0
-type: standard
+id: 3GPPTR28832REL18070
 schema_version: v1.5.6
+type: standard
 title:
 - content: Study on management aspects of Ultra-Reliable and Low Latency Communications
     (URLLC)
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: China Unicom
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S5
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.7.0
+- content: 0.7.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

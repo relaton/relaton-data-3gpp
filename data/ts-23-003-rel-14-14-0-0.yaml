@@ -1,7 +1,7 @@
 ---
-id: TS-23.003-REL-14-14.0.0
-type: standard
+id: 3GPPTS23003REL141400
 schema_version: v1.5.6
+type: standard
 title:
 - content: Numbering, addressing and identification
   type: main
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: Vodafone GmbH
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 14.0.0
+- content: 14.0.0
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

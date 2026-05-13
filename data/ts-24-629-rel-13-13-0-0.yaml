@@ -1,7 +1,7 @@
 ---
-id: TS-24.629-REL-13-13.0.0
-type: standard
+id: 3GPPTS24629REL131300
 schema_version: v1.5.6
+type: standard
 title:
 - content: Explicit Communication Transfer (ECT) using IP Multimedia (IM) Core Network
     (CN) subsystem; Protocol specification
@@ -40,17 +40,27 @@ contributor:
       forename:
       - language: en
         script: Latn
-        content: Nevenka
+        content: Magnus
       surname:
         language: en
         script: Latn
-        content: Biondic
+        content: Trank
     affiliation:
     - organization:
         name:
         - content: Ericsson Telefonaktiebolaget LM
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C1
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 13.0.0
+- content: 13.0.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

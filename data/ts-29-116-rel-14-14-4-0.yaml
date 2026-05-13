@@ -1,7 +1,7 @@
 ---
-id: TS-29.116-REL-14-14.4.0
-type: standard
+id: 3GPPTS29116REL141440
 schema_version: v1.5.6
+type: standard
 title:
 - content: Representational state transfer over xMB reference point between content
     provider and BM-SC
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Qualcomm Germany GmbH
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C3
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 14.4.0
+- content: 14.4.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

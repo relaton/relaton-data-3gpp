@@ -1,7 +1,7 @@
 ---
-id: TS-36.440-REL-9-9.1.0
-type: standard
+id: 3GPPTS36440REL9910
 schema_version: v1.5.6
+type: standard
 title:
 - content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN); General aspects
     and principles for interfaces supporting Multimedia Broadcast Multicast Service
@@ -50,8 +50,18 @@ contributor:
     - organization:
         name:
         - content: Alcatel-Lucent International
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R3
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 9.1.0
+- content: 9.1.0
 language:
 - en
 script:
@@ -59,8 +69,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

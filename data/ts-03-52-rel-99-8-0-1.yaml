@@ -1,7 +1,7 @@
 ---
-id: TS-03.52-REL-99-8.0.1
-type: standard
+id: 3GPPTS0352REL99801
 schema_version: v1.5.6
+type: standard
 title:
 - content: Lower layers of the GSM Cordless Telephony System (CTS) radio interface;
     Stage 2
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Waiting for new Company
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R6
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 8.0.1
+- content: 8.0.1
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

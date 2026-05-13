@@ -1,7 +1,7 @@
 ---
-id: TR-22.800-REL-6-0.0.5
-type: standard
+id: 3GPPTR22800REL6005
 schema_version: v1.5.6
+type: standard
 title:
 - content: IP Multimedia Subsystem (IMS) subscription and access scenarios
   type: main
@@ -42,8 +42,18 @@ contributor:
     - organization:
         name:
         - content: TeliaSonera AB
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S1
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.0.5
+- content: 0.0.5
 language:
 - en
 script:
@@ -51,8 +61,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

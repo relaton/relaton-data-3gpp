@@ -1,7 +1,7 @@
 ---
-id: TR-50.099-REL-4-0.0.11
-type: standard
+id: 3GPPTR50099REL40011
 schema_version: v1.5.6
+type: standard
 title:
 - content: GERAN project plan and open issues
   type: main
@@ -42,8 +42,18 @@ contributor:
     - organization:
         name:
         - content: AT&T Global Network Services Belgium SPRL
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: GP
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.0.11
+- content: 0.0.11
 language:
 - en
 script:
@@ -51,8 +61,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

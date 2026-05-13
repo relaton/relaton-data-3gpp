@@ -1,7 +1,7 @@
 ---
-id: TR-33.745-REL-19-19.1.0
-type: standard
+id: 3GPPTR33745REL191910
 schema_version: v1.5.6
+type: standard
 title:
 - content: Study on security aspects of 5G Next Radio (NR) Femto
   type: main
@@ -50,6 +50,16 @@ contributor:
         - content: China Mobile Communications Corporation (CMCC)
 - role:
   - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S3
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
   person:
     name:
       forename:
@@ -65,7 +75,7 @@ contributor:
         name:
         - content: ZTE Corporation
 version:
-- draft: 19.1.0
+- content: 19.1.0
 language:
 - en
 script:
@@ -73,8 +83,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

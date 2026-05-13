@@ -1,7 +1,7 @@
 ---
-id: TR-11.15-REL-97-1.0.0
-type: standard
+id: 3GPPTR1115REL97100
 schema_version: v1.5.6
+type: standard
 title:
 - content: Standardised Security Mechanisms for SIM Application Toolkit; Feasibility
     study
@@ -28,7 +28,7 @@ contributor:
     abbreviation:
       content: 3GPP
 version:
-- draft: 1.0.0
+- content: 1.0.0
 language:
 - en
 script:
@@ -36,8 +36,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,7 +1,7 @@
 ---
-id: TS-36.307-REL-9-9.10.0
-type: standard
+id: 3GPPTS36307REL99100
 schema_version: v1.5.6
+type: standard
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA); Requirements on User
     Equipments (UEs) supporting a release-independent frequency band
@@ -48,9 +48,29 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Fujitsu Limited..
+        - content: 1FINITY Inc.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R2
+      type: technical-committee
+      subtype: other
 version:
-- draft: 9.10.0
+- content: 9.10.0
 language:
 - en
 script:
@@ -58,8 +78,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

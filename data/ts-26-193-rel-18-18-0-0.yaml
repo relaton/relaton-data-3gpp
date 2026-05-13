@@ -1,7 +1,7 @@
 ---
-id: TS-26.193-REL-18-18.0.0
-type: standard
+id: 3GPPTS26193REL181800
 schema_version: v1.5.6
+type: standard
 title:
 - content: Speech codec speech processing functions; Adaptive Multi-Rate - Wideband
     (AMR-WB) speech codec; Source controlled rate operation
@@ -48,9 +48,19 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Ericsson Telefonaktiebolaget LM
+        - content: Dolby Laboratories Inc.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 18.0.0
+- content: 18.0.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

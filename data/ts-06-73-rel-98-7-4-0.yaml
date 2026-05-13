@@ -1,7 +1,7 @@
 ---
-id: TS-06.73-REL-98-7.4.0
-type: standard
+id: 3GPPTS0673REL98740
 schema_version: v1.5.6
+type: standard
 title:
 - content: Adaptive Multi Rate (AMR) speech; ANSI-C code for the AMR speech codec
   type: main
@@ -47,9 +47,19 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Ericsson Telefonaktiebolaget LM
+        - content: Dolby Laboratories Inc.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 7.4.0
+- content: 7.4.0
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

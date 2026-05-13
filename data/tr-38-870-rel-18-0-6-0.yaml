@@ -1,7 +1,7 @@
 ---
-id: TR-38.870-REL-18-0.6.0
-type: standard
+id: 3GPPTR38870REL18060
 schema_version: v1.5.6
+type: standard
 title:
 - content: Enhanced Over-the-Air (OTA) test methods for NR FR1 Total Radiated Power
     (TRP) and Total Radiated Sensitivity (TRS)
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: vivo Mobile Communication Co., Ltd
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.6.0
+- content: 0.6.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

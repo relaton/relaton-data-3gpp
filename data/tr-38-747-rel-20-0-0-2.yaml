@@ -1,0 +1,87 @@
+---
+id: 3GPPTR38747REL20002
+schema_version: v1.5.6
+type: standard
+title:
+- content: Rel-20 High power UE (power class 1.5 or 2) for NR Carrier Aggregation
+    (CA)/Dual connectivity (DC) band combinations with/without NR Supplementary uplink
+    (SUL)
+  type: main
+source:
+- type: src
+  content: https://ftp.3gpp.org//Specs/archive/38_series/38.747/38747-002.zip
+docidentifier:
+- content: 3GPP TR 38.747:REL-20/0.0.2
+  type: 3GPP
+  primary: true
+docnumber: TR 38.747:REL-20/0.0.2
+date:
+- type: published
+  at: '2026-04-03'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    address:
+    - street:
+      - c/o ETSI 650, route des Lucioles
+      - 3GPP Mobile Competence Centre
+      city: Sophia Antipolis Cedex
+      country: France
+      postcode: '06921'
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Aijun
+      surname:
+        language: en
+        script: Latn
+        content: Cao
+    affiliation:
+    - organization:
+        name:
+        - content: China Academy of Telecommunications Technology (CATT)
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
+version:
+- content: 0.0.2
+language:
+- en
+script:
+- Latn
+place:
+- city: Sophia Antipolis Cedex
+  country:
+  - iso: FR
+    content: France
+ext:
+  schema_version: v1.0.4
+  doctype:
+    content: TR
+  flavor: 3gpp
+  radiotechnology: 5G
+  release:
+    wpm_code_2g: GSM_Release_20
+    wpm_code_3g: 3G4G5G_Rel-20
+    freeze_stage1_meeting: SA#108
+    freeze_stage2_meeting: SA#113
+    freeze_stage3_meeting: SA#115
+    project_start: '2024-03-14'
+    project_end: '2027-06-18'

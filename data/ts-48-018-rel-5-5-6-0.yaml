@@ -1,7 +1,7 @@
 ---
-id: TS-48.018-REL-5-5.6.0
-type: standard
+id: 3GPPTS48018REL5560
 schema_version: v1.5.6
+type: standard
 title:
 - content: General Packet Radio Service (GPRS); Base Station System (BSS) - Serving
     GPRS Support Node (SGSN); BSS GPRS protocol (BSSGP)
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Nokia Solutions and Networks GmbH & Co. KG
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: RP
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 5.6.0
+- content: 5.6.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

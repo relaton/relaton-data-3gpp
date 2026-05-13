@@ -1,7 +1,7 @@
 ---
-id: TR-38.922-REL-19-1.0.1
-type: standard
+id: 3GPPTR38922REL19101
 schema_version: v1.5.6
+type: standard
 title:
 - content: Study on International Mobile Telecommunications (IMT) parameters for 4400
     - 4800 MHz, 7125 - 8400 MHz and 14800 - 15350 MHz
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Ericsson France S.A.S
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 1.0.1
+- content: 1.0.1
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

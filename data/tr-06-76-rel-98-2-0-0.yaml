@@ -1,7 +1,7 @@
 ---
-id: TR-06.76-REL-98-2.0.0
-type: standard
+id: 3GPPTR0676REL98200
 schema_version: v1.5.6
+type: standard
 title:
 - content: Adaptive Multi-Rate (AMR) speech codec; Study phase report
   type: main
@@ -42,8 +42,18 @@ contributor:
     - organization:
         name:
         - content: European Telecommunications Standards Institute
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 2.0.0
+- content: 2.0.0
 language:
 - en
 script:
@@ -51,8 +61,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

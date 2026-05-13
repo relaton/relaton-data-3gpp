@@ -1,9 +1,9 @@
 ---
-id: TS-38.191-REL-19-0.0.1
-type: standard
+id: 3GPPTS38191REL19001
 schema_version: v1.5.6
+type: standard
 title:
-- content: Ambient IoT device radio transmission and reception
+- content: NR; Ambient IoT device radio transmission and reception
   type: main
 source:
 - type: src
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: China Mobile Group Device Co., Ltd
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.0.1
+- content: 0.0.1
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,7 +1,7 @@
 ---
-id: TR-30.301-REL-7-0.2.0
-type: standard
+id: 3GPPTR30301REL7020
 schema_version: v1.5.6
+type: standard
 title:
 - content: '3.84 Mcps TDD enhanced uplink: RAN WG2 Stage 2 decisions'
   type: main
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: Huawei Technologies Co. Ltd.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R2
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.2.0
+- content: 0.2.0
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

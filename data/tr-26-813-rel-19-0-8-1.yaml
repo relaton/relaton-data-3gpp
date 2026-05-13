@@ -1,9 +1,9 @@
 ---
-id: TR-26.813-REL-19-0.8.1
-type: standard
+id: 3GPPTR26813REL19081
 schema_version: v1.5.6
+type: standard
 title:
-- content: Study of Avatars in Real-Time Communication Services
+- content: Avatar Representation and Communication
   type: main
 source:
 - type: src
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: Qualcomm Incorporated
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.8.1
+- content: 0.8.1
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,7 +1,7 @@
 ---
-id: TR-37.852-REL-12-0.0.1
-type: standard
+id: 3GPPTR37852REL12001
 schema_version: v1.5.6
+type: standard
 title:
 - content: RAN enhancements for UMTS/HSPA and LTE interworking
   type: main
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: China Unicom
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R3
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.0.1
+- content: 0.0.1
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

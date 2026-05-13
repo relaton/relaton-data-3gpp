@@ -1,7 +1,7 @@
 ---
-id: TS-08.08-PH2-4.7.1
-type: standard
+id: 3GPPTS0808Ph2471
 schema_version: v1.5.6
+type: standard
 title:
 - content: Mobile-services Switching Centre - Base Station system (MSC-BSS) Interface
     Layer 3 Specification
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Anemone Technology
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R6
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 4.7.1
+- content: 4.7.1
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

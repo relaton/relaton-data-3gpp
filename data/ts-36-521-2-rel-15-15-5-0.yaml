@@ -1,7 +1,7 @@
 ---
-id: TS-36.521-2-REL-15-15.5.0
-type: standard
+id: 3GPPTS365212REL151550
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE)
     conformance specification; Radio transmission and reception; Part 2: Implementation
@@ -50,8 +50,18 @@ contributor:
     - organization:
         name:
         - content: Keysight Technologies UK Ltd
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R5
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 15.5.0
+- content: 15.5.0
 language:
 - en
 script:
@@ -59,8 +69,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

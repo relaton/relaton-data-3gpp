@@ -1,7 +1,7 @@
 ---
-id: TS-04.62-REL-97-0.2.0
-type: standard
+id: 3GPPTS0462REL97020
 schema_version: v1.5.6
+type: standard
 title:
 - content: General Packet Radio Service (GPRS); Point-to-multipoint group call; Stage
     3
@@ -50,7 +50,7 @@ contributor:
         name:
         - content: SCANDEW PTY Ltd
 version:
-- draft: 0.2.0
+- content: 0.2.0
 language:
 - en
 script:
@@ -58,8 +58,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

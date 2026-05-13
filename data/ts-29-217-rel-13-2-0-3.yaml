@@ -1,7 +1,7 @@
 ---
-id: TS-29.217-REL-13-2.0.3
-type: standard
+id: 3GPPTS29217REL13203
 schema_version: v1.5.6
+type: standard
 title:
 - content: Policy and Charging Control (PCC); Congestion reporting over Np reference
     point
@@ -40,17 +40,27 @@ contributor:
       forename:
       - language: en
         script: Latn
-        content: Xiaoyun
+        content: Xuefei
       surname:
         language: en
         script: Latn
-        content: Zhou
+        content: Zhang
     affiliation:
     - organization:
         name:
-        - content: ZTE Corporation
+        - content: HuaWei Technologies Co., Ltd
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C3
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 2.0.3
+- content: 2.0.3
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

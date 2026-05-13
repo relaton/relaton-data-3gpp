@@ -1,7 +1,7 @@
 ---
-id: TR-36.833-2-42-REL-12-1.0.0
-type: standard
+id: 3GPPTR36833242REL12100
 schema_version: v1.5.6
+type: standard
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-Advanced intra-band
     non-contiguous Carrier Aggregation (CA) in Band 42
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: SASKEN COMMUNICATION TECHNOLOGIES LTD
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 1.0.0
+- content: 1.0.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,7 +1,7 @@
 ---
-id: TR-23.790-REL-15-0.5.1
-type: standard
+id: 3GPPTR23790REL15051
 schema_version: v1.5.6
+type: standard
 title:
 - content: Study on application architecture for the Future Railway Mobile Communication
     System (FRMCS); Stage 2
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Nokia Solutions and Networks GmbH & Co. KG
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S6
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.5.1
+- content: 0.5.1
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

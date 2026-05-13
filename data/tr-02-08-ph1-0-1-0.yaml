@@ -1,7 +1,7 @@
 ---
-id: TR-02.08-PH1-0.1.0
-type: standard
+id: 3GPPTR0208Ph1010
 schema_version: v1.5.6
+type: standard
 title:
 - content: Quality of Service (QoS) / GSM system performance
   type: main
@@ -43,7 +43,7 @@ contributor:
         name:
         - content: inCode
 version:
-- draft: 0.1.0
+- content: 0.1.0
 language:
 - en
 script:
@@ -51,8 +51,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

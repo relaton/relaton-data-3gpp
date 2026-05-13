@@ -1,7 +1,7 @@
 ---
-id: TS-29.018-REL-12-12.2.0
-type: standard
+id: 3GPPTS29018REL121220
 schema_version: v1.5.6
+type: standard
 title:
 - content: General Packet Radio Service (GPRS); Serving GPRS Support Node (SGSN) -
     Visitors Location Register (VLR); Gs interface layer 3 specification
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: InterDigital Communications Corporation
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C1
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 12.2.0
+- content: 12.2.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

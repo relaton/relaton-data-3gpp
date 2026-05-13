@@ -1,7 +1,7 @@
 ---
-id: TS-29.508-REL-18-18.9.0
-type: standard
+id: 3GPPTS29508REL181890
 schema_version: v1.5.6
+type: standard
 title:
 - content: 5G System; Session Management Event Exposure Service; Stage 3
   type: main
@@ -39,17 +39,27 @@ contributor:
       forename:
       - language: en
         script: Latn
-        content: Rajesh Babu
+        content: Bhaskar
       surname:
         language: en
         script: Latn
-        content: Natarajan
+        content: Paul
     affiliation:
     - organization:
         name:
         - content: Nokia Solutions and Networks GmbH & Co. KG
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C3
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 18.9.0
+- content: 18.9.0
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

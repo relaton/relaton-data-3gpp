@@ -1,7 +1,7 @@
 ---
-id: TR-23.700-03-REL-19-1.0.0
-type: standard
+id: 3GPPTR2370003REL19100
 schema_version: v1.5.6
+type: standard
 title:
 - content: Study on system enhancement for Proximity based Services (ProSe) in the
     5G System (5GS); Phase 3
@@ -51,6 +51,16 @@ contributor:
         - content: TNO
 - role:
   - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S2
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
   person:
     name:
       forename:
@@ -66,7 +76,7 @@ contributor:
         name:
         - content: AT&T Global Network Services Belgium SPRL
 version:
-- draft: 1.0.0
+- content: 1.0.0
 language:
 - en
 script:
@@ -74,8 +84,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

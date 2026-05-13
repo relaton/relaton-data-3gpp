@@ -1,7 +1,7 @@
 ---
-id: TS-23.508-REL-7-1.1.1
-type: standard
+id: 3GPPTS23508REL7111
 schema_version: v1.5.6
+type: standard
 title:
 - content: TISPAN; Presence Service; Architecture and functional description [Endorsement
     of 3GPP TS 23.141 and OMA-AD-Presence_SIMPLE-V1_0]
@@ -43,8 +43,18 @@ contributor:
     - organization:
         name:
         - content: Nokia Solutions and Networks GmbH & Co. KG
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S2
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 1.1.1
+- content: 1.1.1
 language:
 - en
 script:
@@ -52,8 +62,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

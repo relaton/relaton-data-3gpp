@@ -1,7 +1,7 @@
 ---
-id: TR-25.813-REL-7-0.4.1
-type: standard
+id: 3GPPTR25813REL7041
 schema_version: v1.5.6
+type: standard
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Universal
     Terrestrial Radio Access Network (E-UTRAN); Radio interface protocol aspects
@@ -43,8 +43,28 @@ contributor:
     - organization:
         name:
         - content: Nokia Solutions and Networks GmbH & Co. KG
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: RP
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R2
+      type: technical-committee
+      subtype: other
 version:
-- draft: 0.4.1
+- content: 0.4.1
 language:
 - en
 script:
@@ -52,8 +72,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

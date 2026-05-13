@@ -1,7 +1,7 @@
 ---
-id: TS-13.02-2-PH2-4.0.0
-type: standard
+id: 3GPPTS13022Ph2400
 schema_version: v1.5.6
+type: standard
 title:
 - content: Attachment requirements (CDCS 1800); Telephony
   type: main
@@ -49,7 +49,7 @@ contributor:
         name:
         - content: DoCoMo Europe S.A.
 version:
-- draft: 4.0.0
+- content: 4.0.0
 language:
 - en
 script:
@@ -57,8 +57,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

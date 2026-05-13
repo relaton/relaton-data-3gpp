@@ -1,7 +1,7 @@
 ---
-id: TR-22.935-REL-7-0.1.0
-type: standard
+id: 3GPPTR22935REL7010
 schema_version: v1.5.6
+type: standard
 title:
 - content: Feasibility study on Location Services (LCS) for Wireless Local Area Network
     (WLAN) interworking
@@ -43,8 +43,18 @@ contributor:
     - organization:
         name:
         - content: Applied Communication Sciences
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S1
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.1.0
+- content: 0.1.0
 language:
 - en
 script:
@@ -52,8 +62,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,7 +1,7 @@
 ---
-id: TS-03.19-REL-98-7.5.0
-type: standard
+id: 3GPPTS0319REL98750
 schema_version: v1.5.6
+type: standard
 title:
 - content: Subscriber Identity Module Application Programming Interface (SIM API)
     for Java Card
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Oracle Corporation
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C6
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 7.5.0
+- content: 7.5.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

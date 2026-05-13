@@ -1,7 +1,7 @@
 ---
-id: TS-29.540-REL-16-16.5.0
-type: standard
+id: 3GPPTS29540REL161650
 schema_version: v1.5.6
+type: standard
 title:
 - content: 5G System; SMS Services; Stage 3
   type: main
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: ZTE Corporation
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 16.5.0
+- content: 16.5.0
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

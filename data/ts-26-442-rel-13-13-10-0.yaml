@@ -1,7 +1,7 @@
 ---
-id: TS-26.442-REL-13-13.10.0
-type: standard
+id: 3GPPTS26442REL1313100
 schema_version: v1.5.6
+type: standard
 title:
 - content: Codec for Enhanced Voice Services (EVS); ANSI C code (fixed-point)
   type: main
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: Fraunhofer Institut für Integrierte Schaltungen IIS
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 13.10.0
+- content: 13.10.0
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

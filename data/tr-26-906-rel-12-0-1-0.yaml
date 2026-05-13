@@ -1,7 +1,7 @@
 ---
-id: TR-26.906-REL-12-0.1.0
-type: standard
+id: 3GPPTR26906REL12010
 schema_version: v1.5.6
+type: standard
 title:
 - content: Evaluation of High Efficiency Video Coding (HEVC) for 3GPP services
   type: main
@@ -42,8 +42,18 @@ contributor:
     - organization:
         name:
         - content: Nokia Corporation
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.1.0
+- content: 0.1.0
 language:
 - en
 script:
@@ -51,8 +61,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

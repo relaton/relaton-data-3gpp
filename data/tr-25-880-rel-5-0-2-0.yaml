@@ -1,7 +1,7 @@
 ---
-id: TR-25.880-REL-5-0.2.0
-type: standard
+id: 3GPPTR25880REL5020
 schema_version: v1.5.6
+type: standard
 title:
 - content: Re-arrangement of Iub transport bearers
   type: main
@@ -42,8 +42,18 @@ contributor:
     - organization:
         name:
         - content: Nokia Corporation
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R3
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.2.0
+- content: 0.2.0
 language:
 - en
 script:
@@ -51,8 +61,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

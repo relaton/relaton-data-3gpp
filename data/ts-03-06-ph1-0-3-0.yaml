@@ -1,7 +1,7 @@
 ---
-id: TS-03.06-PH1-0.3.0
-type: standard
+id: 3GPPTS0306Ph1030
 schema_version: v1.5.6
+type: standard
 title:
 - content: Availability and Reliability Objectives
   type: main
@@ -27,7 +27,7 @@ contributor:
     abbreviation:
       content: 3GPP
 version:
-- draft: 0.3.0
+- content: 0.3.0
 language:
 - en
 script:
@@ -35,8 +35,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

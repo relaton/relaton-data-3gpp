@@ -1,7 +1,7 @@
 ---
-id: TS-23.070-REL-99-3.0.0
-type: standard
+id: 3GPPTS23070REL99300
 schema_version: v1.5.6
+type: standard
 title:
 - content: Routeing of calls to/from Public Data Networks (PDN) and the GSM Public
     Land Mobile Network (PLMN)
@@ -50,7 +50,7 @@ contributor:
         name:
         - content: Ericsson Telefonaktiebolaget LM
 version:
-- draft: 3.0.0
+- content: 3.0.0
 language:
 - en
 script:
@@ -58,8 +58,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

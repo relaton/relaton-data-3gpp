@@ -1,7 +1,7 @@
 ---
-id: TR-38.850-REL-18-1.1.0
-type: standard
+id: 3GPPTR38850REL18110
 schema_version: v1.5.6
+type: standard
 title:
 - content: Rel-18 High power UE (power class 2) for FR1 NR FDD band in UL of NR inter-band
     CA/DC combinations with y bands downlink (y=2,3,4,5,6) and x bands uplink (x=1)
@@ -43,8 +43,18 @@ contributor:
     - organization:
         name:
         - content: China Unicom
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 1.1.0
+- content: 1.1.0
 language:
 - en
 script:
@@ -52,8 +62,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

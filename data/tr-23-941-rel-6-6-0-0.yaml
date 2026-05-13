@@ -1,7 +1,7 @@
 ---
-id: TR-23.941-REL-6-6.0.0
-type: standard
+id: 3GPPTR23941REL6600
 schema_version: v1.5.6
+type: standard
 title:
 - content: 3GPP Generic User Profile (GUP); Stage 2; Data Description Method (DDM)
   type: main
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: Deutsche Telekom AG
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 6.0.0
+- content: 6.0.0
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

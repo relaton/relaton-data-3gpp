@@ -1,7 +1,7 @@
 ---
-id: TS-29.256-REL-18-18.0.0
-type: standard
+id: 3GPPTS29256REL181800
 schema_version: v1.5.6
+type: standard
 title:
 - content: Uncrewed Aerial Systems Network Function (UAS-NF); Aerial Management Services;
     Stage 3
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Qualcomm Technologies International, Ltd
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 18.0.0
+- content: 18.0.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

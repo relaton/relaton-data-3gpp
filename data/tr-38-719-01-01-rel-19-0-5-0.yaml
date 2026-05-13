@@ -1,15 +1,21 @@
 ---
-id: TR-38.719-01-01-REL-19-0.5.0
-type: standard
+id: 3GPPTR387190101REL19050
 schema_version: v1.5.6
+type: standard
 title:
 - content: Rel-19 NR intra-band CA combinations
   type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.719-01-01/38719-01-01-050.zip
 docidentifier:
 - content: 3GPP TR 38.719-01-01:REL-19/0.5.0
   type: 3GPP
   primary: true
 docnumber: TR 38.719-01-01:REL-19/0.5.0
+date:
+- type: published
+  at: '2025-06-01'
 contributor:
 - role:
   - type: author
@@ -42,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: Ericsson Telefonaktiebolaget LM
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.5.0
+- content: 0.5.0
 language:
 - en
 script:
@@ -51,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

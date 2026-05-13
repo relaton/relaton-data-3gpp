@@ -1,7 +1,7 @@
 ---
-id: TS-48.006-REL-17-17.0.0
-type: standard
+id: 3GPPTS48006REL171700
 schema_version: v1.5.6
+type: standard
 title:
 - content: Signalling transport mechanism Specification for the Base Station System
     - Mobile Services Switching Centre (BSS - MSC) interface
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Anemone Technology
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: RP
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 17.0.0
+- content: 17.0.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

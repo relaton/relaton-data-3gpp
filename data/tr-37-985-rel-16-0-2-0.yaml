@@ -1,7 +1,7 @@
 ---
-id: TR-37.985-REL-16-0.2.0
-type: standard
+id: 3GPPTR37985REL16020
 schema_version: v1.5.6
+type: standard
 title:
 - content: Overall description of Radio Access Network (RAN) aspects for Vehicle-to-everything
     (V2X) based on LTE and NR
@@ -49,8 +49,48 @@ contributor:
     - organization:
         name:
         - content: Huawei Technologies (UK) Co., Ltd.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R1
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R2
+      type: technical-committee
+      subtype: other
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R3
+      type: technical-committee
+      subtype: other
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: other
 version:
-- draft: 0.2.0
+- content: 0.2.0
 language:
 - en
 script:
@@ -58,8 +98,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

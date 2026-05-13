@@ -1,7 +1,7 @@
 ---
-id: TS-08.64-REL-97-1.0.0
-type: standard
+id: 3GPPTS0864REL97100
 schema_version: v1.5.6
+type: standard
 title:
 - content: GPRS support node - BSS protocol (SGSN_BSS) interface; BSSGP layer 3
   type: main
@@ -49,7 +49,7 @@ contributor:
         name:
         - content: SCANDEW PTY Ltd
 version:
-- draft: 1.0.0
+- content: 1.0.0
 language:
 - en
 script:
@@ -57,8 +57,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

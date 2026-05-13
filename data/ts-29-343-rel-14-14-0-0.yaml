@@ -1,7 +1,7 @@
 ---
-id: TS-29.343-REL-14-14.0.0
-type: standard
+id: 3GPPTS29343REL141400
 schema_version: v1.5.6
+type: standard
 title:
 - content: Proximity-services (ProSe) function to ProSe application server aspects
     (PC2); Stage 3
@@ -40,17 +40,27 @@ contributor:
       forename:
       - language: en
         script: Latn
-        content: Xiaoyun
+        content: Abdessamad
       surname:
         language: en
         script: Latn
-        content: Zhou
+        content: EL MOATAMID
     affiliation:
     - organization:
         name:
-        - content: HuaWei Technologies Co., Ltd
+        - content: Huawei Technologies Sweden AB
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C3
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 14.0.0
+- content: 14.0.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

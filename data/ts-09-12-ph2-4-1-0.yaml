@@ -1,7 +1,7 @@
 ---
-id: TS-09.12-PH2-4.1.0
-type: standard
+id: 3GPPTS0912Ph2410
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Application of ISDN User Part (ISUP) Version 2 for the Integrated Services
     Digital Network (ISDN) - Public Land Mobile Network (PLMN) signalling interface;
@@ -50,8 +50,18 @@ contributor:
     - organization:
         name:
         - content: Waiting for new Company
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C4
+      type: technical-committee
+      subtype: other
 version:
-- draft: 4.1.0
+- content: 4.1.0
 language:
 - en
 script:
@@ -59,8 +69,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

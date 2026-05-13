@@ -1,7 +1,7 @@
 ---
-id: TS-32.152-REL-7-7.0.1
-type: standard
+id: 3GPPTS32152REL7701
 schema_version: v1.5.6
+type: standard
 title:
 - content: Telecommunication management; Integration Reference Point (IRP) Information
     Service (IS) Unified Modelling Language (UML) repertoire
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Ericsson Telefonaktiebolaget LM
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S5
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 7.0.1
+- content: 7.0.1
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

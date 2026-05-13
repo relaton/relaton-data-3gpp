@@ -1,7 +1,7 @@
 ---
-id: TS-28.304-REL-15-1.1.0
-type: standard
+id: 3GPPTS28304REL15110
 schema_version: v1.5.6
+type: standard
 title:
 - content: Control and monitoring of Power, Energy and Environmental (PEE) parameters
     Integration Reference Point (IRP); Requirements
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Orange
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S5
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 1.1.0
+- content: 1.1.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

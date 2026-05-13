@@ -1,7 +1,7 @@
 ---
-id: TS-24.229-REL-8-8.19.0
-type: standard
+id: 3GPPTS24229REL88190
 schema_version: v1.5.6
+type: standard
 title:
 - content: IP multimedia call control protocol based on Session Initiation Protocol
     (SIP) and Session Description Protocol (SDP); Stage 3
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Nokia Solutions and Networks GmbH & Co. KG
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C1
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 8.19.0
+- content: 8.19.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

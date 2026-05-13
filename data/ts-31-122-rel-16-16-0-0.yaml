@@ -1,7 +1,7 @@
 ---
-id: TS-31.122-REL-16-16.0.0
-type: standard
+id: 3GPPTS31122REL161600
 schema_version: v1.5.6
+type: standard
 title:
 - content: Universal Subscriber Identity Module (USIM) conformance test specification
   type: main
@@ -39,17 +39,27 @@ contributor:
       forename:
       - language: en
         script: Latn
-        content: Amandeep
+        content: Stanley
       surname:
         language: en
         script: Latn
-        content: Virk
+        content: Mayalil
     affiliation:
     - organization:
         name:
-        - content: Qualcomm Germany GmbH
+        - content: Apple AB, filial AF Apple Aktiebolag, Sverige
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C6
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 16.0.0
+- content: 16.0.0
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

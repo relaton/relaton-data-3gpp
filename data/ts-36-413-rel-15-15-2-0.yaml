@@ -1,7 +1,7 @@
 ---
-id: TS-36.413-REL-15-15.2.0
-type: standard
+id: 3GPPTS36413REL151520
 schema_version: v1.5.6
+type: standard
 title:
 - content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN); S1 Application
     Protocol (S1AP)
@@ -48,9 +48,19 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Nokia Shanghai Bell Co., Ltd
+        - content: Nokia Solutions (Shanghai) Co., Ltd.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R3
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 15.2.0
+- content: 15.2.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

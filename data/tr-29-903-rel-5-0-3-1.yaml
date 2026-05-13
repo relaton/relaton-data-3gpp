@@ -1,7 +1,7 @@
 ---
-id: TR-29.903-REL-5-0.3.1
-type: standard
+id: 3GPPTR29903REL5031
 schema_version: v1.5.6
+type: standard
 title:
 - content: Feasibility Study on SS7 signalling transport in the core network with
     SCCP-User Adaptation  (SUA) layer
@@ -43,8 +43,18 @@ contributor:
     - organization:
         name:
         - content: Waiting for new Company
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.3.1
+- content: 0.3.1
 language:
 - en
 script:
@@ -52,8 +62,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

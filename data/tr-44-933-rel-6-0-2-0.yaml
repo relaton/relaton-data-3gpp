@@ -1,7 +1,7 @@
 ---
-id: TR-44.933-REL-6-0.2.0
-type: standard
+id: 3GPPTR44933REL6020
 schema_version: v1.5.6
+type: standard
 title:
 - content: Seamless support of streaming services in GERAN A/Gb mode
   type: main
@@ -42,8 +42,18 @@ contributor:
     - organization:
         name:
         - content: Waiting for new Company
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: G2
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.2.0
+- content: 0.2.0
 language:
 - en
 script:
@@ -51,8 +61,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

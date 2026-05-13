@@ -1,7 +1,7 @@
 ---
-id: TR-25.922-REL-99-3.1.0
-type: standard
+id: 3GPPTR25922REL99310
 schema_version: v1.5.6
+type: standard
 title:
 - content: Radio resource management strategies
   type: main
@@ -48,8 +48,28 @@ contributor:
     - organization:
         name:
         - content: Telecom Italia S.p.A.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: RP
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R2
+      type: technical-committee
+      subtype: other
 version:
-- draft: 3.1.0
+- content: 3.1.0
 language:
 - en
 script:
@@ -57,8 +77,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

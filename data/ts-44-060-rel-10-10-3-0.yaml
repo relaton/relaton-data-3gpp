@@ -1,7 +1,7 @@
 ---
-id: TS-44.060-REL-10-10.3.0
-type: standard
+id: 3GPPTS44060REL101030
 schema_version: v1.5.6
+type: standard
 title:
 - content: General Packet Radio Service (GPRS); Mobile Station (MS) - Base Station
     System (BSS) interface; Radio Link Control / Medium Access Control (RLC/MAC) protocol
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: HOME OFFICE
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: RP
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 10.3.0
+- content: 10.3.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

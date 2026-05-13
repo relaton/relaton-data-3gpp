@@ -1,7 +1,7 @@
 ---
-id: TR-33.823-REL-11-1.1.0
-type: standard
+id: 3GPPTR33823REL11110
 schema_version: v1.5.6
+type: standard
 title:
 - content: Security for usage of Generic Bootstrapping Architecture (GBA) with a User
     Equipment (UE) browser
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Nokia Networks Oy
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S3
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 1.1.0
+- content: 1.1.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

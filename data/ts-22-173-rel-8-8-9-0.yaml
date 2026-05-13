@@ -1,7 +1,7 @@
 ---
-id: TS-22.173-REL-8-8.9.0
-type: standard
+id: 3GPPTS22173REL8890
 schema_version: v1.5.6
+type: standard
 title:
 - content: IP Multimedia Core Network Subsystem (IMS) Multimedia Telephony Service
     and supplementary services; Stage 1
@@ -40,17 +40,27 @@ contributor:
       forename:
       - language: en
         script: Latn
-        content: Joerg
+        content: Chunhui
       surname:
         language: en
         script: Latn
-        content: Swetina
+        content: Zhu
     affiliation:
     - organization:
         name:
-        - content: NEC Europe Ltd
+        - content: NEC Corporation (ARIB)
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S1
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 8.9.0
+- content: 8.9.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

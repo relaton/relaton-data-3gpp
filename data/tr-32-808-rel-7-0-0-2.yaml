@@ -1,7 +1,7 @@
 ---
-id: TR-32.808-REL-7-0.0.2
-type: standard
+id: 3GPPTR32808REL7002
 schema_version: v1.5.6
+type: standard
 title:
 - content: Telecommunication management; Study of Common Profile Storage (CPS) Framework
     of User Data for network services and management
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Huawei Technologies Sweden AB
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S5
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.0.2
+- content: 0.0.2
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

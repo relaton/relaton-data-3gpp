@@ -1,7 +1,7 @@
 ---
-id: TS-38.101-1-REL-17-17.2.0
-type: standard
+id: 3GPPTS381011REL171720
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'NR; User Equipment (UE) radio transmission and reception; Part 1: Range
     1 Standalone'
@@ -40,17 +40,27 @@ contributor:
       forename:
       - language: en
         script: Latn
-        content: Ville
+        content: Sumant
       surname:
         language: en
         script: Latn
-        content: Vintola
+        content: Iyer
     affiliation:
     - organization:
         name:
-        - content: Qualcomm UK Ltd
+        - content: Qualcomm Finland RFFE Oy
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 17.2.0
+- content: 17.2.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,7 +1,7 @@
 ---
-id: TR-21.04U-UMTS-1.0.0
-type: standard
+id: 3GPPTR2104UUMTS100
 schema_version: v1.5.6
+type: standard
 title:
 - content: Requirements for the support of data services in UMTS
   type: main
@@ -49,7 +49,7 @@ contributor:
         name:
         - content: TELEFONICA S.A.
 version:
-- draft: 1.0.0
+- content: 1.0.0
 language:
 - en
 script:
@@ -57,8 +57,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

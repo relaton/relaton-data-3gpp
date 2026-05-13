@@ -1,7 +1,7 @@
 ---
-id: TR-36.741-REL-14-0.1.0
-type: standard
+id: 3GPPTR36741REL14010
 schema_version: v1.5.6
+type: standard
 title:
 - content: Study on further enhancements to Coordinated Multi-Point (CoMP) operation
     for LTE
@@ -40,7 +40,7 @@ contributor:
       forename:
       - language: en
         script: Latn
-        content: Ruyue Yu-Ngok
+        content: Ruyue
       surname:
         language: en
         script: Latn
@@ -49,6 +49,16 @@ contributor:
     - organization:
         name:
         - content: ZTE Corporation
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R1
+      type: technical-committee
+      subtype: prime
 - role:
   - type: author
   person:
@@ -66,7 +76,7 @@ contributor:
         name:
         - content: Intel Corporation (UK) Ltd
 version:
-- draft: 0.1.0
+- content: 0.1.0
 language:
 - en
 script:
@@ -74,8 +84,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

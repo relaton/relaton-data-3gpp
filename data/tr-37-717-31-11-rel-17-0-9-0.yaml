@@ -1,7 +1,7 @@
 ---
-id: TR-37.717-31-11-REL-17-0.9.0
-type: standard
+id: 3GPPTR377173111REL17090
 schema_version: v1.5.6
+type: standard
 title:
 - content: Rel-17 Dual Connectivity (DC) of 3 bands LTE inter-band CA (3DL/1UL) and
     1 NR band (1DL/1UL)
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Ericsson Telefonaktiebolaget LM
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.9.0
+- content: 0.9.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

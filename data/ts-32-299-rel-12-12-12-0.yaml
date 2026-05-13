@@ -1,7 +1,7 @@
 ---
-id: TS-32.299-REL-12-12.12.0
-type: standard
+id: 3GPPTS32299REL1212120
 schema_version: v1.5.6
+type: standard
 title:
 - content: Telecommunication management; Charging management; Diameter charging applications
   type: main
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: Alcatel-Lucent International
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S5
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 12.12.0
+- content: 12.12.0
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

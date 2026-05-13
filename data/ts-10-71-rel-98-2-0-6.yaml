@@ -1,7 +1,7 @@
 ---
-id: TS-10.71-REL-98-2.0.6
-type: standard
+id: 3GPPTS1071REL98206
 schema_version: v1.5.6
+type: standard
 title:
 - content: Project scheduling and open issues:Location services (LCS)
   type: main
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: Nortel Networks (USA)
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S1
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 2.0.6
+- content: 2.0.6
 language:
 - en
 script:
@@ -106,8 +116,18 @@ relation:
         - organization:
             name:
             - content: Nortel Networks (USA)
+    - role:
+      - type: author
+        description:
+        - content: committee
+      organization:
+        subdivision:
+        - name:
+          - content: S1
+          type: technical-committee
+          subtype: prime
     version:
-    - draft: 2.0.6
+    - content: 2.0.6
     language:
     - en
     script:
@@ -115,13 +135,13 @@ relation:
     place:
     - city: Sophia Antipolis Cedex
       country:
-      - content: France
-        iso: FR
+      - iso: FR
+        content: France
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

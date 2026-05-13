@@ -1,7 +1,7 @@
 ---
-id: TS-09.08-REL-99-8.1.0
-type: standard
+id: 3GPPTS0908REL99810
 schema_version: v1.5.6
+type: standard
 title:
 - content: Application of the Base Station System Application Part (BSSAP) on the
     E-Interface
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: InterDigital, Europe, Ltd.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C1
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 8.1.0
+- content: 8.1.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

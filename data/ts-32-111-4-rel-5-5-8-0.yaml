@@ -1,7 +1,7 @@
 ---
-id: TS-32.111-4-REL-5-5.8.0
-type: standard
+id: 3GPPTS321114REL5580
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Telecommunication management; Fault Management; Part 4: Alarm Integration
     Reference Point (IRP): Common Management Information Protocol (CMIP) Solution
@@ -50,8 +50,18 @@ contributor:
     - organization:
         name:
         - content: Nokia Solutions and Networks GmbH & Co. KG
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S5
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 5.8.0
+- content: 5.8.0
 language:
 - en
 script:
@@ -59,8 +69,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

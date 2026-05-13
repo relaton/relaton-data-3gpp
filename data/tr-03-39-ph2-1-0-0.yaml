@@ -1,7 +1,7 @@
 ---
-id: TR-03.39-PH2-1.0.0
-type: standard
+id: 3GPPTR0339Ph2100
 schema_version: v1.5.6
+type: standard
 title:
 - content: Digital Cellular Telecommunications System (Phase 2) Interface Protocols
     for the Connection of Short Message Service Centers (SMSCs) to Short Message Entities
@@ -44,8 +44,18 @@ contributor:
     - organization:
         name:
         - content: Waiting for new Company
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: T2
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 1.0.0
+- content: 1.0.0
 language:
 - en
 script:
@@ -53,8 +63,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

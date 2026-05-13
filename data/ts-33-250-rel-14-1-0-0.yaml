@@ -1,7 +1,7 @@
 ---
-id: TS-33.250-REL-14-1.0.0
-type: standard
+id: 3GPPTS33250REL14100
 schema_version: v1.5.6
+type: standard
 title:
 - content: Security assurance specification for the PGW network product class
   type: main
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: China Mobile (Suzhou) Software Technology Co., Ltd.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S3
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 1.0.0
+- content: 1.0.0
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

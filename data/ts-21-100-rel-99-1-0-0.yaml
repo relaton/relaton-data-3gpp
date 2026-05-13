@@ -1,7 +1,7 @@
 ---
-id: TS-21.100-REL-99-1.0.0
-type: standard
+id: 3GPPTS21100REL99100
 schema_version: v1.5.6
+type: standard
 title:
 - content: 3G specification handling procedures
   type: main
@@ -49,7 +49,7 @@ contributor:
         name:
         - content: European Telecommunications Standards Institute
 version:
-- draft: 1.0.0
+- content: 1.0.0
 language:
 - en
 script:
@@ -57,8 +57,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

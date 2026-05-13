@@ -1,7 +1,7 @@
 ---
-id: TS-23.333-REL-17-17.1.0
-type: standard
+id: 3GPPTS23333REL171710
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Multimedia Resource Function Controller (MRFC) - Multimedia Resource Function
     Processor (MRFP) Mp interface: Procedures descriptions'
@@ -49,8 +49,28 @@ contributor:
     - organization:
         name:
         - content: Orange
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C4
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C1
+      type: technical-committee
+      subtype: other
 version:
-- draft: 17.1.0
+- content: 17.1.0
 language:
 - en
 script:
@@ -58,8 +78,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

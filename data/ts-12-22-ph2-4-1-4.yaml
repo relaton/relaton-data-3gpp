@@ -1,7 +1,7 @@
 ---
-id: TS-12.22-PH2-4.1.4
-type: standard
+id: 3GPPTS1222Ph2414
 schema_version: v1.5.6
+type: standard
 title:
 - content: Interworking of GSM Network Management (NM) Procedures and Messages at
     the Base Station Controller (BSC)
@@ -49,8 +49,28 @@ contributor:
     - organization:
         name:
         - content: T-Mobile USA Inc.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R6
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S5
+      type: technical-committee
+      subtype: other
 version:
-- draft: 4.1.4
+- content: 4.1.4
 language:
 - en
 script:
@@ -58,8 +78,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

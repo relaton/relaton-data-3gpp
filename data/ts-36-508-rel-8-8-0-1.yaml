@@ -1,7 +1,7 @@
 ---
-id: TS-36.508-REL-8-8.0.1
-type: standard
+id: 3GPPTS36508REL8801
 schema_version: v1.5.6
+type: standard
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Packet
     Core (EPC); Common test environments for User Equipment (UE) conformance testing
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Motorola Mobility Germany GmbH
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R5
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 8.0.1
+- content: 8.0.1
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

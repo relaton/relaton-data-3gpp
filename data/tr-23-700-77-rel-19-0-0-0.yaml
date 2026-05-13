@@ -1,7 +1,7 @@
 ---
-id: TR-23.700-77-REL-19-0.0.0
-type: standard
+id: 3GPPTR2370077REL19000
 schema_version: v1.5.6
+type: standard
 title:
 - content: Study on system architecture for next generation real time communication
     services; Phase 2
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: China Mobile Communications Corporation (CMCC)
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S2
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.0.0
+- content: 0.0.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

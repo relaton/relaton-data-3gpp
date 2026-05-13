@@ -1,7 +1,7 @@
 ---
-id: TS-37.579-6-REL-17-0.1.0
-type: standard
+id: 3GPPTS375796REL17010
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Mission Critical (MC) services; Part 6: Mission Critical Video (MCVideo)
     User Equipment (UE) Protocol conformance specification'
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Ericsson Telefonaktiebolaget LM
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R5
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.1.0
+- content: 0.1.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,7 +1,7 @@
 ---
-id: TS-48.058-REL-5-5.4.0
-type: standard
+id: 3GPPTS48058REL5540
 schema_version: v1.5.6
+type: standard
 title:
 - content: Base Station Controller - Base Transceiver Station  (BSC - BTS) Interface;
     Layer 3 specification
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Anemone Technology
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: RP
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 5.4.0
+- content: 5.4.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

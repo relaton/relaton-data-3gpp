@@ -1,7 +1,7 @@
 ---
-id: TS-29.005-REL-99-3.0.0
-type: standard
+id: 3GPPTS29005REL99300
 schema_version: v1.5.6
+type: standard
 title:
 - content: Interworking between the Public Land Mobile Network (PLMN) and the Packet
     Switched Public Data Network (PSPDN) for Packet Assembly/Disassembly (PAD) facility
@@ -50,8 +50,18 @@ contributor:
     - organization:
         name:
         - content: European Telecommunications Standards Institute
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: N3
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 3.0.0
+- content: 3.0.0
 language:
 - en
 script:
@@ -59,8 +69,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

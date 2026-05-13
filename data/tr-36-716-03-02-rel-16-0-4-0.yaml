@@ -1,7 +1,7 @@
 ---
-id: TR-36.716-03-02-REL-16-0.4.0
-type: standard
+id: 3GPPTR367160302REL16040
 schema_version: v1.5.6
+type: standard
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced inter-band
     Carrier Aggregation (CA) Rel-16 for x bands Down Link (DL) (x = 3, 4, 5) / 2 band
@@ -50,8 +50,18 @@ contributor:
     - organization:
         name:
         - content: LG Electronics Inc.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.4.0
+- content: 0.4.0
 language:
 - en
 script:
@@ -59,8 +69,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

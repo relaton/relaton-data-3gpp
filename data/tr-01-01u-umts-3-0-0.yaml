@@ -1,7 +1,7 @@
 ---
-id: TR-01.01U-UMTS-3.0.0
-type: standard
+id: 3GPPTR0101UUMTS300
 schema_version: v1.5.6
+type: standard
 title:
 - content: Universal Mobile Telecommunications System (UMTS); Objectives and overview
   type: main
@@ -26,8 +26,18 @@ contributor:
     - content: 3rd Generation Partnership Project
     abbreviation:
       content: 3GPP
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: SP
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 3.0.0
+- content: 3.0.0
 language:
 - en
 script:
@@ -35,8 +45,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

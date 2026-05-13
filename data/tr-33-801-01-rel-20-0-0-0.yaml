@@ -1,0 +1,101 @@
+---
+id: 3GPPTR3380101REL20000
+schema_version: v1.5.6
+type: standard
+title:
+- content: Study on Security for the 6G system
+  type: main
+source:
+- type: src
+  content: https://ftp.3gpp.org//Specs/archive/33_series/33.801-01/33801-01-000.zip
+docidentifier:
+- content: 3GPP TR 33.801-01:REL-20/0.0.0
+  type: 3GPP
+  primary: true
+docnumber: TR 33.801-01:REL-20/0.0.0
+date:
+- type: published
+  at: '2025-10-06'
+contributor:
+- role:
+  - type: author
+  - type: publisher
+  organization:
+    address:
+    - street:
+      - c/o ETSI 650, route des Lucioles
+      - 3GPP Mobile Competence Centre
+      city: Sophia Antipolis Cedex
+      country: France
+      postcode: '06921'
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Suresh
+      surname:
+        language: en
+        script: Latn
+        content: Nair
+    affiliation:
+    - organization:
+        name:
+        - content: Nokia Solutions and Networks GmbH & Co. KG
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S3
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Todor
+      surname:
+        language: en
+        script: Latn
+        content: Gamishev
+    affiliation:
+    - organization:
+        name:
+        - content: Orange
+version:
+- content: 0.0.0
+language:
+- en
+script:
+- Latn
+place:
+- city: Sophia Antipolis Cedex
+  country:
+  - iso: FR
+    content: France
+ext:
+  schema_version: v1.0.4
+  doctype:
+    content: TR
+  flavor: 3gpp
+  radiotechnology: 5G
+  release:
+    wpm_code_2g: GSM_Release_20
+    wpm_code_3g: 3G4G5G_Rel-20
+    freeze_stage1_meeting: SA#108
+    freeze_stage2_meeting: SA#113
+    freeze_stage3_meeting: SA#115
+    project_start: '2024-03-14'
+    project_end: '2027-06-18'

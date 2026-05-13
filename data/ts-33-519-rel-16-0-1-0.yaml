@@ -1,7 +1,7 @@
 ---
-id: TS-33.519-REL-16-0.1.0
-type: standard
+id: 3GPPTS33519REL16010
 schema_version: v1.5.6
+type: standard
 title:
 - content: 5G Security Assurance Specification (SCAS) for the Network Exposure Function
     (NEF) network product class
@@ -40,17 +40,27 @@ contributor:
       forename:
       - language: en
         script: Latn
-        content: Jin
+        content: Leyi
       surname:
         language: en
         script: Latn
-        content: PENG
+        content: Zhang
     affiliation:
     - organization:
         name:
-        - content: ZTE Corporation
+        - content: ZTE FRANCE SASU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S3
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.1.0
+- content: 0.1.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

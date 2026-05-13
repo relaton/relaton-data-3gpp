@@ -1,7 +1,7 @@
 ---
-id: TS-13.21-REL-99-8.1.1
-type: standard
+id: 3GPPTS1321REL99811
 schema_version: v1.5.6
+type: standard
 title:
 - content: Base station systems and repeater equipment covering essential requirements
     under article 3.2 of the R&TTE directive
@@ -43,8 +43,28 @@ contributor:
     - organization:
         name:
         - content: Ericsson Telefonaktiebolaget LM
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R6
+      type: technical-committee
+      subtype: other
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R6
+      type: technical-committee
+      subtype: other
 version:
-- draft: 8.1.1
+- content: 8.1.1
 language:
 - en
 script:
@@ -52,8 +72,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

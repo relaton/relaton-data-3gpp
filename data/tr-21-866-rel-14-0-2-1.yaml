@@ -1,7 +1,7 @@
 ---
-id: TR-21.866-REL-14-0.2.1
-type: standard
+id: 3GPPTR21866REL14021
 schema_version: v1.5.6
+type: standard
 title:
 - content: Study on Energy Efficiency Aspects of 3GPP Standards
   type: main
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: Orange
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: SP
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.2.1
+- content: 0.2.1
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

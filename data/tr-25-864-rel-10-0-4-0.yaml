@@ -1,7 +1,7 @@
 ---
-id: TR-25.864-REL-10-0.4.0
-type: standard
+id: 3GPPTR25864REL10040
 schema_version: v1.5.6
+type: standard
 title:
 - content: Downlink configurations for Four-carrier High Speed Download Packet Access
     (4C-HSDPA)
@@ -43,8 +43,18 @@ contributor:
     - organization:
         name:
         - content: Flarion Technologies
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.4.0
+- content: 0.4.0
 language:
 - en
 script:
@@ -52,8 +62,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

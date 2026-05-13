@@ -1,7 +1,7 @@
 ---
-id: TR-38.811-REL-15-0.4.0
-type: standard
+id: 3GPPTR38811REL15040
 schema_version: v1.5.6
+type: standard
 title:
 - content: Study on New Radio (NR) to support non-terrestrial networks
   type: main
@@ -50,6 +50,26 @@ contributor:
         - content: THALES
 - role:
   - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: RP
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R1
+      type: technical-committee
+      subtype: other
+- role:
+  - type: author
   person:
     name:
       forename:
@@ -65,7 +85,7 @@ contributor:
         name:
         - content: Boost Mobile Network
 version:
-- draft: 0.4.0
+- content: 0.4.0
 language:
 - en
 script:
@@ -73,8 +93,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

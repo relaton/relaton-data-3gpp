@@ -1,7 +1,7 @@
 ---
-id: TR-37.716-11-11-REL-16-0.0.0
-type: standard
+id: 3GPPTR377161111REL16000
 schema_version: v1.5.6
+type: standard
 title:
 - content: E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity
     (EN-DC) of 1 band  LTE (1 Down Link (DL) / 1 Up Link (UL)) and 1 NR band (1 DL
@@ -50,8 +50,18 @@ contributor:
     - organization:
         name:
         - content: NTT DOCOMO INC.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.0.0
+- content: 0.0.0
 language:
 - en
 script:
@@ -59,8 +69,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

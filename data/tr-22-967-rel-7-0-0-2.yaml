@@ -1,7 +1,7 @@
 ---
-id: TR-22.967-REL-7-0.0.2
-type: standard
+id: 3GPPTR22967REL7002
 schema_version: v1.5.6
+type: standard
 title:
 - content: Transferring of emergency call data
   type: main
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: Samsung R&D Institute UK
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S1
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.0.2
+- content: 0.0.2
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

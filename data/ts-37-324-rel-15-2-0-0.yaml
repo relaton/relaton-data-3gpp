@@ -1,7 +1,7 @@
 ---
-id: TS-37.324-REL-15-2.0.0
-type: standard
+id: 3GPPTS37324REL15200
 schema_version: v1.5.6
+type: standard
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA) and NR; Service Data
     Adaptation Protocol (SDAP) specification
@@ -43,8 +43,18 @@ contributor:
     - organization:
         name:
         - content: Futurewei Technologies Inc.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R2
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 2.0.0
+- content: 2.0.0
 language:
 - en
 script:
@@ -52,8 +62,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

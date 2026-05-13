@@ -1,7 +1,7 @@
 ---
-id: TR-23.738-REL-16-0.0.0
-type: standard
+id: 3GPPTR23738REL16000
 schema_version: v1.5.6
+type: standard
 title:
 - content: Study on supporting Flexible Local Area Data Network
   type: main
@@ -42,8 +42,18 @@ contributor:
     - organization:
         name:
         - content: LG Electronics Inc.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S2
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.0.0
+- content: 0.0.0
 language:
 - en
 script:
@@ -51,8 +61,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

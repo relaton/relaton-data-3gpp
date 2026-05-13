@@ -1,7 +1,7 @@
 ---
-id: TS-31.102-REL-7-7.12.0
-type: standard
+id: 3GPPTS31102REL77120
 schema_version: v1.5.6
+type: standard
 title:
 - content: Characteristics of the Universal Subscriber Identity Module (USIM) application
   type: main
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: Giesecke+Devrient Mobile Security Germany GmbH
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C6
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 7.12.0
+- content: 7.12.0
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,7 +1,7 @@
 ---
-id: TS-32.255-REL-17-17.13.0
-type: standard
+id: 3GPPTS32255REL1717130
 schema_version: v1.5.6
+type: standard
 title:
 - content: Telecommunication management; Charging management; 5G data connectivity
     domain charging; Stage 2
@@ -48,9 +48,19 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Nokia Networks France
+        - content: MATRIXX Software, Inc.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S5
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 17.13.0
+- content: 17.13.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

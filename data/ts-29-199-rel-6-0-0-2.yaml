@@ -1,7 +1,7 @@
 ---
-id: TS-29.199-REL-6-0.0.2
-type: standard
+id: 3GPPTS29199REL6002
 schema_version: v1.5.6
+type: standard
 title:
 - content: Open Service Access (OSA); Web Services Application Programming Interface
     (API)  for OSA; Parlay X services
@@ -43,8 +43,18 @@ contributor:
     - organization:
         name:
         - content: Ericsson Telefonaktiebolaget LM
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: N5
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.0.2
+- content: 0.0.2
 language:
 - en
 script:
@@ -52,8 +62,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

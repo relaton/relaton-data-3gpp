@@ -1,7 +1,7 @@
 ---
-id: TR-22.874-REL-18-2.0.0
-type: standard
+id: 3GPPTR22874REL18200
 schema_version: v1.5.6
+type: standard
 title:
 - content: 5G System (5GS); Study on traffic characteristics and performance requirements
     for AI/ML model transfer
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Guangdong OPPO Mobile Telecommunications Corp., Ltd
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S1
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 2.0.0
+- content: 2.0.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,7 +1,7 @@
 ---
-id: TR-36.905-REL-18-18.5.0
-type: standard
+id: 3GPPTR36905REL181850
 schema_version: v1.5.6
+type: standard
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Universal
     Terrestrial Radio Access Network (E-UTRAN); Derivation of test points for radio
@@ -50,8 +50,18 @@ contributor:
     - organization:
         name:
         - content: Ericsson Telefonaktiebolaget LM
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R5
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 18.5.0
+- content: 18.5.0
 language:
 - en
 script:
@@ -59,8 +69,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

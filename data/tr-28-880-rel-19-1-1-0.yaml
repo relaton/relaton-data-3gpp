@@ -1,7 +1,7 @@
 ---
-id: TR-28.880-REL-19-1.1.0
-type: standard
+id: 3GPPTR28880REL19110
 schema_version: v1.5.6
+type: standard
 title:
 - content: Study on energy efficiency and energy saving aspects of 5G networks and
     services
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Samsung R&D Institute UK
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S5
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 1.1.0
+- content: 1.1.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

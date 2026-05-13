@@ -1,7 +1,7 @@
 ---
-id: TS-24.327-REL-10-10.1.0
-type: standard
+id: 3GPPTS24327REL101010
 schema_version: v1.5.6
+type: standard
 title:
 - content: Mobility between 3GPP Wireless Local Area Network (WLAN) interworking (I-WLAN)
     and 3GPP systems; General Packet Radio System (GPRS) and 3GPP I-WLAN aspects;
@@ -50,8 +50,18 @@ contributor:
     - organization:
         name:
         - content: Orange
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C1
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 10.1.0
+- content: 10.1.0
 language:
 - en
 script:
@@ -59,8 +69,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

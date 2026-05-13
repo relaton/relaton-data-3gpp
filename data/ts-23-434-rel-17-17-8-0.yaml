@@ -1,7 +1,7 @@
 ---
-id: TS-23.434-REL-17-17.8.0
-type: standard
+id: 3GPPTS23434REL171780
 schema_version: v1.5.6
+type: standard
 title:
 - content: Service Enabler Architecture Layer for Verticals (SEAL); Functional architecture
     and information flows
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Samsung R&D Institute UK
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S6
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 17.8.0
+- content: 17.8.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

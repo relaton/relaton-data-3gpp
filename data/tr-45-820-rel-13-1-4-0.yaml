@@ -1,7 +1,7 @@
 ---
-id: TR-45.820-REL-13-1.4.0
-type: standard
+id: 3GPPTR45820REL13140
 schema_version: v1.5.6
+type: standard
 title:
 - content: Cellular system support for ultra-low complexity and low throughput Internet
     of Things (CIoT)
@@ -49,8 +49,28 @@ contributor:
     - organization:
         name:
         - content: Vodafone Group Plc
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: RP
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: RP
+      type: technical-committee
+      subtype: other
 version:
-- draft: 1.4.0
+- content: 1.4.0
 language:
 - en
 script:
@@ -58,8 +78,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,7 +1,7 @@
 ---
-id: TS-29.119-REL-8-8.0.0
-type: standard
+id: 3GPPTS29119REL8800
 schema_version: v1.5.6
+type: standard
 title:
 - content: GPRS Tunnelling Protocol (GTP) specification for Gateway Location Register
     (GLR)
@@ -48,9 +48,19 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Fujitsu Limited..
+        - content: 1FINITY Inc.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: C4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 8.0.0
+- content: 8.0.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,7 +1,7 @@
 ---
-id: TR-36.932-REL-15-15.0.0
-type: standard
+id: 3GPPTR36932REL151500
 schema_version: v1.5.6
+type: standard
 title:
 - content: Scenarios and requirements for small cell enhancements for E-UTRA and E-UTRAN
   type: main
@@ -49,8 +49,18 @@ contributor:
         name:
         - content: China Academy of Telecommunication Technology - (Datang Telecom
             Technology and Industry Group)
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: RP
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 15.0.0
+- content: 15.0.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

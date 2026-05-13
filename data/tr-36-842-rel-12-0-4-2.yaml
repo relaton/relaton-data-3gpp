@@ -1,7 +1,7 @@
 ---
-id: TR-36.842-REL-12-0.4.2
-type: standard
+id: 3GPPTR36842REL12042
 schema_version: v1.5.6
+type: standard
 title:
 - content: Study on Small Cell enhancements for E-UTRA and E-UTRAN; Higher layer aspects
   type: main
@@ -48,8 +48,18 @@ contributor:
     - organization:
         name:
         - content: DOCOMO Communications Laboratories Europe GmbH
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R2
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.4.2
+- content: 0.4.2
 language:
 - en
 script:
@@ -57,8 +67,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

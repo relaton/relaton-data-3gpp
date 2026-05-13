@@ -1,7 +1,7 @@
 ---
-id: TS-26.347-REL-14-14.2.0
-type: standard
+id: 3GPPTS26347REL141420
 schema_version: v1.5.6
+type: standard
 title:
 - content: Multimedia Broadcast/Multicast Service (MBMS); Application Programming
     Interface and URL
@@ -51,6 +51,16 @@ contributor:
         - content: Qualcomm Germany GmbH
 - role:
   - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S4
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
   person:
     name:
       forename:
@@ -64,9 +74,9 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Samsung Telecommunications America
+        - content: Qualcomm Incorporated
 version:
-- draft: 14.2.0
+- content: 14.2.0
 language:
 - en
 script:
@@ -74,8 +84,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

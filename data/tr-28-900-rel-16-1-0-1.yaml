@@ -1,7 +1,7 @@
 ---
-id: TR-28.900-REL-16-1.0.1
-type: standard
+id: 3GPPTR28900REL16101
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Telecommunications management; Study on integration of Open Network Automation
     Platform (ONAP) ata Collection, Analytics and Events (DCAE) and 3GPP reference
@@ -52,6 +52,16 @@ contributor:
         - content: AT&T Global Network Services Belgium SPRL
 - role:
   - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S5
+      type: technical-committee
+      subtype: prime
+- role:
+  - type: author
   person:
     name:
       forename:
@@ -67,7 +77,7 @@ contributor:
         name:
         - content: Orange
 version:
-- draft: 1.0.1
+- content: 1.0.1
 language:
 - en
 script:
@@ -75,8 +85,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

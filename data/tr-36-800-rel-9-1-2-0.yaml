@@ -1,7 +1,7 @@
 ---
-id: TR-36.800-REL-9-1.2.0
-type: standard
+id: 3GPPTR36800REL9120
 schema_version: v1.5.6
+type: standard
 title:
 - content: Universal Terrestrial Radio Access (UTRA) and Evolved Universal Terrestrial
     Radio Access (E-UTRA); Extended UMTS / LTE 800 Work Item Technical Report
@@ -43,8 +43,18 @@ contributor:
     - organization:
         name:
         - content: NTT DOCOMO INC.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 1.2.0
+- content: 1.2.0
 language:
 - en
 script:
@@ -52,8 +62,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

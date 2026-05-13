@@ -1,7 +1,7 @@
 ---
-id: TR-26.843-REL-15-0.0.4
-type: standard
+id: 3GPPTR26843REL15004
 schema_version: v1.5.6
+type: standard
 title:
 - content: Codec for Enhanced Voice Services (EVS); Study on non-bit-exact conformance
     criteria and tools for floating-point EVS codec
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Intel Deutschland GmbH
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 0.0.4
+- content: 0.0.4
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

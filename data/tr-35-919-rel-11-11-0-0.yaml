@@ -1,7 +1,7 @@
 ---
-id: TR-35.919-REL-11-11.0.0
-type: standard
+id: 3GPPTR35919REL111100
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Specification of the 3GPP Confidentiality and Integrity Algorithms UEA2
     & UIA2; Document 5: Design and evaluation report'
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Ericsson Telefonaktiebolaget LM
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S3
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 11.0.0
+- content: 11.0.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

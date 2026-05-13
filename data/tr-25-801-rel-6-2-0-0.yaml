@@ -1,7 +1,7 @@
 ---
-id: TR-25.801-REL-6-2.0.0
-type: standard
+id: 3GPPTR25801REL6200
 schema_version: v1.5.6
+type: standard
 title:
 - content: Feasibility study for improved access to User Equipment (UE) measurement
     data for Controlling Radio Network Controller (CRNC) to support Time Division
@@ -50,8 +50,18 @@ contributor:
     - organization:
         name:
         - content: Interdigital Asia LLC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: R3
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 2.0.0
+- content: 2.0.0
 language:
 - en
 script:
@@ -59,8 +69,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

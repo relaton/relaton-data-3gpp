@@ -1,7 +1,7 @@
 ---
-id: TR-22.823-REL-16-1.1.0
-type: standard
+id: 3GPPTR22823REL16110
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Study on enhancements to IMS for new real time communication services '
   type: main
@@ -42,8 +42,18 @@ contributor:
     - organization:
         name:
         - content: China Mobile Research Institute
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S1
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 1.1.0
+- content: 1.1.0
 language:
 - en
 script:
@@ -51,8 +61,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

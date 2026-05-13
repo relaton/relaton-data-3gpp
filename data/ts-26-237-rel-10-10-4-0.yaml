@@ -1,7 +1,7 @@
 ---
-id: TS-26.237-REL-10-10.4.0
-type: standard
+id: 3GPPTS26237REL101040
 schema_version: v1.5.6
+type: standard
 title:
 - content: IP Multimedia Subsystem (IMS) based Packet Switch Streaming (PSS) and Multimedia
     Broadcast/Multicast Service (MBMS) User Service; Protocols
@@ -49,8 +49,18 @@ contributor:
     - organization:
         name:
         - content: Ericsson Telefonaktiebolaget LM
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S4
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 10.4.0
+- content: 10.4.0
 language:
 - en
 script:
@@ -58,8 +68,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

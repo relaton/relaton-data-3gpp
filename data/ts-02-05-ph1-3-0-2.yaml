@@ -1,7 +1,7 @@
 ---
-id: TS-02.05-PH1-3.0.2
-type: standard
+id: 3GPPTS0205Ph1302
 schema_version: v1.5.6
+type: standard
 title:
 - content: Simultaneous and Alternate Use of Services
   type: main
@@ -33,7 +33,7 @@ contributor:
     abbreviation:
       content: 3GPP
 version:
-- draft: 3.0.2
+- content: 3.0.2
 language:
 - en
 script:
@@ -41,8 +41,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:

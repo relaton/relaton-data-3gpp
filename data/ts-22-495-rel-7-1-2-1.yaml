@@ -1,7 +1,7 @@
 ---
-id: TS-22.495-REL-7-1.2.1
-type: standard
+id: 3GPPTS22495REL7121
 schema_version: v1.5.6
+type: standard
 title:
 - content: TISPAN;Services and Capabilities Requirements
   type: main
@@ -42,8 +42,18 @@ contributor:
     - organization:
         name:
         - content: NEC Europe Ltd
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    subdivision:
+    - name:
+      - content: S1
+      type: technical-committee
+      subtype: prime
 version:
-- draft: 1.2.1
+- content: 1.2.1
 language:
 - en
 script:
@@ -51,8 +61,8 @@ script:
 place:
 - city: Sophia Antipolis Cedex
   country:
-  - content: France
-    iso: FR
+  - iso: FR
+    content: France
 ext:
   schema_version: v1.0.4
   doctype:
