@@ -43,11 +43,11 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Goermer
+        content: Görmer
     affiliation:
     - organization:
         name:
-        - content: Nokia Networks Oy
+        - content: MATRIXX Software, Inc.
 - role:
   - type: author
     description:

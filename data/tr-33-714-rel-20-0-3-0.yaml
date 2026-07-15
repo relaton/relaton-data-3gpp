@@ -3,7 +3,8 @@ id: TR33714REL20030
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on security aspects of ambient IoT services phase 2
+- content: Study on security aspect of support for ambient power-enabled internet
+    of things phase 2
   type: main
 source:
 - type: src

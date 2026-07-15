@@ -5,11 +5,17 @@ type: standard
 title:
 - content: Test platform for media delivery technologies
   type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/26_series/26.934/26934-011.zip
 docidentifier:
 - content: 3GPP TR 26.934:REL-20/0.1.1
   type: 3GPP
   primary: true
 docnumber: TR 26.934:REL-20/0.1.1
+date:
+- type: published
+  at: '2026-07-07'
 contributor:
 - role:
   - type: author

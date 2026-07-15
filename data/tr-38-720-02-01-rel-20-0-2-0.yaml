@@ -6,11 +6,17 @@ title:
 - content: Rel-20 NR inter-band CA/DC configurations including inter band CA for 2
     different bands DL with up to 2 different bands UL
   type: main
+source:
+- type: src
+  content: https://ftp.3gpp.org//Specs/archive/38_series/38.720-02-01/38720-02-01-020.zip
 docidentifier:
 - content: 3GPP TR 38.720-02-01:REL-20/0.2.0
   type: 3GPP
   primary: true
 docnumber: TR 38.720-02-01:REL-20/0.2.0
+date:
+- type: published
+  at: '2026-04-26'
 contributor:
 - role:
   - type: author

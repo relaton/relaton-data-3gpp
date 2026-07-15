@@ -3,7 +3,8 @@ id: TR33778REL20000
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on providing PSK for MPQUIC/TLS
+- content: Study on providing Pre-Shared Key(PSK) for  Multipath Extension for QUIC
+    (MPQUIC) /Transport Layer Security (TLS)
   type: main
 source:
 - type: src

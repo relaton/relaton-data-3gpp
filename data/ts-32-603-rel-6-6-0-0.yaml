@@ -41,11 +41,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        content: Thomas
+        content: Mark
       surname:
         language: en
         script: Latn
-        content: Tovinger
+        content: Scott
     affiliation:
     - organization:
         name:

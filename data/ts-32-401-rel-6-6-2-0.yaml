@@ -39,11 +39,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        content: Bagher
+        content: Qiang
       surname:
         language: en
         script: Latn
-        content: Zadeh
+        content: Zu
     affiliation:
     - organization:
         name:

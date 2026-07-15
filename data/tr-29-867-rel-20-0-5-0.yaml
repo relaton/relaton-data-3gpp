@@ -39,15 +39,15 @@ contributor:
       forename:
       - language: en
         script: Latn
-        content: Kenichi
+        content: Dongyang
       surname:
         language: en
         script: Latn
-        content: Yamamoto
+        content: Mei
     affiliation:
     - organization:
         name:
-        - content: KDDI Corporation
+        - content: China Telecommunications Corporation
 - role:
   - type: author
     description:

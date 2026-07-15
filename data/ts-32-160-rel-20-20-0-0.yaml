@@ -39,11 +39,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        content: Jan
+        content: Mark
       surname:
         language: en
         script: Latn
-        content: Groenendijk
+        content: Scott
     affiliation:
     - organization:
         name:

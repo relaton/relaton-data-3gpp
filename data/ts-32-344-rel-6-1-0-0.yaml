@@ -40,11 +40,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        content: Clemens
+        content: Olaf
       surname:
         language: en
         script: Latn
-        content: Suerbaum
+        content: Pollakowski
     affiliation:
     - organization:
         name:

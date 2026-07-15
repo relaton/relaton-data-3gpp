@@ -39,11 +39,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        content: guangjing
+        content: Guangjing
       surname:
         language: en
         script: Latn
-        content: cao
+        content: Cao
     affiliation:
     - organization:
         name:

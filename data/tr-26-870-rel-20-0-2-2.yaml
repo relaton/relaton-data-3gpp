@@ -7,7 +7,7 @@ title:
   type: main
 source:
 - type: src
-  content: https://ftp.3gpp.org//Specs/archive/26_series/26.870/26870-022.zip
+  content: https://www.3gpp.org/ftp/Specs/archive/26_series/26.870/26870-022.zip
 docidentifier:
 - content: 3GPP TR 26.870:REL-20/0.2.2
   type: 3GPP
@@ -15,7 +15,7 @@ docidentifier:
 docnumber: TR 26.870:REL-20/0.2.2
 date:
 - type: published
-  at: '2026-04-02'
+  at: '2026-04-18'
 contributor:
 - role:
   - type: author

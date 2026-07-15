@@ -41,15 +41,15 @@ contributor:
       forename:
       - language: en
         script: Latn
-        content: Christian
+        content: Lan
       surname:
         language: en
         script: Latn
-        content: Toche
+        content: Zou
     affiliation:
     - organization:
         name:
-        - content: Huawei Technologies France
+        - content: Huawei Technologies (UK) Co., Ltd.
 - role:
   - type: author
     description:

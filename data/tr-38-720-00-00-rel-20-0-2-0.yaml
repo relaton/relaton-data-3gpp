@@ -5,11 +5,17 @@ type: standard
 title:
 - content: Rel-20 SUL configurations and CA band combinations with SUL(s)
   type: main
+source:
+- type: src
+  content: https://ftp.3gpp.org//Specs/archive/38_series/38.720-00-00/38720-00-00-020.zip
 docidentifier:
 - content: 3GPP TR 38.720-00-00:REL-20/0.2.0
   type: 3GPP
   primary: true
 docnumber: TR 38.720-00-00:REL-20/0.2.0
+date:
+- type: published
+  at: '2026-04-26'
 contributor:
 - role:
   - type: author

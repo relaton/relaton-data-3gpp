@@ -40,15 +40,15 @@ contributor:
       forename:
       - language: en
         script: Latn
-        content: Maryse
+        content: João
       surname:
         language: en
         script: Latn
-        content: Gardella
+        content: Rodrigues
     affiliation:
     - organization:
         name:
-        - content: Alcatel-Lucent International
+        - content: Nokia
 - role:
   - type: author
     description:

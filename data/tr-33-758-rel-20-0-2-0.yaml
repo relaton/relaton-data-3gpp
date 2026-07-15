@@ -3,7 +3,7 @@ id: TR33758REL20020
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on security for PLMN hosting a NPN phase2
+- content: Study on security for a PLMN hosting a Non-Public Network (NPN) phase 2
   type: main
 source:
 - type: src

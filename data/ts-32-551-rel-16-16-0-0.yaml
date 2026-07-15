@@ -40,11 +40,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        content: Yizhi
+        content: Olaf
       surname:
         language: en
         script: Latn
-        content: Yao
+        content: Pollakowski
     affiliation:
     - organization:
         name:

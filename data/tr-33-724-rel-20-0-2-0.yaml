@@ -3,7 +3,8 @@ id: TR33724REL20020
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on security aspects of WAB nodes for NR
+- content: Study on security aspects of Wireless Access Backhaul (WAB) nodes for Next
+    Radio (NR)
   type: main
 source:
 - type: src

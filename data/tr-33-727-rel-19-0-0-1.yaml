@@ -3,7 +3,7 @@ id: TR33727REL19001
 schema_version: v1.5.6
 type: standard
 title:
-- content: Lawful Intercept Handling  of Protected Services
+- content: Lawful Interception Handling of Protected Services
   type: main
 source:
 - type: src

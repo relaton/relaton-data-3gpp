@@ -40,15 +40,15 @@ contributor:
       forename:
       - language: en
         script: Latn
-        content: Du
+        content: Yuanyuan
       surname:
         language: en
         script: Latn
-        content: Zhongda
+        content: Zhang
     affiliation:
     - organization:
         name:
-        - content: Hangzhou Mengyuxiang Network Technology Corp., Ltd.
+        - content: MediaTek Incorporated
 - role:
   - type: author
     description:
@@ -66,22 +66,6 @@ contributor:
       forename:
       - language: en
         script: Latn
-        content: Yuanyuan
-      surname:
-        language: en
-        script: Latn
-        content: Zhang
-    affiliation:
-    - organization:
-        name:
-        - content: MediaTek Incorporated
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
         content: Dimitri
       surname:
         language: en
@@ -91,6 +75,22 @@ contributor:
     - organization:
         name:
         - content: Nokia Solutions and Networks GmbH & Co. KG
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Zhongda
+      surname:
+        language: en
+        script: Latn
+        content: Du
+    affiliation:
+    - organization:
+        name:
+        - content: Hangzhou Mengyuxiang Network Technology Corp., Ltd.
 version:
 - content: 19.0.1
 language:

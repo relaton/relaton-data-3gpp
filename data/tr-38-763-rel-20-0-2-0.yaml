@@ -5,11 +5,17 @@ type: standard
 title:
 - content: OTA test methods for NR NTN above 10GHz
   type: main
+source:
+- type: src
+  content: https://ftp.3gpp.org//Specs/archive/38_series/38.763/38763-020.zip
 docidentifier:
 - content: 3GPP TR 38.763:REL-20/0.2.0
   type: 3GPP
   primary: true
 docnumber: TR 38.763:REL-20/0.2.0
+date:
+- type: published
+  at: '2026-04-26'
 contributor:
 - role:
   - type: author

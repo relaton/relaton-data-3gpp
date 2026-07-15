@@ -3,7 +3,8 @@ id: TR33786REL20030
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on AIMLE service security
+- content: Study on Artificial Intelligence Machine Learning (AIML) enablement service
+    security
   type: main
 source:
 - type: src

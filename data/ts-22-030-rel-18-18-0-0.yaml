@@ -39,15 +39,15 @@ contributor:
       forename:
       - language: en
         script: Latn
-        content: Jan
+        content: Laurent Walter
       surname:
         language: en
         script: Latn
-        content: Ignatius
+        content: Goix
     affiliation:
     - organization:
         name:
-        - content: Nokia Solutions and Networks GmbH & Co. KG
+        - content: Nokia Networks France
 - role:
   - type: author
     description:
