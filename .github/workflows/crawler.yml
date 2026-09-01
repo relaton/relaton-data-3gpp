@@ -1,22 +1,24 @@
 name: Crawler
 
 on:
-  push:
-    branches: [ master, main ]
-    tags: [ v* ]
-  pull_request:
   schedule:
   - cron: '0 14 * * 1,3,5'
   workflow_dispatch:
     inputs:
       force:
-        description: To reload all the document select "force"
+        description: Wipe data/ and rebuild every document from scratch
         required: false
         default: false
         type: boolean
 
 jobs:
   crawl:
+    # A called workflow can only downgrade its caller's permissions, so the
+    # grant has to be here: without it the crawl succeeds and then cannot push.
+    permissions:
+      contents: write
     uses: relaton/support/.github/workflows/crawler.yml@main
     with:
+      # A boolean input arrives as the string "true"/"false", and on a
+      # schedule run `github.event.inputs` is null, which yields "".
       args: ${{ github.event.inputs.force == 'true' && 'force' || '' }}

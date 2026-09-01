@@ -1,10 +1,11 @@
 # Known issues in the generated dataset
 
 This repository contains only *generated* data. Every issue below originates in
-the generator, [`relaton/relaton-3gpp`](https://github.com/relaton/relaton-3gpp),
-and cannot be fixed by editing `data/` — a hand-edit would be overwritten by the
-next crawler run. Each issue self-heals once a fixed gem is released and the
-crawler is re-run with the `force` input (see [CLAUDE.md](../CLAUDE.md)).
+the generator, [`relaton/relaton`](https://github.com/relaton/relaton), which
+absorbed the standalone `relaton-3gpp` gem. They cannot be fixed by editing
+`data/` — a hand-edit would be overwritten by the next crawler run. Each issue
+self-heals once a fixed gem is released and the crawler is re-run with the
+`force` input (see [CLAUDE.md](../CLAUDE.md)).
 
 Findings recorded 2026-08-14 against the dataset at commit `389b9eeeb64`.
 
@@ -69,7 +70,7 @@ is the `docidentifier`/`docnumber`, not an XML `id` attribute.
 The identifier does not include the publication date, but the upstream data has
 multiple rows per document that differ only by date:
 
-1. `Parser#number` (`relaton-3gpp/lib/relaton/3gpp/parser.rb:105`) builds the
+1. `Parser#number` (`relaton/lib/relaton/3gpp/parser.rb`) builds the
    identifier as `<TS|TR> <spec>:<release>/<version>`. The date is not part of
    it. `docidentifier.content` is simply `"3GPP " + docnumber`.
 2. The upstream
@@ -162,7 +163,7 @@ is appended as it is read rather than sorted by date.
 
 Reported upstream via the hand-off
 `relaton__relaton-3gpp__self-referential-adopted-as-relations.md`. The fix
-belongs in `relaton-3gpp`; no change is possible in this repository.
+belongs in the `relaton` monorepo; no change is possible in this repository.
 
 ---
 
@@ -185,7 +186,7 @@ Full set of colliding ids: `TS25101REL99100`, `TS25141REL99100`,
 
 ### Root cause
 
-`ItemData#create_id` (`relaton-3gpp/lib/relaton/3gpp/item_data.rb:11`) derives the
+`ItemData#create_id` (`relaton/lib/relaton/3gpp/item_data.rb`) derives the
 `id` by deleting every non-word character:
 
 ```ruby
@@ -199,7 +200,7 @@ from `REL-99/1.0.0`, so both collapse to `REL99100`.
 
 Filenames and `index-v1.yaml` keys are unaffected: `Core::DataFetcher#output_file`
 replaces separators with `-` rather than deleting them, so the two files stay
-distinct, and the index is keyed on the raw `docnumber`. The collision is confined
+distinct, and `index-v1` is keyed on the raw `docnumber`. The collision is confined
 to the `id:` field — but it is a duplicate-anchor hazard for any consumer that
 assembles multiple documents into a single XML tree.
 
@@ -235,3 +236,52 @@ done
 # Issue 2: expect 12 duplicated id values
 grep -rh "^id:" data | sort | uniq -d
 ```
+
+### The indexes
+
+`index-v1` is written by this repo (`index_builder.rb`); `index-v2` by the gem.
+After a crawl, check both.
+
+```bash
+# index-v1: one row per record, every :id a bare String, and a consumer with
+# no pubid_class able to load it. That last check is the legacy gate.
+bundle exec ruby -e '
+  require "relaton/index"
+  rows = YAML.unsafe_load_file "index-v1.yaml"
+  puts "rows: #{rows.size} (expect one per file in data/)"
+  puts "all ids are Strings: #{rows.all? { |r| r[:id].is_a?(String) }}"
+  puts "duplicate ids: #{rows.size - rows.map { |r| r[:id] }.uniq.size}"
+  io = Relaton::Index::FileIO.new "3gpp", nil, "index-v1.yaml", nil, nil
+  puts "check_format: #{io.check_format rows}"
+'
+
+# index-v1: no row lost or invented against the previous publish.
+# Compare sorted sets, never the files: the rows are sorted by :id, so any
+# reordering upstream would show as a whole-file diff that means nothing.
+git show HEAD:index-v1.yaml > /tmp/old-index-v1.yaml
+bundle exec ruby -e '
+  old = YAML.unsafe_load_file("/tmp/old-index-v1.yaml").map { |r| [r[:id].to_s, r[:file]] }.sort
+  new = YAML.unsafe_load_file("index-v1.yaml").map { |r| [r[:id].to_s, r[:file]] }.sort
+  puts old == new ? "unchanged" : "added #{(new - old).size}, removed #{(old - new).size}"
+'
+
+# index-v2: every row must rebuild through pubid. Relaton::Index raises on the
+# first row it cannot rebuild, so a clean load over all rows is the real test.
+bundle exec ruby -e '
+  require "relaton/index"
+  require "pubid"
+  Relaton::Index.close "3gpp"
+  rows = Relaton::Index.find_or_create("3gpp", file: "index-v2.yaml",
+                                       pubid_class: ::Pubid::Tgpp::Identifier).index
+  puts "rows: #{rows.size}"
+  puts "rows keying on an empty number: #{rows.count { |r| r[:id].root.number.to_s.empty? }}"
+  puts "distinct number buckets: #{rows.map { |r| r[:id].root.number.to_s }.uniq.size}"
+  puts rows.group_by { |r| r[:id].class }.transform_values(&:size).inspect
+'
+```
+
+Expected shape of `index-v2`, measured against the 2026 corpus: about 88,464
+rows, **0** keying on an empty number, about 3,767 distinct number buckets
+(largest about 979), about 70,601 technical specifications and 17,863 technical
+reports, about 7,526 rows carrying `parts`, about 173 carrying `suffix`, and
+exactly one with no `release` (`TS 29.215/2.0.0`).

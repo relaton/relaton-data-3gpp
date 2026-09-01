@@ -1,0 +1,6 @@
+---
+schema_version: v1.5.6
+type: standard
+title:
+- content: A record whose docnumber never made it into the file
+  type: main

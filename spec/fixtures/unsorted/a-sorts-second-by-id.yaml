@@ -1,0 +1,11 @@
+---
+schema_version: v1.5.6
+type: standard
+title:
+- content: The only record with no release
+  type: main
+docidentifier:
+- content: 3GPP TS 29.215/2.0.0
+  type: 3GPP
+  primary: true
+docnumber: TS 29.215/2.0.0

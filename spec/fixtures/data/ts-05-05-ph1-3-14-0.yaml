@@ -1,0 +1,11 @@
+---
+schema_version: v1.5.6
+type: standard
+title:
+- content: A legacy 2G release token
+  type: main
+docidentifier:
+- content: 3GPP TS 05.05:Ph1/3.14.0
+  type: 3GPP
+  primary: true
+docnumber: TS 05.05:Ph1/3.14.0

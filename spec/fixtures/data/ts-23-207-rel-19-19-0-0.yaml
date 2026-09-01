@@ -1,0 +1,11 @@
+---
+schema_version: v1.5.6
+type: standard
+title:
+- content: A modern release
+  type: main
+docidentifier:
+- content: 3GPP TS 23.207:REL-19/19.0.0
+  type: 3GPP
+  primary: true
+docnumber: TS 23.207:REL-19/19.0.0

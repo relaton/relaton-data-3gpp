@@ -1,0 +1,11 @@
+---
+schema_version: v1.5.6
+type: standard
+title:
+- content: A suffixed identifier
+  type: main
+docidentifier:
+- content: 3GPP TR 00.01U:UMTS/3.0.0
+  type: 3GPP
+  primary: true
+docnumber: TR 00.01U:UMTS/3.0.0
