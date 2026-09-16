@@ -1,10 +1,8 @@
----
 id: TR36841REL12101
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access (E-UTRA); Intra-band non-contiguous
-    Carrier Aggregation (CA) for band 25 for LTE
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); Intra-band non-contiguous Carrier Aggregation (CA) for band 25 for LTE
   type: main
 source:
 - type: src

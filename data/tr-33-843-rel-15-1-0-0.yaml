@@ -1,10 +1,8 @@
----
 id: TR33843REL15100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on security architecture enhancements to Proximity Services (ProSe)
-    User Equipment (UE)-to-network relay
+- content: Study on security architecture enhancements to Proximity Services (ProSe) User Equipment (UE)-to-network relay
   type: main
 source:
 - type: src

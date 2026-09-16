@@ -1,10 +1,8 @@
----
 id: TR33920REL7750
 schema_version: v1.5.6
 type: standard
 title:
-- content: SIM card based Generic Bootstrapping Architecture (GBA); Early implementation
-    feature
+- content: SIM card based Generic Bootstrapping Architecture (GBA); Early implementation feature
   type: main
 source:
 - type: src

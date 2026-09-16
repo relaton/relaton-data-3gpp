@@ -1,11 +1,8 @@
----
 id: TS365212REL111130
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE)
-    conformance specification; Radio transmission and reception; Part 2: Implementation
-    Conformance Statement (ICS)'
+- content: 'Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE) conformance specification; Radio transmission and reception; Part 2: Implementation Conformance Statement (ICS)'
   type: main
 source:
 - type: src

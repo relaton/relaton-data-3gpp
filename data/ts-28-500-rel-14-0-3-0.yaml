@@ -1,10 +1,8 @@
----
 id: TS28500REL14030
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Management concept, architecture and requirements
-    for mobile networks that include virtualized network functions
+- content: Telecommunication management; Management concept, architecture and requirements for mobile networks that include virtualized network functions
   type: main
 source:
 - type: src

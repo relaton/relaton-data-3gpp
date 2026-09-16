@@ -1,10 +1,8 @@
----
 id: TS0991Ph2400
 schema_version: v1.5.6
 type: standard
 title:
-- content: Interworking Aspects of the SIM/ME Interface Between Phase 1 and Phase
-    2
+- content: Interworking Aspects of the SIM/ME Interface Between Phase 1 and Phase 2
   type: main
 source:
 - type: src

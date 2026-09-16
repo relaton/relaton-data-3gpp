@@ -1,10 +1,8 @@
----
 id: TR33904REL4200
 schema_version: v1.5.6
 type: standard
 title:
-- content: Report on the Evaluation of 3GPP Standard Confidentiality and Integrity
-    Algorithms
+- content: Report on the Evaluation of 3GPP Standard Confidentiality and Integrity Algorithms
   type: main
 docidentifier:
 - content: 3GPP TR 33.904:REL-4/2.0.0

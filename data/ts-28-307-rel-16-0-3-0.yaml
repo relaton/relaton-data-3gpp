@@ -1,10 +1,8 @@
----
 id: TS28307REL16030
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Quality of Experience (QoE) measurement collection
-    Integration Reference Point (IRP); Requirements
+- content: Telecommunication management; Quality of Experience (QoE) measurement collection Integration Reference Point (IRP); Requirements
   type: main
 source:
 - type: src

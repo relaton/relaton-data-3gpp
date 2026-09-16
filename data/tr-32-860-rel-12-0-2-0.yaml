@@ -1,10 +1,8 @@
----
 id: TR32860REL12020
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Study on enhancements of Operations, Administration
-    and Maintenance (OAM) aspects of distributed Self-Organizing Networks (SON) functions
+- content: Telecommunication management; Study on enhancements of Operations, Administration and Maintenance (OAM) aspects of distributed Self-Organizing Networks (SON) functions
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TS46081REL8800
 schema_version: v1.5.6
 type: standard
 title:
-- content: Discontinuous Transmission (DTX) for Enhanced Full Rate (EFR) speech traffic
-    channels
+- content: Discontinuous Transmission (DTX) for Enhanced Full Rate (EFR) speech traffic channels
   type: main
 source:
 - type: src

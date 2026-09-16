@@ -1,10 +1,8 @@
----
 id: TR36861REL131300
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Technical Report for Study Item: Study on LTE FDD in the bands 1980-2010
-    MHz and 2170-2200 MHz'
+- content: 'Technical Report for Study Item: Study on LTE FDD in the bands 1980-2010 MHz and 2170-2200 MHz'
   type: main
 source:
 - type: src

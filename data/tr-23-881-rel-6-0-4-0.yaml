@@ -1,10 +1,8 @@
----
 id: TR23881REL6040
 schema_version: v1.5.6
 type: standard
 title:
-- content: Interworking aspects and migration scenarios for IPv4-based IP Multimedia
-    Subsystem (IMS) implementations
+- content: Interworking aspects and migration scenarios for IPv4-based IP Multimedia Subsystem (IMS) implementations
   type: main
 docidentifier:
 - content: 3GPP TR 23.881:REL-6/0.4.0

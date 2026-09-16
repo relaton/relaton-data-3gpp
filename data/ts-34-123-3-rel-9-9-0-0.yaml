@@ -1,10 +1,8 @@
----
 id: TS341233REL9900
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'User Equipment (UE) conformance specification; Part 3: Abstract test suite
-    (ATS)'
+- content: 'User Equipment (UE) conformance specification; Part 3: Abstract test suite (ATS)'
   type: main
 source:
 - type: src

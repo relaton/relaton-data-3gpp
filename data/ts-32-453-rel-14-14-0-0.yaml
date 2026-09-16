@@ -1,10 +1,8 @@
----
 id: TS32453REL141400
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Performance Management (PM); Performance
-    measurements Home enhanced Node B (HeNB) Subsystem (HeNS)
+- content: Telecommunication management; Performance Management (PM); Performance measurements Home enhanced Node B (HeNB) Subsystem (HeNS)
   type: main
 source:
 - type: src

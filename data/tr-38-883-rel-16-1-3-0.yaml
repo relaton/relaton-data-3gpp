@@ -1,10 +1,8 @@
----
 id: TR38883REL16130
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on support of NR downlink 256 Quadrature Amplitude Modulation (QAM)
-    for frequency range 2 (FR2)
+- content: Study on support of NR downlink 256 Quadrature Amplitude Modulation (QAM) for frequency range 2 (FR2)
   type: main
 source:
 - type: src

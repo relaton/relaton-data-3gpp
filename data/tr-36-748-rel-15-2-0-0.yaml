@@ -1,10 +1,8 @@
----
 id: TR36748REL15200
 schema_version: v1.5.6
 type: standard
 title:
-- content: Technical report for 450MHz E-UTRA FDD Band for LTE PPDR and PMR/PAMR in
-    Europe
+- content: Technical report for 450MHz E-UTRA FDD Band for LTE PPDR and PMR/PAMR in Europe
   type: main
 source:
 - type: src

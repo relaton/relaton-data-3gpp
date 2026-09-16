@@ -1,10 +1,8 @@
----
 id: TS43050REL4400
 schema_version: v1.5.6
 type: standard
 title:
-- content: Transmission planning aspects of the speech service in the GSM Public Land
-    Mobile Network (PLMN) system
+- content: Transmission planning aspects of the speech service in the GSM Public Land Mobile Network (PLMN) system
   type: main
 source:
 - type: src

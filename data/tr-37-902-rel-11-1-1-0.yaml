@@ -1,10 +1,8 @@
----
 id: TR37902REL11110
 schema_version: v1.5.6
 type: standard
 title:
-- content: Measurements of User Equipment (UE) radio performances for LTE/UMTS terminals;
-    Total Radiated Power (TRP) and Total Radiated Sensitivity (TRS) test methodology
+- content: Measurements of User Equipment (UE) radio performances for LTE/UMTS terminals; Total Radiated Power (TRP) and Total Radiated Sensitivity (TRS) test methodology
   type: main
 docidentifier:
 - content: 3GPP TR 37.902:REL-11/1.1.0

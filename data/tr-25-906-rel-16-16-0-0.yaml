@@ -1,11 +1,8 @@
----
 id: TR25906REL161600
 schema_version: v1.5.6
 type: standard
 title:
-- content: Dynamically reconfiguring a Frequency Division Duplex (FDD) User Equipment
-    (UE) receiver to reduce power consumption when desired Quality of Service (QoS)
-    is met
+- content: Dynamically reconfiguring a Frequency Division Duplex (FDD) User Equipment (UE) receiver to reduce power consumption when desired Quality of Service (QoS) is met
   type: main
 source:
 - type: src

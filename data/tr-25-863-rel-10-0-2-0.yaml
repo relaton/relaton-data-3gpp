@@ -1,10 +1,8 @@
----
 id: TR25863REL10020
 schema_version: v1.5.6
 type: standard
 title:
-- content: Universal Terrestrial Radio Access (UTRA); Uplink transmit diversity for
-    High Speed Packet Access (HSPA)
+- content: Universal Terrestrial Radio Access (UTRA); Uplink transmit diversity for High Speed Packet Access (HSPA)
   type: main
 docidentifier:
 - content: 3GPP TR 25.863:REL-10/0.2.0

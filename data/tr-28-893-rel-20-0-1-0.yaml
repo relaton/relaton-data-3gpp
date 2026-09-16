@@ -1,10 +1,8 @@
----
 id: TR28893REL20010
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on 5G Advanced (5GA ) charging aspects of integrated sensing and
-    communication
+- content: Study on 5G Advanced (5GA ) charging aspects of integrated sensing and communication
   type: main
 source:
 - type: src

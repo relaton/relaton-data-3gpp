@@ -1,10 +1,8 @@
----
 id: TR33835REL16120
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on authentication and key management for applications based on 3GPP
-    credential in 5G
+- content: Study on authentication and key management for applications based on 3GPP credential in 5G
   type: main
 source:
 - type: src

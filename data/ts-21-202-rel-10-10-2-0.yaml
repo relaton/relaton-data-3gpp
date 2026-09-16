@@ -1,10 +1,8 @@
----
 id: TS21202REL101020
 schema_version: v1.5.6
 type: standard
 title:
-- content: Technical Specifications and Technical Reports relating to the Common IP
-    Multimedia Subsystem (IMS)
+- content: Technical Specifications and Technical Reports relating to the Common IP Multimedia Subsystem (IMS)
   type: main
 source:
 - type: src

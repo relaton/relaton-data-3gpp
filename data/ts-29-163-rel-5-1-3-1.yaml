@@ -1,10 +1,8 @@
----
 id: TS29163REL5131
 schema_version: v1.5.6
 type: standard
 title:
-- content: Interworking between the IP Multimedia (IM) Core Network (CN) subsystem
-    and Circuit Switched (CS) networks
+- content: Interworking between the IP Multimedia (IM) Core Network (CN) subsystem and Circuit Switched (CS) networks
   type: main
 docidentifier:
 - content: 3GPP TS 29.163:REL-5/1.3.1

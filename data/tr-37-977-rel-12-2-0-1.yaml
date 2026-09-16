@@ -1,11 +1,8 @@
----
 id: TR37977REL12201
 schema_version: v1.5.6
 type: standard
 title:
-- content: Universal Terrestrial Radio Access (UTRA) and Evolved Universal Terrestrial
-    Radio Access (E-UTRA); Verification of radiated multi-antenna reception performance
-    of User Equipment (UE)
+- content: Universal Terrestrial Radio Access (UTRA) and Evolved Universal Terrestrial Radio Access (E-UTRA); Verification of radiated multi-antenna reception performance of User Equipment (UE)
   type: main
 docidentifier:
 - content: 3GPP TR 37.977:REL-12/2.0.1

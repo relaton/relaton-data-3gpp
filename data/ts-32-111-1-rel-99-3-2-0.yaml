@@ -1,10 +1,8 @@
----
 id: TS321111REL99320
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Telecommunication management; Fault Management; Part 1: 3G fault management
-    requirements'
+- content: 'Telecommunication management; Fault Management; Part 1: 3G fault management requirements'
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TR23847REL7011
 schema_version: v1.5.6
 type: standard
 title:
-- content: Enhancements to IMS service functionalities facilitating multicast bearer
-    services
+- content: Enhancements to IMS service functionalities facilitating multicast bearer services
   type: main
 source:
 - type: src

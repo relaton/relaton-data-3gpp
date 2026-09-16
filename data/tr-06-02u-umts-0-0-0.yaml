@@ -1,10 +1,8 @@
----
 id: TR0602UUMTS000
 schema_version: v1.5.6
 type: standard
 title:
-- content: Universal Mobile Telecommunications System (UMTS); Quality requirements
-    and selection procedure for the support of voice- band data coding for the UMTS
+- content: Universal Mobile Telecommunications System (UMTS); Quality requirements and selection procedure for the support of voice- band data coding for the UMTS
   type: main
 docidentifier:
 - content: 3GPP TR 06.02U:UMTS/0.0.0

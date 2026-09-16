@@ -1,10 +1,8 @@
----
 id: TS29368REL151510
 schema_version: v1.5.6
 type: standard
 title:
-- content: Tsp interface protocol between the MTC Interworking Function (MTC-IWF)
-    and Service Capability Server (SCS)
+- content: Tsp interface protocol between the MTC Interworking Function (MTC-IWF) and Service Capability Server (SCS)
   type: main
 source:
 - type: src

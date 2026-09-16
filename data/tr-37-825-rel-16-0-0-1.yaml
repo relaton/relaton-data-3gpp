@@ -1,11 +1,8 @@
----
 id: TR37825REL16001
 schema_version: v1.5.6
 type: standard
 title:
-- content: High power User Equipment (UE) (power class 2) for E-UTRA (Evolved Universal
-    Terrestrial Radio Access) - NR Dual Connectivity (EN-DC) (1 LTE TDD band + 1 NR
-    TDD band)
+- content: High power User Equipment (UE) (power class 2) for E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity (EN-DC) (1 LTE TDD band + 1 NR TDD band)
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TR387160301REL16060
 schema_version: v1.5.6
 type: standard
 title:
-- content: NR inter-band Carrier Aggregation (CA) / Dual Connectivity (DC) Rel-16
-    for 3 bands Down Link (DL) / 1 bands Up Link (UL)
+- content: NR inter-band Carrier Aggregation (CA) / Dual Connectivity (DC) Rel-16 for 3 bands Down Link (DL) / 1 bands Up Link (UL)
   type: main
 docidentifier:
 - content: 3GPP TR 38.716-03-01:REL-16/0.6.0
@@ -42,8 +40,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: China Academy of Telecommunication Technology - (Datang Telecom
-            Technology and Industry Group)
+        - content: China Academy of Telecommunication Technology - (Datang Telecom Technology and Industry Group)
 - role:
   - type: author
     description:

@@ -1,10 +1,8 @@
----
 id: TS36302REL131370
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access (E-UTRA); Services provided
-    by the physical layer
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); Services provided by the physical layer
   type: main
 source:
 - type: src

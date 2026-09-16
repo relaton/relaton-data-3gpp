@@ -1,10 +1,8 @@
----
 id: TS32260REL99160
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management;Charging management;IP Multimedia Subsystem
-    (IMS) charging
+- content: Telecommunication management;Charging management;IP Multimedia Subsystem (IMS) charging
   type: main
 source:
 - type: src

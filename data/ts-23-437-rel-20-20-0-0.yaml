@@ -1,10 +1,8 @@
----
 id: TS23437REL202000
 schema_version: v1.5.6
 type: standard
 title:
-- content: Service Enabler Architecture Layer for Verticals (SEAL); Spatial map and
-    Spatial anchors;
+- content: Service Enabler Architecture Layer for Verticals (SEAL); Spatial map and Spatial anchors;
   type: main
 source:
 - type: src

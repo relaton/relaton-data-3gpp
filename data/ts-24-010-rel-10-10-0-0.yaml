@@ -1,10 +1,8 @@
----
 id: TS24010REL101000
 schema_version: v1.5.6
 type: standard
 title:
-- content: Mobile radio interface  layer 3; Supplementary services specification;
-    General aspects
+- content: Mobile radio interface  layer 3; Supplementary services specification; General aspects
   type: main
 source:
 - type: src

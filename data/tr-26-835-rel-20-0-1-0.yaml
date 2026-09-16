@@ -1,10 +1,8 @@
----
 id: TR26835REL20010
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on evaluation of QUIC-based streaming protocols for on-demand and
-    live video services
+- content: Study on evaluation of QUIC-based streaming protocols for on-demand and live video services
   type: main
 docidentifier:
 - content: 3GPP TR 26.835:REL-20/0.1.0

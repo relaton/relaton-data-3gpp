@@ -1,10 +1,8 @@
----
 id: TS44014REL131310
 schema_version: v1.5.6
 type: standard
 title:
-- content: Individual equipment type requirements and interworking; Special GSM/EDGE
-    conformance testing functions
+- content: Individual equipment type requirements and interworking; Special GSM/EDGE conformance testing functions
   type: main
 source:
 - type: src

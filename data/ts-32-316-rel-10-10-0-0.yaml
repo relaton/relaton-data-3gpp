@@ -1,10 +1,8 @@
----
 id: TS32316REL101000
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Generic Integration Reference Point (IRP)
-    management; Solution Set (SS) definitions
+- content: Telecommunication management; Generic Integration Reference Point (IRP) management; Solution Set (SS) definitions
   type: main
 source:
 - type: src

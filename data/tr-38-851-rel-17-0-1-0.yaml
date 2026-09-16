@@ -1,10 +1,8 @@
----
 id: TR38851REL17010
 schema_version: v1.5.6
 type: standard
 title:
-- content: User Equipment (UE) Further enhancements of NR RF requirements for frequency
-    range 2 (FR2)
+- content: User Equipment (UE) Further enhancements of NR RF requirements for frequency range 2 (FR2)
   type: main
 source:
 - type: src

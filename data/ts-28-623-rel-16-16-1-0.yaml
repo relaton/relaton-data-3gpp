@@ -1,10 +1,8 @@
----
 id: TS28623REL161610
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Generic Network Resource Model (NRM) Integration
-    Reference Point (IRP); Solution Set (SS) definitions
+- content: Telecommunication management; Generic Network Resource Model (NRM) Integration Reference Point (IRP); Solution Set (SS) definitions
   type: main
 source:
 - type: src

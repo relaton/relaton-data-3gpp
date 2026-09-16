@@ -1,11 +1,8 @@
----
 id: TR28900REL15020
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Telecommunications management; Study on integration of Open Network Automation
-    Platform (ONAP) ata Collection, Analytics and Events (DCAE) and 3GPP reference
-    management architecture '
+- content: 'Telecommunications management; Study on integration of Open Network Automation Platform (ONAP) ata Collection, Analytics and Events (DCAE) and 3GPP reference management architecture '
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TR387170302REL171700
 schema_version: v1.5.6
 type: standard
 title:
-- content: Rel-17 NR inter-band Carrier Aggregation/Dual Connectivity for 3 bands
-    DL with 2 bands UL
+- content: Rel-17 NR inter-band Carrier Aggregation/Dual Connectivity for 3 bands DL with 2 bands UL
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TR36880REL13020
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on further enhancements of Minimization of Drive Tests (MDT) for
-    E-UTRAN
+- content: Study on further enhancements of Minimization of Drive Tests (MDT) for E-UTRAN
   type: main
 source:
 - type: src

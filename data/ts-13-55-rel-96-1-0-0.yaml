@@ -1,10 +1,8 @@
----
 id: TS1355REL96100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Attachment requirements for Cordless Telephony System Fixed Part (CTS-FP);
-    Access
+- content: Attachment requirements for Cordless Telephony System Fixed Part (CTS-FP); Access
   type: main
 docidentifier:
 - content: 3GPP TS 13.55:REL-96/1.0.0

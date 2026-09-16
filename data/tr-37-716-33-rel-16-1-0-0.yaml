@@ -1,10 +1,8 @@
----
 id: TR3771633REL16100
 schema_version: v1.5.6
 type: standard
 title:
-- content: E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity
-    (EN-DC) of 3 bands Down Link (DL) and 3 band Up Link (UL)
+- content: E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity (EN-DC) of 3 bands Down Link (DL) and 3 band Up Link (UL)
   type: main
 source:
 - type: src

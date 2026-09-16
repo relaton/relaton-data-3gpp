@@ -1,10 +1,8 @@
----
 id: TR32814REL7700
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; UTRAN and GERAN Key Performance Indicators
-    (KPI)
+- content: Telecommunication management; UTRAN and GERAN Key Performance Indicators (KPI)
   type: main
 source:
 - type: src

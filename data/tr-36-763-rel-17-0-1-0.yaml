@@ -1,10 +1,8 @@
----
 id: TR36763REL17010
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on Narrow-Band Internet of Things (NB-IoT) / enhanced Machine Type
-    Communication (eMTC) support for Non-Terrestrial Networks (NTN)
+- content: Study on Narrow-Band Internet of Things (NB-IoT) / enhanced Machine Type Communication (eMTC) support for Non-Terrestrial Networks (NTN)
   type: main
 source:
 - type: src

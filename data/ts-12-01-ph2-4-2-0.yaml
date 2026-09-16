@@ -1,10 +1,8 @@
----
 id: TS1201Ph2420
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Network Management (NM); Part 2: Common aspects of SM/DCS 1800 Network
-    Management'
+- content: 'Network Management (NM); Part 2: Common aspects of SM/DCS 1800 Network Management'
   type: main
 source:
 - type: src

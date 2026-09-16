@@ -1,10 +1,8 @@
----
 id: TS24629REL121270
 schema_version: v1.5.6
 type: standard
 title:
-- content: Explicit Communication Transfer (ECT) using IP Multimedia (IM) Core Network
-    (CN) subsystem; Protocol specification
+- content: Explicit Communication Transfer (ECT) using IP Multimedia (IM) Core Network (CN) subsystem; Protocol specification
   type: main
 source:
 - type: src

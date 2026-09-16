@@ -1,10 +1,8 @@
----
 id: TR32803REL6200
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Process guide; Use cases in Unified Modelling
-    Language (UML)
+- content: Telecommunication management; Process guide; Use cases in Unified Modelling Language (UML)
   type: main
 source:
 - type: src

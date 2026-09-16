@@ -1,10 +1,8 @@
----
 id: TR38831REL16101
 schema_version: v1.5.6
 type: standard
 title:
-- content: User Equipment (UE) Radio Frequency (RF) requirements for Frequency Range
-    2 (FR2)
+- content: User Equipment (UE) Radio Frequency (RF) requirements for Frequency Range 2 (FR2)
   type: main
 docidentifier:
 - content: 3GPP TR 38.831:REL-16/1.0.1

@@ -1,10 +1,8 @@
----
 id: TS25471REL151500
 schema_version: v1.5.6
 type: standard
 title:
-- content: UTRAN Iurh interface Radio Network Subsystem Application Part (RNSAP) User
-    Adaption (RNA) signalling
+- content: UTRAN Iurh interface Radio Network Subsystem Application Part (RNSAP) User Adaption (RNA) signalling
   type: main
 source:
 - type: src

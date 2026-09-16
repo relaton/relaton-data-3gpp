@@ -1,10 +1,8 @@
----
 id: TR23739REL16000
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on enhancement of EPC for low latency communication including device
-    mobility
+- content: Study on enhancement of EPC for low latency communication including device mobility
   type: main
 source:
 - type: src

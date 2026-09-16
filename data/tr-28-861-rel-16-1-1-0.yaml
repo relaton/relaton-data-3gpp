@@ -1,10 +1,8 @@
----
 id: TR28861REL16110
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Study on the Self-Organizing Networks (SON)
-    for 5G networks
+- content: Telecommunication management; Study on the Self-Organizing Networks (SON) for 5G networks
   type: main
 source:
 - type: src

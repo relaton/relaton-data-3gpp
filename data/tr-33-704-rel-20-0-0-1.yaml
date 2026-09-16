@@ -1,10 +1,8 @@
----
 id: TR33704REL20001
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on enhanced security management service about security configuration
-    execution
+- content: Study on enhanced security management service about security configuration execution
   type: main
 source:
 - type: src

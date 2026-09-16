@@ -1,10 +1,8 @@
----
 id: TS29061REL9951
 schema_version: v1.5.6
 type: standard
 title:
-- content: Interworking between the Public Land Mobile Network (PLMN) supporting packet
-    based services and Packet Data Networks (PDN)
+- content: Interworking between the Public Land Mobile Network (PLMN) supporting packet based services and Packet Data Networks (PDN)
   type: main
 source:
 - type: src

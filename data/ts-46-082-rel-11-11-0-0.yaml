@@ -1,10 +1,8 @@
----
 id: TS46082REL111100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Voice Activity Detector (VAD) for Enhanced Full Rate (EFR) speech traffic
-    channels
+- content: Voice Activity Detector (VAD) for Enhanced Full Rate (EFR) speech traffic channels
   type: main
 source:
 - type: src

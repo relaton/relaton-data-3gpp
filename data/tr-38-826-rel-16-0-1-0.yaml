@@ -1,10 +1,8 @@
----
 id: TR38826REL16010
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on evaluation for 2 receiver exception in Rel-15 vehicle mounted
-    User Equipment (UE) for NR
+- content: Study on evaluation for 2 receiver exception in Rel-15 vehicle mounted User Equipment (UE) for NR
   type: main
 source:
 - type: src

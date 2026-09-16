@@ -1,10 +1,8 @@
----
 id: TR33879REL13010
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on security enhancements for Mission Critical Push To Talk (MCPTT)
-    over LTE
+- content: Study on security enhancements for Mission Critical Push To Talk (MCPTT) over LTE
   type: main
 source:
 - type: src

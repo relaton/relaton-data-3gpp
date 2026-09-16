@@ -1,10 +1,8 @@
----
 id: TS33512REL16090
 schema_version: v1.5.6
 type: standard
 title:
-- content: 5G Security Assurance Specification (SCAS); Access and Mobility management
-    Function (AMF)
+- content: 5G Security Assurance Specification (SCAS); Access and Mobility management Function (AMF)
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TS32500REL131300
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Self-Organizing Networks (SON); Concepts
-    and requirements
+- content: Telecommunication management; Self-Organizing Networks (SON); Concepts and requirements
   type: main
 source:
 - type: src

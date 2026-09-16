@@ -1,10 +1,8 @@
----
 id: TS55226REL151500
 schema_version: v1.5.6
 type: standard
 title:
-- content: 3G Security; Specification of the A5/4 Encryption Algorithms for GSM and
-    ECSD, and the GEA4 Encryption Algorithm for GPRS
+- content: 3G Security; Specification of the A5/4 Encryption Algorithms for GSM and ECSD, and the GEA4 Encryption Algorithm for GPRS
   type: main
 source:
 - type: src

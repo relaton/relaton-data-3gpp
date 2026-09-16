@@ -1,10 +1,8 @@
----
 id: TS32772REL9900
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Home Node B (HNB) Subsystem (HNS); Network
-    Resource Model (NRM); Integration Reference Point (IRP); Information Service (IS)
+- content: Telecommunication management; Home Node B (HNB) Subsystem (HNS); Network Resource Model (NRM); Integration Reference Point (IRP); Information Service (IS)
   type: main
 source:
 - type: src

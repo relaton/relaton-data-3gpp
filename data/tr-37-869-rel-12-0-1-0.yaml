@@ -1,10 +1,8 @@
----
 id: TR37869REL12010
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on enhancements to Machine-Type Communications (MTC) and other mobile
-    data applications; Radio Access Network (RAN) aspects
+- content: Study on enhancements to Machine-Type Communications (MTC) and other mobile data applications; Radio Access Network (RAN) aspects
   type: main
 source:
 - type: src

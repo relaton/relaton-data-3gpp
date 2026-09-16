@@ -1,10 +1,8 @@
----
 id: TS28515REL14100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Fault Management (FM) for mobile networks
-    that include virtualized network functions; Requirements
+- content: Telecommunication management; Fault Management (FM) for mobile networks that include virtualized network functions; Requirements
   type: main
 source:
 - type: src

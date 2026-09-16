@@ -1,10 +1,8 @@
----
 id: TR38744REL191901
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on Artificial Intelligence (AI)/Machine Learning (ML) for mobility
-    in NR
+- content: Study on Artificial Intelligence (AI)/Machine Learning (ML) for mobility in NR
   type: main
 source:
 - type: src

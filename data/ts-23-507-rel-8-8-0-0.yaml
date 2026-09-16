@@ -1,10 +1,8 @@
----
 id: TS23507REL8800
 schema_version: v1.5.6
 type: standard
 title:
-- content: TISPAN; Voice Call Continuity (VCC); Stage 2 [3GPP TS 23.206 Release 7,
-    modified]
+- content: TISPAN; Voice Call Continuity (VCC); Stage 2 [3GPP TS 23.206 Release 7, modified]
   type: main
 source:
 - type: src

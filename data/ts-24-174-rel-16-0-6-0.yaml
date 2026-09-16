@@ -1,10 +1,8 @@
----
 id: TS24174REL16060
 schema_version: v1.5.6
 type: standard
 title:
-- content: Support of multi-device and multi-identity in the IP Multimedia Subsystem
-    (IMS); Stage 3
+- content: Support of multi-device and multi-identity in the IP Multimedia Subsystem (IMS); Stage 3
   type: main
 source:
 - type: src

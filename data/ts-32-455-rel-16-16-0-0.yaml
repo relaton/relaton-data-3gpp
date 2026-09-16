@@ -1,10 +1,8 @@
----
 id: TS32455REL161600
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Key Performance Indicators (KPI) for the
-    Evolved Packet Core (EPC); Definitions
+- content: Telecommunication management; Key Performance Indicators (KPI) for the Evolved Packet Core (EPC); Definitions
   type: main
 source:
 - type: src

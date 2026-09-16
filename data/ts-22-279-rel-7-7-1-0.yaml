@@ -1,10 +1,8 @@
----
 id: TS22279REL7710
 schema_version: v1.5.6
 type: standard
 title:
-- content: Combined Circuit Switched (CS) and IP Multimedia Subsystem (IMS) sessions;
-    Stage 1
+- content: Combined Circuit Switched (CS) and IP Multimedia Subsystem (IMS) sessions; Stage 1
   type: main
 source:
 - type: src

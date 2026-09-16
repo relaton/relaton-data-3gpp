@@ -1,10 +1,8 @@
----
 id: TS49031REL7700
 schema_version: v1.5.6
 type: standard
 title:
-- content: Location Services (LCS); Base Station System Application Part LCS Extension
-    (BSSAP-LE)
+- content: Location Services (LCS); Base Station System Application Part LCS Extension (BSSAP-LE)
   type: main
 source:
 - type: src

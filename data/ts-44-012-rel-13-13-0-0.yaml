@@ -1,10 +1,8 @@
----
 id: TS44012REL131300
 schema_version: v1.5.6
 type: standard
 title:
-- content: Short Message Service Cell Broadcast (SMSCB) support on the mobile radio
-    interface
+- content: Short Message Service Cell Broadcast (SMSCB) support on the mobile radio interface
   type: main
 source:
 - type: src

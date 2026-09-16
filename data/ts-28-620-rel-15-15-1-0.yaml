@@ -1,10 +1,8 @@
----
 id: TS28620REL151510
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Fixed Mobile Convergence (FMC) Federated
-    Network Information Model (FNIM) Umbrella Information Model (UIM)
+- content: Telecommunication management; Fixed Mobile Convergence (FMC) Federated Network Information Model (FNIM) Umbrella Information Model (UIM)
   type: main
 source:
 - type: src

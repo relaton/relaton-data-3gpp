@@ -1,10 +1,8 @@
----
 id: TS55241REL131300
 schema_version: v1.5.6
 type: standard
 title:
-- content: Specification of the GIA4 integrity algorithm for General Packet Radio
-    Service (GPRS); GIA4 specification
+- content: Specification of the GIA4 integrity algorithm for General Packet Radio Service (GPRS); GIA4 specification
   type: main
 source:
 - type: src

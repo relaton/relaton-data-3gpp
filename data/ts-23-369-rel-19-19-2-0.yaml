@@ -1,10 +1,8 @@
----
 id: TS23369REL191920
 schema_version: v1.5.6
 type: standard
 title:
-- content: Architecture support for Ambient power-enabled Internet of Things; Stage
-    2
+- content: Architecture support for Ambient power-enabled Internet of Things; Stage 2
   type: main
 source:
 - type: src

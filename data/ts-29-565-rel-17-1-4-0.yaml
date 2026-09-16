@@ -1,10 +1,8 @@
----
 id: TS29565REL17140
 schema_version: v1.5.6
 type: standard
 title:
-- content: 5G System; Time Sensitive Communication and Time Synchronization Function
-    Services; Stage 3
+- content: 5G System; Time Sensitive Communication and Time Synchronization Function Services; Stage 3
   type: main
 source:
 - type: src

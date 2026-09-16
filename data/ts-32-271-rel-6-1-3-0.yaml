@@ -1,10 +1,8 @@
----
 id: TS32271REL6130
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Charging management; Location Services (LCS)
-    charging
+- content: Telecommunication management; Charging management; Location Services (LCS) charging
   type: main
 docidentifier:
 - content: 3GPP TS 32.271:REL-6/1.3.0

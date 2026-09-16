@@ -1,10 +1,8 @@
----
 id: TS23367REL20010
 schema_version: v1.5.6
 type: standard
 title:
-- content: System architecture for application energy consumption information collection
-    and reporting; Stage 2
+- content: System architecture for application energy consumption information collection and reporting; Stage 2
   type: main
 docidentifier:
 - content: 3GPP TS 23.367:REL-20/0.1.0

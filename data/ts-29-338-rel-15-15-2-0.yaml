@@ -1,10 +1,8 @@
----
 id: TS29338REL151520
 schema_version: v1.5.6
 type: standard
 title:
-- content: Diameter based protocols to support Short Message Service (SMS) capable
-    Mobile Management Entities (MMEs)
+- content: Diameter based protocols to support Short Message Service (SMS) capable Mobile Management Entities (MMEs)
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TS32412REL101010
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Telecommunication management; Performance Management (PM) Integration
-    Reference Point (IRP): Information Service (IS)'
+- content: 'Telecommunication management; Performance Management (PM) Integration Reference Point (IRP): Information Service (IS)'
   type: main
 source:
 - type: src

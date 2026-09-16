@@ -1,10 +1,8 @@
----
 id: TR36785REL141400
 schema_version: v1.5.6
 type: standard
 title:
-- content: Vehicle to Vehicle (V2V) services based on LTE sidelink; User Equipment
-    (UE) radio transmission and reception
+- content: Vehicle to Vehicle (V2V) services based on LTE sidelink; User Equipment (UE) radio transmission and reception
   type: main
 source:
 - type: src

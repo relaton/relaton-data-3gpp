@@ -1,10 +1,8 @@
----
 id: TS2919918REL7101
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Open Service Access (OSA); Parlay X web services; Part 18: Device capabilities
-    and configuration'
+- content: 'Open Service Access (OSA); Parlay X web services; Part 18: Device capabilities and configuration'
   type: main
 source:
 - type: src

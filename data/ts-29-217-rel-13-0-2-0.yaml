@@ -1,10 +1,8 @@
----
 id: TS29217REL13020
 schema_version: v1.5.6
 type: standard
 title:
-- content: Policy and Charging Control (PCC); Congestion reporting over Np reference
-    point
+- content: Policy and Charging Control (PCC); Congestion reporting over Np reference point
   type: main
 docidentifier:
 - content: 3GPP TS 29.217:REL-13/0.2.0

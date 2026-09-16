@@ -1,10 +1,8 @@
----
 id: TR37846REL12120
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on 2GHz Frequency Division Duplex) FDD for Universal Terrestrial
-    Radio Access (UTRA) and LTE in Region 1 (1980-2010 MHz and 2170-2200 MHz Bands)
+- content: Study on 2GHz Frequency Division Duplex) FDD for Universal Terrestrial Radio Access (UTRA) and LTE in Region 1 (1980-2010 MHz and 2170-2200 MHz Bands)
   type: main
 source:
 - type: src

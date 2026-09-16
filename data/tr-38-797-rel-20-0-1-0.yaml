@@ -1,11 +1,8 @@
----
 id: TR38797REL20010
 schema_version: v1.5.6
 type: standard
 title:
-- content: Rel-20 High power UE for NR FR1 single band for handheld/FWA UEs and high
-    power UE operation for FWVM (fixed-wireless/vehicle-mounted) use case in a single
-    NR band
+- content: Rel-20 High power UE for NR FR1 single band for handheld/FWA UEs and high power UE operation for FWVM (fixed-wireless/vehicle-mounted) use case in a single NR band
   type: main
 source:
 - type: src

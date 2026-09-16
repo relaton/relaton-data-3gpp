@@ -1,10 +1,8 @@
----
 id: TR387170501REL17100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Rel-17 NR inter-band Carrier Aggregation for 5 bands DL with x bands UL
-    (x=1, 2)
+- content: Rel-17 NR inter-band Carrier Aggregation for 5 bands DL with x bands UL (x=1, 2)
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TR2370029REL19100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on integration of satellite components in the 5G architecture; Phase
-    3
+- content: Study on integration of satellite components in the 5G architecture; Phase 3
   type: main
 source:
 - type: src
@@ -48,8 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: China Academy of Telecommunication Technology - (Datang Telecom
-            Technology and Industry Group)
+        - content: China Academy of Telecommunication Technology - (Datang Telecom Technology and Industry Group)
 - role:
   - type: author
     description:

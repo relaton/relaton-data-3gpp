@@ -1,10 +1,8 @@
----
 id: TS45015REL6600
 schema_version: v1.5.6
 type: standard
 title:
-- content: GSM/EDGE Release independent Downlink Advanced Receiver Performance (DARP);
-    Implementation guidelines
+- content: GSM/EDGE Release independent Downlink Advanced Receiver Performance (DARP); Implementation guidelines
   type: main
 source:
 - type: src

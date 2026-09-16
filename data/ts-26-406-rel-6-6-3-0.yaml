@@ -1,10 +1,8 @@
----
 id: TS26406REL6630
 schema_version: v1.5.6
 type: standard
 title:
-- content: General audio codec audio processing functions; Enhanced aacPlus general
-    audio codec; Conformance testing
+- content: General audio codec audio processing functions; Enhanced aacPlus general audio codec; Conformance testing
   type: main
 source:
 - type: src

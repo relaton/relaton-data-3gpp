@@ -1,10 +1,8 @@
----
 id: TS29280REL8101
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Packet System (EPS); 3GPP Sv interface (MME to MSC, and SGSN to
-    MSC) for SRVCC
+- content: Evolved Packet System (EPS); 3GPP Sv interface (MME to MSC, and SGSN to MSC) for SRVCC
   type: main
 source:
 - type: src

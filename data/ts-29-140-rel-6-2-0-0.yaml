@@ -1,10 +1,8 @@
----
 id: TS29140REL6200
 schema_version: v1.5.6
 type: standard
 title:
-- content: Multimedia Messaging Service (MMS); MM10 interface based on Diameter protocol;
-    Stage 3
+- content: Multimedia Messaging Service (MMS); MM10 interface based on Diameter protocol; Stage 3
   type: main
 source:
 - type: src

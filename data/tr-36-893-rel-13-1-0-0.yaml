@@ -1,10 +1,8 @@
----
 id: TR36893REL13100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access (E-UTRA); 700MHz band for Arab
-    Region
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); 700MHz band for Arab Region
   type: main
 source:
 - type: src

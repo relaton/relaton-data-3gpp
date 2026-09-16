@@ -1,10 +1,8 @@
----
 id: TR37840REL11100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study of Radio Frequency (RF) and Electromagnetic Compatibility (EMC) requirements
-    for Active Antenna Array System (AAS) base station
+- content: Study of Radio Frequency (RF) and Electromagnetic Compatibility (EMC) requirements for Active Antenna Array System (AAS) base station
   type: main
 source:
 - type: src

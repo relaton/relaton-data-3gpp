@@ -1,10 +1,8 @@
----
 id: TS365712REL9100
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE)
-    conformance specification; UE positioning in E-UTRA; Part 2: Protocol conformance'
+- content: 'Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE) conformance specification; UE positioning in E-UTRA; Part 2: Protocol conformance'
   type: main
 source:
 - type: src

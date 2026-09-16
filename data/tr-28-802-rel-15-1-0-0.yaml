@@ -1,10 +1,8 @@
----
 id: TR28802REL15100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management;Study on management aspects of next generation
-    network architecture and features
+- content: Telecommunication management;Study on management aspects of next generation network architecture and features
   type: main
 source:
 - type: src

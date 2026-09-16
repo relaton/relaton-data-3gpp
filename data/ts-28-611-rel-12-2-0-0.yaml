@@ -1,11 +1,8 @@
----
 id: TS28611REL12200
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Evolved Packet Core (EPC) and non-3GPP access
-    interworking system Network Resource Model (NRM) Integration Reference Point (IRP);
-    Requirements
+- content: Telecommunication management; Evolved Packet Core (EPC) and non-3GPP access interworking system Network Resource Model (NRM) Integration Reference Point (IRP); Requirements
   type: main
 source:
 - type: src

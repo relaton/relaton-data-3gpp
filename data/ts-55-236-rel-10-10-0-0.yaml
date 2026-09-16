@@ -1,10 +1,8 @@
----
 id: TS55236REL101000
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Specification of A8_V MILENAGE Algorithm: An example algorithm for the
-    key generation function A8_V'
+- content: 'Specification of A8_V MILENAGE Algorithm: An example algorithm for the key generation function A8_V'
   type: main
 source:
 - type: src

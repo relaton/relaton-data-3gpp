@@ -1,10 +1,8 @@
----
 id: TR25905REL7720
 schema_version: v1.5.6
 type: standard
 title:
-- content: Feasibility study on improvement of the Multimedia Broadcast/Multicast
-    Service (MBMS) in UTRAN
+- content: Feasibility study on improvement of the Multimedia Broadcast/Multicast Service (MBMS) in UTRAN
   type: main
 source:
 - type: src

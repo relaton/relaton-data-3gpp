@@ -1,10 +1,8 @@
----
 id: TS2919912REL6650
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Open Service Access (OSA); Parlay X web services; Part 12: Multimedia
-    conference'
+- content: 'Open Service Access (OSA); Parlay X web services; Part 12: Multimedia conference'
   type: main
 source:
 - type: src

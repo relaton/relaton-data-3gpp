@@ -1,11 +1,8 @@
----
 id: TR36828REL111100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access (E-UTRA); Further enhancements
-    to LTE Time Division Duplex (TDD)  for Downlink-Uplink (DL-UL) interference management
-    and traffic adaptation
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); Further enhancements to LTE Time Division Duplex (TDD)  for Downlink-Uplink (DL-UL) interference management and traffic adaptation
   type: main
 source:
 - type: src

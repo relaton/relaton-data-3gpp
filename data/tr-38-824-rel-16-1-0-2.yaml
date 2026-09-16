@@ -1,10 +1,8 @@
----
 id: TR38824REL16102
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on physical layer enhancements for NR ultra-reliable and low latency
-    case (URLLC)
+- content: Study on physical layer enhancements for NR ultra-reliable and low latency case (URLLC)
   type: main
 source:
 - type: src

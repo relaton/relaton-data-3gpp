@@ -1,10 +1,8 @@
----
 id: TR32869REL15070
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Charging management; Study on Overload Control
-    for Diameter Charging Applications
+- content: Telecommunication management; Charging management; Study on Overload Control for Diameter Charging Applications
   type: main
 source:
 - type: src

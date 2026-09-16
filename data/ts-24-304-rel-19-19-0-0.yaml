@@ -1,10 +1,8 @@
----
 id: TS24304REL191900
 schema_version: v1.5.6
 type: standard
 title:
-- content: Mobility management based on Mobile IPv4; User Equipment (UE) - foreign
-    agent interface; Stage 3
+- content: Mobility management based on Mobile IPv4; User Equipment (UE) - foreign agent interface; Stage 3
   type: main
 source:
 - type: src

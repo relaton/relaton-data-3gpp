@@ -1,10 +1,8 @@
----
 id: TR37828REL17100
 schema_version: v1.5.6
 type: standard
 title:
-- content: High-power UE operation for fixed-wireless/vehicle-mounted use cases in
-    LTE bands and NR bands
+- content: High-power UE operation for fixed-wireless/vehicle-mounted use cases in LTE bands and NR bands
   type: main
 source:
 - type: src

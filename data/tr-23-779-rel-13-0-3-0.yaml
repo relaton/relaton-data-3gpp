@@ -1,10 +1,8 @@
----
 id: TR23779REL13030
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on application architecture to support Mission Critical Push To Talk
-    over LTE (MCPTT) services
+- content: Study on application architecture to support Mission Critical Push To Talk over LTE (MCPTT) services
   type: main
 source:
 - type: src

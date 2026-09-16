@@ -1,10 +1,8 @@
----
 id: TR28805REL16040
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Telecommunication management; Study on management aspects of communication
-    services '
+- content: 'Telecommunication management; Study on management aspects of communication services '
   type: main
 source:
 - type: src

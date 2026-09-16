@@ -1,10 +1,8 @@
----
 id: TS321117REL8100
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Telecommunication management; Fault Management; Part 7: Alarm IRP SOAP
-    Solution Set (SS)'
+- content: 'Telecommunication management; Fault Management; Part 7: Alarm IRP SOAP Solution Set (SS)'
   type: main
 docidentifier:
 - content: 3GPP TS 32.111-7:REL-8/1.0.0

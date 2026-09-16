@@ -1,10 +1,8 @@
----
 id: TR38845REL17200
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on scenarios and requirements of in-coverage, partial coverage, and
-    out-of-coverage NR positioning use cases
+- content: Study on scenarios and requirements of in-coverage, partial coverage, and out-of-coverage NR positioning use cases
   type: main
 source:
 - type: src

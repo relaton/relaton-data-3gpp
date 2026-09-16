@@ -1,11 +1,8 @@
----
 id: TS24403REL7700
 schema_version: v1.5.6
 type: standard
 title:
-- content: TISPAN; IP Multimedia Call Control Protocol based on Session Initiation
-    Protocol (SIP) and Session Description Protocol (SDP) Stage 3 [3GPP TS 24.229
-    (Release 7), modified]
+- content: TISPAN; IP Multimedia Call Control Protocol based on Session Initiation Protocol (SIP) and Session Description Protocol (SDP) Stage 3 [3GPP TS 24.229 (Release 7), modified]
   type: main
 source:
 - type: src

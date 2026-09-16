@@ -1,10 +1,8 @@
----
 id: TS0702REL96500
 schema_version: v1.5.6
 type: standard
 title:
-- content: Terminal Adaptation Functions (TAF) for Services Using Asynchronous Bearer
-    Capabilities
+- content: Terminal Adaptation Functions (TAF) for Services Using Asynchronous Bearer Capabilities
   type: main
 source:
 - type: src

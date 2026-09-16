@@ -1,10 +1,8 @@
----
 id: TS32642REL8820
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Configuration Management (CM); UTRAN network
-    resources Integration Reference Point (IRP); Network Resource Model (NRM)
+- content: Telecommunication management; Configuration Management (CM); UTRAN network resources Integration Reference Point (IRP); Network Resource Model (NRM)
   type: main
 source:
 - type: src

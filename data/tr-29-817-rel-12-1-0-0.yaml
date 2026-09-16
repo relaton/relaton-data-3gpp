@@ -1,10 +1,8 @@
----
 id: TR29817REL12100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on eXtensible Markup Language (XML) based access of the Application
-    Function (AF) to the Policy and Charging Rules Function (PCRF)
+- content: Study on eXtensible Markup Language (XML) based access of the Application Function (AF) to the Policy and Charging Rules Function (PCRF)
   type: main
 source:
 - type: src

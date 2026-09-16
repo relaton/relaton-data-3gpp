@@ -1,10 +1,8 @@
----
 id: TR46085REL111100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Subjective tests on the interoperability of the Half Rate / Full Rate /
-    Enhanced Full Rate (HR/FR/EFR) speech codecs, single, tandem and tandem free operation
+- content: Subjective tests on the interoperability of the Half Rate / Full Rate / Enhanced Full Rate (HR/FR/EFR) speech codecs, single, tandem and tandem free operation
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TR33810REL6200
 schema_version: v1.5.6
 type: standard
 title:
-- content: 3G Security; Network Domain Security / Authentication Framework (NDS/AF);
-    Feasibility Study to support NDS/IP evolution
+- content: 3G Security; Network Domain Security / Authentication Framework (NDS/AF); Feasibility Study to support NDS/IP evolution
   type: main
 source:
 - type: src

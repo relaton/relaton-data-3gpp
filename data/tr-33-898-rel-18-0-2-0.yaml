@@ -1,10 +1,8 @@
----
 id: TR33898REL18020
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Study on security and privacy of Artificial Intelligence/Machine Learning
-    (AI/ML)-based services and applications in 5G '
+- content: 'Study on security and privacy of Artificial Intelligence/Machine Learning (AI/ML)-based services and applications in 5G '
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TS26150REL111100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Syndicated Feed Reception (SFR) within 3GPP environments; Protocols and
-    codecs
+- content: Syndicated Feed Reception (SFR) within 3GPP environments; Protocols and codecs
   type: main
 source:
 - type: src

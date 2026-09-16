@@ -1,10 +1,8 @@
----
 id: TR2370077REL19050
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on system architecture for next generation real time communication
-    services; Phase 2
+- content: Study on system architecture for next generation real time communication services; Phase 2
   type: main
 source:
 - type: src

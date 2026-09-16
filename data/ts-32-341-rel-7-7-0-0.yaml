@@ -1,10 +1,8 @@
----
 id: TS32341REL7700
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; File Transfer (FT) Integration Reference
-    Point (IRP); Requirements
+- content: Telecommunication management; File Transfer (FT) Integration Reference Point (IRP); Requirements
   type: main
 source:
 - type: src

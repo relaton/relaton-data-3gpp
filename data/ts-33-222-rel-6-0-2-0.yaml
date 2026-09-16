@@ -1,10 +1,8 @@
----
 id: TS33222REL6020
 schema_version: v1.5.6
 type: standard
 title:
-- content: Generic Authentication Architecture (GAA); Access to network application
-    functions using Hypertext Transfer Protocol over Transport Layer Security (HTTPS)
+- content: Generic Authentication Architecture (GAA); Access to network application functions using Hypertext Transfer Protocol over Transport Layer Security (HTTPS)
   type: main
 source:
 - type: src

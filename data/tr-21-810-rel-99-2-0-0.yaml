@@ -1,10 +1,8 @@
----
 id: TR21810REL99200
 schema_version: v1.5.6
 type: standard
 title:
-- content: Report on multi-mode UE issues; ongoing work and identified additional
-    work
+- content: Report on multi-mode UE issues; ongoing work and identified additional work
   type: main
 docidentifier:
 - content: 3GPP TR 21.810:REL-99/2.0.0

@@ -1,10 +1,8 @@
----
 id: TR34901REL99200
 schema_version: v1.5.6
 type: standard
 title:
-- content: Test Time Optimisation based on statistical approaches; Statistical theory
-    applied and evaluation of statistical significance
+- content: Test Time Optimisation based on statistical approaches; Statistical theory applied and evaluation of statistical significance
   type: main
 source:
 - type: src

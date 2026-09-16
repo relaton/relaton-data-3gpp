@@ -1,10 +1,8 @@
----
 id: TS32182REL9100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; User Data Convergence (UDC); Common baseline
-    information model (CBIM)
+- content: Telecommunication management; User Data Convergence (UDC); Common baseline information model (CBIM)
   type: main
 source:
 - type: src

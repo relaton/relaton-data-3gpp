@@ -1,10 +1,8 @@
----
 id: TS32260REL6020
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management;Charging management;IP Multimedia Subsystem
-    (IMS) charging
+- content: Telecommunication management;Charging management;IP Multimedia Subsystem (IMS) charging
   type: main
 docidentifier:
 - content: 3GPP TS 32.260:REL-6/0.2.0

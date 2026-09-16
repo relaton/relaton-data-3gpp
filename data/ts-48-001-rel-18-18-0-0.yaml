@@ -1,10 +1,8 @@
----
 id: TS48001REL181800
 schema_version: v1.5.6
 type: standard
 title:
-- content: Base Station System - Mobile-services Switching Centre (BSS - MSC) interface;
-    General aspects
+- content: Base Station System - Mobile-services Switching Centre (BSS - MSC) interface; General aspects
   type: main
 source:
 - type: src

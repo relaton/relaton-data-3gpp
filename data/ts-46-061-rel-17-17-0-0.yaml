@@ -1,10 +1,8 @@
----
 id: TS46061REL171700
 schema_version: v1.5.6
 type: standard
 title:
-- content: Substitution and muting of lost frames for Enhanced Full Rate (EFR) speech
-    traffic channels
+- content: Substitution and muting of lost frames for Enhanced Full Rate (EFR) speech traffic channels
   type: main
 source:
 - type: src

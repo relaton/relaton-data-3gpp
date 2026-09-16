@@ -1,10 +1,8 @@
----
 id: TS37324REL15010
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access (E-UTRA) and NR; Service Data
-    Adaptation Protocol (SDAP) specification
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA) and NR; Service Data Adaptation Protocol (SDAP) specification
   type: main
 source:
 - type: src

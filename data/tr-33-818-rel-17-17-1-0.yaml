@@ -1,10 +1,8 @@
----
 id: TR33818REL171710
 schema_version: v1.5.6
 type: standard
 title:
-- content: Security Assurance Methodology (SECAM) and Security Assurance Specification
-    (SCAS) for 3GPP virtualized network products
+- content: Security Assurance Methodology (SECAM) and Security Assurance Specification (SCAS) for 3GPP virtualized network products
   type: main
 source:
 - type: src

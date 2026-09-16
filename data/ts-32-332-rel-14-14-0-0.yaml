@@ -1,10 +1,8 @@
----
 id: TS32332REL141400
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Notification Log (NL) Integration Reference
-    Point (IRP); Information Service (IS)
+- content: Telecommunication management; Notification Log (NL) Integration Reference Point (IRP); Information Service (IS)
   type: main
 source:
 - type: src

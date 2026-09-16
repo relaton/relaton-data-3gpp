@@ -1,10 +1,8 @@
----
 id: TR25889REL6121
 schema_version: v1.5.6
 type: standard
 title:
-- content: Feasibility study considering the viable deployment of UTRA in additional
-    and diverse spectrum arrangements
+- content: Feasibility study considering the viable deployment of UTRA in additional and diverse spectrum arrangements
   type: main
 source:
 - type: src

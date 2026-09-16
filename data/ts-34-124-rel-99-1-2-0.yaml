@@ -1,10 +1,8 @@
----
 id: TS34124REL99120
 schema_version: v1.5.6
 type: standard
 title:
-- content: Electromagnetic compatibility (EMC) requirements for mobile terminals and
-    ancillary equipment
+- content: Electromagnetic compatibility (EMC) requirements for mobile terminals and ancillary equipment
   type: main
 source:
 - type: src

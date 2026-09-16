@@ -1,11 +1,8 @@
----
 id: TS28602REL12100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Core Network (CN) and non-3GPP access interworking
-    system Network Resource Model (NRM) Integration Reference Point (IRP); Information
-    Service (IS)
+- content: Telecommunication management; Core Network (CN) and non-3GPP access interworking system Network Resource Model (NRM) Integration Reference Point (IRP); Information Service (IS)
   type: main
 source:
 - type: src

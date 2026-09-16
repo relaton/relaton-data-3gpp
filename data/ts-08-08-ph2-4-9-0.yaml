@@ -1,10 +1,8 @@
----
 id: TS0808Ph2490
 schema_version: v1.5.6
 type: standard
 title:
-- content: Mobile-services Switching Centre - Base Station system (MSC-BSS) Interface
-    Layer 3 Specification
+- content: Mobile-services Switching Centre - Base Station system (MSC-BSS) Interface Layer 3 Specification
   type: main
 source:
 - type: src

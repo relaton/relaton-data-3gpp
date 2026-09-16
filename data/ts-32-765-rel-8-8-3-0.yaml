@@ -1,11 +1,8 @@
----
 id: TS32765REL8830
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Evolved Universal Terrestrial Radio Access
-    Network (E-UTRAN) Network Resource Model (NRM) Integration Reference Point (IRP);
-    eXtensible Markup Language (XML) definitions
+- content: Telecommunication management; Evolved Universal Terrestrial Radio Access Network (E-UTRAN) Network Resource Model (NRM) Integration Reference Point (IRP); eXtensible Markup Language (XML) definitions
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TS29201REL121210
 schema_version: v1.5.6
 type: standard
 title:
-- content: Representational State Transfer (REST) reference point between Application
-    Function (AF) and Protocol Converter (PC)
+- content: Representational State Transfer (REST) reference point between Application Function (AF) and Protocol Converter (PC)
   type: main
 source:
 - type: src

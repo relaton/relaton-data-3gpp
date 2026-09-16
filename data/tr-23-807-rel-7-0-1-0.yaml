@@ -1,10 +1,8 @@
----
 id: TR23807REL7010
 schema_version: v1.5.6
 type: standard
 title:
-- content: Feasibility study for enhancement of radio performance for Voice over IP
-    Multimedia Subsystem (VoIMS); Report on technical options and conclusions
+- content: Feasibility study for enhancement of radio performance for Voice over IP Multimedia Subsystem (VoIMS); Report on technical options and conclusions
   type: main
 source:
 - type: src

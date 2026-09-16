@@ -1,10 +1,8 @@
----
 id: TR33817REL6073
 schema_version: v1.5.6
 type: standard
 title:
-- content: Feasibility study on (Universal) Subscriber Interface Module (U)SIM security
-    reuse by peripheral devices on local interfaces
+- content: Feasibility study on (Universal) Subscriber Interface Module (U)SIM security reuse by peripheral devices on local interfaces
   type: main
 docidentifier:
 - content: 3GPP TR 33.817:REL-6/0.7.3

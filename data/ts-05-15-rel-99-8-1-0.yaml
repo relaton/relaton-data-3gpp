@@ -1,10 +1,8 @@
----
 id: TS0515REL99810
 schema_version: v1.5.6
 type: standard
 title:
-- content: Release independent Downlink Advanced Receiver Performance (DARP); Implementation
-    guidelines
+- content: Release independent Downlink Advanced Receiver Performance (DARP); Implementation guidelines
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TR26843REL16110
 schema_version: v1.5.6
 type: standard
 title:
-- content: Codec for Enhanced Voice Services (EVS); Study on non-bit-exact conformance
-    criteria and tools for floating-point EVS codec
+- content: Codec for Enhanced Voice Services (EVS); Study on non-bit-exact conformance criteria and tools for floating-point EVS codec
   type: main
 source:
 - type: src

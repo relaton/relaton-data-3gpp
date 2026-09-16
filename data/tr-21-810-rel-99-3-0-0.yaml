@@ -1,10 +1,8 @@
----
 id: TR21810REL99300
 schema_version: v1.5.6
 type: standard
 title:
-- content: Report on multi-mode UE issues; ongoing work and identified additional
-    work
+- content: Report on multi-mode UE issues; ongoing work and identified additional work
   type: main
 source:
 - type: src

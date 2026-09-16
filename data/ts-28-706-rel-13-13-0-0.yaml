@@ -1,10 +1,8 @@
----
 id: TS28706REL131300
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; IP Multimedia Subsystem (IMS) Network Resource
-    Model (NRM) Integration Reference Point (IRP); Solution Set (SS) definitions
+- content: Telecommunication management; IP Multimedia Subsystem (IMS) Network Resource Model (NRM) Integration Reference Point (IRP); Solution Set (SS) definitions
   type: main
 source:
 - type: src

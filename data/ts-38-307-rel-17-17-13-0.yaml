@@ -1,10 +1,8 @@
----
 id: TS38307REL1717130
 schema_version: v1.5.6
 type: standard
 title:
-- content: NR; Requirements on User Equipments (UEs) supporting a release-independent
-    frequency band
+- content: NR; Requirements on User Equipments (UEs) supporting a release-independent frequency band
   type: main
 source:
 - type: src

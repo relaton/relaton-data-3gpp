@@ -1,10 +1,8 @@
----
 id: TS32314REL6010
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Generic Integration Reference Point (IRP)
-    management; Common Management Information Protocol (CMIP) Solution Set (SS)
+- content: Telecommunication management; Generic Integration Reference Point (IRP) management; Common Management Information Protocol (CMIP) Solution Set (SS)
   type: main
 docidentifier:
 - content: 3GPP TS 32.314:REL-6/0.1.0

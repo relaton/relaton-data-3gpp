@@ -1,10 +1,8 @@
----
 id: TR38898REL18090
 schema_version: v1.5.6
 type: standard
 title:
-- content: High power UE for FR1 for DC_R18_xBLTE_yBNR_zDLnUL with power class m (x=
-    1, 2, 3, 4; y=1, 2; m<3)
+- content: High power UE for FR1 for DC_R18_xBLTE_yBNR_zDLnUL with power class m (x= 1, 2, 3, 4; y=1, 2; m<3)
   type: main
 source:
 - type: src

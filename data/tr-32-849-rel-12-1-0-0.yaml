@@ -1,10 +1,8 @@
----
 id: TR32849REL12100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on Charging aspects of Roaming End-to-end scenarios with VoLTE IMS
-    and interconnecting networks
+- content: Study on Charging aspects of Roaming End-to-end scenarios with VoLTE IMS and interconnecting networks
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TR25873REL11010
 schema_version: v1.5.6
 type: standard
 title:
-- content: UE Demodulation Performance Requirements Under Multiple-cell Scenario for
-    1.28Mcps TDD
+- content: UE Demodulation Performance Requirements Under Multiple-cell Scenario for 1.28Mcps TDD
   type: main
 docidentifier:
 - content: 3GPP TR 25.873:REL-11/0.1.0

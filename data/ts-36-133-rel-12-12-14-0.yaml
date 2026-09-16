@@ -1,10 +1,8 @@
----
 id: TS36133REL1212140
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access (E-UTRA); Requirements for support
-    of radio resource management
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); Requirements for support of radio resource management
   type: main
 source:
 - type: src

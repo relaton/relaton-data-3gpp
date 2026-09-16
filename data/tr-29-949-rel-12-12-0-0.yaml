@@ -1,10 +1,8 @@
----
 id: TR29949REL121200
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on technical aspects on roaming end-to-end scenarios with Voice over
-    LTE (VoLTE) IP Multimedia Subsystem (IMS) and other networks
+- content: Study on technical aspects on roaming end-to-end scenarios with Voice over LTE (VoLTE) IP Multimedia Subsystem (IMS) and other networks
   type: main
 source:
 - type: src

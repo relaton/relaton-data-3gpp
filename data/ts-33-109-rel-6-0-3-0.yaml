@@ -1,10 +1,8 @@
----
 id: TS33109REL6030
 schema_version: v1.5.6
 type: standard
 title:
-- content: Bootstrapping of application security using AKA and support for subscriber
-    certificates; System description
+- content: Bootstrapping of application security using AKA and support for subscriber certificates; System description
   type: main
 source:
 - type: src

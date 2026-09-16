@@ -1,10 +1,8 @@
----
 id: TR32804REL6600
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Control of Remote Electrical Tilting (RET)
-    antennas; Requirements
+- content: Telecommunication management; Control of Remote Electrical Tilting (RET) antennas; Requirements
   type: main
 source:
 - type: src

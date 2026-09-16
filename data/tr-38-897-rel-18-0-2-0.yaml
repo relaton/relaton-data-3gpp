@@ -1,10 +1,8 @@
----
 id: TR38897REL18020
 schema_version: v1.5.6
 type: standard
 title:
-- content: High power UE for NR TDD intra-band carrier aggregation in frequency range
-    FR1
+- content: High power UE for NR TDD intra-band carrier aggregation in frequency range FR1
   type: main
 source:
 - type: src

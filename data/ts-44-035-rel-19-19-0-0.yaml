@@ -1,11 +1,8 @@
----
 id: TS44035REL191900
 schema_version: v1.5.6
 type: standard
 title:
-- content: GSM/EDGE Location Services (LCS); Broadcast network assistance for Enhanced
-    Observed Time Difference (E-OTD) and Global Positioning System (GPS) positioning
-    methods
+- content: GSM/EDGE Location Services (LCS); Broadcast network assistance for Enhanced Observed Time Difference (E-OTD) and Global Positioning System (GPS) positioning methods
   type: main
 source:
 - type: src

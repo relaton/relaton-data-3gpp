@@ -1,10 +1,8 @@
----
 id: TR33812REL8002
 schema_version: v1.5.6
 type: standard
 title:
-- content: Feasibility study on the security aspects of remote provisioning and change
-    of subscription for Machine to Machine (M2M) equipment
+- content: Feasibility study on the security aspects of remote provisioning and change of subscription for Machine to Machine (M2M) equipment
   type: main
 docidentifier:
 - content: 3GPP TR 33.812:REL-8/0.0.2

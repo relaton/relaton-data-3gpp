@@ -1,10 +1,8 @@
----
 id: TS26191REL121200
 schema_version: v1.5.6
 type: standard
 title:
-- content: Speech codec speech processing functions; Adaptive Multi-Rate - Wideband
-    (AMR-WB) speech codec; Error concealment of erroneous or lost frames
+- content: Speech codec speech processing functions; Adaptive Multi-Rate - Wideband (AMR-WB) speech codec; Error concealment of erroneous or lost frames
   type: main
 source:
 - type: src

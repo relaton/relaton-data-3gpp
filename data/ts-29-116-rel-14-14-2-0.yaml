@@ -1,10 +1,8 @@
----
 id: TS29116REL141420
 schema_version: v1.5.6
 type: standard
 title:
-- content: Representational state transfer over xMB reference point between content
-    provider and BM-SC
+- content: Representational state transfer over xMB reference point between content provider and BM-SC
   type: main
 source:
 - type: src

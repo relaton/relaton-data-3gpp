@@ -1,10 +1,8 @@
----
 id: TR377175111REL17020
 schema_version: v1.5.6
 type: standard
 title:
-- content: Rel-17 Dual Connectivity (DC) of 5 bands LTE inter-band CA (5DL/1UL) and
-    1 NR band (1DL/1UL)
+- content: Rel-17 Dual Connectivity (DC) of 5 bands LTE inter-band CA (5DL/1UL) and 1 NR band (1DL/1UL)
   type: main
 source:
 - type: src

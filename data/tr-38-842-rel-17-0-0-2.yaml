@@ -1,11 +1,8 @@
----
 id: TR38842REL17002
 schema_version: v1.5.6
 type: standard
 title:
-- content: High power User Equipment (UE) (power class 2) for NR inter-band Carrier
-    Aggregation (CA) and Supplementary Uplink (SUL) configurations with x (x>2) bands
-    DL and y (y=1, 2) bands UL
+- content: High power User Equipment (UE) (power class 2) for NR inter-band Carrier Aggregation (CA) and Supplementary Uplink (SUL) configurations with x (x>2) bands DL and y (y=1, 2) bands UL
   type: main
 docidentifier:
 - content: 3GPP TR 38.842:REL-17/0.0.2

@@ -1,10 +1,8 @@
----
 id: TR33894REL18100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on applicability of the zero trust security principles in mobile
-    networks
+- content: Study on applicability of the zero trust security principles in mobile networks
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TS24384REL13010
 schema_version: v1.5.6
 type: standard
 title:
-- content: Mission Critical Push To Talk (MCPTT) configuration management; Protocol
-    specification
+- content: Mission Critical Push To Talk (MCPTT) configuration management; Protocol specification
   type: main
 docidentifier:
 - content: 3GPP TS 24.384:REL-13/0.1.0

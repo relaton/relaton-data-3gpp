@@ -1,10 +1,8 @@
----
 id: TR50059REL4400
 schema_version: v1.5.6
 type: standard
 title:
-- content: Enhanced Data rates for GSM Evolution (EDGE); Project scheduling and open
-    issues for EDGE
+- content: Enhanced Data rates for GSM Evolution (EDGE); Project scheduling and open issues for EDGE
   type: main
 source:
 - type: src

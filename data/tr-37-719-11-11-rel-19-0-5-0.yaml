@@ -1,11 +1,8 @@
----
 id: TR377191111REL19050
 schema_version: v1.5.6
 type: standard
 title:
-- content: Rel-19 Dual Connectivity of EN-DC and NE-DC configurations consisting of
-    2 different bands downlink (DL) with 2 different bands uplink (UL) (1 LTE band
-    and 1 NR band)
+- content: Rel-19 Dual Connectivity of EN-DC and NE-DC configurations consisting of 2 different bands downlink (DL) with 2 different bands uplink (UL) (1 LTE band and 1 NR band)
   type: main
 source:
 - type: src
@@ -49,8 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Chunghwa Telecommunication Laboratories, Chunghwa Telecommunication
-            Co.
+        - content: Chunghwa Telecommunication Laboratories, Chunghwa Telecommunication Co.
 - role:
   - type: author
     description:

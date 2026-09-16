@@ -1,10 +1,8 @@
----
 id: TR37911REL18020
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on self-evaluation towards the IMT-2020 submission of the 3GPP Satellite
-    Radio Interface Technology
+- content: Study on self-evaluation towards the IMT-2020 submission of the 3GPP Satellite Radio Interface Technology
   type: main
 source:
 - type: src

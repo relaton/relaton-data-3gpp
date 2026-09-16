@@ -1,10 +1,8 @@
----
 id: TR367180201REL18001
 schema_version: v1.5.6
 type: standard
 title:
-- content: Rel-18 LTE Advanced Carrier Aggregation for x bands (1<= x<=6) DL with
-    y bands (y=1,2) UL
+- content: Rel-18 LTE Advanced Carrier Aggregation for x bands (1<= x<=6) DL with y bands (y=1,2) UL
   type: main
 docidentifier:
 - content: 3GPP TR 36.718-02-01:REL-18/0.0.1

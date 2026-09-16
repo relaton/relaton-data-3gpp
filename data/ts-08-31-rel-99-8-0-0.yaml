@@ -1,10 +1,8 @@
----
 id: TS0831REL99800
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Location Services (LCS): Serving Mobile Location Centre - Serving Mobile
-    Location Centre (SMLC - SMLC); SMLCPP specification'
+- content: 'Location Services (LCS): Serving Mobile Location Centre - Serving Mobile Location Centre (SMLC - SMLC); SMLCPP specification'
   type: main
 source:
 - type: src

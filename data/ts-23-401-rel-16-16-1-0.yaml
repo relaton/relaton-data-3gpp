@@ -1,10 +1,8 @@
----
 id: TS23401REL161610
 schema_version: v1.5.6
 type: standard
 title:
-- content: General Packet Radio Service (GPRS) enhancements for Evolved Universal
-    Terrestrial Radio Access Network (E-UTRAN) access
+- content: General Packet Radio Service (GPRS) enhancements for Evolved Universal Terrestrial Radio Access Network (E-UTRAN) access
   type: main
 source:
 - type: src

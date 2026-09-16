@@ -1,11 +1,8 @@
----
 id: TS35232REL171700
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Specification of the TUAK algorithm set: A second example algorithm set
-    for the 3GPP authentication and key generation functions f1, f1*, f2, f3, f4,
-    f5 and f5*; Document 2: Implementers’ test data'
+- content: 'Specification of the TUAK algorithm set: A second example algorithm set for the 3GPP authentication and key generation functions f1, f1*, f2, f3, f4, f5 and f5*; Document 2: Implementers’ test data'
   type: main
 source:
 - type: src

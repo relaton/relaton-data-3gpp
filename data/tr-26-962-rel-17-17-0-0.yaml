@@ -1,10 +1,8 @@
----
 id: TR26962REL171700
 schema_version: v1.5.6
 type: standard
 title:
-- content: Immersive Teleconferencing and Telepresence for Remote Terminals (ITT4RT)
-    Operation and Usage Guidelines
+- content: Immersive Teleconferencing and Telepresence for Remote Terminals (ITT4RT) Operation and Usage Guidelines
   type: main
 source:
 - type: src

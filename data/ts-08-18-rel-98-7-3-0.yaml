@@ -1,10 +1,8 @@
----
 id: TS0818REL98730
 schema_version: v1.5.6
 type: standard
 title:
-- content: General Packet Radio Service (GPRS); Base Station System (BSS) - Serving
-    GPRS Support Node (SGSN); BSS GPRS Protocol
+- content: General Packet Radio Service (GPRS); Base Station System (BSS) - Serving GPRS Support Node (SGSN); BSS GPRS Protocol
   type: main
 source:
 - type: src

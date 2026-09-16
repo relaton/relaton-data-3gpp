@@ -1,10 +1,8 @@
----
 id: TS26237REL9900
 schema_version: v1.5.6
 type: standard
 title:
-- content: IP Multimedia Subsystem (IMS) based Packet Switch Streaming (PSS) and Multimedia
-    Broadcast/Multicast Service (MBMS) User Service; Protocols
+- content: IP Multimedia Subsystem (IMS) based Packet Switch Streaming (PSS) and Multimedia Broadcast/Multicast Service (MBMS) User Service; Protocols
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TS36413REL101000
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN); S1 Application
-    Protocol (S1AP)
+- content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN); S1 Application Protocol (S1AP)
   type: main
 source:
 - type: src

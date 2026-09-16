@@ -1,10 +1,8 @@
----
 id: TS0293REL98700
 schema_version: v1.5.6
 type: standard
 title:
-- content: Completion of Calls to Busy Subcriber (CCBS) Service  Description; Stage
-    1
+- content: Completion of Calls to Busy Subcriber (CCBS) Service  Description; Stage 1
   type: main
 source:
 - type: src

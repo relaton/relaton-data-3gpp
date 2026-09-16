@@ -1,10 +1,8 @@
----
 id: TR25864REL10030
 schema_version: v1.5.6
 type: standard
 title:
-- content: Downlink configurations for Four-carrier High Speed Download Packet Access
-    (4C-HSDPA)
+- content: Downlink configurations for Four-carrier High Speed Download Packet Access (4C-HSDPA)
   type: main
 docidentifier:
 - content: 3GPP TR 25.864:REL-10/0.3.0

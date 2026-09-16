@@ -1,10 +1,8 @@
----
 id: TS24141REL66130
 schema_version: v1.5.6
 type: standard
 title:
-- content: Presence service using the IP Multimedia (IM) Core Network (CN) subsystem;
-    Stage 3
+- content: Presence service using the IP Multimedia (IM) Core Network (CN) subsystem; Stage 3
   type: main
 source:
 - type: src

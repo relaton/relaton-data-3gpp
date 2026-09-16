@@ -1,10 +1,8 @@
----
 id: TS29006REL99300
 schema_version: v1.5.6
 type: standard
 title:
-- content: Interworking between a PLMN and the ISDN or PSTN for support of Packet
-    Switched data transmission services
+- content: Interworking between a PLMN and the ISDN or PSTN for support of Packet Switched data transmission services
   type: main
 source:
 - type: src

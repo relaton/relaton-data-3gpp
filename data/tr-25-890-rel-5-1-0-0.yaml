@@ -1,10 +1,8 @@
----
 id: TR25890REL5100
 schema_version: v1.5.6
 type: standard
 title:
-- content: High Speed Downlink Packet Access (HSDPA); User Equipment (UE) radio transmission
-    and reception (FDD)
+- content: High Speed Downlink Packet Access (HSDPA); User Equipment (UE) radio transmission and reception (FDD)
   type: main
 source:
 - type: src

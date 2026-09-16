@@ -1,10 +1,8 @@
----
 id: TR23734REL16010
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on enhancement of 5G System (5GS) for vertical and Local Area Network
-    (LAN) services
+- content: Study on enhancement of 5G System (5GS) for vertical and Local Area Network (LAN) services
   type: main
 source:
 - type: src

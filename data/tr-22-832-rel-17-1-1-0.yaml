@@ -1,10 +1,8 @@
----
 id: TR22832REL17110
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on enhancements for cyber-physical control applications in vertical
-    domains
+- content: Study on enhancements for cyber-physical control applications in vertical domains
   type: main
 source:
 - type: src

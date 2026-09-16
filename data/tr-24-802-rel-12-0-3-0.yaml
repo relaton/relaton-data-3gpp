@@ -1,10 +1,8 @@
----
 id: TR24802REL12030
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on Indication of Network to Network Interface (NNI) routeing scenarios
-    in Session Initiation Protocol (SIP) requests in the IP Multimedia Subsystem (IMS)
+- content: Study on Indication of Network to Network Interface (NNI) routeing scenarios in Session Initiation Protocol (SIP) requests in the IP Multimedia Subsystem (IMS)
   type: main
 source:
 - type: src

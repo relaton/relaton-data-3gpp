@@ -1,10 +1,8 @@
----
 id: TR33995REL131301
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on security aspects of integration of Single Sign-On (SSO) frameworks
-    with 3GPP operator-controlled resources and mechanisms
+- content: Study on security aspects of integration of Single Sign-On (SSO) frameworks with 3GPP operator-controlled resources and mechanisms
   type: main
 source:
 - type: src

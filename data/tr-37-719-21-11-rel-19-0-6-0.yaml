@@ -1,11 +1,8 @@
----
 id: TR377192111REL19060
 schema_version: v1.5.6
 type: standard
 title:
-- content: Rel-19 Dual Connectivity of EN-DC and NE-DC configurations consisting of
-    2 bands LTE inter-band CA (2DL/1UL) and 1 band NR (1DL/1UL), or consisting of
-    1 band LTE (1DL/1UL) and 2 bands NR inter-band CA (2DL/1UL)
+- content: Rel-19 Dual Connectivity of EN-DC and NE-DC configurations consisting of 2 bands LTE inter-band CA (2DL/1UL) and 1 band NR (1DL/1UL), or consisting of 1 band LTE (1DL/1UL) and 2 bands NR inter-band CA (2DL/1UL)
   type: main
 source:
 - type: src

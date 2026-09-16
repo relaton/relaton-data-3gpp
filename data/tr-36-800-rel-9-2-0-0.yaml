@@ -1,10 +1,8 @@
----
 id: TR36800REL9200
 schema_version: v1.5.6
 type: standard
 title:
-- content: Universal Terrestrial Radio Access (UTRA) and Evolved Universal Terrestrial
-    Radio Access (E-UTRA); Extended UMTS / LTE 800 Work Item Technical Report
+- content: Universal Terrestrial Radio Access (UTRA) and Evolved Universal Terrestrial Radio Access (E-UTRA); Extended UMTS / LTE 800 Work Item Technical Report
   type: main
 source:
 - type: src

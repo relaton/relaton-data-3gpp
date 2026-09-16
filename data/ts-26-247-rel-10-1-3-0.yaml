@@ -1,10 +1,8 @@
----
 id: TS26247REL10130
 schema_version: v1.5.6
 type: standard
 title:
-- content: Transparent end-to-end Packet-switched Streaming Service (PSS); Progressive
-    Download and Dynamic Adaptive Streaming over HTTP (3GP-DASH)
+- content: Transparent end-to-end Packet-switched Streaming Service (PSS); Progressive Download and Dynamic Adaptive Streaming over HTTP (3GP-DASH)
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TR36741REL14001
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on further enhancements to Coordinated Multi-Point (CoMP) operation
-    for LTE
+- content: Study on further enhancements to Coordinated Multi-Point (CoMP) operation for LTE
   type: main
 source:
 - type: src

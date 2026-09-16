@@ -1,10 +1,8 @@
----
 id: TR36895REL131300
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access (E-UTRA); European 700 supplemental
-    downlink band (738-758 MHz) in E-UTRA
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); European 700 supplemental downlink band (738-758 MHz) in E-UTRA
   type: main
 source:
 - type: src

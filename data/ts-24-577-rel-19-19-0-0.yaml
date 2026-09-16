@@ -1,10 +1,8 @@
----
 id: TS24577REL191900
 schema_version: v1.5.6
 type: standard
 title:
-- content: Aircraft-to-Everything (A2X) services in 5G System (5GS); Protocol aspects;
-    Stage 3
+- content: Aircraft-to-Everything (A2X) services in 5G System (5GS); Protocol aspects; Stage 3
   type: main
 source:
 - type: src

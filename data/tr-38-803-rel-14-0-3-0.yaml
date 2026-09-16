@@ -1,10 +1,8 @@
----
 id: TR38803REL14030
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Study on new radio access technology: Radio Frequency (RF) and co-existence
-    aspects'
+- content: 'Study on new radio access technology: Radio Frequency (RF) and co-existence aspects'
   type: main
 docidentifier:
 - content: 3GPP TR 38.803:REL-14/0.3.0

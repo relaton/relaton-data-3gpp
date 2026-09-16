@@ -1,10 +1,8 @@
----
 id: TS36307REL99160
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access (E-UTRA); Requirements on User
-    Equipments (UEs) supporting a release-independent frequency band
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); Requirements on User Equipments (UEs) supporting a release-independent frequency band
   type: main
 source:
 - type: src

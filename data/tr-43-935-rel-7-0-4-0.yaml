@@ -1,10 +1,8 @@
----
 id: TR43935REL7040
 schema_version: v1.5.6
 type: standard
 title:
-- content: Feasibility study of enhanced support for video telephony service over
-    GERAN via the A interface
+- content: Feasibility study of enhanced support for video telephony service over GERAN via the A interface
   type: main
 source:
 - type: src

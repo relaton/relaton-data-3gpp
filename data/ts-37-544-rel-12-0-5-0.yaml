@@ -1,10 +1,8 @@
----
 id: TS37544REL12050
 schema_version: v1.5.6
 type: standard
 title:
-- content: Universal Terrestrial Radio Access (UTRA) and Evolved UTRA (E-UTRA); User
-    Equipment (UE) Over The Air (OTA) performance; Conformance testing
+- content: Universal Terrestrial Radio Access (UTRA) and Evolved UTRA (E-UTRA); User Equipment (UE) Over The Air (OTA) performance; Conformance testing
   type: main
 docidentifier:
 - content: 3GPP TS 37.544:REL-12/0.5.0

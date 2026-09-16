@@ -1,10 +1,8 @@
----
 id: TR36913REL131300
 schema_version: v1.5.6
 type: standard
 title:
-- content: Requirements for further advancements for Evolved Universal Terrestrial
-    Radio Access (E-UTRA)  (LTE-Advanced)
+- content: Requirements for further advancements for Evolved Universal Terrestrial Radio Access (E-UTRA)  (LTE-Advanced)
   type: main
 source:
 - type: src

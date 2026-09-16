@@ -1,10 +1,8 @@
----
 id: TS0961REL98790
 schema_version: v1.5.6
 type: standard
 title:
-- content: General Packet Radio Service (GPRS); Interworking between the Public Land
-    Mobile Network (PLMN) supporting GPRS and Packet Data Networks (PDN)
+- content: General Packet Radio Service (GPRS); Interworking between the Public Land Mobile Network (PLMN) supporting GPRS and Packet Data Networks (PDN)
   type: main
 source:
 - type: src

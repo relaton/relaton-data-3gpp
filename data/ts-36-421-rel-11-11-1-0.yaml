@@ -1,10 +1,8 @@
----
 id: TS36421REL111110
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN); X2 layer
-    1
+- content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN); X2 layer 1
   type: main
 source:
 - type: src

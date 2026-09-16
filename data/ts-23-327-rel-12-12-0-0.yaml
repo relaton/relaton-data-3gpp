@@ -1,10 +1,8 @@
----
 id: TS23327REL121200
 schema_version: v1.5.6
 type: standard
 title:
-- content: Mobility between 3GPP-Wireless Local Area Network (WLAN) interworking and
-    3GPP systems
+- content: Mobility between 3GPP-Wireless Local Area Network (WLAN) interworking and 3GPP systems
   type: main
 source:
 - type: src

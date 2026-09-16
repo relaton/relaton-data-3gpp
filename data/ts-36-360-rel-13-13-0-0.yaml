@@ -1,10 +1,8 @@
----
 id: TS36360REL131300
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-WLAN Aggregation
-    Adaptation Protocol (LWAAP) specification
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-WLAN Aggregation Adaptation Protocol (LWAAP) specification
   type: main
 source:
 - type: src

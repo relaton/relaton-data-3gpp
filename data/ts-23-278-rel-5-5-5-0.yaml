@@ -1,10 +1,8 @@
----
 id: TS23278REL5550
 schema_version: v1.5.6
 type: standard
 title:
-- content: Customised Applications for Mobile network Enhanced Logic (CAMEL) Phase
-    4; Stage 2; IM CN Interworking
+- content: Customised Applications for Mobile network Enhanced Logic (CAMEL) Phase 4; Stage 2; IM CN Interworking
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TR37941REL15020
 schema_version: v1.5.6
 type: standard
 title:
-- content: Radio Frequency (RF) conformance testing background for radiated Base Station
-    (BS) requirements
+- content: Radio Frequency (RF) conformance testing background for radiated Base Station (BS) requirements
   type: main
 docidentifier:
 - content: 3GPP TR 37.941:REL-15/0.2.0

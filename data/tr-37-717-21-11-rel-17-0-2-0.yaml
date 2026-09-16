@@ -1,10 +1,8 @@
----
 id: TR377172111REL17020
 schema_version: v1.5.6
 type: standard
 title:
-- content: Rel-17 Dual Connectivity (DC) of 2 bands LTE inter-band CA (2DL/1UL) and
-    1 NR band (1DL/1UL)
+- content: Rel-17 Dual Connectivity (DC) of 2 bands LTE inter-band CA (2DL/1UL) and 1 NR band (1DL/1UL)
   type: main
 docidentifier:
 - content: 3GPP TR 37.717-21-11:REL-17/0.2.0

@@ -1,10 +1,8 @@
----
 id: TR28832REL181800
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on management aspects of Ultra-Reliable and Low Latency Communications
-    (URLLC)
+- content: Study on management aspects of Ultra-Reliable and Low Latency Communications (URLLC)
   type: main
 source:
 - type: src

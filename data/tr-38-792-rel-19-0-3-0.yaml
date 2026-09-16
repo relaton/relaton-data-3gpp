@@ -1,10 +1,8 @@
----
 id: TR38792REL19030
 schema_version: v1.5.6
 type: standard
 title:
-- content: High power UE (power class 1.5) for NR Inter-band Carrier Aggregation (CA)/Dual
-    connectivity (DC) with high power on both FDD and TDD bands
+- content: High power UE (power class 1.5) for NR Inter-band Carrier Aggregation (CA)/Dual connectivity (DC) with high power on both FDD and TDD bands
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TS24175REL16101
 schema_version: v1.5.6
 type: standard
 title:
-- content: Management Object (MO) for multi-device and multi-identity in the IP Multimedia
-    Subsystem (IMS)
+- content: Management Object (MO) for multi-device and multi-identity in the IP Multimedia Subsystem (IMS)
   type: main
 source:
 - type: src

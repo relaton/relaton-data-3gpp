@@ -1,10 +1,8 @@
----
 id: TS37320REL171710
 schema_version: v1.5.6
 type: standard
 title:
-- content: Radio measurement collection for Minimization of Drive Tests (MDT); Overall
-    description; Stage 2
+- content: Radio measurement collection for Minimization of Drive Tests (MDT); Overall description; Stage 2
   type: main
 source:
 - type: src

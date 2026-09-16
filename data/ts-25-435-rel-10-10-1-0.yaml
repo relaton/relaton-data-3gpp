@@ -1,10 +1,8 @@
----
 id: TS25435REL101010
 schema_version: v1.5.6
 type: standard
 title:
-- content: UTRAN Iub interface user plane protocols for Common Transport Channel data
-    streams
+- content: UTRAN Iub interface user plane protocols for Common Transport Channel data streams
   type: main
 source:
 - type: src

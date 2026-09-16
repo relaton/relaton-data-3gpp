@@ -1,10 +1,8 @@
----
 id: TR22843REL19010
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on on Additional capabilities of mobile networks for drone operations
-    and managements
+- content: Study on on Additional capabilities of mobile networks for drone operations and managements
   type: main
 source:
 - type: src

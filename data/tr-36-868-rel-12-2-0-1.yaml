@@ -1,10 +1,8 @@
----
 id: TR36868REL12201
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access (E-UTRA); Study on group communication
-    for E-UTRA
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); Study on group communication for E-UTRA
   type: main
 docidentifier:
 - content: 3GPP TR 36.868:REL-12/2.0.1

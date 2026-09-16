@@ -1,10 +1,8 @@
----
 id: TS23195REL5010
 schema_version: v1.5.6
 type: standard
 title:
-- content: Provision of User Equipment Specific Behaviour Information (UESBI) to network
-    entities
+- content: Provision of User Equipment Specific Behaviour Information (UESBI) to network entities
   type: main
 source:
 - type: src

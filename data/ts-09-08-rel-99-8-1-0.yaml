@@ -1,10 +1,8 @@
----
 id: TS0908REL99810
 schema_version: v1.5.6
 type: standard
 title:
-- content: Application of the Base Station System Application Part (BSSAP) on the
-    E-Interface
+- content: Application of the Base Station System Application Part (BSSAP) on the E-Interface
   type: main
 source:
 - type: src

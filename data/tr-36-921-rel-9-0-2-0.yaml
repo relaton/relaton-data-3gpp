@@ -1,10 +1,8 @@
----
 id: TR36921REL9020
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access (E-UTRA); FDD Home eNode B (HeNB)
-    Radio Frequency (RF) requirements analysis
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); FDD Home eNode B (HeNB) Radio Frequency (RF) requirements analysis
   type: main
 docidentifier:
 - content: 3GPP TR 36.921:REL-9/0.2.0

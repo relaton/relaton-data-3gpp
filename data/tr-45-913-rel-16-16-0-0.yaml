@@ -1,10 +1,8 @@
----
 id: TR45913REL161600
 schema_version: v1.5.6
 type: standard
 title:
-- content: Optimized transmit pulse shape for downlink Enhanced General Packet Radio
-    Service (EGPRS2-B)
+- content: Optimized transmit pulse shape for downlink Enhanced General Packet Radio Service (EGPRS2-B)
   type: main
 source:
 - type: src

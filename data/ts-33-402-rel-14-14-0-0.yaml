@@ -1,10 +1,8 @@
----
 id: TS33402REL141400
 schema_version: v1.5.6
 type: standard
 title:
-- content: 3GPP System Architecture Evolution (SAE); Security aspects of non-3GPP
-    accesses
+- content: 3GPP System Architecture Evolution (SAE); Security aspects of non-3GPP accesses
   type: main
 source:
 - type: src

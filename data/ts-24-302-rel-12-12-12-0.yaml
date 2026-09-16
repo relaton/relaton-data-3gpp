@@ -1,10 +1,8 @@
----
 id: TS24302REL1212120
 schema_version: v1.5.6
 type: standard
 title:
-- content: Access to the 3GPP Evolved Packet Core (EPC) via non-3GPP access networks;
-    Stage 3
+- content: Access to the 3GPP Evolved Packet Core (EPC) via non-3GPP access networks; Stage 3
   type: main
 source:
 - type: src

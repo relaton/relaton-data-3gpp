@@ -1,10 +1,8 @@
----
 id: TR0347REL99800
 schema_version: v1.5.6
 type: standard
 title:
-- content: Example Protocol Stacks for Interconnecting Service Centre(s) (SC) and
-    Mobile Services Switching Centre(s) (MSC)
+- content: Example Protocol Stacks for Interconnecting Service Centre(s) (SC) and Mobile Services Switching Centre(s) (MSC)
   type: main
 docidentifier:
 - content: 3GPP TR 03.47:REL-99/8.0.0

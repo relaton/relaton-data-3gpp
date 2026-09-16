@@ -1,10 +1,8 @@
----
 id: TS33531REL20020
 schema_version: v1.5.6
 type: standard
 title:
-- content: Security Assurance Specification (SCAS) for the Common API Framework (CAPIF)
-    core function
+- content: Security Assurance Specification (SCAS) for the Common API Framework (CAPIF) core function
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TR33814REL161600
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on the security of the enhancement to the 5G Core (5GC) location
-    services
+- content: Study on the security of the enhancement to the 5G Core (5GC) location services
   type: main
 source:
 - type: src
@@ -48,8 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: China Academy of Telecommunication Technology - (Datang Telecom
-            Technology and Industry Group)
+        - content: China Academy of Telecommunication Technology - (Datang Telecom Technology and Industry Group)
 - role:
   - type: author
     description:

@@ -1,10 +1,8 @@
----
 id: TR36863REL12001
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on Cell-specific Reference Signals (CRS) interference mitigation
-    for homogenous deployments of LTE
+- content: Study on Cell-specific Reference Signals (CRS) interference mitigation for homogenous deployments of LTE
   type: main
 source:
 - type: src

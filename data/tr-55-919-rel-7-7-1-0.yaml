@@ -1,11 +1,8 @@
----
 id: TR55919REL7710
 schema_version: v1.5.6
 type: standard
 title:
-- content: '3G Security; Specification of the A5/3 encryption algorithms for GSM and
-    ECSD, and the GEA3 encryption algorithm for GPRS; Document 4: Design and evaluation
-    report'
+- content: '3G Security; Specification of the A5/3 encryption algorithms for GSM and ECSD, and the GEA3 encryption algorithm for GPRS; Document 4: Design and evaluation report'
   type: main
 source:
 - type: src

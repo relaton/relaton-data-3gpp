@@ -1,10 +1,8 @@
----
 id: TS24109REL6640
 schema_version: v1.5.6
 type: standard
 title:
-- content: Bootstrapping interface (Ub) and network application function interface
-    (Ua); Protocol details
+- content: Bootstrapping interface (Ub) and network application function interface (Ua); Protocol details
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TR36744REL14010
 schema_version: v1.5.6
 type: standard
 title:
-- content: Citizens Broadband Radio Service (CBRS) 3.5 GHz band for LTE in the United
-    States
+- content: Citizens Broadband Radio Service (CBRS) 3.5 GHz band for LTE in the United States
   type: main
 docidentifier:
 - content: 3GPP TR 36.744:REL-14/0.1.0

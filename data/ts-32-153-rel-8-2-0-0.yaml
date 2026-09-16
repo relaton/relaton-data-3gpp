@@ -1,10 +1,8 @@
----
 id: TS32153REL8200
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management;  Integration Reference Point (IRP) technology
-    specific templates, rules and guidelines
+- content: Telecommunication management;  Integration Reference Point (IRP) technology specific templates, rules and guidelines
   type: main
 docidentifier:
 - content: 3GPP TS 32.153:REL-8/2.0.0

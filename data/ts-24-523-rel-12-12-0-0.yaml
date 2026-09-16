@@ -1,10 +1,8 @@
----
 id: TS24523REL121200
 schema_version: v1.5.6
 type: standard
 title:
-- content: Core and enterprise Next Generation Network (NGN) interaction scenarios;
-    Architecture and functional description
+- content: Core and enterprise Next Generation Network (NGN) interaction scenarios; Architecture and functional description
   type: main
 source:
 - type: src

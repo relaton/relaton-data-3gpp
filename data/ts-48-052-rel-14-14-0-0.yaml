@@ -1,10 +1,8 @@
----
 id: TS48052REL141400
 schema_version: v1.5.6
 type: standard
 title:
-- content: Base Station Controller - Base Transceiver Station (BSC - BTS) interface;
-    Interface principles
+- content: Base Station Controller - Base Transceiver Station (BSC - BTS) interface; Interface principles
   type: main
 source:
 - type: src

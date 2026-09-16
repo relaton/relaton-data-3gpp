@@ -1,11 +1,8 @@
----
 id: TS29585REL181810
 schema_version: v1.5.6
 type: standard
 title:
-- content: 5G System (5GS); Session Management Function (SMF) / Centralized User Configuration
-    (CUC) to Access Network Talker Listener (AN-TL) and Core Network Talker Listener
-    (CN-TL) protocol aspects; Stage 3
+- content: 5G System (5GS); Session Management Function (SMF) / Centralized User Configuration (CUC) to Access Network Talker Listener (AN-TL) and Core Network Talker Listener (CN-TL) protocol aspects; Stage 3
   type: main
 source:
 - type: src

@@ -1,11 +1,8 @@
----
 id: TS38561REL17200
 schema_version: v1.5.6
 type: standard
 title:
-- content: NR; User Equipment (UE) conformance specification; UE TRP (Total Radiated
-    Power) and TRS (Total Radiated Sensitivity) requirements and test methodologies
-    for FR1 (NR SA and EN-DC)
+- content: NR; User Equipment (UE) conformance specification; UE TRP (Total Radiated Power) and TRS (Total Radiated Sensitivity) requirements and test methodologies for FR1 (NR SA and EN-DC)
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TS37104REL1717120
 schema_version: v1.5.6
 type: standard
 title:
-- content: NR, E-UTRA, UTRA and GSM/EDGE; Multi-Standard Radio (MSR) Base Station
-    (BS) radio transmission and reception
+- content: NR, E-UTRA, UTRA and GSM/EDGE; Multi-Standard Radio (MSR) Base Station (BS) radio transmission and reception
   type: main
 source:
 - type: src

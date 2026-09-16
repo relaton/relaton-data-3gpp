@@ -1,10 +1,8 @@
----
 id: TS365233REL101040
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Packet
-    Core (EPC); User Equipment (UE) conformance specification; Part 3: Test suites'
+- content: 'Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Packet Core (EPC); User Equipment (UE) conformance specification; Part 3: Test suites'
   type: main
 source:
 - type: src

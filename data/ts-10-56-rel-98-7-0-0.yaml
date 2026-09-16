@@ -1,10 +1,8 @@
----
 id: TS1056REL98700
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Project scheduling and open issues: GSM Cordless Telephony System CTS,
-    Phase 1'
+- content: 'Project scheduling and open issues: GSM Cordless Telephony System CTS, Phase 1'
   type: main
 source:
 - type: src

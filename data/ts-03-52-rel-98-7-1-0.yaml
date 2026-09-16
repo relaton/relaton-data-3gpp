@@ -1,10 +1,8 @@
----
 id: TS0352REL98710
 schema_version: v1.5.6
 type: standard
 title:
-- content: Lower layers of the GSM Cordless Telephony System (CTS) radio interface;
-    Stage 2
+- content: Lower layers of the GSM Cordless Telephony System (CTS) radio interface; Stage 2
   type: main
 source:
 - type: src

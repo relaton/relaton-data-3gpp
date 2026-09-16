@@ -1,10 +1,8 @@
----
 id: TR23836REL7051
 schema_version: v1.5.6
 type: standard
 title:
-- content: Quality of Service (QoS) and policy aspects of 3GPP - Wirless Local Area
-    Network (WLAN) interworking
+- content: Quality of Service (QoS) and policy aspects of 3GPP - Wirless Local Area Network (WLAN) interworking
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TR1057REL99800
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Project scheduling and open issues: Mobile Station Execution Environment
-    (MExE)'
+- content: 'Project scheduling and open issues: Mobile Station Execution Environment (MExE)'
   type: main
 source:
 - type: src

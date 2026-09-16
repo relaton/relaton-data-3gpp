@@ -1,10 +1,8 @@
----
 id: TR0302UUMTS200
 schema_version: v1.5.6
 type: standard
 title:
-- content: Technical characteristics, capabilities and limitations of mobile satellite
-    systems aplicable to the UMTS
+- content: Technical characteristics, capabilities and limitations of mobile satellite systems aplicable to the UMTS
   type: main
 docidentifier:
 - content: 3GPP TR 03.02U:UMTS/2.0.0

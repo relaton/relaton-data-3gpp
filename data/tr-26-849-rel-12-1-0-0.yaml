@@ -1,10 +1,8 @@
----
 id: TR26849REL12100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Multimedia Broadcast/Multicast Service (MBMS) improvements; MBMS operation
-    on demand
+- content: Multimedia Broadcast/Multicast Service (MBMS) improvements; MBMS operation on demand
   type: main
 source:
 - type: src

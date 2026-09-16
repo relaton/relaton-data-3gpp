@@ -1,10 +1,8 @@
----
 id: TS29238REL181810
 schema_version: v1.5.6
 type: standard
 title:
-- content: Interconnection Border Control Functions (IBCF) - Transition Gateway (TrGW)
-    interface, Ix interface; Stage 3
+- content: Interconnection Border Control Functions (IBCF) - Transition Gateway (TrGW) interface, Ix interface; Stage 3
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TS28405REL16200
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Quality of Experience (QoE) measurement collection;
-    Control and configuration
+- content: Telecommunication management; Quality of Experience (QoE) measurement collection; Control and configuration
   type: main
 source:
 - type: src

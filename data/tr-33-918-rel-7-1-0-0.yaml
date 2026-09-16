@@ -1,11 +1,8 @@
----
 id: TR33918REL7100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Generic Authentication Architecture (GAA); Early implementation of Hypertext
-    Transfer Protocol over Transport Layer Security (HTTPS) connection between a Universal
-    Integrated Circuit Card (UICC) and a Network Application Function (NAF)
+- content: Generic Authentication Architecture (GAA); Early implementation of Hypertext Transfer Protocol over Transport Layer Security (HTTPS) connection between a Universal Integrated Circuit Card (UICC) and a Network Application Function (NAF)
   type: main
 source:
 - type: src

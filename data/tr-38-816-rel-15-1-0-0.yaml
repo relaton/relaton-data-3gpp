@@ -1,10 +1,8 @@
----
 id: TR38816REL15100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on Central Unit (CU) - Distributed Unit (DU) lower layer split for
-    NR
+- content: Study on Central Unit (CU) - Distributed Unit (DU) lower layer split for NR
   type: main
 source:
 - type: src

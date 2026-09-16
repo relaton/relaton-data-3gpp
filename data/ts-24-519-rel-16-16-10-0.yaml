@@ -1,11 +1,8 @@
----
 id: TS24519REL1616100
 schema_version: v1.5.6
 type: standard
 title:
-- content: 5G System (5GS); Time-Sensitive Networking (TSN) Application Function (AF)
-    to Device-Side TSN Translator (DS-TT) and Network-Side TSN Translator (NW-TT)
-    protocol aspects; Stage 3
+- content: 5G System (5GS); Time-Sensitive Networking (TSN) Application Function (AF) to Device-Side TSN Translator (DS-TT) and Network-Side TSN Translator (NW-TT) protocol aspects; Stage 3
   type: main
 source:
 - type: src

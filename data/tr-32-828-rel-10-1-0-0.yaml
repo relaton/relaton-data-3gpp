@@ -1,11 +1,8 @@
----
 id: TR32828REL10100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Study on alignment of 3GPP generic Network
-    Resource Model (NRM) Integration Reference Point (IRP) and the TeleManagement
-    Forum (TMF) Shared Information/Data (SID) model
+- content: Telecommunication management; Study on alignment of 3GPP generic Network Resource Model (NRM) Integration Reference Point (IRP) and the TeleManagement Forum (TMF) Shared Information/Data (SID) model
   type: main
 source:
 - type: src

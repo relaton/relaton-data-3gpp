@@ -1,10 +1,8 @@
----
 id: TR339297REL19002
 schema_version: v1.5.6
 type: standard
 title:
-- content: Lawful Interception (LI) implementation guidance; LI location acquisition
-    capabilities
+- content: Lawful Interception (LI) implementation guidance; LI location acquisition capabilities
   type: main
 source:
 - type: src

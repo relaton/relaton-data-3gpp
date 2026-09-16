@@ -1,10 +1,8 @@
----
 id: TS23436REL181820
 schema_version: v1.5.6
 type: standard
 title:
-- content: Functional architecture and information flows for Application Data Analytics
-    Enablement Service
+- content: Functional architecture and information flows for Application Data Analytics Enablement Service
   type: main
 source:
 - type: src

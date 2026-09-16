@@ -1,10 +1,8 @@
----
 id: TS0431REL98100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Location Services (LCS); Mobile Station (MS) - Serving Mobile Location
-    Centre (SMLC) Radio Resource LCS Protocol (RRLP)
+- content: Location Services (LCS); Mobile Station (MS) - Serving Mobile Location Centre (SMLC) Radio Resource LCS Protocol (RRLP)
   type: main
 docidentifier:
 - content: 3GPP TS 04.31:REL-98/1.0.0

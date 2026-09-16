@@ -1,10 +1,8 @@
----
 id: TR2370053REL18030
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on access traffic steering, switching and splitting support in the
-    5G system architecture; Phase 3
+- content: Study on access traffic steering, switching and splitting support in the 5G system architecture; Phase 3
   type: main
 source:
 - type: src

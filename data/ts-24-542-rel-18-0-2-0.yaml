@@ -1,10 +1,8 @@
----
 id: TS24542REL18020
 schema_version: v1.5.6
 type: standard
 title:
-- content: Notification management - Service Enabler Architecture Layer for Verticals
-    (SEAL); Protocol specification;
+- content: Notification management - Service Enabler Architecture Layer for Verticals (SEAL); Protocol specification;
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TR36802REL13030
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access (E-UTRA); NB-IOT; Technical
-    Report for BS and UE radio transmission and reception
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); NB-IOT; Technical Report for BS and UE radio transmission and reception
   type: main
 docidentifier:
 - content: 3GPP TR 36.802:REL-13/0.3.0

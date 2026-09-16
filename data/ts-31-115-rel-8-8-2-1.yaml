@@ -1,10 +1,8 @@
----
 id: TS31115REL8821
 schema_version: v1.5.6
 type: standard
 title:
-- content: Secured packet structure for (Universal) Subscriber Identity Module (U)SIM
-    Toolkit applications
+- content: Secured packet structure for (Universal) Subscriber Identity Module (U)SIM Toolkit applications
   type: main
 source:
 - type: src

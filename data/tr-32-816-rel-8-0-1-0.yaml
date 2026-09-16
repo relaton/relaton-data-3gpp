@@ -1,10 +1,8 @@
----
 id: TR32816REL8010
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Study on management of Evolved Universal
-    Terrestrial Radio Access Network (E-UTRAN) and Evolved Packet Core (EPC)
+- content: Telecommunication management; Study on management of Evolved Universal Terrestrial Radio Access Network (E-UTRAN) and Evolved Packet Core (EPC)
   type: main
 docidentifier:
 - content: 3GPP TR 32.816:REL-8/0.1.0

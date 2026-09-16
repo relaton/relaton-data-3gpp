@@ -1,10 +1,8 @@
----
 id: TR33776REL19000
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study of Automatic Certificate Management Environment (ACME) for the Service
-    Based Architecture (SBA)
+- content: Study of Automatic Certificate Management Environment (ACME) for the Service Based Architecture (SBA)
   type: main
 source:
 - type: src

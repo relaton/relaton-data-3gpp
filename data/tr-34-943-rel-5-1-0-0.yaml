@@ -1,10 +1,8 @@
----
 id: TR34943REL5100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Analysis of difference between FDD and 1.28 Mcps TDD and corresponding
-    effect on terminal conformance test in radio access stratum protocol aspects
+- content: Analysis of difference between FDD and 1.28 Mcps TDD and corresponding effect on terminal conformance test in radio access stratum protocol aspects
   type: main
 source:
 - type: src

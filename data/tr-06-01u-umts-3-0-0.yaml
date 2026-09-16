@@ -1,10 +1,8 @@
----
 id: TR0601UUMTS300
 schema_version: v1.5.6
 type: standard
 title:
-- content: Universal Mobile Telecommunications System (UMTS); Quality requirements
-    for speech and associated channel coding for the UMTS
+- content: Universal Mobile Telecommunications System (UMTS); Quality requirements for speech and associated channel coding for the UMTS
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TS0804REL99800
 schema_version: v1.5.6
 type: standard
 title:
-- content: Base Station System - Mobile Services Switching Centre (BSS-MSC) Interface
-    Layer 1 Specification
+- content: Base Station System - Mobile Services Switching Centre (BSS-MSC) Interface Layer 1 Specification
   type: main
 source:
 - type: src

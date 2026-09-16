@@ -1,10 +1,8 @@
----
 id: TS32454REL10120
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Key Performance Indicators (KPI) for the
-    IP Multimedia Subsystem (IMS); Definitions
+- content: Telecommunication management; Key Performance Indicators (KPI) for the IP Multimedia Subsystem (IMS); Definitions
   type: main
 source:
 - type: src

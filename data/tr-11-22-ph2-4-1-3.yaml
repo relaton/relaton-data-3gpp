@@ -1,10 +1,8 @@
----
 id: TR1122Ph2413
 schema_version: v1.5.6
 type: standard
 title:
-- content: GSM Base Station and Ancillary Equipment, Physical and Electronical Parameters,
-    Application of Standards and Guidance Notes
+- content: GSM Base Station and Ancillary Equipment, Physical and Electronical Parameters, Application of Standards and Guidance Notes
   type: main
 source:
 - type: src

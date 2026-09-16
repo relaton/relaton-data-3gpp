@@ -1,10 +1,8 @@
----
 id: TR29903REL5001
 schema_version: v1.5.6
 type: standard
 title:
-- content: Feasibility Study on SS7 signalling transport in the core network with
-    SCCP-User Adaptation  (SUA) layer
+- content: Feasibility Study on SS7 signalling transport in the core network with SCCP-User Adaptation  (SUA) layer
   type: main
 docidentifier:
 - content: 3GPP TR 29.903:REL-5/0.0.1

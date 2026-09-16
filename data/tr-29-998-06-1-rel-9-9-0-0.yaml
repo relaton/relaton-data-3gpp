@@ -1,11 +1,8 @@
----
 id: TR29998061REL9900
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Open Service Access (OSA); Application Programming Interface (API) Mapping
-    for Open Service Access; Part 6: User location - user status service mapping;
-    Subpart 1: Mapping to Mobile Application Part (MAP)'
+- content: 'Open Service Access (OSA); Application Programming Interface (API) Mapping for Open Service Access; Part 6: User location - user status service mapping; Subpart 1: Mapping to Mobile Application Part (MAP)'
   type: main
 source:
 - type: src

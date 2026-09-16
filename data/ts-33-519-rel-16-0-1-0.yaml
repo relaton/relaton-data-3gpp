@@ -1,10 +1,8 @@
----
 id: TS33519REL16010
 schema_version: v1.5.6
 type: standard
 title:
-- content: 5G Security Assurance Specification (SCAS) for the Network Exposure Function
-    (NEF) network product class
+- content: 5G Security Assurance Specification (SCAS) for the Network Exposure Function (NEF) network product class
   type: main
 source:
 - type: src

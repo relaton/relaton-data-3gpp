@@ -1,10 +1,8 @@
----
 id: TS24305REL111110
 schema_version: v1.5.6
 type: standard
 title:
-- content: Selective Disabling of 3GPP User Equipment Capabilities (SDoUE) Management
-    Object (MO)
+- content: Selective Disabling of 3GPP User Equipment Capabilities (SDoUE) Management Object (MO)
   type: main
 source:
 - type: src

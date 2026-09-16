@@ -1,10 +1,8 @@
----
 id: TR31829REL13200
 schema_version: v1.5.6
 type: standard
 title:
-- content: Conformance requirements for IP Multimedia Services Identity Module (ISIM)
-    application test specification
+- content: Conformance requirements for IP Multimedia Services Identity Module (ISIM) application test specification
   type: main
 source:
 - type: src

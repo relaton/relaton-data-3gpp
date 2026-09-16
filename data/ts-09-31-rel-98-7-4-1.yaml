@@ -1,10 +1,8 @@
----
 id: TS0931REL98741
 schema_version: v1.5.6
 type: standard
 title:
-- content: Location Services (LCS); Base Station System Application Part LCS Extension
-    (BSSAP-LE)
+- content: Location Services (LCS); Base Station System Application Part LCS Extension (BSSAP-LE)
   type: main
 docidentifier:
 - content: 3GPP TS 09.31:REL-98/7.4.1

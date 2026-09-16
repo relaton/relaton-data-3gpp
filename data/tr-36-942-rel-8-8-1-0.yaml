@@ -1,10 +1,8 @@
----
 id: TR36942REL8810
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access (E-UTRA); Radio Frequency (RF)
-    system scenarios
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); Radio Frequency (RF) system scenarios
   type: main
 source:
 - type: src

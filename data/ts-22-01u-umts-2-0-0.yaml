@@ -1,10 +1,8 @@
----
 id: TS2201UUMTS200
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Universal Mobile Telecommunications System (UMTS): Service aspects; Service
-    principles'
+- content: 'Universal Mobile Telecommunications System (UMTS): Service aspects; Service principles'
   type: main
 docidentifier:
 - content: 3GPP TS 22.01U:UMTS/2.0.0

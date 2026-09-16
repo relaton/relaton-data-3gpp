@@ -1,10 +1,8 @@
----
 id: TR33872REL13100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on security enhancements to Web Real Time Communication (WebRTC)
-    access to IP Multimedia Subsystem (IMS)
+- content: Study on security enhancements to Web Real Time Communication (WebRTC) access to IP Multimedia Subsystem (IMS)
   type: main
 source:
 - type: src

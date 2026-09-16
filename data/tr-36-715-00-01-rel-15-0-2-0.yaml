@@ -1,10 +1,8 @@
----
 id: TR367150001REL15020
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced inter-band
-    Carrier Aggregation (CA) Rel-15 for x Down Link (DL) / 1 Up Link (UL) with x>5
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced inter-band Carrier Aggregation (CA) Rel-15 for x Down Link (DL) / 1 Up Link (UL) with x>5
   type: main
 source:
 - type: src

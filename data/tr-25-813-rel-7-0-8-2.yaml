@@ -1,10 +1,8 @@
----
 id: TR25813REL7082
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Universal
-    Terrestrial Radio Access Network (E-UTRAN); Radio interface protocol aspects
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Radio interface protocol aspects
   type: main
 source:
 - type: src

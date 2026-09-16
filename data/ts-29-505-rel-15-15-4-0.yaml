@@ -1,10 +1,8 @@
----
 id: TS29505REL151540
 schema_version: v1.5.6
 type: standard
 title:
-- content: 5G System; Usage of the Unified Data Repository services for Subscription
-    Data; Stage 3
+- content: 5G System; Usage of the Unified Data Repository services for Subscription Data; Stage 3
   type: main
 source:
 - type: src

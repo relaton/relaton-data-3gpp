@@ -1,10 +1,8 @@
----
 id: TS24616REL8820
 schema_version: v1.5.6
 type: standard
 title:
-- content: Malicious Communication Identification (MCID) using IP Multimedia (IM)
-    Core Network (CN) subsystem; Protocol specification
+- content: Malicious Communication Identification (MCID) using IP Multimedia (IM) Core Network (CN) subsystem; Protocol specification
   type: main
 source:
 - type: src

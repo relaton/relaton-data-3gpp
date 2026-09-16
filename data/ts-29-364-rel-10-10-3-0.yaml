@@ -1,10 +1,8 @@
----
 id: TS29364REL101030
 schema_version: v1.5.6
 type: standard
 title:
-- content: IP Multimedia Subsystem (IMS) Application Server (AS) service data descriptions
-    for AS interoperability
+- content: IP Multimedia Subsystem (IMS) Application Server (AS) service data descriptions for AS interoperability
   type: main
 source:
 - type: src

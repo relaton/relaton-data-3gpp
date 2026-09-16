@@ -1,10 +1,8 @@
----
 id: TR32820REL8010
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Telecommunication management; Study on charging management; 3GPP Evolved
-    Packet Core (EPC): Charging aspects'
+- content: 'Telecommunication management; Study on charging management; 3GPP Evolved Packet Core (EPC): Charging aspects'
   type: main
 docidentifier:
 - content: 3GPP TR 32.820:REL-8/0.1.0

@@ -1,10 +1,8 @@
----
 id: TS22173REL7010
 schema_version: v1.5.6
 type: standard
 title:
-- content: IP Multimedia Core Network Subsystem (IMS) Multimedia Telephony Service
-    and supplementary services; Stage 1
+- content: IP Multimedia Core Network Subsystem (IMS) Multimedia Telephony Service and supplementary services; Stage 1
   type: main
 docidentifier:
 - content: 3GPP TS 22.173:REL-7/0.1.0

@@ -1,10 +1,8 @@
----
 id: TS24451REL8810
 schema_version: v1.5.6
 type: standard
 title:
-- content: TISPAN; Support of SMS and MMS over NGN IMS subsystem; Stage 3 [Endorsement
-    of 3GPP TS 24.341 Release 7]
+- content: TISPAN; Support of SMS and MMS over NGN IMS subsystem; Stage 3 [Endorsement of 3GPP TS 24.341 Release 7]
   type: main
 source:
 - type: src

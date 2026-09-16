@@ -1,10 +1,8 @@
----
 id: TR22874REL18110
 schema_version: v1.5.6
 type: standard
 title:
-- content: 5G System (5GS); Study on traffic characteristics and performance requirements
-    for AI/ML model transfer
+- content: 5G System (5GS); Study on traffic characteristics and performance requirements for AI/ML model transfer
   type: main
 docidentifier:
 - content: 3GPP TR 22.874:REL-18/1.1.0

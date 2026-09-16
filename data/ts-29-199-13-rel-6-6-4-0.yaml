@@ -1,10 +1,8 @@
----
 id: TS2919913REL6640
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Open Service Access (OSA); Parlay X web services; Part 13: Address list
-    management'
+- content: 'Open Service Access (OSA); Parlay X web services; Part 13: Address list management'
   type: main
 source:
 - type: src

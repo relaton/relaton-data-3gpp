@@ -1,11 +1,8 @@
----
 id: TR25995REL5500
 schema_version: v1.5.6
 type: standard
 title:
-- content: Measures employed by the UMTS Radio Access Network (RAN) to cater for legacy
-    User Equipment (UE) which conforms to superseded versions of the RAN interface
-    specification
+- content: Measures employed by the UMTS Radio Access Network (RAN) to cater for legacy User Equipment (UE) which conforms to superseded versions of the RAN interface specification
   type: main
 source:
 - type: src

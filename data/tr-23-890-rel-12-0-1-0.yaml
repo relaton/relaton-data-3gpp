@@ -1,10 +1,8 @@
----
 id: TR23890REL12010
 schema_version: v1.5.6
 type: standard
 title:
-- content: Optimized offloading to Wireless Local Area Network (WLAN) in 3GPP Radio
-    Access Technology (RAT) mobility
+- content: Optimized offloading to Wireless Local Area Network (WLAN) in 3GPP Radio Access Technology (RAT) mobility
   type: main
 source:
 - type: src

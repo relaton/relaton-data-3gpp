@@ -1,10 +1,8 @@
----
 id: TS22279REL7110
 schema_version: v1.5.6
 type: standard
 title:
-- content: Combined Circuit Switched (CS) and IP Multimedia Subsystem (IMS) sessions;
-    Stage 1
+- content: Combined Circuit Switched (CS) and IP Multimedia Subsystem (IMS) sessions; Stage 1
   type: main
 docidentifier:
 - content: 3GPP TS 22.279:REL-7/1.1.0

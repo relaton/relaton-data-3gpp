@@ -1,12 +1,8 @@
----
 id: TS342292REL9940
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Internet Protocol (IP) multimedia call control protocol based on Session
-    Initiation Protocol (SIP) and Session Description Protocol (SDP); User Equipment
-    (UE) conformance specification; Part 2: Implementation Conformance Statement (ICS)
-    specification'
+- content: 'Internet Protocol (IP) multimedia call control protocol based on Session Initiation Protocol (SIP) and Session Description Protocol (SDP); User Equipment (UE) conformance specification; Part 2: Implementation Conformance Statement (ICS) specification'
   type: main
 source:
 - type: src

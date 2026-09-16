@@ -1,10 +1,8 @@
----
 id: TS1334REL96200
 schema_version: v1.5.6
 type: standard
 title:
-- content: Attachment requirements for Global System for Mobile communications (GSM);
-    High Speed Circuit Switched Data (HSCSD) Multislot Mobile Stations; Access
+- content: Attachment requirements for Global System for Mobile communications (GSM); High Speed Circuit Switched Data (HSCSD) Multislot Mobile Stations; Access
   type: main
 source:
 - type: src

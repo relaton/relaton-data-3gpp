@@ -1,10 +1,8 @@
----
 id: TR23706REL13011
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on enhancements to Web Real Time Communication (WebRTC) access to
-    IP Multimedia Subsystem (IMS); Stage 2
+- content: Study on enhancements to Web Real Time Communication (WebRTC) access to IP Multimedia Subsystem (IMS); Stage 2
   type: main
 source:
 - type: src

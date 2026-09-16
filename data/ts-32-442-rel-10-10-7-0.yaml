@@ -1,10 +1,8 @@
----
 id: TS32442REL101070
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Trace Management Integration Reference Point
-    (IRP); Information Service (IS)
+- content: Telecommunication management; Trace Management Integration Reference Point (IRP); Information Service (IS)
   type: main
 source:
 - type: src

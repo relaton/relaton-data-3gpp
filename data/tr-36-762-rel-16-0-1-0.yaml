@@ -1,11 +1,8 @@
----
 id: TR36762REL16010
 schema_version: v1.5.6
 type: standard
 title:
-- content: 410 – 430 MHz Evolved Universal Terrestrial Radio Access (E-UTRA) Frequency
-    Division Duplex (FDD) Band(s) for LTE Public Protection and Disaster Relief (PPDR)
-    and Professional Mobile Radio (PMR) / Public Access Mobile Radio (PAMR) in Europe
+- content: 410 – 430 MHz Evolved Universal Terrestrial Radio Access (E-UTRA) Frequency Division Duplex (FDD) Band(s) for LTE Public Protection and Disaster Relief (PPDR) and Professional Mobile Radio (PMR) / Public Access Mobile Radio (PAMR) in Europe
   type: main
 source:
 - type: src

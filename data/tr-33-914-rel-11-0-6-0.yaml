@@ -1,10 +1,8 @@
----
 id: TR33914REL11060
 schema_version: v1.5.6
 type: standard
 title:
-- content: Single Sign On (SSO) application security for common IP Multimedia Subsystem
-    (IMS) based on SIP Digest
+- content: Single Sign On (SSO) application security for common IP Multimedia Subsystem (IMS) based on SIP Digest
   type: main
 source:
 - type: src

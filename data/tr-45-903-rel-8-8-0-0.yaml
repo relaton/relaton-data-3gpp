@@ -1,10 +1,8 @@
----
 id: TR45903REL8800
 schema_version: v1.5.6
 type: standard
 title:
-- content: Feasibility study on Single Antenna Interference Cancellation (SAIC) for
-    GSM networks
+- content: Feasibility study on Single Antenna Interference Cancellation (SAIC) for GSM networks
   type: main
 source:
 - type: src

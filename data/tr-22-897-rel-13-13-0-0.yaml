@@ -1,10 +1,8 @@
----
 id: TR22897REL131300
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on isolated Evolved Universal Terrestrial Radio Access Network (E-UTRAN)
-    operation for public safety
+- content: Study on isolated Evolved Universal Terrestrial Radio Access Network (E-UTRAN) operation for public safety
   type: main
 source:
 - type: src

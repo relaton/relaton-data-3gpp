@@ -1,10 +1,8 @@
----
 id: TR32810REL7200
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Information model Integration Reference Point
-    (IRP) Study
+- content: Telecommunication management; Information model Integration Reference Point (IRP) Study
   type: main
 source:
 - type: src

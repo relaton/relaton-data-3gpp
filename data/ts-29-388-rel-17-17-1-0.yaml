@@ -1,10 +1,8 @@
----
 id: TS29388REL171710
 schema_version: v1.5.6
 type: standard
 title:
-- content: V2X Control Function to Home Subscriber Server (HSS) aspects (V4); Stage
-    3
+- content: V2X Control Function to Home Subscriber Server (HSS) aspects (V4); Stage 3
   type: main
 source:
 - type: src

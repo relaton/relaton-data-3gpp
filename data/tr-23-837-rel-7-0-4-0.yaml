@@ -1,10 +1,8 @@
----
 id: TR23837REL7040
 schema_version: v1.5.6
 type: standard
 title:
-- content: Location Services (LCS) architecture for 3GPP system - Wireless Local Area
-    Network (WLAN) interworking
+- content: Location Services (LCS) architecture for 3GPP system - Wireless Local Area Network (WLAN) interworking
   type: main
 source:
 - type: src

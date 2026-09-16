@@ -1,10 +1,8 @@
----
 id: TS32373REL8800
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Security services for Integration Reference
-    Point (IRP); Common Object Request Broker Architecture (CORBA) solution
+- content: Telecommunication management; Security services for Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA) solution
   type: main
 source:
 - type: src

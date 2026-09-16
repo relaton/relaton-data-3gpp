@@ -1,10 +1,8 @@
----
 id: TR28808REL16000
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on management and orchestration aspects of integrated satellite components
-    in a 5G network
+- content: Study on management and orchestration aspects of integrated satellite components in a 5G network
   type: main
 source:
 - type: src

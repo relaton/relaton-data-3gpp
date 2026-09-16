@@ -1,10 +1,8 @@
----
 id: TS24545REL161670
 schema_version: v1.5.6
 type: standard
 title:
-- content: Location Management - Service Enabler Architecture Layer for Verticals
-    (SEAL); Protocol specification
+- content: Location Management - Service Enabler Architecture Layer for Verticals (SEAL); Protocol specification
   type: main
 source:
 - type: src

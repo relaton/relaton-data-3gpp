@@ -1,10 +1,8 @@
----
 id: TR36888REL11100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on provision of low-cost Machine-Type Communications (MTC) User Equipments
-    (UEs) based on LTE
+- content: Study on provision of low-cost Machine-Type Communications (MTC) User Equipments (UEs) based on LTE
   type: main
 source:
 - type: src

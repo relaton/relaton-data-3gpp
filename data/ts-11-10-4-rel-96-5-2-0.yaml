@@ -1,10 +1,8 @@
----
 id: TS11104REL96520
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Mobile Station (MS) conformance specification; Part 4: Subscriber Identity
-    Module (SIM) application toolkit conformance test specification'
+- content: 'Mobile Station (MS) conformance specification; Part 4: Subscriber Identity Module (SIM) application toolkit conformance test specification'
   type: main
 source:
 - type: src

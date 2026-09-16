@@ -1,10 +1,8 @@
----
 id: TR32834REL11110
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on Operations, Administration and Maintenance (OAM) aspects of inter-Radio-Access-Technology
-    (RAT) energy saving
+- content: Study on Operations, Administration and Maintenance (OAM) aspects of inter-Radio-Access-Technology (RAT) energy saving
   type: main
 source:
 - type: src

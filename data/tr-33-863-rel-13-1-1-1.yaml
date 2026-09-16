@@ -1,10 +1,8 @@
----
 id: TR33863REL13111
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on battery efficient security for very low throughput Machine Type
-    Communication (MTC) devices
+- content: Study on battery efficient security for very low throughput Machine Type Communication (MTC) devices
   type: main
 source:
 - type: src

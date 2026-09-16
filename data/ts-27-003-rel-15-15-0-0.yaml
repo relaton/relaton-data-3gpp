@@ -1,10 +1,8 @@
----
 id: TS27003REL151500
 schema_version: v1.5.6
 type: standard
 title:
-- content: Terminal Adaptation Functions (TAF) for services using synchronous bearer
-    capabilities
+- content: Terminal Adaptation Functions (TAF) for services using synchronous bearer capabilities
   type: main
 source:
 - type: src

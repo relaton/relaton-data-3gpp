@@ -1,10 +1,8 @@
----
 id: TS23334REL9920
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'IP Multimedia Subsystem (IMS) Application Level Gateway (IMS-ALG) - IMS
-    Access Gateway (IMS-AGW) interface: Procedures descriptions'
+- content: 'IP Multimedia Subsystem (IMS) Application Level Gateway (IMS-ALG) - IMS Access Gateway (IMS-AGW) interface: Procedures descriptions'
   type: main
 source:
 - type: src

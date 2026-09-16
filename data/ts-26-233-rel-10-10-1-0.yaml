@@ -1,10 +1,8 @@
----
 id: TS26233REL101010
 schema_version: v1.5.6
 type: standard
 title:
-- content: Transparent end-to-end Packet-switched Streaming service (PSS); General
-    description
+- content: Transparent end-to-end Packet-switched Streaming service (PSS); General description
   type: main
 source:
 - type: src

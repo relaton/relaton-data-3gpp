@@ -1,10 +1,8 @@
----
 id: TR33891REL18020
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on security of phase 2 for Uncrewed Aerial System (UAS), Uncrewed
-    Aerial Vehicle (UAV) and Urban Air Mobility (UAM)
+- content: Study on security of phase 2 for Uncrewed Aerial System (UAS), Uncrewed Aerial Vehicle (UAV) and Urban Air Mobility (UAM)
   type: main
 source:
 - type: src

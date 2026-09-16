@@ -1,10 +1,8 @@
----
 id: TS29541REL191920
 schema_version: v1.5.6
 type: standard
 title:
-- content: 5G System; Network Exposure (NE) function services for Non-IP Data Delivery
-    (NIDD) and Short Message Services (SMS); Stage 3
+- content: 5G System; Network Exposure (NE) function services for Non-IP Data Delivery (NIDD) and Short Message Services (SMS); Stage 3
   type: main
 source:
 - type: src

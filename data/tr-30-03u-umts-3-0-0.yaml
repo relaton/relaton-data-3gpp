@@ -1,10 +1,8 @@
----
 id: TR3003UUMTS300
 schema_version: v1.5.6
 type: standard
 title:
-- content: Selection procedures for the choice of radio transmission technologies
-    of the UMTS
+- content: Selection procedures for the choice of radio transmission technologies of the UMTS
   type: main
 docidentifier:
 - content: 3GPP TR 30.03U:UMTS/3.0.0

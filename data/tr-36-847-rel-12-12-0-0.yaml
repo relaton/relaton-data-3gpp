@@ -1,10 +1,8 @@
----
 id: TR36847REL121200
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on LTE Time Division Duplex (TDD) - Frequency Division Duplex (FDD)
-    joint operation including Carrier Aggregation (CA)
+- content: Study on LTE Time Division Duplex (TDD) - Frequency Division Duplex (FDD) joint operation including Carrier Aggregation (CA)
   type: main
 source:
 - type: src

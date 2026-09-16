@@ -1,10 +1,8 @@
----
 id: TR2370079REL18100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study of gateway User Equipment (UE) function for Mission Critical (MC)
-    communications
+- content: Study of gateway User Equipment (UE) function for Mission Critical (MC) communications
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TS0960REL98771
 schema_version: v1.5.6
 type: standard
 title:
-- content: General Packet Radio Service (GPRS); GPRS Tunnelling Protocol GPT) across
-    the Gn and Gp Interface
+- content: General Packet Radio Service (GPRS); GPRS Tunnelling Protocol GPT) across the Gn and Gp Interface
   type: main
 source:
 - type: src

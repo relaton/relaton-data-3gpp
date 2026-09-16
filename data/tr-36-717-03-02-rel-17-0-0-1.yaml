@@ -1,10 +1,8 @@
----
 id: TR367170302REL17001
 schema_version: v1.5.6
 type: standard
 title:
-- content: Rel-17 LTE inter-band Carrier Aggregation for x bands DL (x= 3, 4, 5) with
-    2 bands UL
+- content: Rel-17 LTE inter-band Carrier Aggregation for x bands DL (x= 3, 4, 5) with 2 bands UL
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TR36892REL131300
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access (E-UTRA); Introduction of 1447-1467MHz
-    Band for TD-LTE in China
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); Introduction of 1447-1467MHz Band for TD-LTE in China
   type: main
 source:
 - type: src

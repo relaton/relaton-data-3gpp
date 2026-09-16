@@ -1,10 +1,8 @@
----
 id: TR387160101REL16060
 schema_version: v1.5.6
 type: standard
 title:
-- content: NR intra band Carrier Aggregation (CA) Rel-16 for xCC Down Link (DL) /
-    yCC Up Link (UL) including contiguous and non-contiguous spectrum (x >= y)
+- content: NR intra band Carrier Aggregation (CA) Rel-16 for xCC Down Link (DL) / yCC Up Link (UL) including contiguous and non-contiguous spectrum (x >= y)
   type: main
 source:
 - type: src

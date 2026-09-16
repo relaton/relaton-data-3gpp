@@ -1,10 +1,8 @@
----
 id: TS0860REL99801
 schema_version: v1.5.6
 type: standard
 title:
-- content: In-band control of remote transcoders and rate adaptors for Enhanced Full
-    Rate (EFR) and full rate traffic channels
+- content: In-band control of remote transcoders and rate adaptors for Enhanced Full Rate (EFR) and full rate traffic channels
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TS37114REL13001
 schema_version: v1.5.6
 type: standard
 title:
-- content: Active Antenna System (AAS) Base Station (BS) Electromagnetic Compatibility
-    (EMC)
+- content: Active Antenna System (AAS) Base Station (BS) Electromagnetic Compatibility (EMC)
   type: main
 docidentifier:
 - content: 3GPP TS 37.114:REL-13/0.0.1

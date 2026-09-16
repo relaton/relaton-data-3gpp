@@ -1,10 +1,8 @@
----
 id: TS32251REL101040
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management;Charging management;Packet Switched (PS) domain
-    charging
+- content: Telecommunication management;Charging management;Packet Switched (PS) domain charging
   type: main
 source:
 - type: src

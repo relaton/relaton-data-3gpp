@@ -1,10 +1,8 @@
----
 id: TR367140301REL14030
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced inter-band
-    Carrier Aggregation (CA) Rel-14 for 3 Down Link (DL) / 1 Up Link (UL)
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced inter-band Carrier Aggregation (CA) Rel-14 for 3 Down Link (DL) / 1 Up Link (UL)
   type: main
 docidentifier:
 - content: 3GPP TR 36.714-03-01:REL-14/0.3.0

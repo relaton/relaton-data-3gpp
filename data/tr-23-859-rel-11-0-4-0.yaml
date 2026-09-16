@@ -1,10 +1,8 @@
----
 id: TR23859REL11040
 schema_version: v1.5.6
 type: standard
 title:
-- content: Local IP access (LIPA) mobility and Selected IP Traffic Offload (SIPTO)
-    at the local network
+- content: Local IP access (LIPA) mobility and Selected IP Traffic Offload (SIPTO) at the local network
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TS29468REL141430
 schema_version: v1.5.6
 type: standard
 title:
-- content: Group Communication System Enablers for LTE (GCSE_LTE); MB2 reference point;
-    Stage 3
+- content: Group Communication System Enablers for LTE (GCSE_LTE); MB2 reference point; Stage 3
   type: main
 source:
 - type: src

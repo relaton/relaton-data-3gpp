@@ -1,10 +1,8 @@
----
 id: TS365798REL16001
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Mission Critical (MC) services over LTE; Part 8: Mission Critical Video
-    (MCVideo) Server Application conformance specification'
+- content: 'Mission Critical (MC) services over LTE; Part 8: Mission Critical Video (MCVideo) Server Application conformance specification'
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TS37340REL171710
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access (E-UTRA) and NR; Multi-connectivity;
-    Overall Description; Stage-2
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA) and NR; Multi-connectivity; Overall Description; Stage-2
   type: main
 source:
 - type: src

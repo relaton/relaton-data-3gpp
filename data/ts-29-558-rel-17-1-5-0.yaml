@@ -1,10 +1,8 @@
----
 id: TS29558REL17150
 schema_version: v1.5.6
 type: standard
 title:
-- content: Enabling Edge Applications; Application Programming Interface (API) specification;
-    Stage 3
+- content: Enabling Edge Applications; Application Programming Interface (API) specification; Stage 3
   type: main
 source:
 - type: src

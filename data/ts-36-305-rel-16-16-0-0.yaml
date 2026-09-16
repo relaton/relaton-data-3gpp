@@ -1,10 +1,8 @@
----
 id: TS36305REL161600
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Stage 2 functional
-    specification of User Equipment (UE) positioning in E-UTRAN
+- content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Stage 2 functional specification of User Equipment (UE) positioning in E-UTRAN
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TR23746REL141400
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on System Architecture Enhancements to eMBMS for Television Video
-    Service
+- content: Study on System Architecture Enhancements to eMBMS for Television Video Service
   type: main
 source:
 - type: src

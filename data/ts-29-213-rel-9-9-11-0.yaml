@@ -1,10 +1,8 @@
----
 id: TS29213REL99110
 schema_version: v1.5.6
 type: standard
 title:
-- content: Policy and charging control signalling flows and Quality of Service (QoS)
-    parameter mapping
+- content: Policy and charging control signalling flows and Quality of Service (QoS) parameter mapping
   type: main
 source:
 - type: src

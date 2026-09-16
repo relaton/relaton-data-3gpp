@@ -1,11 +1,8 @@
----
 id: TS35208REL4400
 schema_version: v1.5.6
 type: standard
 title:
-- content: '3G Security; Specification of the MILENAGE algorithm set: An example algorithm
-    set for the 3GPP authentication and key generation functions f1, f1*, f2, f3,
-    f4, f5 and f5*; Document 4: Design conformance test data'
+- content: '3G Security; Specification of the MILENAGE algorithm set: An example algorithm set for the 3GPP authentication and key generation functions f1, f1*, f2, f3, f4, f5 and f5*; Document 4: Design conformance test data'
   type: main
 source:
 - type: src

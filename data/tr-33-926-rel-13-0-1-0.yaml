@@ -1,10 +1,8 @@
----
 id: TR33926REL13010
 schema_version: v1.5.6
 type: standard
 title:
-- content: Security Assurance Specification (SCAS) threats and critical assets  in
-    3GPP network product classes
+- content: Security Assurance Specification (SCAS) threats and critical assets  in 3GPP network product classes
   type: main
 source:
 - type: src

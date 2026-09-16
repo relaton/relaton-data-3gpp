@@ -1,11 +1,8 @@
----
 id: TS32407REL111110
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Performance Management (PM); Performance
-    measurements; Core Network (CN) Circuit Switched (CS) domain; UMTS and combined
-    UMTS/GSM
+- content: Telecommunication management; Performance Management (PM); Performance measurements; Core Network (CN) Circuit Switched (CS) domain; UMTS and combined UMTS/GSM
   type: main
 source:
 - type: src

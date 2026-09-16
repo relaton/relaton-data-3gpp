@@ -1,10 +1,8 @@
----
 id: TS385215REL181840
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'NR; User Equipment (UE) conformance specification; Radio transmission
-    and reception; Part 5: Satellite access Radio Frequency (RF) and performance'
+- content: 'NR; User Equipment (UE) conformance specification; Radio transmission and reception; Part 5: Satellite access Radio Frequency (RF) and performance'
   type: main
 source:
 - type: src

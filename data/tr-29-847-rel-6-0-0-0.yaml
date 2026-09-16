@@ -1,10 +1,8 @@
----
 id: TR29847REL6000
 schema_version: v1.5.6
 type: standard
 title:
-- content: Conferencing based on SIP, SDP, and other protocols; Functional models,
-    information flows and protocol details
+- content: Conferencing based on SIP, SDP, and other protocols; Functional models, information flows and protocol details
   type: main
 docidentifier:
 - content: 3GPP TR 29.847:REL-6/0.0.0

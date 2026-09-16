@@ -1,10 +1,8 @@
----
 id: TR38762REL191910
 schema_version: v1.5.6
 type: standard
 title:
-- content: Multiple Input Multiple Output (MIMO) Over-the-Air (OTA) dynamic test methodology
-    for FR1 UEs
+- content: Multiple Input Multiple Output (MIMO) Over-the-Air (OTA) dynamic test methodology for FR1 UEs
   type: main
 source:
 - type: src

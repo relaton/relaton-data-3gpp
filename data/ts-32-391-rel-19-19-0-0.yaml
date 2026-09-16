@@ -1,10 +1,8 @@
----
 id: TS32391REL191900
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Delta synchronization Integration Reference
-    Point (IRP); Requirements
+- content: Telecommunication management; Delta synchronization Integration Reference Point (IRP); Requirements
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TS29328REL131320
 schema_version: v1.5.6
 type: standard
 title:
-- content: IP Multimedia (IM) Subsystem Sh interface; Signalling flows and message
-    contents
+- content: IP Multimedia (IM) Subsystem Sh interface; Signalling flows and message contents
   type: main
 source:
 - type: src

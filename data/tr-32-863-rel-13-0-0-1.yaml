@@ -1,10 +1,8 @@
----
 id: TR32863REL13001
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Fixed Mobile Convergence (FMC) metadefinitions
-    for measurements and Key Performance Indicators (KPIs)
+- content: Telecommunication management; Fixed Mobile Convergence (FMC) metadefinitions for measurements and Key Performance Indicators (KPIs)
   type: main
 source:
 - type: src

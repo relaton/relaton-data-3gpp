@@ -1,10 +1,8 @@
----
 id: TS25426REL99360
 schema_version: v1.5.6
 type: standard
 title:
-- content: UTRAN Iur and Iub interface data transport & transport signalling for DCH
-    data streams
+- content: UTRAN Iur and Iub interface data transport & transport signalling for DCH data streams
   type: main
 source:
 - type: src

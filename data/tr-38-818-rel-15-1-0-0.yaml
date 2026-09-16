@@ -1,10 +1,8 @@
----
 id: TR38818REL15100
 schema_version: v1.5.6
 type: standard
 title:
-- content: General aspects for Radio Resource Management (RRM) and demodulation for
-    NR
+- content: General aspects for Radio Resource Management (RRM) and demodulation for NR
   type: main
 docidentifier:
 - content: 3GPP TR 38.818:REL-15/1.0.0

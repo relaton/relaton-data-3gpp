@@ -1,10 +1,8 @@
----
 id: TR33754REL19020
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on security aspects for multi-access(DualSteer +Access Traffic Steering,
-    Switch and Splitting support in the 5G system architecture phase 4 (ATSSS Ph-4)
+- content: Study on security aspects for multi-access(DualSteer +Access Traffic Steering, Switch and Splitting support in the 5G system architecture phase 4 (ATSSS Ph-4)
   type: main
 source:
 - type: src

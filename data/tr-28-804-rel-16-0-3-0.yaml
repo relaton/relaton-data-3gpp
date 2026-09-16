@@ -1,10 +1,8 @@
----
 id: TR28804REL16030
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Study on tenancy concept in 5G networks and
-    network slicing management
+- content: Telecommunication management; Study on tenancy concept in 5G networks and network slicing management
   type: main
 source:
 - type: src

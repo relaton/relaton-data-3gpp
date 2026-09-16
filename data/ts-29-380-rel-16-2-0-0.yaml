@@ -1,10 +1,8 @@
----
 id: TS29380REL16200
 schema_version: v1.5.6
 type: standard
 title:
-- content: Mission Critical Push To Talk (MCPTT) media plane control interworking
-    with Land Mobile Radio (LMR) systems; Stage 3
+- content: Mission Critical Push To Talk (MCPTT) media plane control interworking with Land Mobile Radio (LMR) systems; Stage 3
   type: main
 source:
 - type: src

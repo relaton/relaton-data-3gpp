@@ -1,10 +1,8 @@
----
 id: TS29278REL8800
 schema_version: v1.5.6
 type: standard
 title:
-- content: Customized Applications for Mobile network Enhanced Logic (CAMEL) Phase
-    4; CAMEL Application Part (CAP) specification for IP Multimedia Subsystems (IMS)
+- content: Customized Applications for Mobile network Enhanced Logic (CAMEL) Phase 4; CAMEL Application Part (CAP) specification for IP Multimedia Subsystems (IMS)
   type: main
 source:
 - type: src

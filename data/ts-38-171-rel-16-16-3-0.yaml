@@ -1,10 +1,8 @@
----
 id: TS38171REL161630
 schema_version: v1.5.6
 type: standard
 title:
-- content: NR; Requirements for support of Assisted Global Navigation Satellite System
-    (A-GNSS)
+- content: NR; Requirements for support of Assisted Global Navigation Satellite System (A-GNSS)
   type: main
 source:
 - type: src

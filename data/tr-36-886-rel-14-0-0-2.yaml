@@ -1,10 +1,8 @@
----
 id: TR36886REL14002
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access (E-UTRA); Band 41 High Power
-    UE (HPUE)
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); Band 41 High Power UE (HPUE)
   type: main
 source:
 - type: src

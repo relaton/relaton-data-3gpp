@@ -1,10 +1,8 @@
----
 id: TS0694REL98700
 schema_version: v1.5.6
 type: standard
 title:
-- content: Voice Activity Detector (VAD) for Adaptive Multi Rate (AMR) speech traffic
-    channels
+- content: Voice Activity Detector (VAD) for Adaptive Multi Rate (AMR) speech traffic channels
   type: main
 source:
 - type: src

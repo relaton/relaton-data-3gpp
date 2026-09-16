@@ -1,11 +1,8 @@
----
 id: TS35242REL18010
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Specification of the Snow 5G based 256-bits algorithm set: Specification
-    of the 256-NEA4 encryption, the 256-NIA4 integrity, and the 256-NCA4 authenticated
-    encryption algorithm for 5G; Document 3: design conformance test data'
+- content: 'Specification of the Snow 5G based 256-bits algorithm set: Specification of the 256-NEA4 encryption, the 256-NIA4 integrity, and the 256-NCA4 authenticated encryption algorithm for 5G; Document 3: design conformance test data'
   type: main
 source:
 - type: src

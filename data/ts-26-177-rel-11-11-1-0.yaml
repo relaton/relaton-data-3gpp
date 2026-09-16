@@ -1,10 +1,8 @@
----
 id: TS26177REL111110
 schema_version: v1.5.6
 type: standard
 title:
-- content: Speech Enabled Services (SES); Distributed Speech Recognition (DSR) extended
-    advanced front-end test sequences
+- content: Speech Enabled Services (SES); Distributed Speech Recognition (DSR) extended advanced front-end test sequences
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TR29830REL20000
 schema_version: v1.5.6
 type: standard
 title:
-- content: CT WG3 Aspects of protocol study of the 6G System; 3GPP Network Capability
-    Exposure
+- content: CT WG3 Aspects of protocol study of the 6G System; 3GPP Network Capability Exposure
   type: main
 source:
 - type: src

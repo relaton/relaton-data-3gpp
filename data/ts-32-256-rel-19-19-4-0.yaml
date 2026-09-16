@@ -1,10 +1,8 @@
----
 id: TS32256REL191940
 schema_version: v1.5.6
 type: standard
 title:
-- content: Charging management; 5G connection and mobility domain charging; Stage
-    2
+- content: Charging management; 5G connection and mobility domain charging; Stage 2
   type: main
 source:
 - type: src

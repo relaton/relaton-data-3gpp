@@ -1,10 +1,8 @@
----
 id: TS32158REL15010
 schema_version: v1.5.6
 type: standard
 title:
-- content: Management and orchestration;Design rules for REpresentational State Transfer
-    (REST) Solution Sets (SS)
+- content: Management and orchestration;Design rules for REpresentational State Transfer (REST) Solution Sets (SS)
   type: main
 source:
 - type: src

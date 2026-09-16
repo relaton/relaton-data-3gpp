@@ -1,10 +1,8 @@
----
 id: TR23776REL17100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on architecture enhancements for 3GPP support of advanced Vehicle-to-Everything
-    (V2X) services; Phase 2
+- content: Study on architecture enhancements for 3GPP support of advanced Vehicle-to-Everything (V2X) services; Phase 2
   type: main
 source:
 - type: src

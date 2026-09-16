@@ -1,10 +1,8 @@
----
 id: TS36211REL8101
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access (E-UTRA); Physical channels
-    and modulation
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); Physical channels and modulation
   type: main
 docidentifier:
 - content: 3GPP TS 36.211:REL-8/1.0.1

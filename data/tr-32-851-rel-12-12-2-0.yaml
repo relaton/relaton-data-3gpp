@@ -1,10 +1,8 @@
----
 id: TR32851REL121220
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Study on Operations, Administration and Maintenance
-    (OAM) aspects of Network Sharing
+- content: Telecommunication management; Study on Operations, Administration and Maintenance (OAM) aspects of Network Sharing
   type: main
 source:
 - type: src

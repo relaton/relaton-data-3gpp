@@ -1,10 +1,8 @@
----
 id: TS26273REL6640
 schema_version: v1.5.6
 type: standard
 title:
-- content: ANSI-C code for the fixed-point Extended Adaptive Multi-Rate - Wideband
-    (AMR-WB+) speech codec
+- content: ANSI-C code for the fixed-point Extended Adaptive Multi-Rate - Wideband (AMR-WB+) speech codec
   type: main
 source:
 - type: src

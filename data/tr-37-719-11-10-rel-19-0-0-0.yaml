@@ -1,11 +1,8 @@
----
 id: TR377191110REL19000
 schema_version: v1.5.6
 type: standard
 title:
-- content: Rel-19 Dual Connectivity of EN-DC and NE-DC configurations  with one or
-    two NR Supplemental Uplink (SUL) band(s) and with/without UL sharing from the
-    UE perspective (ULSUP)
+- content: Rel-19 Dual Connectivity of EN-DC and NE-DC configurations  with one or two NR Supplemental Uplink (SUL) band(s) and with/without UL sharing from the UE perspective (ULSUP)
   type: main
 source:
 - type: src

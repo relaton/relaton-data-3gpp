@@ -1,10 +1,8 @@
----
 id: TR37877REL18010
 schema_version: v1.5.6
 type: standard
 title:
-- content: Rel-18 downlink interruption for NR and EN-DC band combinations at dynamic
-    Tx switching
+- content: Rel-18 downlink interruption for NR and EN-DC band combinations at dynamic Tx switching
   type: main
 source:
 - type: src

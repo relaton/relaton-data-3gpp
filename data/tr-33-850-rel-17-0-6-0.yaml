@@ -1,10 +1,8 @@
----
 id: TR33850REL17060
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on security aspects of enhancements for 5G Multicast-Broadcast Services
-    (MBS)
+- content: Study on security aspects of enhancements for 5G Multicast-Broadcast Services (MBS)
   type: main
 source:
 - type: src

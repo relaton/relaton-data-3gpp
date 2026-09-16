@@ -1,10 +1,8 @@
----
 id: TS321122REL4200
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Telecommunication management; Generic Integration Reference Point (IRP)
-    management; Part 2: Information service'
+- content: 'Telecommunication management; Generic Integration Reference Point (IRP) management; Part 2: Information service'
   type: main
 docidentifier:
 - content: 3GPP TS 32.112-2:REL-4/2.0.0

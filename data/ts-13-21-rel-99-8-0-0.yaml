@@ -1,10 +1,8 @@
----
 id: TS1321REL99800
 schema_version: v1.5.6
 type: standard
 title:
-- content: Base station systems and repeater equipment covering essential requirements
-    under article 3.2 of the R&TTE directive
+- content: Base station systems and repeater equipment covering essential requirements under article 3.2 of the R&TTE directive
   type: main
 source:
 - type: src

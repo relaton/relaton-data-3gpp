@@ -1,11 +1,8 @@
----
 id: TS365715REL9011
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE)
-    conformance specification; UE positioning in E-UTRA; Part 5: UE positioning test
-    scenarios and assistance data'
+- content: 'Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE) conformance specification; UE positioning in E-UTRA; Part 5: UE positioning test scenarios and assistance data'
   type: main
 docidentifier:
 - content: 3GPP TS 36.571-5:REL-9/0.1.1

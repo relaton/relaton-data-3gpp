@@ -1,10 +1,8 @@
----
 id: TS48058REL181800
 schema_version: v1.5.6
 type: standard
 title:
-- content: Base Station Controller - Base Transceiver Station  (BSC - BTS) Interface;
-    Layer 3 specification
+- content: Base Station Controller - Base Transceiver Station  (BSC - BTS) Interface; Layer 3 specification
   type: main
 source:
 - type: src

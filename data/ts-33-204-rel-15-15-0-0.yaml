@@ -1,10 +1,8 @@
----
 id: TS33204REL151500
 schema_version: v1.5.6
 type: standard
 title:
-- content: 3G Security; Network Domain Security (NDS); Transaction Capabilities Application
-    Part (TCAP)  user security
+- content: 3G Security; Network Domain Security (NDS); Transaction Capabilities Application Part (TCAP)  user security
   type: main
 source:
 - type: src

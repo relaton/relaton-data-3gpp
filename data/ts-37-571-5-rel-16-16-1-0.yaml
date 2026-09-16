@@ -1,10 +1,8 @@
----
 id: TS375715REL161610
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'User Equipment (UE) conformance specification for UE positioning; Part
-    5: Test scenarios and assistance data'
+- content: 'User Equipment (UE) conformance specification for UE positioning; Part 5: Test scenarios and assistance data'
   type: main
 source:
 - type: src

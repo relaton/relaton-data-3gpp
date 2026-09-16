@@ -1,10 +1,8 @@
----
 id: TS25111REL7010
 schema_version: v1.5.6
 type: standard
 title:
-- content: Location Measurement Unit (LMU) performance specification; User Equipment
-    (UE) positioning in UTRAN
+- content: Location Measurement Unit (LMU) performance specification; User Equipment (UE) positioning in UTRAN
   type: main
 docidentifier:
 - content: 3GPP TS 25.111:REL-7/0.1.0

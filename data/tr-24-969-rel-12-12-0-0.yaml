@@ -1,10 +1,8 @@
----
 id: TR24969REL121200
 schema_version: v1.5.6
 type: standard
 title:
-- content: Business trunking; Next Generation Corporate Network (NGCN) - Next Generation
-    Network (NGN) interfaces implementation guide
+- content: Business trunking; Next Generation Corporate Network (NGCN) - Next Generation Network (NGN) interfaces implementation guide
   type: main
 source:
 - type: src

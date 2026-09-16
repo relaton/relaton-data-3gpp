@@ -1,10 +1,8 @@
----
 id: TR36927REL10110
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access (E-UTRA); Potential solutions
-    for energy saving for E-UTRAN
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); Potential solutions for energy saving for E-UTRAN
   type: main
 docidentifier:
 - content: 3GPP TR 36.927:REL-10/1.1.0

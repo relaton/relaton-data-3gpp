@@ -1,10 +1,8 @@
----
 id: TR26957REL14110
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on Server And Network-assisted Dynamic Adaptive Streaming over HTTP
-    (DASH) (SAND) for 3GPP multimedia services
+- content: Study on Server And Network-assisted Dynamic Adaptive Streaming over HTTP (DASH) (SAND) for 3GPP multimedia services
   type: main
 source:
 - type: src

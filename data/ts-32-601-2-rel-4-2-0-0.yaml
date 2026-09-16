@@ -1,10 +1,8 @@
----
 id: TS326012REL4200
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Telecommunication management; Configuration Management (CM); Part 2: Basic
-    CM Integration Reference Point (IRP) information model'
+- content: 'Telecommunication management; Configuration Management (CM); Part 2: Basic CM Integration Reference Point (IRP) information model'
   type: main
 source:
 - type: src

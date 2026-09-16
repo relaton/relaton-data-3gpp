@@ -1,10 +1,8 @@
----
 id: TR23782REL151500
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on mission critical communication interworking between LTE and non-LTE
-    systems
+- content: Study on mission critical communication interworking between LTE and non-LTE systems
   type: main
 source:
 - type: src

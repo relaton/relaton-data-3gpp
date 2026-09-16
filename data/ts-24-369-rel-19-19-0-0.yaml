@@ -1,10 +1,8 @@
----
 id: TS24369REL191900
 schema_version: v1.5.6
 type: standard
 title:
-- content: Ambient IoT Non-Access-Stratum (AIoT NAS) protocol for 5G System (5GS);
-    Stage 3
+- content: Ambient IoT Non-Access-Stratum (AIoT NAS) protocol for 5G System (5GS); Stage 3
   type: main
 source:
 - type: src

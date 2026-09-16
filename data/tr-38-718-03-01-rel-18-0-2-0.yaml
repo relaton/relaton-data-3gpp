@@ -1,10 +1,8 @@
----
 id: TR387180301REL18020
 schema_version: v1.5.6
 type: standard
 title:
-- content: NR inter-band Carrier Aggregation/Dual Connectivity for 3 bands DL with
-    x bands UL(x=1,2)
+- content: NR inter-band Carrier Aggregation/Dual Connectivity for 3 bands DL with x bands UL(x=1,2)
   type: main
 source:
 - type: src

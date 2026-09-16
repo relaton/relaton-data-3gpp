@@ -1,10 +1,8 @@
----
 id: TR36752REL141400
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study of Narrow-Band Internet of Things (NB-IoT) Radio Frequency (RF) requirement
-    to co-existence with Code Division Multiple Access (CDMA)
+- content: Study of Narrow-Band Internet of Things (NB-IoT) Radio Frequency (RF) requirement to co-existence with Code Division Multiple Access (CDMA)
   type: main
 source:
 - type: src

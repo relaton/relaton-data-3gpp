@@ -1,10 +1,8 @@
----
 id: TS29337REL161610
 schema_version: v1.5.6
 type: standard
 title:
-- content: Diameter-based T4 Interface for communications with packet data networks
-    and applications
+- content: Diameter-based T4 Interface for communications with packet data networks and applications
   type: main
 source:
 - type: src

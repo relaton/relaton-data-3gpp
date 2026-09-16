@@ -1,10 +1,8 @@
----
 id: TS0354REL96520
 schema_version: v1.5.6
 type: standard
 title:
-- content: Description for the use of a Shared Inter Working Function (SIWF) in a
-    GSM PLMN; Stage 2
+- content: Description for the use of a Shared Inter Working Function (SIWF) in a GSM PLMN; Stage 2
   type: main
 source:
 - type: src

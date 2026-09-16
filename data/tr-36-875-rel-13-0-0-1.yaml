@@ -1,10 +1,8 @@
----
 id: TR36875REL13001
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Extension
-    of dual connectivity in E-UTRAN
+- content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Extension of dual connectivity in E-UTRAN
   type: main
 source:
 - type: src

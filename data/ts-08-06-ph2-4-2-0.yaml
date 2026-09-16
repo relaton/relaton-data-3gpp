@@ -1,10 +1,8 @@
----
 id: TS0806Ph2420
 schema_version: v1.5.6
 type: standard
 title:
-- content: Signalling Transport Mechanism Specification for the Base Station System
-    - Mobile Services Switching Centre (BSS-MSC) Interface
+- content: Signalling Transport Mechanism Specification for the Base Station System - Mobile Services Switching Centre (BSS-MSC) Interface
   type: main
 source:
 - type: src

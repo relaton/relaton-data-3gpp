@@ -1,10 +1,8 @@
----
 id: TR23754REL17120
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on supporting Unmanned Aerial Systems (UAS) connectivity, Identification
-    and tracking
+- content: Study on supporting Unmanned Aerial Systems (UAS) connectivity, Identification and tracking
   type: main
 source:
 - type: src

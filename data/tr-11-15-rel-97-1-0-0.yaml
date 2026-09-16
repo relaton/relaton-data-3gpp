@@ -1,10 +1,8 @@
----
 id: TR1115REL97100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Standardised Security Mechanisms for SIM Application Toolkit; Feasibility
-    study
+- content: Standardised Security Mechanisms for SIM Application Toolkit; Feasibility study
   type: main
 docidentifier:
 - content: 3GPP TR 11.15:REL-97/1.0.0

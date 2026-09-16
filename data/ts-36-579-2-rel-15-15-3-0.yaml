@@ -1,10 +1,8 @@
----
 id: TS365792REL151530
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Mission Critical (MC) services over LTE; Part 2: Mission Critical Push
-    To Talk (MCPTT) User Equipment (UE) Protocol conformance specification'
+- content: 'Mission Critical (MC) services over LTE; Part 2: Mission Critical Push To Talk (MCPTT) User Equipment (UE) Protocol conformance specification'
   type: main
 source:
 - type: src

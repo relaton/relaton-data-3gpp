@@ -1,10 +1,8 @@
----
 id: TR25807REL6600
 schema_version: v1.5.6
 type: standard
 title:
-- content: Low output powers for general purpose Frequency Division Duplex (FDD) Base
-    Station (BS)
+- content: Low output powers for general purpose Frequency Division Duplex (FDD) Base Station (BS)
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TR23730REL14120
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on extended architecture support for Cellular Internet of Things
-    (CIoT)
+- content: Study on extended architecture support for Cellular Internet of Things (CIoT)
   type: main
 source:
 - type: src

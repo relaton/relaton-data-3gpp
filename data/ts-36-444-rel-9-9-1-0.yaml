@@ -1,10 +1,8 @@
----
 id: TS36444REL9910
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN); M3 Application
-    Protocol (M3AP)
+- content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN); M3 Application Protocol (M3AP)
   type: main
 source:
 - type: src

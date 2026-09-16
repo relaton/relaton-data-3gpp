@@ -1,10 +1,8 @@
----
 id: TS35221REL111100
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Specification of the 3GPP Confidentiality and Integrity Algorithms EEA3
-    & EIA3; Document 1: EEA3 and EIA3 specifications'
+- content: 'Specification of the 3GPP Confidentiality and Integrity Algorithms EEA3 & EIA3; Document 1: EEA3 and EIA3 specifications'
   type: main
 source:
 - type: src

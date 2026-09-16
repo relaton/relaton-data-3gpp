@@ -1,10 +1,8 @@
----
 id: TS33220REL66130
 schema_version: v1.5.6
 type: standard
 title:
-- content: Generic Authentication Architecture (GAA); Generic Bootstrapping Architecture
-    (GBA)
+- content: Generic Authentication Architecture (GAA); Generic Bootstrapping Architecture (GBA)
   type: main
 source:
 - type: src

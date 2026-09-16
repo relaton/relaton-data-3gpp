@@ -1,10 +1,8 @@
----
 id: TS44001REL4410
 schema_version: v1.5.6
 type: standard
 title:
-- content: Mobile Station - Base Station System (MS - BSS) interface; General aspects
-    and principles
+- content: Mobile Station - Base Station System (MS - BSS) interface; General aspects and principles
   type: main
 source:
 - type: src

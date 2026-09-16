@@ -1,10 +1,8 @@
----
 id: TS48008REL77140
 schema_version: v1.5.6
 type: standard
 title:
-- content: Mobile Switching Centre - Base Station system (MSC-BSS) interface; Layer
-    3 specification
+- content: Mobile Switching Centre - Base Station system (MSC-BSS) interface; Layer 3 specification
   type: main
 docidentifier:
 - content: 3GPP TS 48.008:REL-7/7.14.0

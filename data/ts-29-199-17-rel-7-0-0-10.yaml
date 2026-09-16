@@ -1,10 +1,8 @@
----
 id: TS2919917REL70010
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Open Service Access (OSA); Parlay X web services; Part 17: Application-driven
-    Quality of Service (QoS)'
+- content: 'Open Service Access (OSA); Parlay X web services; Part 17: Application-driven Quality of Service (QoS)'
   type: main
 docidentifier:
 - content: 3GPP TS 29.199-17:REL-7/0.0.10

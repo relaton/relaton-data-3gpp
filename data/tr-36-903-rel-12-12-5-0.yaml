@@ -1,11 +1,8 @@
----
 id: TR36903REL121250
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Universal
-    Terrestrial Radio Access Network (E-UTRAN); Derivation of test tolerances for
-    Radio Resource Management (RRM) conformance tests
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Derivation of test tolerances for Radio Resource Management (RRM) conformance tests
   type: main
 source:
 - type: src

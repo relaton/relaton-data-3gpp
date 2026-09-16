@@ -1,10 +1,8 @@
----
 id: TR22841REL19100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on Upper layer traffic steering, switching and split over dual 3GPP
-    access
+- content: Study on Upper layer traffic steering, switching and split over dual 3GPP access
   type: main
 source:
 - type: src

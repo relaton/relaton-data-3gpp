@@ -1,10 +1,8 @@
----
 id: TS323012REL5200
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Telecommunication management; Configuration Management (CM); Part 2: Notification
-    Integration Reference Point (IRP): Information Service'
+- content: 'Telecommunication management; Configuration Management (CM); Part 2: Notification Integration Reference Point (IRP): Information Service'
   type: main
 docidentifier:
 - content: 3GPP TS 32.301-2:REL-5/2.0.0

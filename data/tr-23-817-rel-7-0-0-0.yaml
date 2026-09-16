@@ -1,10 +1,8 @@
----
 id: TR23817REL7000
 schema_version: v1.5.6
 type: standard
 title:
-- content: Feasibility study on enhancement of radio performances for Voice over IMS
-    (VoIMS); Report on Technical options and conclusions
+- content: Feasibility study on enhancement of radio performances for Voice over IMS (VoIMS); Report on Technical options and conclusions
   type: main
 source:
 - type: src

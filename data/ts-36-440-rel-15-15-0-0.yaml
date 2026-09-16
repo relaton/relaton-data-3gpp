@@ -1,11 +1,8 @@
----
 id: TS36440REL151500
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN); General aspects
-    and principles for interfaces supporting Multimedia Broadcast Multicast Service
-    (MBMS) within E-UTRAN
+- content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN); General aspects and principles for interfaces supporting Multimedia Broadcast Multicast Service (MBMS) within E-UTRAN
   type: main
 source:
 - type: src

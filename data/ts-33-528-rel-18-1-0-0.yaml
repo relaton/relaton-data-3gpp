@@ -1,10 +1,8 @@
----
 id: TS33528REL18100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Security Assurance Specification (SCAS) for the Policy Control Function
-    (PCF)
+- content: Security Assurance Specification (SCAS) for the Policy Control Function (PCF)
   type: main
 source:
 - type: src

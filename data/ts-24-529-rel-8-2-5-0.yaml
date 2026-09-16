@@ -1,10 +1,8 @@
----
 id: TS24529REL8250
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'TISPAN; PSTN/ISDN simulation services: Explicit Communication Transfer
-    (ECT); Protocol specification'
+- content: 'TISPAN; PSTN/ISDN simulation services: Explicit Communication Transfer (ECT); Protocol specification'
   type: main
 docidentifier:
 - content: 3GPP TS 24.529:REL-8/2.5.0

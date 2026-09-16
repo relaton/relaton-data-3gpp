@@ -1,10 +1,8 @@
----
 id: TR387190301REL19030
 schema_version: v1.5.6
 type: standard
 title:
-- content: Rel-19 NR inter-band CA/DC configurations including inter band CA for 3
-    different bands DL with x different bands UL(x=1,2)
+- content: Rel-19 NR inter-band CA/DC configurations including inter band CA for 3 different bands DL with x different bands UL(x=1,2)
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TR36853REL12100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-Advanced; LTE-Advanced
-    3 Band Carrier Aggregation (CA) (3DL/1UL)
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-Advanced; LTE-Advanced 3 Band Carrier Aggregation (CA) (3DL/1UL)
   type: main
 source:
 - type: src

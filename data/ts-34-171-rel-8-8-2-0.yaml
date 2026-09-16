@@ -1,10 +1,8 @@
----
 id: TS34171REL8820
 schema_version: v1.5.6
 type: standard
 title:
-- content: Terminal conformance specification; Assisted Global Positioning System
-    (A-GPS); Frequency Division Duplex (FDD)
+- content: Terminal conformance specification; Assisted Global Positioning System (A-GPS); Frequency Division Duplex (FDD)
   type: main
 source:
 - type: src

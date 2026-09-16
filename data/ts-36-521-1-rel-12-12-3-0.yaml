@@ -1,11 +1,8 @@
----
 id: TS365211REL121230
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE)
-    conformance specification; Radio transmission and reception; Part 1: Conformance
-    testing'
+- content: 'Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE) conformance specification; Radio transmission and reception; Part 1: Conformance testing'
   type: main
 source:
 - type: src

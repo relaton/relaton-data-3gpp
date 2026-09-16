@@ -1,10 +1,8 @@
----
 id: TS36300REL151570
 schema_version: v1.5.6
 type: standard
 title:
-- content: Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Universal
-    Terrestrial Radio Access Network (E-UTRAN); Overall description; Stage 2
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Overall description; Stage 2
   type: main
 source:
 - type: src

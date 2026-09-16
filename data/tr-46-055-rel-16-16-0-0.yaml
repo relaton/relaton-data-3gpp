@@ -1,10 +1,8 @@
----
 id: TR46055REL161600
 schema_version: v1.5.6
 type: standard
 title:
-- content: Performance characterization of the GSM Enhanced Full Rate (EFR) speech
-    codec
+- content: Performance characterization of the GSM Enhanced Full Rate (EFR) speech codec
   type: main
 source:
 - type: src

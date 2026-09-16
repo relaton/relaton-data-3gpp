@@ -1,10 +1,8 @@
----
 id: TS29276REL8870
 schema_version: v1.5.6
 type: standard
 title:
-- content: 3GPP Evolved Packet System (EPS); Optimized handover procedures and protocols
-    between E-UTRAN access and cdma2000 HRPD Access; Stage 3
+- content: 3GPP Evolved Packet System (EPS); Optimized handover procedures and protocols between E-UTRAN access and cdma2000 HRPD Access; Stage 3
   type: main
 source:
 - type: src

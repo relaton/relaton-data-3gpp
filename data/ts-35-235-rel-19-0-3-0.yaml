@@ -1,11 +1,8 @@
----
 id: TS35235REL19030
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Specification of the MILENAGE-256 algorithm set; An example set of 256-bit
-    3GPP authentication and key generation functions f1, f1*, f2, f3, f4, f5, f5*
-    and f5**; Document 2: algorithm specification'
+- content: 'Specification of the MILENAGE-256 algorithm set; An example set of 256-bit 3GPP authentication and key generation functions f1, f1*, f2, f3, f4, f5, f5* and f5**; Document 2: algorithm specification'
   type: main
 source:
 - type: src

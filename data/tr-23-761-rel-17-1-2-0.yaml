@@ -1,10 +1,8 @@
----
 id: TR23761REL17120
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on system enablers for devices having multiple Universal Subscriber
-    Identity Modules (USIM)
+- content: Study on system enablers for devices having multiple Universal Subscriber Identity Modules (USIM)
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TS2919919REL8800
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Open Service Access (OSA); Parlay X web services; Part 19: Multimedia
-    streaming control'
+- content: 'Open Service Access (OSA); Parlay X web services; Part 19: Multimedia streaming control'
   type: main
 source:
 - type: src

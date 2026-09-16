@@ -1,10 +1,8 @@
----
 id: TR23860REL10020
 schema_version: v1.5.6
 type: standard
 title:
-- content: Enabling coder selection and rate adaptation for UTRAN and E-UTRAN for
-    load adaptive applications; Stage 2
+- content: Enabling coder selection and rate adaptation for UTRAN and E-UTRAN for load adaptive applications; Stage 2
   type: main
 source:
 - type: src

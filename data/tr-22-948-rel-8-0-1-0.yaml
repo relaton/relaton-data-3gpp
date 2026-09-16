@@ -1,10 +1,8 @@
----
 id: TR22948REL8010
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study of requirements of IP-Multimedia Subsystem (IMS) convergent multimedia
-    conferencing
+- content: Study of requirements of IP-Multimedia Subsystem (IMS) convergent multimedia conferencing
   type: main
 docidentifier:
 - content: 3GPP TR 22.948:REL-8/0.1.0

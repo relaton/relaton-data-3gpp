@@ -1,10 +1,8 @@
----
 id: TS32272REL6010
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Charging management; Push-to-talk over Cellular
-    (PoC) charging
+- content: Telecommunication management; Charging management; Push-to-talk over Cellular (PoC) charging
   type: main
 docidentifier:
 - content: 3GPP TS 32.272:REL-6/0.1.0

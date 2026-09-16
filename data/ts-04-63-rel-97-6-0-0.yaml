@@ -1,10 +1,8 @@
----
 id: TS0463REL97600
 schema_version: v1.5.6
 type: standard
 title:
-- content: Packet Data on Signalling channels Service (PDS) Service Description, Stage
-    3
+- content: Packet Data on Signalling channels Service (PDS) Service Description, Stage 3
   type: main
 source:
 - type: src

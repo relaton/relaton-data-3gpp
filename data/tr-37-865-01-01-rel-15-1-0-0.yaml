@@ -1,10 +1,8 @@
----
 id: TR378650101REL15100
 schema_version: v1.5.6
 type: standard
 title:
-- content: NR Carrier Aggregation for intra-band (m Down Link (DL) / 1 Up Link (UL)
-    bands) and inter-band (n Down Link (DL) / 1 Up Link (UL) bands)
+- content: NR Carrier Aggregation for intra-band (m Down Link (DL) / 1 Up Link (UL) bands) and inter-band (n Down Link (DL) / 1 Up Link (UL) bands)
   type: main
 source:
 - type: src

@@ -1,11 +1,8 @@
----
 id: TR33980REL7750
 schema_version: v1.5.6
 type: standard
 title:
-- content: Liberty Alliance and 3GPP security interworking; Interworking of Liberty
-    Alliance Identity Federation Framework (ID-FF), Identity Web Services Framework
-    (ID-WSF) and Generic Authentication Architecture (GAA)
+- content: Liberty Alliance and 3GPP security interworking; Interworking of Liberty Alliance Identity Federation Framework (ID-FF), Identity Web Services Framework (ID-WSF) and Generic Authentication Architecture (GAA)
   type: main
 source:
 - type: src

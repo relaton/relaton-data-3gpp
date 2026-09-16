@@ -1,11 +1,8 @@
----
 id: TS385914REL19010
 schema_version: v1.5.6
 type: standard
 title:
-- content: '5GS; Ambient IoT device conformance specification; Part 4: Applicability
-    of radio transmission, radio reception, radio resource management, protocol test
-    cases and Common Implementation Conformance Statement (ICS) proforma'
+- content: '5GS; Ambient IoT device conformance specification; Part 4: Applicability of radio transmission, radio reception, radio resource management, protocol test cases and Common Implementation Conformance Statement (ICS) proforma'
   type: main
 source:
 - type: src

@@ -1,10 +1,8 @@
----
 id: TS32273REL131300
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Charging management; Multimedia Broadcast
-    and Multicast Service (MBMS) charging
+- content: Telecommunication management; Charging management; Multimedia Broadcast and Multicast Service (MBMS) charging
   type: main
 source:
 - type: src

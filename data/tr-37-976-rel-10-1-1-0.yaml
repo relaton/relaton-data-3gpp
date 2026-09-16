@@ -1,11 +1,8 @@
----
 id: TR37976REL10110
 schema_version: v1.5.6
 type: standard
 title:
-- content: Measurement of radiated performance for Multiple Input Multiple Output
-    (MIMO) and multi-antenna reception for High Speed Packet Access (HSPA) and LTE
-    terminals
+- content: Measurement of radiated performance for Multiple Input Multiple Output (MIMO) and multi-antenna reception for High Speed Packet Access (HSPA) and LTE terminals
   type: main
 source:
 - type: src
