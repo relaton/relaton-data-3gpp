@@ -33,11 +33,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        content: Vijay
+        content: Arunprasath
       surname:
         language: en
         script: Latn
-        content: Sangameshwara
+        content: Ramamoorthy
     affiliation:
     - organization:
         name:

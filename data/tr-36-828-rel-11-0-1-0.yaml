@@ -28,6 +28,22 @@ contributor:
       content: 3GPP
 - role:
   - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kang Shen
+      surname:
+        language: en
+        script: Latn
+        content: Zu
+    affiliation:
+    - organization:
+        name:
+        - content: China Academy of Telecommunication Technology - (Datang Telecom Technology and Industry Group)
+- role:
+  - type: author
     description:
     - content: committee
   organization:

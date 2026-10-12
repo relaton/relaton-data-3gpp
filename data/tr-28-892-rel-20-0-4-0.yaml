@@ -5,11 +5,17 @@ type: standard
 title:
 - content: Study on unified Management interface for multi-RAT support
   type: main
+source:
+- type: src
+  content: https://ftp.3gpp.org//Specs/archive/28_series/28.892/28892-040.zip
 docidentifier:
 - content: 3GPP TR 28.892:REL-20/0.4.0
   type: 3GPP
   primary: true
 docnumber: TR 28.892:REL-20/0.4.0
+date:
+- type: published
+  at: '2026-09-03'
 contributor:
 - role:
   - type: author

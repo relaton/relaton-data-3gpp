@@ -3,7 +3,7 @@ id: TR33771REL20100
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on supporting AEAD algorithms
+- content: Study on supporting Authenticated Encryption with Associated Data (AEAD) algorithms
   type: main
 source:
 - type: src

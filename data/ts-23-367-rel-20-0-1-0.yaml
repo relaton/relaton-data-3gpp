@@ -5,11 +5,17 @@ type: standard
 title:
 - content: System architecture for application energy consumption information collection and reporting; Stage 2
   type: main
+source:
+- type: src
+  content: https://ftp.3gpp.org//Specs/archive/23_series/23.367/23367-010.zip
 docidentifier:
 - content: 3GPP TS 23.367:REL-20/0.1.0
   type: 3GPP
   primary: true
 docnumber: TS 23.367:REL-20/0.1.0
+date:
+- type: published
+  at: '2026-07-23'
 contributor:
 - role:
   - type: author

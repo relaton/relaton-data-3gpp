@@ -3,7 +3,7 @@ id: TR3370023REL20010
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on security aspects of CAPIF phase 4
+- content: Study on security aspects of Common API Framework (CAPIF) phase 4
   type: main
 source:
 - type: src

@@ -31865,6 +31865,24 @@
   :file: data/tr-21-802-rel-20-1-2-1.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '21.802'
+    release: REL-20
+    version: 1.2.2
+  :file: data/tr-21-802-rel-20-1-2-2.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '21.802'
+    release: REL-20
+    version: 1.3.0
+  :file: data/tr-21-802-rel-20-1-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '21.802'
+    release: REL-20
+    version: 1.4.0
+  :file: data/tr-21-802-rel-20-1-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '21.810'
     release: REL-99
     version: 2.0.0
@@ -34889,6 +34907,30 @@
     release: REL-9
     version: 9.4.0
   :file: data/ts-22-011-rel-9-9-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '22.011'
+    release: REL-18
+    version: 18.7.0
+  :file: data/ts-22-011-rel-18-18-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '22.011'
+    release: REL-19
+    version: 19.7.0
+  :file: data/ts-22-011-rel-19-19-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '22.011'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-22-011-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '22.011'
+    release: REL-21
+    version: 21.0.0
+  :file: data/ts-22-011-rel-21-21-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '22.016'
@@ -40986,6 +41028,24 @@
   :file: data/ts-22-101-rel-9-9-9-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '22.101'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-22-101-rel-19-19-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '22.101'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-22-101-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '22.101'
+    release: REL-21
+    version: 21.0.0
+  :file: data/ts-22-101-rel-21-21-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '22.104'
     release: REL-16
     version: 0.1.0
@@ -42858,6 +42918,18 @@
   :file: data/ts-22-137-rel-19-2-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '22.137'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-22-137-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '22.137'
+    release: REL-21
+    version: 21.0.0
+  :file: data/ts-22-137-rel-21-21-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '22.140'
     release: REL-99
     version: 0.0.0
@@ -44394,6 +44466,18 @@
   :file: data/ts-22-173-rel-9-9-7-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '22.173'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-22-173-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '22.173'
+    release: REL-21
+    version: 21.0.0
+  :file: data/ts-22-173-rel-21-21-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '22.174'
     release: REL-6
     version: 0.6.0
@@ -44746,6 +44830,12 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-22-179-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '22.179'
+    release: REL-21
+    version: 21.0.0
+  :file: data/ts-22-179-rel-21-21-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '22.182'
@@ -46054,6 +46144,18 @@
     release: REL-9
     version: 9.4.0
   :file: data/ts-22-228-rel-9-9-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '22.228'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-22-228-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '22.228'
+    release: REL-21
+    version: 21.0.0
+  :file: data/ts-22-228-rel-21-21-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '22.233'
@@ -47936,6 +48038,24 @@
   :file: data/ts-22-261-rel-20-20-7-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '22.261'
+    release: REL-19
+    version: 19.15.0
+  :file: data/ts-22-261-rel-19-19-15-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '22.261'
+    release: REL-20
+    version: 20.8.0
+  :file: data/ts-22-261-rel-20-20-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '22.261'
+    release: REL-20
+    version: 20.8.1
+  :file: data/ts-22-261-rel-20-20-8-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '22.262'
     release: REL-16
     version: 0.0.0
@@ -48398,6 +48518,18 @@
   :file: data/ts-22-268-rel-9-9-5-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '22.268'
+    release: REL-20
+    version: 20.3.0
+  :file: data/ts-22-268-rel-20-20-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '22.268'
+    release: REL-21
+    version: 21.0.0
+  :file: data/ts-22-268-rel-21-21-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '22.270'
     release: REL-21
     version: 0.0.0
@@ -48414,6 +48546,12 @@
     release: REL-21
     version: 0.2.0
   :file: data/ts-22-270-rel-21-0-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '22.270'
+    release: REL-21
+    version: 0.3.0
+  :file: data/ts-22-270-rel-21-0-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '22.273'
@@ -49302,6 +49440,12 @@
     release: REL-20
     version: 20.2.0
   :file: data/ts-22-280-rel-20-20-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '22.280'
+    release: REL-21
+    version: 21.0.0
+  :file: data/ts-22-280-rel-21-21-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '22.281'
@@ -52278,6 +52422,18 @@
   :file: data/tr-22-844-rel-18-18-2-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '22.846'
+    release: REL-21
+    version: 0.0.0
+  :file: data/tr-22-846-rel-21-0-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '22.846'
+    release: REL-21
+    version: 0.1.0
+  :file: data/tr-22-846-rel-21-0-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '22.847'
     release: REL-18
     version: 0.1.0
@@ -52906,6 +53062,12 @@
     release: REL-21
     version: 0.2.0
   :file: data/tr-22-860-rel-21-0-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '22.860'
+    release: REL-21
+    version: 0.3.0
+  :file: data/tr-22-860-rel-21-0-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '22.861'
@@ -60666,6 +60828,18 @@
   :file: data/ts-23-003-rel-9-9-9-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '23.003'
+    release: REL-19
+    version: 19.8.0
+  :file: data/ts-23-003-rel-19-19-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.003'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-23-003-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '23.007'
     release: REL-10
     version: 10.0.0
@@ -65397,6 +65571,12 @@
     release: REL-9
     version: 9.3.0
   :file: data/ts-23-040-rel-9-9-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.040'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-23-040-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '23.041'
@@ -72750,6 +72930,12 @@
   :file: data/ts-23-122-rel-9-9-6-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '23.122'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-23-122-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '23.125'
     release: REL-6
     version: 0.0.1
@@ -73080,6 +73266,24 @@
   :file: data/ts-23-137-rel-20-0-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '23.137'
+    release: REL-20
+    version: 0.4.0
+  :file: data/ts-23-137-rel-20-0-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.137'
+    release: REL-20
+    version: 1.0.0
+  :file: data/ts-23-137-rel-20-1-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.137'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-23-137-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '23.138'
     release: REL-20
     version: 0.0.0
@@ -73090,6 +73294,18 @@
     release: REL-20
     version: 0.1.0
   :file: data/ts-23-138-rel-20-0-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.138'
+    release: REL-20
+    version: 0.2.0
+  :file: data/ts-23-138-rel-20-0-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.138'
+    release: REL-20
+    version: 1.0.0
+  :file: data/ts-23-138-rel-20-1-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '23.139'
@@ -75054,6 +75270,18 @@
   :file: data/ts-23-167-rel-9-9-9-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '23.167'
+    release: REL-19
+    version: 19.2.0
+  :file: data/ts-23-167-rel-19-19-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.167'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-23-167-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '23.171'
     release: REL-99
     version: 1.0.0
@@ -76607,6 +76835,12 @@
     release: REL-9
     version: 9.9.0
   :file: data/ts-23-203-rel-9-9-9-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.203'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-23-203-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '23.204'
@@ -79411,6 +79645,12 @@
   :file: data/ts-23-222-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '23.222'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-23-222-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '23.226'
     release: REL-10
     version: 10.0.0
@@ -80567,6 +80807,18 @@
     release: REL-9
     version: 9.4.0
   :file: data/ts-23-228-rel-9-9-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.228'
+    release: REL-19
+    version: 19.8.0
+  :file: data/ts-23-228-rel-19-19-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.228'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-23-228-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '23.231'
@@ -82579,6 +82831,12 @@
   :file: data/ts-23-247-rel-17-2-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '23.247'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-23-247-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '23.251'
     release: REL-6
     version: 0.0.0
@@ -83039,6 +83297,12 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-23-255-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.255'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-23-255-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '23.256'
@@ -85747,6 +86011,18 @@
   :file: data/ts-23-280-rel-20-20-4-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '23.280'
+    release: REL-20
+    version: 20.5.0
+  :file: data/ts-23-280-rel-20-20-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.280'
+    release: REL-20
+    version: 20.5.1
+  :file: data/ts-23-280-rel-20-20-5-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '23.281'
     release: REL-14
     version: 0.0.0
@@ -86129,6 +86405,18 @@
     release: REL-20
     version: 20.4.0
   :file: data/ts-23-281-rel-20-20-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.281'
+    release: REL-20
+    version: 20.5.0
+  :file: data/ts-23-281-rel-20-20-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.281'
+    release: REL-20
+    version: 20.5.1
+  :file: data/ts-23-281-rel-20-20-5-1.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '23.282'
@@ -86519,6 +86807,18 @@
     release: REL-20
     version: 20.2.0
   :file: data/ts-23-282-rel-20-20-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.282'
+    release: REL-20
+    version: 20.3.0
+  :file: data/ts-23-282-rel-20-20-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.282'
+    release: REL-20
+    version: 20.3.1
+  :file: data/ts-23-282-rel-20-20-3-1.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '23.283'
@@ -87283,6 +87583,12 @@
   :file: data/ts-23-286-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '23.286'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-23-286-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '23.287'
     release: REL-16
     version: 0.0.0
@@ -87461,6 +87767,12 @@
     release: REL-16
     version: 2.0.0
   :file: data/ts-23-287-rel-16-2-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.287'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-23-287-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '23.288'
@@ -87805,6 +88117,18 @@
   :file: data/ts-23-288-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '23.288'
+    release: REL-19
+    version: 19.8.0
+  :file: data/ts-23-288-rel-19-19-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.288'
+    release: REL-20
+    version: 20.2.0
+  :file: data/ts-23-288-rel-20-20-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '23.289'
     release: REL-17
     version: 0.1.0
@@ -88013,6 +88337,18 @@
     release: REL-20
     version: 20.2.0
   :file: data/ts-23-289-rel-20-20-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.289'
+    release: REL-19
+    version: 19.8.0
+  :file: data/ts-23-289-rel-19-19-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.289'
+    release: REL-20
+    version: 20.3.0
+  :file: data/ts-23-289-rel-20-20-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '23.292'
@@ -90099,6 +90435,24 @@
   :file: data/ts-23-366-rel-20-1-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '23.366'
+    release: REL-20
+    version: 1.1.0
+  :file: data/ts-23-366-rel-20-1-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.366'
+    release: REL-20
+    version: 2.0.0
+  :file: data/ts-23-366-rel-20-2-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.366'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-23-366-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '23.367'
     release: REL-20
     version: 0.0.1
@@ -90109,6 +90463,24 @@
     release: REL-20
     version: 0.1.0
   :file: data/ts-23-367-rel-20-0-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.367'
+    release: REL-20
+    version: 0.2.0
+  :file: data/ts-23-367-rel-20-0-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.367'
+    release: REL-20
+    version: 1.0.0
+  :file: data/ts-23-367-rel-20-1-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.367'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-23-367-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '23.369'
@@ -90183,6 +90555,18 @@
   :file: data/ts-23-369-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '23.369'
+    release: REL-19
+    version: 19.5.0
+  :file: data/ts-23-369-rel-19-19-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.369'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-23-369-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '23.370'
     release: REL-20
     version: 0.1.0
@@ -90205,6 +90589,24 @@
     release: REL-20
     version: 1.0.0
   :file: data/ts-23-370-rel-20-1-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.370'
+    release: REL-20
+    version: 1.1.0
+  :file: data/ts-23-370-rel-20-1-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.370'
+    release: REL-20
+    version: 2.0.0
+  :file: data/ts-23-370-rel-20-2-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.370'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-23-370-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '23.379'
@@ -90669,6 +91071,12 @@
   :file: data/ts-23-379-rel-20-20-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '23.379'
+    release: REL-20
+    version: 20.4.0
+  :file: data/ts-23-379-rel-20-20-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '23.380'
     release: REL-8
     version: 0.1.0
@@ -91123,6 +91531,18 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-23-392-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.392'
+    release: REL-20
+    version: 20.0.1
+  :file: data/ts-23-392-rel-20-20-0-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.392'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-23-392-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '23.401'
@@ -92193,6 +92613,12 @@
   :file: data/ts-23-401-rel-9-9-9-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '23.401'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-23-401-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '23.402'
     release: REL-8
     version: 0.0.0
@@ -93063,6 +93489,24 @@
   :file: data/ts-23-433-rel-20-20-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '23.433'
+    release: REL-18
+    version: 18.8.0
+  :file: data/ts-23-433-rel-18-18-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.433'
+    release: REL-19
+    version: 19.10.0
+  :file: data/ts-23-433-rel-19-19-10-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.433'
+    release: REL-20
+    version: 20.4.0
+  :file: data/ts-23-433-rel-20-20-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '23.434'
     release: REL-16
     version: 0.0.0
@@ -93675,6 +94119,18 @@
   :file: data/ts-23-436-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '23.436'
+    release: REL-20
+    version: 20.1.1
+  :file: data/ts-23-436-rel-20-20-1-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.436'
+    release: REL-20
+    version: 20.2.0
+  :file: data/ts-23-436-rel-20-20-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '23.437'
     release: REL-19
     version: 0.1.0
@@ -93757,6 +94213,12 @@
     release: REL-20
     version: 20.3.0
   :file: data/ts-23-437-rel-20-20-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.437'
+    release: REL-20
+    version: 20.4.0
+  :file: data/ts-23-437-rel-20-20-4-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '23.438'
@@ -94123,6 +94585,12 @@
     release: REL-20
     version: 20.2.0
   :file: data/ts-23-482-rel-20-20-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.482'
+    release: REL-20
+    version: 20.3.0
+  :file: data/ts-23-482-rel-20-20-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '23.501'
@@ -94723,6 +95191,18 @@
     release: REL-20
     version: 20.2.0
   :file: data/ts-23-501-rel-20-20-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.501'
+    release: REL-19
+    version: 19.9.0
+  :file: data/ts-23-501-rel-19-19-9-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.501'
+    release: REL-20
+    version: 20.3.0
+  :file: data/ts-23-501-rel-20-20-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '23.502'
@@ -95355,6 +95835,18 @@
   :file: data/ts-23-502-rel-20-20-2-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '23.502'
+    release: REL-19
+    version: 19.9.0
+  :file: data/ts-23-502-rel-19-19-9-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.502'
+    release: REL-20
+    version: 20.3.0
+  :file: data/ts-23-502-rel-20-20-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '23.503'
     release: REL-15
     version: 0.0.0
@@ -95791,6 +96283,12 @@
     release: REL-20
     version: 20.2.0
   :file: data/ts-23-503-rel-20-20-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.503'
+    release: REL-20
+    version: 20.3.0
+  :file: data/ts-23-503-rel-20-20-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '23.506'
@@ -96315,6 +96813,12 @@
   :file: data/ts-23-540-rel-19-19-2-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '23.540'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-23-540-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '23.542'
     release: REL-18
     version: 0.1.0
@@ -96421,6 +96925,12 @@
     release: REL-20
     version: 20.2.0
   :file: data/ts-23-542-rel-20-20-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.542'
+    release: REL-20
+    version: 20.3.0
+  :file: data/ts-23-542-rel-20-20-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '23.545'
@@ -97231,6 +97741,12 @@
     release: REL-20
     version: 20.2.0
   :file: data/ts-23-558-rel-20-20-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '23.558'
+    release: REL-20
+    version: 20.3.0
+  :file: data/ts-23-558-rel-20-20-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '23.586'
@@ -105725,6 +106241,30 @@
   :file: data/tr-23-700-99-rel-18-2-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '23.700'
+    parts:
+    - '37'
+    release: REL-20
+    version: 0.6.0
+  :file: data/tr-23-700-37-rel-20-0-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '23.700'
+    parts:
+    - '39'
+    release: REL-20
+    version: 20.1.0
+  :file: data/tr-23-700-39-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '23.700'
+    parts:
+    - '42'
+    release: REL-20
+    version: 1.4.0
+  :file: data/tr-23-700-42-rel-20-1-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '23.701'
     release: REL-12
     version: 0.0.0
@@ -111339,6 +111879,70 @@
     release: REL-20
     version: 0.1.0
   :file: data/tr-23-801-04-rel-20-0-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '23.801'
+    parts:
+    - '01'
+    release: REL-20
+    version: 0.9.0
+  :file: data/tr-23-801-01-rel-20-0-9-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '23.801'
+    parts:
+    - '02'
+    release: REL-20
+    version: 0.4.0
+  :file: data/tr-23-801-02-rel-20-0-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '23.801'
+    parts:
+    - '02'
+    release: REL-20
+    version: 0.4.1
+  :file: data/tr-23-801-02-rel-20-0-4-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '23.801'
+    parts:
+    - '03'
+    release: REL-20
+    version: 0.3.0
+  :file: data/tr-23-801-03-rel-20-0-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '23.801'
+    parts:
+    - '03'
+    release: REL-20
+    version: 0.3.1
+  :file: data/tr-23-801-03-rel-20-0-3-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '23.801'
+    parts:
+    - '04'
+    release: REL-20
+    version: 0.2.0
+  :file: data/tr-23-801-04-rel-20-0-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '23.801'
+    parts:
+    - '05'
+    release: REL-20
+    version: 0.0.0
+  :file: data/tr-23-801-05-rel-20-0-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '23.801'
+    parts:
+    - '05'
+    release: REL-20
+    version: 0.1.0
+  :file: data/tr-23-801-05-rel-20-0-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '23.802'
@@ -118289,6 +118893,12 @@
   :file: data/tr-23-947-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '23.947'
+    release: REL-20
+    version: 20.1.0
+  :file: data/tr-23-947-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '23.949'
     release: REL-20
     version: 0.0.0
@@ -118329,6 +118939,12 @@
     release: REL-20
     version: 20.1.0
   :file: data/tr-23-949-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '23.949'
+    release: REL-20
+    version: 20.2.0
+  :file: data/tr-23-949-rel-20-20-2-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '23.95'
@@ -121458,6 +122074,12 @@
   :file: data/ts-24-008-rel-9-9-9-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '24.008'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-24-008-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '24.010'
     release: REL-10
     version: 10.0.0
@@ -122902,6 +123524,12 @@
     release: REL-9
     version: 9.2.0
   :file: data/ts-24-080-rel-9-9-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.080'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-24-080-rel-19-19-4-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '24.081'
@@ -128040,6 +128668,12 @@
   :file: data/ts-24-186-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '24.186'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-24-186-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '24.193'
     release: REL-16
     version: 0.1.0
@@ -128320,6 +128954,36 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-24-193-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.193'
+    release: REL-16
+    version: 16.5.0
+  :file: data/ts-24-193-rel-16-16-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.193'
+    release: REL-17
+    version: 17.12.0
+  :file: data/ts-24-193-rel-17-17-12-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.193'
+    release: REL-18
+    version: 18.10.0
+  :file: data/ts-24-193-rel-18-18-10-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.193'
+    release: REL-19
+    version: 19.6.0
+  :file: data/ts-24-193-rel-19-19-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.193'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-24-193-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '24.196'
@@ -131454,6 +132118,12 @@
   :file: data/ts-24-229-rel-9-9-9-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '24.229'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-24-229-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '24.230'
     release: REL-20
     version: 0.0.0
@@ -131464,6 +132134,12 @@
     release: REL-20
     version: 0.1.0
   :file: data/ts-24-230-rel-20-0-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.230'
+    release: REL-20
+    version: 0.2.0
+  :file: data/ts-24-230-rel-20-0-2-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '24.234'
@@ -133512,6 +134188,12 @@
   :file: data/ts-24-247-rel-9-9-8-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '24.247'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-24-247-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '24.250'
     release: REL-14
     version: 0.0.0
@@ -134886,6 +135568,24 @@
   :file: data/ts-24-281-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '24.281'
+    release: REL-18
+    version: 18.14.0
+  :file: data/ts-24-281-rel-18-18-14-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.281'
+    release: REL-19
+    version: 19.7.0
+  :file: data/ts-24-281-rel-19-19-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.281'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-24-281-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '24.282'
     release: REL-14
     version: 0.1.0
@@ -135408,6 +136108,24 @@
   :file: data/ts-24-282-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '24.282'
+    release: REL-18
+    version: 18.15.0
+  :file: data/ts-24-282-rel-18-18-15-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.282'
+    release: REL-19
+    version: 19.8.0
+  :file: data/ts-24-282-rel-19-19-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.282'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-24-282-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '24.283'
     release: REL-18
     version: 0.1.0
@@ -135484,6 +136202,18 @@
     release: REL-19
     version: 2.0.0
   :file: data/ts-24-283-rel-19-2-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.283'
+    release: REL-19
+    version: 19.3.0
+  :file: data/ts-24-283-rel-19-19-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.283'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-24-283-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '24.285'
@@ -137518,6 +138248,18 @@
     release: REL-9
     version: 9.9.0
   :file: data/ts-24-301-rel-9-9-9-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.301'
+    release: REL-19
+    version: 19.8.0
+  :file: data/ts-24-301-rel-19-19-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.301'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-24-301-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '24.302'
@@ -140838,6 +141580,12 @@
   :file: data/ts-24-368-rel-10-2-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '24.368'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-24-368-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '24.369'
     release: REL-19
     version: 0.1.0
@@ -140896,6 +141644,18 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-24-369-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.369'
+    release: REL-19
+    version: 19.3.0
+  :file: data/ts-24-369-rel-19-19-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.369'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-24-369-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '24.371'
@@ -142044,6 +142804,24 @@
   :file: data/ts-24-379-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '24.379'
+    release: REL-18
+    version: 18.14.0
+  :file: data/ts-24-379-rel-18-18-14-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.379'
+    release: REL-19
+    version: 19.8.0
+  :file: data/ts-24-379-rel-19-19-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.379'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-24-379-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '24.380'
     release: REL-13
     version: 0.1.0
@@ -142558,6 +143336,30 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-24-380-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.380'
+    release: REL-17
+    version: 17.8.0
+  :file: data/ts-24-380-rel-17-17-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.380'
+    release: REL-18
+    version: 18.8.0
+  :file: data/ts-24-380-rel-18-18-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.380'
+    release: REL-19
+    version: 19.3.0
+  :file: data/ts-24-380-rel-19-19-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.380'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-24-380-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '24.381'
@@ -143466,6 +144268,12 @@
   :file: data/ts-24-390-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '24.390'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-24-390-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '24.391'
     release: REL-12
     version: 1.0.0
@@ -143572,6 +144380,12 @@
     release: REL-19
     version: 2.0.0
   :file: data/ts-24-392-rel-19-2-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.392'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-24-392-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '24.403'
@@ -145134,6 +145948,12 @@
   :file: data/ts-24-483-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '24.483'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-24-483-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '24.484'
     release: REL-13
     version: 13.10.0
@@ -145714,6 +146534,12 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-24-484-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.484'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-24-484-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '24.486'
@@ -146488,6 +147314,24 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-24-501-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.501'
+    release: REL-18
+    version: 18.14.0
+  :file: data/ts-24-501-rel-18-18-14-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.501'
+    release: REL-19
+    version: 19.8.0
+  :file: data/ts-24-501-rel-19-19-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.501'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-24-501-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '24.502'
@@ -147966,6 +148810,12 @@
   :file: data/ts-24-526-rel-15-2-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '24.526'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-24-526-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '24.528'
     release: REL-8
     version: 2.4.0
@@ -148138,6 +148988,30 @@
     release: REL-16
     version: 2.0.0
   :file: data/ts-24-535-rel-16-2-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.535'
+    release: REL-16
+    version: 16.5.0
+  :file: data/ts-24-535-rel-16-16-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.535'
+    release: REL-17
+    version: 17.4.0
+  :file: data/ts-24-535-rel-17-17-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.535'
+    release: REL-18
+    version: 18.2.0
+  :file: data/ts-24-535-rel-18-18-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.535'
+    release: REL-19
+    version: 19.2.0
+  :file: data/ts-24-535-rel-19-19-2-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '24.538'
@@ -148678,6 +149552,24 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-24-543-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.543'
+    release: REL-18
+    version: 18.7.0
+  :file: data/ts-24-543-rel-18-18-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.543'
+    release: REL-19
+    version: 19.7.0
+  :file: data/ts-24-543-rel-19-19-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.543'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-24-543-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '24.544'
@@ -149358,6 +150250,24 @@
   :file: data/ts-24-546-rel-16-2-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '24.546'
+    release: REL-17
+    version: 17.10.0
+  :file: data/ts-24-546-rel-17-17-10-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.546'
+    release: REL-18
+    version: 18.4.0
+  :file: data/ts-24-546-rel-18-18-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.546'
+    release: REL-19
+    version: 19.5.0
+  :file: data/ts-24-546-rel-19-19-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '24.547'
     release: REL-16
     version: 0.1.0
@@ -149724,6 +150634,18 @@
   :file: data/ts-24-548-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '24.548'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-24-548-rel-19-19-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.548'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-24-548-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '24.549'
     release: REL-17
     version: 0.0.0
@@ -149920,6 +150842,18 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-24-550-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.550'
+    release: REL-19
+    version: 19.3.0
+  :file: data/ts-24-550-rel-19-19-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.550'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-24-550-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '24.554'
@@ -150198,6 +151132,12 @@
   :file: data/ts-24-554-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '24.554'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-24-554-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '24.555'
     release: REL-17
     version: 0.0.0
@@ -150388,6 +151328,12 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-24-555-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.555'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-24-555-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '24.558'
@@ -150828,6 +151774,12 @@
   :file: data/ts-24-560-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '24.560'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-24-560-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '24.568'
     release: REL-15
     version: 0.0.0
@@ -151012,6 +151964,12 @@
     release: REL-16
     version: 2.0.0
   :file: data/ts-24-571-rel-16-2-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.571'
+    release: REL-19
+    version: 19.5.0
+  :file: data/ts-24-571-rel-19-19-5-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '24.572'
@@ -151660,6 +152618,18 @@
     release: REL-19
     version: 19.2.0
   :file: data/ts-24-581-rel-19-19-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.581'
+    release: REL-18
+    version: 18.8.0
+  :file: data/ts-24-581-rel-18-18-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '24.581'
+    release: REL-19
+    version: 19.3.0
+  :file: data/ts-24-581-rel-19-19-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '24.582'
@@ -156234,6 +157204,18 @@
   :file: data/tr-24-803-rel-12-2-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '24.804'
+    release: REL-20
+    version: 0.0.0
+  :file: data/tr-24-804-rel-20-0-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '24.804'
+    release: REL-20
+    version: 0.1.0
+  :file: data/tr-24-804-rel-20-0-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '24.811'
     release: REL-17
     version: 0.0.0
@@ -156785,6 +157767,12 @@
     version: 0.2.0
   :file: data/tr-24-860-rel-20-0-2-0.yaml
 - :id:
+    _type: pubid:3gpp:technical-report
+    number: '24.860'
+    release: REL-20
+    version: 0.3.0
+  :file: data/tr-24-860-rel-20-0-3-0.yaml
+- :id:
     _type: pubid:3gpp:technical-specification
     number: '24.861'
     release: REL-20
@@ -156796,6 +157784,36 @@
     release: REL-20
     version: 0.1.0
   :file: data/ts-24-861-rel-20-0-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '24.861'
+    release: REL-20
+    version: 0.0.0
+  :file: data/tr-24-861-rel-20-0-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '24.861'
+    release: REL-20
+    version: 0.1.0
+  :file: data/tr-24-861-rel-20-0-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '24.861'
+    release: REL-20
+    version: 0.2.0
+  :file: data/tr-24-861-rel-20-0-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '24.862'
+    release: REL-20
+    version: 0.0.0
+  :file: data/tr-24-862-rel-20-0-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '24.862'
+    release: REL-20
+    version: 0.1.0
+  :file: data/tr-24-862-rel-20-0-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '24.879'
@@ -204780,6 +205798,18 @@
   :file: data/ts-26-114-rel-9-9-9-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '26.114'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-26-114-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '26.114'
+    release: REL-20
+    version: 20.1.1
+  :file: data/ts-26-114-rel-20-20-1-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '26.115'
     release: REL-99
     version: 0.0.1
@@ -212496,6 +213526,18 @@
   :file: data/ts-26-264-rel-18-2-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '26.264'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-26-264-rel-19-19-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '26.264'
+    release: REL-19
+    version: 19.4.1
+  :file: data/ts-26-264-rel-19-19-4-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '26.265'
     release: REL-19
     version: 0.1.0
@@ -212614,6 +213656,12 @@
     release: REL-19
     version: 2.0.0
   :file: data/ts-26-265-rel-19-2-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '26.265'
+    release: REL-19
+    version: 19.3.0
+  :file: data/ts-26-265-rel-19-19-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '26.267'
@@ -218652,6 +219700,12 @@
   :file: data/ts-26-501-rel-16-2-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '26.501'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-26-501-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '26.502'
     release: REL-17
     version: 0.1.0
@@ -218844,6 +219898,24 @@
   :file: data/ts-26-502-rel-17-2-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '26.502'
+    release: REL-17
+    version: 17.13.0
+  :file: data/ts-26-502-rel-17-17-13-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '26.502'
+    release: REL-18
+    version: 18.7.0
+  :file: data/ts-26-502-rel-18-18-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '26.502'
+    release: REL-19
+    version: 19.6.0
+  :file: data/ts-26-502-rel-19-19-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '26.506'
     release: REL-18
     version: 0.1.0
@@ -218944,6 +220016,12 @@
     release: REL-18
     version: 2.0.0
   :file: data/ts-26-506-rel-18-2-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '26.506'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-26-506-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '26.510'
@@ -219774,6 +220852,24 @@
   :file: data/ts-26-517-rel-17-2-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '26.517'
+    release: REL-17
+    version: 17.11.0
+  :file: data/ts-26-517-rel-17-17-11-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '26.517'
+    release: REL-18
+    version: 18.7.0
+  :file: data/ts-26-517-rel-18-18-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '26.517'
+    release: REL-19
+    version: 19.3.0
+  :file: data/ts-26-517-rel-19-19-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '26.522'
     release: REL-18
     version: 0.0.2
@@ -219868,6 +220964,18 @@
     release: REL-19
     version: 19.4.0
   :file: data/ts-26-522-rel-19-19-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '26.527'
+    release: REL-20
+    version: 0.0.1
+  :file: data/ts-26-527-rel-20-0-0-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '26.527'
+    release: REL-20
+    version: 0.1.0
+  :file: data/ts-26-527-rel-20-0-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '26.531'
@@ -220331,6 +221439,12 @@
     version: 2.0.0
   :file: data/ts-26-567-rel-19-2-0-0.yaml
 - :id:
+    _type: pubid:3gpp:technical-specification
+    number: '26.567'
+    release: REL-19
+    version: 19.2.0
+  :file: data/ts-26-567-rel-19-19-2-0.yaml
+- :id:
     _type: pubid:3gpp:technical-report
     number: '26.801'
     release: REL-16
@@ -220666,6 +221780,12 @@
     release: REL-20
     version: 20.0.0
   :file: data/tr-26-804-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '26.804'
+    release: REL-20
+    version: 20.1.0
+  :file: data/tr-26-804-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '26.805'
@@ -221040,6 +222160,12 @@
   :file: data/tr-26-813-rel-19-2-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '26.813'
+    release: REL-20
+    version: 20.0.0
+  :file: data/tr-26-813-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '26.814'
     release: REL-20
     version: 0.0.1
@@ -221068,6 +222194,24 @@
     release: REL-20
     version: 0.3.0
   :file: data/tr-26-814-rel-20-0-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '26.814'
+    release: REL-20
+    version: 0.3.5
+  :file: data/tr-26-814-rel-20-0-3-5.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '26.814'
+    release: REL-20
+    version: 0.3.6
+  :file: data/tr-26-814-rel-20-0-3-6.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '26.814'
+    release: REL-20
+    version: 0.4.0
+  :file: data/tr-26-814-rel-20-0-4-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '26.818'
@@ -221286,6 +222430,24 @@
   :file: data/tr-26-823-rel-20-0-5-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '26.823'
+    release: REL-20
+    version: 0.5.1
+  :file: data/tr-26-823-rel-20-0-5-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '26.823'
+    release: REL-20
+    version: 0.6.0
+  :file: data/tr-26-823-rel-20-0-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '26.823'
+    release: REL-20
+    version: 1.0.0
+  :file: data/tr-26-823-rel-20-1-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '26.827'
     release: REL-12
     version: 1.0.0
@@ -221406,6 +222568,12 @@
   :file: data/tr-26-835-rel-20-0-4-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '26.835'
+    release: REL-20
+    version: 0.5.0
+  :file: data/tr-26-835-rel-20-0-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '26.836'
     release: REL-20
     version: 0.0.1
@@ -221446,6 +222614,30 @@
     release: REL-20
     version: 0.3.0
   :file: data/tr-26-836-rel-20-0-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '26.836'
+    release: REL-20
+    version: 0.4.0
+  :file: data/tr-26-836-rel-20-0-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '26.836'
+    release: REL-20
+    version: 0.4.1
+  :file: data/tr-26-836-rel-20-0-4-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '26.836'
+    release: REL-20
+    version: 0.5.0
+  :file: data/tr-26-836-rel-20-0-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '26.836'
+    release: REL-20
+    version: 0.5.1
+  :file: data/tr-26-836-rel-20-0-5-1.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '26.841'
@@ -222360,6 +223552,30 @@
   :file: data/tr-26-870-rel-20-0-5-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '26.870'
+    release: REL-20
+    version: 0.5.1
+  :file: data/tr-26-870-rel-20-0-5-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '26.870'
+    release: REL-20
+    version: 0.6.0
+  :file: data/tr-26-870-rel-20-0-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '26.870'
+    release: REL-20
+    version: 0.6.1
+  :file: data/tr-26-870-rel-20-0-6-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '26.870'
+    release: REL-20
+    version: 0.6.2
+  :file: data/tr-26-870-rel-20-0-6-2.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '26.879'
     release: REL-13
     version: 0.1.1
@@ -222670,6 +223886,18 @@
     release: REL-20
     version: 1.0.0
   :file: data/tr-26-892-rel-20-1-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '26.892'
+    release: REL-20
+    version: 1.0.1
+  :file: data/tr-26-892-rel-20-1-0-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '26.892'
+    release: REL-20
+    version: 1.1.0
+  :file: data/tr-26-892-rel-20-1-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '26.901'
@@ -225960,6 +227188,12 @@
   :file: data/tr-26-940-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '26.940'
+    release: REL-20
+    version: 20.1.0
+  :file: data/tr-26-940-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '26.941'
     release: REL-18
     version: 0.1.0
@@ -226036,6 +227270,12 @@
     release: REL-18
     version: 2.0.0
   :file: data/tr-26-941-rel-18-2-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '26.941'
+    release: REL-20
+    version: 20.0.0
+  :file: data/tr-26-941-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '26.942'
@@ -227640,6 +228880,12 @@
   :file: data/tr-26-958-rel-20-0-4-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '26.958'
+    release: REL-20
+    version: 0.5.0
+  :file: data/tr-26-958-rel-20-0-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '26.959'
     release: REL-15
     version: 0.1.0
@@ -227806,6 +229052,12 @@
     release: REL-18
     version: 2.0.0
   :file: data/tr-26-966-rel-18-2-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '26.966'
+    release: REL-20
+    version: 20.0.0
+  :file: data/tr-26-966-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '26.967'
@@ -231073,6 +232325,12 @@
   :file: data/ts-27-007-rel-9-9-9-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '27.007'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-27-007-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '27.010'
     release: REL-99
     version: 1.0.0
@@ -232099,6 +233357,12 @@
   :file: data/ts-28-104-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '28.104'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-28-104-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '28.105'
     release: REL-17
     version: 0.0.0
@@ -232309,6 +233573,18 @@
   :file: data/ts-28-105-rel-17-2-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '28.105'
+    release: REL-19
+    version: 19.7.0
+  :file: data/ts-28-105-rel-19-19-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '28.105'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-28-105-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '28.111'
     release: REL-18
     version: 0.0.0
@@ -232451,6 +233727,12 @@
     release: REL-18
     version: 2.0.0
   :file: data/ts-28-111-rel-18-2-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '28.111'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-28-111-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '28.201'
@@ -233677,6 +234959,12 @@
   :file: data/ts-28-310-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '28.310'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-28-310-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '28.311'
     release: REL-16
     version: 0.1.0
@@ -234019,6 +235307,12 @@
   :file: data/ts-28-312-rel-20-20-0-1.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '28.312'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-28-312-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '28.313'
     release: REL-16
     version: 0.0.0
@@ -234295,6 +235589,18 @@
   :file: data/ts-28-314-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '28.314'
+    release: REL-19
+    version: 19.2.0
+  :file: data/ts-28-314-rel-19-19-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '28.314'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-28-314-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '28.315'
     release: REL-17
     version: 0.0.0
@@ -234407,6 +235713,12 @@
     release: REL-19
     version: 19.0.0
   :file: data/ts-28-316-rel-19-19-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '28.316'
+    release: REL-19
+    version: 19.1.0
+  :file: data/ts-28-316-rel-19-19-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '28.317'
@@ -234635,6 +235947,30 @@
     release: REL-19
     version: 19.1.0
   :file: data/ts-28-319-rel-19-19-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '28.319'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-28-319-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '28.320'
+    release: REL-20
+    version: 0.0.0
+  :file: data/ts-28-320-rel-20-0-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '28.320'
+    release: REL-20
+    version: 0.1.0
+  :file: data/ts-28-320-rel-20-0-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '28.320'
+    release: REL-20
+    version: 0.2.0
+  :file: data/ts-28-320-rel-20-0-2-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '28.390'
@@ -238129,6 +239465,18 @@
   :file: data/ts-28-532-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '28.532'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-28-532-rel-19-19-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '28.532'
+    release: REL-20
+    version: 20.2.0
+  :file: data/ts-28-532-rel-20-20-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '28.533'
     release: REL-15
     version: 0.0.0
@@ -238415,6 +239763,12 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-28-533-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '28.533'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-28-533-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '28.535'
@@ -238969,6 +240323,12 @@
   :file: data/ts-28-537-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '28.537'
+    release: REL-20
+    version: 20.2.0
+  :file: data/ts-28-537-rel-20-20-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '28.538'
     release: REL-17
     version: 0.1.0
@@ -239345,6 +240705,12 @@
     release: REL-20
     version: 20.3.0
   :file: data/ts-28-540-rel-20-20-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '28.540'
+    release: REL-20
+    version: 20.4.0
+  :file: data/ts-28-540-rel-20-20-4-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '28.541'
@@ -240079,6 +241445,12 @@
   :file: data/ts-28-541-rel-20-20-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '28.541'
+    release: REL-20
+    version: 20.4.0
+  :file: data/ts-28-541-rel-20-20-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '28.542'
     release: REL-15
     version: 0.0.0
@@ -240551,6 +241923,18 @@
     release: REL-15
     version: 2.2.0
   :file: data/ts-28-550-rel-15-2-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '28.550'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-28-550-rel-19-19-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '28.550'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-28-550-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '28.551'
@@ -241099,6 +242483,18 @@
   :file: data/ts-28-552-rel-20-20-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '28.552'
+    release: REL-19
+    version: 19.9.0
+  :file: data/ts-28-552-rel-19-19-9-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '28.552'
+    release: REL-20
+    version: 20.4.0
+  :file: data/ts-28-552-rel-20-20-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '28.553'
     release: REL-15
     version: 0.0.0
@@ -241627,6 +243023,12 @@
   :file: data/ts-28-554-rel-20-20-2-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '28.554'
+    release: REL-20
+    version: 20.3.0
+  :file: data/ts-28-554-rel-20-20-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '28.555'
     release: REL-17
     version: 0.0.0
@@ -241999,6 +243401,12 @@
   :file: data/ts-28-558-rel-19-19-6-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '28.558'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-28-558-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '28.560'
     release: REL-19
     version: 0.0.0
@@ -242063,6 +243471,12 @@
     release: REL-19
     version: 2.0.0
   :file: data/ts-28-560-rel-19-2-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '28.560'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-28-560-rel-19-19-4-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '28.561'
@@ -242149,6 +243563,12 @@
   :file: data/ts-28-561-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '28.561'
+    release: REL-20
+    version: 20.2.0
+  :file: data/ts-28-561-rel-20-20-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '28.567'
     release: REL-19
     version: 0.0.0
@@ -242233,6 +243653,12 @@
   :file: data/ts-28-567-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '28.567'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-28-567-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '28.570'
     release: REL-20
     version: 0.0.0
@@ -242249,6 +243675,24 @@
     release: REL-20
     version: 0.2.0
   :file: data/ts-28-570-rel-20-0-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '28.570'
+    release: REL-20
+    version: 0.2.1
+  :file: data/ts-28-570-rel-20-0-2-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '28.570'
+    release: REL-20
+    version: 0.3.0
+  :file: data/ts-28-570-rel-20-0-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '28.570'
+    release: REL-20
+    version: 1.0.0
+  :file: data/ts-28-570-rel-20-1-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '28.572'
@@ -243733,6 +245177,36 @@
   :file: data/ts-28-622-rel-20-20-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '28.622'
+    release: REL-16
+    version: 16.24.0
+  :file: data/ts-28-622-rel-16-16-24-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '28.622'
+    release: REL-17
+    version: 17.16.0
+  :file: data/ts-28-622-rel-17-17-16-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '28.622'
+    release: REL-18
+    version: 18.14.0
+  :file: data/ts-28-622-rel-18-18-14-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '28.622'
+    release: REL-19
+    version: 19.8.0
+  :file: data/ts-28-622-rel-19-19-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '28.622'
+    release: REL-20
+    version: 20.4.0
+  :file: data/ts-28-622-rel-20-20-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '28.623'
     release: REL-11
     version: 1.0.0
@@ -244409,6 +245883,24 @@
     release: REL-20
     version: 20.2.0
   :file: data/ts-28-623-rel-20-20-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '28.623'
+    release: REL-18
+    version: 18.16.0
+  :file: data/ts-28-623-rel-18-18-16-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '28.623'
+    release: REL-19
+    version: 19.9.0
+  :file: data/ts-28-623-rel-19-19-9-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '28.623'
+    release: REL-20
+    version: 20.3.0
+  :file: data/ts-28-623-rel-20-20-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '28.624'
@@ -245971,6 +247463,12 @@
   :file: data/ts-28-657-rel-19-19-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '28.657'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-28-657-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '28.658'
     release: REL-11
     version: 1.0.0
@@ -246193,6 +247691,12 @@
   :file: data/ts-28-658-rel-19-19-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '28.658'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-28-658-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '28.659'
     release: REL-11
     version: 1.0.0
@@ -246395,6 +247899,12 @@
     release: REL-19
     version: 19.0.0
   :file: data/ts-28-659-rel-19-19-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '28.659'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-28-659-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '28.661'
@@ -254473,6 +255983,12 @@
   :file: data/tr-28-892-rel-20-0-4-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '28.892'
+    release: REL-20
+    version: 1.0.0
+  :file: data/tr-28-892-rel-20-1-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '28.893'
     release: REL-20
     version: 0.0.0
@@ -254503,6 +256019,24 @@
   :file: data/tr-28-893-rel-20-1-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '28.893'
+    release: REL-20
+    version: 1.1.0
+  :file: data/tr-28-893-rel-20-1-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '28.893'
+    release: REL-20
+    version: 2.0.0
+  :file: data/tr-28-893-rel-20-2-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '28.893'
+    release: REL-20
+    version: 20.0.0
+  :file: data/tr-28-893-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '28.894'
     release: REL-20
     version: 0.0.0
@@ -254527,6 +256061,24 @@
   :file: data/tr-28-894-rel-20-0-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '28.894'
+    release: REL-20
+    version: 0.4.0
+  :file: data/tr-28-894-rel-20-0-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '28.894'
+    release: REL-20
+    version: 1.0.0
+  :file: data/tr-28-894-rel-20-1-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '28.894'
+    release: REL-20
+    version: 20.0.0
+  :file: data/tr-28-894-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '28.895'
     release: REL-20
     version: 0.0.0
@@ -254549,6 +256101,24 @@
     release: REL-20
     version: 0.3.0
   :file: data/tr-28-895-rel-20-0-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '28.895'
+    release: REL-20
+    version: 0.4.0
+  :file: data/tr-28-895-rel-20-0-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '28.895'
+    release: REL-20
+    version: 1.0.0
+  :file: data/tr-28-895-rel-20-1-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '28.895'
+    release: REL-20
+    version: 1.1.0
+  :file: data/tr-28-895-rel-20-1-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '28.896'
@@ -254579,6 +256149,30 @@
     release: REL-20
     version: 20.0.0
   :file: data/tr-28-896-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '28.897'
+    release: REL-20
+    version: 0.0.0
+  :file: data/tr-28-897-rel-20-0-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '28.897'
+    release: REL-20
+    version: 0.1.0
+  :file: data/tr-28-897-rel-20-0-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '28.898'
+    release: REL-20
+    version: 0.0.0
+  :file: data/tr-28-898-rel-20-0-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '28.898'
+    release: REL-20
+    version: 0.1.0
+  :file: data/tr-28-898-rel-20-0-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '28.900'
@@ -260575,6 +262169,12 @@
   :file: data/ts-29-061-rel-9-9-9-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.061'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-061-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.078'
     release: REL-10
     version: 10.0.0
@@ -263303,6 +264903,12 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-29-122-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.122'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-122-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.128'
@@ -267289,6 +268895,12 @@
   :file: data/ts-29-165-rel-9-9-9-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.165'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-29-165-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.168'
     release: REL-8
     version: 1.0.0
@@ -268495,6 +270107,24 @@
   :file: data/ts-29-175-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.175'
+    release: REL-18
+    version: 18.8.0
+  :file: data/ts-29-175-rel-18-18-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.175'
+    release: REL-19
+    version: 19.7.0
+  :file: data/ts-29-175-rel-19-19-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.175'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-175-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.176'
     release: REL-18
     version: 0.1.0
@@ -268619,6 +270249,30 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-29-176-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.176'
+    release: REL-18
+    version: 18.7.0
+  :file: data/ts-29-176-rel-18-18-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.176'
+    release: REL-19
+    version: 19.7.0
+  :file: data/ts-29-176-rel-19-19-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.176'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-176-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.177'
+    release: REL-20
+    version: 0.1.0
+  :file: data/ts-29-177-rel-20-0-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.198'
@@ -277520,6 +279174,12 @@
   :file: data/ts-29-212-rel-9-9-9-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.212'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-29-212-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.213'
     release: REL-7
     version: 0.0.0
@@ -279470,6 +281130,12 @@
   :file: data/ts-29-214-rel-9-9-9-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.214'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-29-214-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.215'
     release: REL-8
     version: 0.1.0
@@ -280909,6 +282575,24 @@
   :file: data/ts-29-222-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.222'
+    release: REL-19
+    version: 19.8.0
+  :file: data/ts-29-222-rel-19-19-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.222'
+    release: REL-20
+    version: 20.0.1
+  :file: data/ts-29-222-rel-20-20-0-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.222'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-222-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.228'
     release: REL-5
     version: 0.1.0
@@ -281897,6 +283581,12 @@
     release: REL-9
     version: 9.9.0
   :file: data/ts-29-228-rel-9-9-9-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.228'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-29-228-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.229'
@@ -286123,6 +287813,12 @@
   :file: data/ts-29-244-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.244'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-244-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.250'
     release: REL-14
     version: 0.0.0
@@ -286699,6 +288395,12 @@
   :file: data/ts-29-256-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.256'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-256-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.257'
     release: REL-17
     version: 0.1.0
@@ -286859,6 +288561,30 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-29-257-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.257'
+    release: REL-17
+    version: 17.4.0
+  :file: data/ts-29-257-rel-17-17-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.257'
+    release: REL-18
+    version: 18.7.0
+  :file: data/ts-29-257-rel-18-18-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.257'
+    release: REL-19
+    version: 19.7.0
+  :file: data/ts-29-257-rel-19-19-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.257'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-257-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.272'
@@ -287693,6 +289419,30 @@
     release: REL-9
     version: 9.9.0
   :file: data/ts-29-272-rel-9-9-9-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.272'
+    release: REL-16
+    version: 16.9.0
+  :file: data/ts-29-272-rel-16-16-9-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.272'
+    release: REL-17
+    version: 17.9.0
+  :file: data/ts-29-272-rel-17-17-9-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.272'
+    release: REL-18
+    version: 18.7.0
+  :file: data/ts-29-272-rel-18-18-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.272'
+    release: REL-19
+    version: 19.6.0
+  :file: data/ts-29-272-rel-19-19-6-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.273'
@@ -289403,6 +291153,12 @@
     release: REL-9
     version: 9.9.0
   :file: data/ts-29-274-rel-9-9-9-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.274'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-29-274-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.275'
@@ -292231,6 +293987,12 @@
   :file: data/ts-29-303-rel-9-9-5-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.303'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-29-303-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.305'
     release: REL-8
     version: 0.1.1
@@ -293951,6 +295713,12 @@
     release: REL-9
     version: 9.9.0
   :file: data/ts-29-328-rel-9-9-9-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.328'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-29-328-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.329'
@@ -297733,6 +299501,12 @@
   :file: data/ts-29-369-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.369'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-369-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.379'
     release: REL-16
     version: 0.0.0
@@ -297881,6 +299655,18 @@
     release: REL-16
     version: 2.0.1
   :file: data/ts-29-379-rel-16-2-0-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.379'
+    release: REL-19
+    version: 19.2.0
+  :file: data/ts-29-379-rel-19-19-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.379'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-29-379-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.380'
@@ -298223,6 +300009,18 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-29-392-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.392'
+    release: REL-19
+    version: 19.3.0
+  :file: data/ts-29-392-rel-19-19-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.392'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-392-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.405'
@@ -299131,6 +300929,24 @@
   :file: data/ts-29-435-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.435'
+    release: REL-18
+    version: 18.4.0
+  :file: data/ts-29-435-rel-18-18-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.435'
+    release: REL-19
+    version: 19.5.0
+  :file: data/ts-29-435-rel-19-19-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.435'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-435-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.437'
     release: REL-19
     version: 0.1.0
@@ -299207,6 +301023,12 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-29-437-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.437'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-437-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.458'
@@ -299567,6 +301389,24 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-29-482-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.482'
+    release: REL-19
+    version: 19.2.1
+  :file: data/ts-29-482-rel-19-19-2-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.482'
+    release: REL-20
+    version: 20.0.1
+  :file: data/ts-29-482-rel-20-20-0-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.482'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-482-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.486'
@@ -300191,6 +302031,18 @@
     release: REL-15
     version: 2.0.0
   :file: data/ts-29-500-rel-15-2-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.500'
+    release: REL-19
+    version: 19.7.1
+  :file: data/ts-29-500-rel-19-19-7-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.500'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-29-500-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.501'
@@ -300997,6 +302849,24 @@
   :file: data/ts-29-502-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.502'
+    release: REL-18
+    version: 18.12.0
+  :file: data/ts-29-502-rel-18-18-12-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.502'
+    release: REL-19
+    version: 19.8.0
+  :file: data/ts-29-502-rel-19-19-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.502'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-502-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.503'
     release: REL-15
     version: 0.1.0
@@ -301513,6 +303383,12 @@
   :file: data/ts-29-503-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.503'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-503-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.504'
     release: REL-15
     version: 0.0.0
@@ -301979,6 +303855,18 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-29-504-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.504'
+    release: REL-19
+    version: 19.8.0
+  :file: data/ts-29-504-rel-19-19-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.504'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-504-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.505'
@@ -302743,6 +304631,12 @@
   :file: data/ts-29-507-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.507'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-507-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.508'
     release: REL-15
     version: 0.0.0
@@ -303191,6 +305085,12 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-29-508-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.508'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-508-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.509'
@@ -304015,6 +305915,18 @@
   :file: data/ts-29-510-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.510'
+    release: REL-19
+    version: 19.8.0
+  :file: data/ts-29-510-rel-19-19-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.510'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-510-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.511'
     release: REL-15
     version: 0.1.0
@@ -304783,6 +306695,12 @@
   :file: data/ts-29-512-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.512'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-512-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.513'
     release: REL-15
     version: 0.0.0
@@ -305177,6 +307095,12 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-29-513-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.513'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-513-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.514'
@@ -305713,6 +307637,18 @@
   :file: data/ts-29-514-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.514'
+    release: REL-19
+    version: 19.8.0
+  :file: data/ts-29-514-rel-19-19-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.514'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-514-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.515'
     release: REL-16
     version: 0.0.0
@@ -305975,6 +307911,18 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-29-515-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.515'
+    release: REL-19
+    version: 19.6.0
+  :file: data/ts-29-515-rel-19-19-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.515'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-515-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.516'
@@ -306287,6 +308235,12 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-29-517-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.517'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-517-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.518'
@@ -306817,6 +308771,24 @@
   :file: data/ts-29-518-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.518'
+    release: REL-18
+    version: 18.15.0
+  :file: data/ts-29-518-rel-18-18-15-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.518'
+    release: REL-19
+    version: 19.8.0
+  :file: data/ts-29-518-rel-19-19-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.518'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-518-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.519'
     release: REL-15
     version: 0.0.0
@@ -307259,6 +309231,30 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-29-519-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.519'
+    release: REL-17
+    version: 17.17.0
+  :file: data/ts-29-519-rel-17-17-17-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.519'
+    release: REL-18
+    version: 18.11.0
+  :file: data/ts-29-519-rel-18-18-11-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.519'
+    release: REL-19
+    version: 19.8.0
+  :file: data/ts-29-519-rel-19-19-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.519'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-519-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.520'
@@ -307771,6 +309767,24 @@
   :file: data/ts-29-520-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.520'
+    release: REL-18
+    version: 18.15.0
+  :file: data/ts-29-520-rel-18-18-15-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.520'
+    release: REL-19
+    version: 19.8.0
+  :file: data/ts-29-520-rel-19-19-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.520'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-520-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.521'
     release: REL-15
     version: 0.0.0
@@ -308069,6 +310083,36 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-29-521-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.521'
+    release: REL-16
+    version: 16.11.0
+  :file: data/ts-29-521-rel-16-16-11-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.521'
+    release: REL-17
+    version: 17.11.0
+  :file: data/ts-29-521-rel-17-17-11-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.521'
+    release: REL-18
+    version: 18.7.0
+  :file: data/ts-29-521-rel-18-18-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.521'
+    release: REL-19
+    version: 19.7.0
+  :file: data/ts-29-521-rel-19-19-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.521'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-521-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.522'
@@ -308533,6 +310577,12 @@
   :file: data/ts-29-522-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.522'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-522-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.523'
     release: REL-15
     version: 0.0.0
@@ -308795,6 +310845,12 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-29-523-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.523'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-523-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.524'
@@ -309247,6 +311303,12 @@
   :file: data/ts-29-525-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.525'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-525-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.526'
     release: REL-16
     version: 0.2.0
@@ -309457,6 +311519,12 @@
   :file: data/ts-29-526-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.526'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-526-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.527'
     release: REL-8
     version: 2.4.0
@@ -309551,6 +311619,12 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-29-530-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.530'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-530-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.531'
@@ -310393,6 +312467,12 @@
   :file: data/ts-29-535-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.535'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-535-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.536'
     release: REL-17
     version: 0.1.0
@@ -310577,6 +312657,12 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-29-536-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.536'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-536-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.537'
@@ -311173,6 +313259,12 @@
   :file: data/ts-29-540-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.540'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-540-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.541'
     release: REL-16
     version: 0.0.0
@@ -311575,6 +313667,18 @@
   :file: data/ts-29-543-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.543'
+    release: REL-20
+    version: 20.0.1
+  :file: data/ts-29-543-rel-20-20-0-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.543'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-543-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.544'
     release: REL-16
     version: 0.1.0
@@ -311737,6 +313841,12 @@
   :file: data/ts-29-545-rel-20-0-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.545'
+    release: REL-20
+    version: 0.2.0
+  :file: data/ts-29-545-rel-20-0-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.548'
     release: REL-18
     version: 0.0.0
@@ -311855,6 +313965,12 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-29-548-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.548'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-548-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.549'
@@ -312149,6 +314265,30 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-29-549-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.549'
+    release: REL-18
+    version: 18.12.0
+  :file: data/ts-29-549-rel-18-18-12-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.549'
+    release: REL-19
+    version: 19.8.0
+  :file: data/ts-29-549-rel-19-19-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.549'
+    release: REL-20
+    version: 20.0.1
+  :file: data/ts-29-549-rel-20-20-0-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.549'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-549-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.550'
@@ -312829,6 +314969,12 @@
   :file: data/ts-29-552-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.552'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-552-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.553'
     release: REL-17
     version: 0.1.0
@@ -313139,6 +315285,12 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-29-554-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.554'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-554-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.555'
@@ -313813,6 +315965,12 @@
   :file: data/ts-29-558-rel-17-2-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.558'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-29-558-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.559'
     release: REL-17
     version: 0.1.0
@@ -314245,6 +316403,12 @@
   :file: data/ts-29-561-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.561'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-561-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.562'
     release: REL-16
     version: 0.1.0
@@ -314513,6 +316677,12 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-29-562-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.562'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-562-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.563'
@@ -314899,6 +317069,12 @@
   :file: data/ts-29-564-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.564'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-564-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.565'
     release: REL-17
     version: 0.1.0
@@ -315175,6 +317351,12 @@
   :file: data/ts-29-565-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.565'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-565-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.566'
     release: REL-19
     version: 0.1.0
@@ -315241,6 +317423,18 @@
   :file: data/ts-29-566-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.566'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-566-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.568'
+    release: REL-20
+    version: 0.1.0
+  :file: data/ts-29-568-rel-20-0-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.569'
     release: REL-19
     version: 0.1.0
@@ -315299,6 +317493,12 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-29-569-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.569'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-569-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.570'
@@ -315365,6 +317565,12 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-29-570-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.570'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-570-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.571'
@@ -315787,6 +317993,24 @@
   :file: data/ts-29-571-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.571'
+    release: REL-18
+    version: 18.13.0
+  :file: data/ts-29-571-rel-18-18-13-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.571'
+    release: REL-19
+    version: 19.8.0
+  :file: data/ts-29-571-rel-19-19-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.571'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-571-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.572'
     release: REL-15
     version: 0.0.0
@@ -316153,6 +318377,18 @@
   :file: data/ts-29-572-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.572'
+    release: REL-19
+    version: 19.7.0
+  :file: data/ts-29-572-rel-19-19-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.572'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-572-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.573'
     release: REL-15
     version: 15.0.0
@@ -316453,6 +318689,12 @@
   :file: data/ts-29-573-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.573'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-573-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.574'
     release: REL-17
     version: 0.1.0
@@ -316693,6 +318935,12 @@
   :file: data/ts-29-574-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.574'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-574-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.575'
     release: REL-17
     version: 0.1.0
@@ -316903,6 +319151,12 @@
   :file: data/ts-29-575-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.575'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-575-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.576'
     release: REL-17
     version: 0.1.0
@@ -317087,6 +319341,12 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-29-576-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.576'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-576-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.577'
@@ -317539,6 +319799,12 @@
   :file: data/ts-29-580-rel-17-2-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.580'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-29-580-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.581'
     release: REL-17
     version: 0.1.0
@@ -317903,6 +320169,18 @@
     release: REL-18
     version: 2.0.0
   :file: data/ts-29-583-rel-18-2-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.583'
+    release: REL-18
+    version: 18.2.0
+  :file: data/ts-29-583-rel-18-18-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.583'
+    release: REL-19
+    version: 19.3.0
+  :file: data/ts-29-583-rel-19-19-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.585'
@@ -318337,6 +320615,12 @@
   :file: data/ts-29-591-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '29.591'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-29-591-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '29.594'
     release: REL-15
     version: 0.0.0
@@ -318557,6 +320841,12 @@
     release: REL-19
     version: 19.3.0
   :file: data/ts-29-594-rel-19-19-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '29.594'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-29-594-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '29.598'
@@ -320641,6 +322931,12 @@
   :file: data/tr-29-830-rel-20-0-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '29.830'
+    release: REL-20
+    version: 0.2.0
+  :file: data/tr-29-830-rel-20-0-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '29.831'
     release: REL-18
     version: 0.1.0
@@ -320705,6 +323001,18 @@
     release: REL-20
     version: 0.1.0
   :file: data/tr-29-832-rel-20-0-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '29.832'
+    release: REL-20
+    version: 0.2.0
+  :file: data/tr-29-832-rel-20-0-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '29.833'
+    release: REL-20
+    version: 0.1.0
+  :file: data/tr-29-833-rel-20-0-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '29.835'
@@ -320809,6 +323117,18 @@
   :file: data/tr-29-840-rel-20-0-2-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '29.840'
+    release: REL-20
+    version: 0.3.0
+  :file: data/tr-29-840-rel-20-0-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '29.840'
+    release: REL-20
+    version: 0.3.1
+  :file: data/tr-29-840-rel-20-0-3-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '29.841'
     release: REL-20
     version: 0.1.0
@@ -320819,6 +323139,18 @@
     release: REL-20
     version: 0.2.0
   :file: data/tr-29-841-rel-20-0-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '29.841'
+    release: REL-20
+    version: 0.3.0
+  :file: data/tr-29-841-rel-20-0-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '29.841'
+    release: REL-20
+    version: 0.3.1
+  :file: data/tr-29-841-rel-20-0-3-1.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '29.842'
@@ -320837,6 +323169,12 @@
     release: REL-20
     version: 0.2.0
   :file: data/tr-29-842-rel-20-0-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '29.842'
+    release: REL-20
+    version: 0.3.0
+  :file: data/tr-29-842-rel-20-0-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '29.843'
@@ -320969,6 +323307,12 @@
     release: REL-14
     version: 2.0.0
   :file: data/tr-29-844-rel-14-2-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '29.845'
+    release: REL-20
+    version: 0.1.0
+  :file: data/tr-29-845-rel-20-0-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '29.846'
@@ -321521,6 +323865,24 @@
     release: REL-20
     version: 1.0.0
   :file: data/tr-29-867-rel-20-1-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '29.867'
+    release: REL-20
+    version: 1.1.0
+  :file: data/tr-29-867-rel-20-1-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '29.867'
+    release: REL-20
+    version: 2.0.0
+  :file: data/tr-29-867-rel-20-2-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '29.867'
+    release: REL-20
+    version: 20.0.0
+  :file: data/tr-29-867-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '29.875'
@@ -324133,6 +326495,12 @@
   :file: data/tr-30-531-rel-11-1-9-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '30.531'
+    release: REL-19
+    version: 1.65.0
+  :file: data/tr-30-531-rel-19-1-65-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '30.801'
     release: REL-4
     version: 0.1.0
@@ -326605,6 +328973,36 @@
   :file: data/ts-31-102-rel-9-9-9-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '31.102'
+    release: REL-16
+    version: 16.17.0
+  :file: data/ts-31-102-rel-16-16-17-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '31.102'
+    release: REL-17
+    version: 17.18.0
+  :file: data/ts-31-102-rel-17-17-18-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '31.102'
+    release: REL-18
+    version: 18.11.0
+  :file: data/ts-31-102-rel-18-18-11-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '31.102'
+    release: REL-19
+    version: 19.6.0
+  :file: data/ts-31-102-rel-19-19-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '31.102'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-31-102-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '31.103'
     release: REL-5
     version: 1.0.0
@@ -327161,6 +329559,12 @@
     release: REL-9
     version: 9.4.0
   :file: data/ts-31-103-rel-9-9-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '31.103'
+    release: REL-19
+    version: 19.1.0
+  :file: data/ts-31-103-rel-19-19-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '31.104'
@@ -329623,6 +332027,12 @@
   :file: data/ts-31-117-rel-19-19-2-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '31.117'
+    release: REL-19
+    version: 19.3.0
+  :file: data/ts-31-117-rel-19-19-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '31.120'
     release: REL-99
     version: 1.0.0
@@ -330643,6 +333053,18 @@
   :file: data/ts-31-121-rel-9-9-6-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '31.121'
+    release: REL-18
+    version: 18.7.0
+  :file: data/ts-31-121-rel-18-18-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '31.121'
+    release: REL-19
+    version: 19.0.0
+  :file: data/ts-31-121-rel-19-19-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '31.122'
     release: REL-99
     version: 1.0.0
@@ -331001,6 +333423,18 @@
     release: REL-9
     version: 9.2.0
   :file: data/ts-31-122-rel-9-9-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '31.122'
+    release: REL-18
+    version: 18.7.0
+  :file: data/ts-31-122-rel-18-18-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '31.122'
+    release: REL-19
+    version: 19.0.0
+  :file: data/ts-31-122-rel-19-19-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '31.123'
@@ -331801,6 +334235,18 @@
   :file: data/ts-31-124-rel-9-9-7-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '31.124'
+    release: REL-18
+    version: 18.8.0
+  :file: data/ts-31-124-rel-18-18-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '31.124'
+    release: REL-19
+    version: 19.0.0
+  :file: data/ts-31-124-rel-19-19-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '31.127'
     release: REL-17
     version: 0.1.0
@@ -331931,6 +334377,18 @@
     release: REL-17
     version: 2.0.1
   :file: data/ts-31-127-rel-17-2-0-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '31.127'
+    release: REL-18
+    version: 18.6.0
+  :file: data/ts-31-127-rel-18-18-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '31.127'
+    release: REL-19
+    version: 19.0.0
+  :file: data/ts-31-127-rel-19-19-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '31.130'
@@ -332905,6 +335363,12 @@
   :file: data/ts-31-213-rel-9-9-2-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '31.213'
+    release: REL-18
+    version: 18.5.0
+  :file: data/ts-31-213-rel-18-18-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '31.220'
     release: REL-8
     version: 1.0.0
@@ -333113,6 +335577,24 @@
     release: REL-9
     version: 9.1.0
   :file: data/ts-31-221-rel-9-9-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '31.369'
+    release: REL-20
+    version: 0.0.0
+  :file: data/ts-31-369-rel-20-0-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '31.369'
+    release: REL-20
+    version: 0.1.0
+  :file: data/ts-31-369-rel-20-0-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '31.369'
+    release: REL-20
+    version: 0.1.1
+  :file: data/ts-31-369-rel-20-0-1-1.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '31.50'
@@ -339142,6 +341624,12 @@
   :file: data/ts-32-156-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '32.156'
+    release: REL-20
+    version: 20.2.0
+  :file: data/ts-32-156-rel-20-20-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '32.157'
     release: REL-11
     version: 1.0.0
@@ -339872,6 +342360,12 @@
     release: REL-20
     version: 20.1.0
   :file: data/ts-32-160-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '32.160'
+    release: REL-20
+    version: 20.2.0
+  :file: data/ts-32-160-rel-20-20-2-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '32.161'
@@ -341588,6 +344082,18 @@
     release: REL-9
     version: 9.2.0
   :file: data/ts-32-240-rel-9-9-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '32.240'
+    release: REL-19
+    version: 19.5.0
+  :file: data/ts-32-240-rel-19-19-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '32.240'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-32-240-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '32.250'
@@ -343474,6 +345980,24 @@
   :file: data/ts-32-255-rel-20-20-2-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '32.255'
+    release: REL-18
+    version: 18.11.0
+  :file: data/ts-32-255-rel-18-18-11-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '32.255'
+    release: REL-19
+    version: 19.7.0
+  :file: data/ts-32-255-rel-19-19-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '32.255'
+    release: REL-20
+    version: 20.3.0
+  :file: data/ts-32-255-rel-20-20-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '32.256'
     release: REL-15
     version: 0.0.0
@@ -343664,6 +346188,24 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-32-256-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '32.256'
+    release: REL-18
+    version: 18.7.0
+  :file: data/ts-32-256-rel-18-18-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '32.256'
+    release: REL-19
+    version: 19.5.0
+  :file: data/ts-32-256-rel-19-19-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '32.256'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-32-256-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '32.257'
@@ -344732,6 +347274,18 @@
     release: REL-9
     version: 9.9.0
   :file: data/ts-32-260-rel-9-9-9-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '32.260'
+    release: REL-19
+    version: 19.3.0
+  :file: data/ts-32-260-rel-19-19-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '32.260'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-32-260-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '32.270'
@@ -346966,6 +349520,12 @@
   :file: data/ts-32-282-rel-18-18-2-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '32.283'
+    release: REL-20
+    version: 0.0.0
+  :file: data/ts-32-283-rel-20-0-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '32.290'
     release: REL-15
     version: 0.0.0
@@ -347276,6 +349836,12 @@
     release: REL-19
     version: 19.5.0
   :file: data/ts-32-290-rel-19-19-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '32.290'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-32-290-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '32.291'
@@ -347762,6 +350328,24 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-32-291-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '32.291'
+    release: REL-18
+    version: 18.13.0
+  :file: data/ts-32-291-rel-18-18-13-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '32.291'
+    release: REL-19
+    version: 19.7.0
+  :file: data/ts-32-291-rel-19-19-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '32.291'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-32-291-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '32.293'
@@ -349838,6 +352422,18 @@
     release: REL-9
     version: 9.9.0
   :file: data/ts-32-298-rel-9-9-9-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '32.298'
+    release: REL-19
+    version: 19.6.0
+  :file: data/ts-32-298-rel-19-19-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '32.298'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-32-298-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '32.299'
@@ -359596,6 +362192,12 @@
   :file: data/ts-32-422-rel-9-9-7-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '32.422'
+    release: REL-20
+    version: 20.3.0
+  :file: data/ts-32-422-rel-20-20-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '32.423'
     release: REL-6
     version: 1.0.0
@@ -360260,6 +362862,18 @@
     release: REL-9
     version: 9.8.0
   :file: data/ts-32-423-rel-9-9-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '32.423'
+    release: REL-19
+    version: 19.6.0
+  :file: data/ts-32-423-rel-19-19-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '32.423'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-32-423-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '32.425'
@@ -374120,6 +376734,38 @@
   :file: data/tr-32-801-02-rel-20-0-5-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '32.801'
+    parts:
+    - '01'
+    release: REL-20
+    version: 0.4.0
+  :file: data/tr-32-801-01-rel-20-0-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '32.801'
+    parts:
+    - '01'
+    release: REL-20
+    version: 0.5.0
+  :file: data/tr-32-801-01-rel-20-0-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '32.801'
+    parts:
+    - '02'
+    release: REL-20
+    version: 0.6.0
+  :file: data/tr-32-801-02-rel-20-0-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '32.801'
+    parts:
+    - '02'
+    release: REL-20
+    version: 0.7.0
+  :file: data/tr-32-801-02-rel-20-0-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '32.802'
     release: REL-5
     version: 0.0.2
@@ -380846,6 +383492,12 @@
   :file: data/ts-33-117-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '33.117'
+    release: REL-20
+    version: 20.2.0
+  :file: data/ts-33-117-rel-20-20-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '33.120'
     release: REL-99
     version: 0.0.1
@@ -381578,6 +384230,18 @@
   :file: data/ts-33-127-rel-19-19-7-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '33.127'
+    release: REL-18
+    version: 18.15.0
+  :file: data/ts-33-127-rel-18-18-15-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '33.127'
+    release: REL-19
+    version: 19.8.0
+  :file: data/ts-33-127-rel-19-19-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '33.128'
     release: REL-15
     version: 0.0.0
@@ -382166,6 +384830,24 @@
   :file: data/ts-33-128-rel-19-19-7-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '33.128'
+    release: REL-17
+    version: 17.22.0
+  :file: data/ts-33-128-rel-17-17-22-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '33.128'
+    release: REL-18
+    version: 18.17.0
+  :file: data/ts-33-128-rel-18-18-17-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '33.128'
+    release: REL-19
+    version: 19.8.0
+  :file: data/ts-33-128-rel-19-19-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '33.129'
     parts:
     - '1'
@@ -382236,6 +384918,30 @@
     release: REL-19
     version: 0.0.2
   :file: data/ts-33-129-2-rel-19-0-0-2.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '33.129'
+    parts:
+    - '1'
+    release: REL-19
+    version: 0.0.12
+  :file: data/ts-33-129-1-rel-19-0-0-12.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '33.129'
+    parts:
+    - '1'
+    release: REL-19
+    version: 0.1.0
+  :file: data/ts-33-129-1-rel-19-0-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '33.129'
+    parts:
+    - '2'
+    release: REL-19
+    version: 0.0.14
+  :file: data/ts-33-129-2-rel-19-0-0-14.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '33.141'
@@ -383070,6 +385776,24 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-33-180-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '33.180'
+    release: REL-18
+    version: 18.3.0
+  :file: data/ts-33-180-rel-18-18-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '33.180'
+    release: REL-19
+    version: 19.5.0
+  :file: data/ts-33-180-rel-19-19-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '33.180'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-33-180-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '33.185'
@@ -384438,6 +387162,12 @@
     release: REL-9
     version: 9.1.0
   :file: data/ts-33-210-rel-9-9-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '33.210'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-33-210-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '33.216'
@@ -385964,6 +388694,12 @@
     release: REL-20
     version: 20.1.0
   :file: data/ts-33-226-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '33.226'
+    release: REL-20
+    version: 20.2.0
+  :file: data/ts-33-226-rel-20-20-2-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '33.234'
@@ -388228,6 +390964,36 @@
   :file: data/ts-33-328-rel-9-9-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '33.328'
+    release: REL-18
+    version: 18.6.0
+  :file: data/ts-33-328-rel-18-18-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '33.328'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-33-328-rel-19-19-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '33.328'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-33-328-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '33.340'
+    release: REL-20
+    version: 0.0.0
+  :file: data/ts-33-340-rel-20-0-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '33.340'
+    release: REL-20
+    version: 0.1.0
+  :file: data/ts-33-340-rel-20-0-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '33.369'
     release: REL-19
     version: 0.0.0
@@ -388280,6 +391046,12 @@
     release: REL-19
     version: 19.3.0
   :file: data/ts-33-369-rel-19-19-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '33.369'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-33-369-rel-19-19-4-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '33.401'
@@ -389956,6 +392728,12 @@
   :file: data/ts-33-501-rel-20-20-2-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '33.501'
+    release: REL-20
+    version: 20.3.0
+  :file: data/ts-33-501-rel-20-20-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '33.502'
     release: REL-20
     version: 0.0.1
@@ -390406,6 +393184,12 @@
   :file: data/ts-33-511-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '33.511'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-33-511-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '33.512'
     release: REL-16
     version: 0.1.0
@@ -390718,6 +393502,12 @@
   :file: data/ts-33-513-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '33.513'
+    release: REL-20
+    version: 20.2.0
+  :file: data/ts-33-513-rel-20-20-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '33.514'
     release: REL-16
     version: 0.1.0
@@ -390866,6 +393656,12 @@
     release: REL-20
     version: 20.1.0
   :file: data/ts-33-514-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '33.514'
+    release: REL-20
+    version: 20.2.0
+  :file: data/ts-33-514-rel-20-20-2-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '33.515'
@@ -391154,6 +393950,12 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-33-517-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '33.517'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-33-517-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '33.518'
@@ -391480,6 +394282,12 @@
   :file: data/ts-33-521-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '33.521'
+    release: REL-20
+    version: 20.2.0
+  :file: data/ts-33-521-rel-20-20-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '33.522'
     release: REL-17
     version: 0.0.0
@@ -391622,6 +394430,24 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-33-523-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '33.524'
+    release: REL-20
+    version: 0.0.0
+  :file: data/ts-33-524-rel-20-0-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '33.524'
+    release: REL-20
+    version: 0.1.0
+  :file: data/ts-33-524-rel-20-0-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '33.524'
+    release: REL-20
+    version: 0.2.0
+  :file: data/ts-33-524-rel-20-0-2-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '33.526'
@@ -391910,6 +394736,30 @@
     release: REL-20
     version: 1.1.0
   :file: data/ts-33-531-rel-20-1-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '33.531'
+    release: REL-20
+    version: 1.2.0
+  :file: data/ts-33-531-rel-20-1-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '33.531'
+    release: REL-20
+    version: 1.3.0
+  :file: data/ts-33-531-rel-20-1-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '33.531'
+    release: REL-20
+    version: 2.0.0
+  :file: data/ts-33-531-rel-20-2-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '33.531'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-33-531-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '33.533'
@@ -392402,6 +395252,12 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-33-545-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '33.545'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-33-545-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '33.546'
@@ -393064,6 +395920,30 @@
   :file: data/tr-33-700-41-rel-19-19-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '33.700'
+    parts:
+    - '23'
+    release: REL-20
+    version: 0.6.0
+  :file: data/tr-33-700-23-rel-20-0-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.700'
+    parts:
+    - '23'
+    release: REL-20
+    version: 1.0.0
+  :file: data/tr-33-700-23-rel-20-1-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.700'
+    parts:
+    - '23'
+    release: REL-20
+    version: 20.0.0
+  :file: data/tr-33-700-23-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '33.701'
     release: REL-19
     version: 0.0.0
@@ -393220,6 +396100,12 @@
   :file: data/tr-33-703-rel-20-20-0-1.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '33.703'
+    release: REL-20
+    version: 20.1.0
+  :file: data/tr-33-703-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '33.704'
     release: REL-20
     version: 0.0.0
@@ -393248,6 +396134,12 @@
     release: REL-20
     version: 0.3.0
   :file: data/tr-33-704-rel-20-0-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.704'
+    release: REL-20
+    version: 0.4.0
+  :file: data/tr-33-704-rel-20-0-4-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '33.713'
@@ -393596,6 +396488,24 @@
     release: REL-20
     version: 1.2.0
   :file: data/tr-33-730-rel-20-1-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.730'
+    release: REL-20
+    version: 2.0.0
+  :file: data/tr-33-730-rel-20-2-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.730'
+    release: REL-20
+    version: 20.0.0
+  :file: data/tr-33-730-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.736'
+    release: REL-20
+    version: 0.0.0
+  :file: data/tr-33-736-rel-20-0-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '33.737'
@@ -394156,6 +397066,12 @@
   :file: data/tr-33-746-rel-20-20-0-1.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '33.746'
+    release: REL-20
+    version: 20.1.0
+  :file: data/tr-33-746-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '33.749'
     release: REL-19
     version: 0.0.0
@@ -394570,6 +397486,24 @@
   :file: data/tr-33-771-rel-20-1-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '33.771'
+    release: REL-20
+    version: 1.1.0
+  :file: data/tr-33-771-rel-20-1-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.771'
+    release: REL-20
+    version: 2.0.0
+  :file: data/tr-33-771-rel-20-2-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.771'
+    release: REL-20
+    version: 20.0.0
+  :file: data/tr-33-771-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '33.776'
     release: REL-19
     version: 0.0.0
@@ -394666,6 +397600,24 @@
   :file: data/tr-33-777-rel-20-0-6-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '33.777'
+    release: REL-20
+    version: 0.7.0
+  :file: data/tr-33-777-rel-20-0-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.777'
+    release: REL-20
+    version: 1.0.0
+  :file: data/tr-33-777-rel-20-1-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.777'
+    release: REL-20
+    version: 20.0.0
+  :file: data/tr-33-777-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '33.778'
     release: REL-20
     version: 0.0.0
@@ -394718,6 +397670,12 @@
     release: REL-20
     version: 0.1.0
   :file: data/tr-33-779-rel-20-0-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.779'
+    release: REL-20
+    version: 0.2.0
+  :file: data/tr-33-779-rel-20-0-2-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '33.784'
@@ -395130,6 +398088,22 @@
     release: REL-20
     version: 0.0.2
   :file: data/tr-33-801-06-rel-20-0-0-2.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.801'
+    parts:
+    - '01'
+    release: REL-20
+    version: 0.6.0
+  :file: data/tr-33-801-01-rel-20-0-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.801'
+    parts:
+    - '06'
+    release: REL-20
+    version: 0.0.3
+  :file: data/tr-33-801-06-rel-20-0-0-3.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '33.802'
@@ -402098,6 +405072,18 @@
   :file: data/tr-33-924-rel-9-9-4-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '33.925'
+    release: REL-20
+    version: 0.0.0
+  :file: data/tr-33-925-rel-20-0-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.925'
+    release: REL-20
+    version: 0.1.0
+  :file: data/tr-33-925-rel-20-0-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '33.926'
     release: REL-13
     version: 0.0.0
@@ -402362,6 +405348,12 @@
   :file: data/tr-33-926-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '33.926'
+    release: REL-20
+    version: 20.2.0
+  :file: data/tr-33-926-rel-20-20-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '33.927'
     release: REL-18
     version: 0.1.0
@@ -402492,6 +405484,12 @@
     release: REL-18
     version: 2.0.1
   :file: data/tr-33-928-rel-18-2-0-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.928'
+    release: REL-19
+    version: 19.3.0
+  :file: data/tr-33-928-rel-19-19-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '33.929'
@@ -402764,6 +405762,222 @@
   :file: data/tr-33-929-9-rel-19-0-0-2.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '33.929'
+    parts:
+    - '1'
+    release: REL-19
+    version: 0.0.13
+  :file: data/tr-33-929-1-rel-19-0-0-13.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.929'
+    parts:
+    - '1'
+    release: REL-19
+    version: 1.0.0
+  :file: data/tr-33-929-1-rel-19-1-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.929'
+    parts:
+    - '1'
+    release: REL-19
+    version: 19.0.0
+  :file: data/tr-33-929-1-rel-19-19-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.929'
+    parts:
+    - '2'
+    release: REL-19
+    version: 0.0.2
+  :file: data/tr-33-929-2-rel-19-0-0-2.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.929'
+    parts:
+    - '2'
+    release: REL-19
+    version: 1.0.0
+  :file: data/tr-33-929-2-rel-19-1-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.929'
+    parts:
+    - '2'
+    release: REL-19
+    version: 19.0.0
+  :file: data/tr-33-929-2-rel-19-19-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.929'
+    parts:
+    - '3'
+    release: REL-19
+    version: 0.0.2
+  :file: data/tr-33-929-3-rel-19-0-0-2.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.929'
+    parts:
+    - '3'
+    release: REL-19
+    version: 1.0.0
+  :file: data/tr-33-929-3-rel-19-1-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.929'
+    parts:
+    - '3'
+    release: REL-19
+    version: 19.0.0
+  :file: data/tr-33-929-3-rel-19-19-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.929'
+    parts:
+    - '4'
+    release: REL-19
+    version: 0.0.3
+  :file: data/tr-33-929-4-rel-19-0-0-3.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.929'
+    parts:
+    - '4'
+    release: REL-19
+    version: 1.0.0
+  :file: data/tr-33-929-4-rel-19-1-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.929'
+    parts:
+    - '4'
+    release: REL-19
+    version: 19.0.0
+  :file: data/tr-33-929-4-rel-19-19-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.929'
+    parts:
+    - '5'
+    release: REL-19
+    version: 0.0.3
+  :file: data/tr-33-929-5-rel-19-0-0-3.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.929'
+    parts:
+    - '5'
+    release: REL-19
+    version: 1.0.0
+  :file: data/tr-33-929-5-rel-19-1-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.929'
+    parts:
+    - '5'
+    release: REL-19
+    version: 19.0.0
+  :file: data/tr-33-929-5-rel-19-19-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.929'
+    parts:
+    - '6'
+    release: REL-19
+    version: 0.0.3
+  :file: data/tr-33-929-6-rel-19-0-0-3.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.929'
+    parts:
+    - '6'
+    release: REL-19
+    version: 1.0.0
+  :file: data/tr-33-929-6-rel-19-1-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.929'
+    parts:
+    - '6'
+    release: REL-19
+    version: 19.0.0
+  :file: data/tr-33-929-6-rel-19-19-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.929'
+    parts:
+    - '7'
+    release: REL-19
+    version: 0.0.3
+  :file: data/tr-33-929-7-rel-19-0-0-3.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.929'
+    parts:
+    - '7'
+    release: REL-19
+    version: 1.0.0
+  :file: data/tr-33-929-7-rel-19-1-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.929'
+    parts:
+    - '7'
+    release: REL-19
+    version: 19.0.0
+  :file: data/tr-33-929-7-rel-19-19-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.929'
+    parts:
+    - '8'
+    release: REL-19
+    version: 0.0.3
+  :file: data/tr-33-929-8-rel-19-0-0-3.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.929'
+    parts:
+    - '8'
+    release: REL-19
+    version: 1.0.0
+  :file: data/tr-33-929-8-rel-19-1-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.929'
+    parts:
+    - '8'
+    release: REL-19
+    version: 19.0.0
+  :file: data/tr-33-929-8-rel-19-19-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.929'
+    parts:
+    - '9'
+    release: REL-19
+    version: 0.0.3
+  :file: data/tr-33-929-9-rel-19-0-0-3.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.929'
+    parts:
+    - '9'
+    release: REL-19
+    version: 1.0.0
+  :file: data/tr-33-929-9-rel-19-1-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.929'
+    parts:
+    - '9'
+    release: REL-19
+    version: 19.0.0
+  :file: data/tr-33-929-9-rel-19-19-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '33.935'
     release: REL-16
     version: 0.0.0
@@ -403002,6 +406216,12 @@
     release: REL-19
     version: 19.2.0
   :file: data/tr-33-938-rel-19-19-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '33.938'
+    release: REL-19
+    version: 19.3.0
+  :file: data/tr-33-938-rel-19-19-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '33.941'
@@ -412578,6 +415798,30 @@
     version: 19.5.0
   :file: data/ts-34-229-5-rel-19-19-5-0.yaml
 - :id:
+    _type: pubid:3gpp:technical-specification
+    number: '34.229'
+    parts:
+    - '1'
+    release: REL-19
+    version: 19.7.0
+  :file: data/ts-34-229-1-rel-19-19-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '34.229'
+    parts:
+    - '3'
+    release: REL-19
+    version: 19.5.0
+  :file: data/ts-34-229-3-rel-19-19-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '34.229'
+    parts:
+    - '5'
+    release: REL-19
+    version: 19.6.0
+  :file: data/ts-34-229-5-rel-19-19-6-0.yaml
+- :id:
     _type: pubid:3gpp:technical-report
     number: '34.901'
     release: REL-99
@@ -414924,6 +418168,12 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-35-240-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '35.240'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-35-240-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '35.241'
@@ -417674,6 +420924,12 @@
   :file: data/ts-36-101-rel-9-9-9-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '36.101'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-36-101-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '36.102'
     release: REL-18
     version: 0.0.1
@@ -417816,6 +421072,24 @@
     release: REL-19
     version: 19.4.0
   :file: data/ts-36-102-rel-19-19-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '36.102'
+    release: REL-18
+    version: 18.14.0
+  :file: data/ts-36-102-rel-18-18-14-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '36.102'
+    release: REL-19
+    version: 19.5.0
+  :file: data/ts-36-102-rel-19-19-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '36.102'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-36-102-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '36.104'
@@ -419274,6 +422548,18 @@
     release: REL-19
     version: 19.4.0
   :file: data/ts-36-108-rel-19-19-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '36.108'
+    release: REL-19
+    version: 19.5.0
+  :file: data/ts-36-108-rel-19-19-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '36.108'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-36-108-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '36.111'
@@ -421914,6 +425200,12 @@
     release: REL-9
     version: 9.9.0
   :file: data/ts-36-133-rel-9-9-9-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '36.133'
+    release: REL-19
+    version: 19.6.0
+  :file: data/ts-36-133-rel-19-19-6-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '36.141'
@@ -426254,6 +429546,24 @@
   :file: data/ts-36-213-rel-9-9-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '36.213'
+    release: REL-17
+    version: 17.8.0
+  :file: data/ts-36-213-rel-17-17-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '36.213'
+    release: REL-18
+    version: 18.4.0
+  :file: data/ts-36-213-rel-18-18-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '36.213'
+    release: REL-19
+    version: 19.5.0
+  :file: data/ts-36-213-rel-19-19-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '36.214'
     release: REL-8
     version: 0.0.0
@@ -428630,6 +431940,12 @@
   :file: data/ts-36-304-rel-9-9-9-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '36.304'
+    release: REL-19
+    version: 19.3.0
+  :file: data/ts-36-304-rel-19-19-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '36.305'
     release: REL-9
     version: 0.0.0
@@ -430926,6 +434242,12 @@
     release: REL-9
     version: 9.9.0
   :file: data/ts-36-307-rel-9-9-9-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '36.307'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-36-307-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '36.314'
@@ -433914,6 +437236,18 @@
     release: REL-9
     version: 9.9.0
   :file: data/ts-36-331-rel-9-9-9-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '36.331'
+    release: REL-18
+    version: 18.11.0
+  :file: data/ts-36-331-rel-18-18-11-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '36.331'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-36-331-rel-19-19-4-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '36.355'
@@ -440138,6 +443472,18 @@
   :file: data/ts-36-508-rel-9-9-9-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '36.508'
+    release: REL-19
+    version: 19.3.0
+  :file: data/ts-36-508-rel-19-19-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '36.508'
+    release: REL-19
+    version: 19.3.1
+  :file: data/ts-36-508-rel-19-19-3-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '36.509'
     release: REL-8
     version: 0.1.0
@@ -440544,6 +443890,24 @@
     release: REL-9
     version: 9.6.0
   :file: data/ts-36-509-rel-9-9-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '36.509'
+    release: REL-16
+    version: 16.7.0
+  :file: data/ts-36-509-rel-16-16-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '36.509'
+    release: REL-17
+    version: 17.5.0
+  :file: data/ts-36-509-rel-17-17-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '36.509'
+    release: REL-18
+    version: 18.0.0
+  :file: data/ts-36-509-rel-18-18-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '36.521'
@@ -443194,6 +446558,38 @@
   :file: data/ts-36-521-4-rel-19-19-2-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '36.521'
+    parts:
+    - '1'
+    release: REL-19
+    version: 19.3.0
+  :file: data/ts-36-521-1-rel-19-19-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '36.521'
+    parts:
+    - '2'
+    release: REL-19
+    version: 19.3.0
+  :file: data/ts-36-521-2-rel-19-19-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '36.521'
+    parts:
+    - '3'
+    release: REL-19
+    version: 19.3.0
+  :file: data/ts-36-521-3-rel-19-19-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '36.521'
+    parts:
+    - '4'
+    release: REL-19
+    version: 19.3.0
+  :file: data/ts-36-521-4-rel-19-19-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '36.523'
     parts:
     - '1'
@@ -445720,6 +449116,30 @@
     release: REL-9
     version: 9.4.0
   :file: data/ts-36-523-3-rel-9-9-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '36.523'
+    parts:
+    - '1'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-36-523-1-rel-19-19-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '36.523'
+    parts:
+    - '2'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-36-523-2-rel-19-19-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '36.523'
+    parts:
+    - '3'
+    release: REL-19
+    version: 19.1.0
+  :file: data/ts-36-523-3-rel-19-19-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '36.571'
@@ -451343,6 +454763,18 @@
     release: REL-19
     version: 19.1.0
   :file: data/tr-36-764-rel-19-19-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '36.764'
+    release: REL-19
+    version: 19.2.0
+  :file: data/tr-36-764-rel-19-19-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '36.764'
+    release: REL-20
+    version: 20.0.0
+  :file: data/tr-36-764-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '36.766'
@@ -457392,6 +460824,12 @@
   :file: data/tr-36-903-rel-9-9-7-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '36.903'
+    release: REL-19
+    version: 19.1.0
+  :file: data/tr-36-903-rel-19-19-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '36.904'
     release: REL-11
     version: 0.0.1
@@ -457846,6 +461284,12 @@
     release: REL-12
     version: 2.0.0
   :file: data/tr-36-905-rel-12-2-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '36.905'
+    release: REL-19
+    version: 19.3.0
+  :file: data/tr-36-905-rel-19-19-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '36.912'
@@ -460510,6 +463954,24 @@
     release: REL-19
     version: 19.3.0
   :file: data/ts-37-105-rel-19-19-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '37.105'
+    release: REL-17
+    version: 17.14.0
+  :file: data/ts-37-105-rel-17-17-14-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '37.105'
+    release: REL-18
+    version: 18.10.0
+  :file: data/ts-37-105-rel-18-18-10-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '37.105'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-37-105-rel-19-19-4-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '37.106'
@@ -464156,6 +467618,54 @@
   :file: data/ts-37-145-2-rel-19-19-5-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '37.145'
+    parts:
+    - '1'
+    release: REL-17
+    version: 17.16.0
+  :file: data/ts-37-145-1-rel-17-17-16-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '37.145'
+    parts:
+    - '1'
+    release: REL-18
+    version: 18.10.0
+  :file: data/ts-37-145-1-rel-18-18-10-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '37.145'
+    parts:
+    - '1'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-37-145-1-rel-19-19-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '37.145'
+    parts:
+    - '2'
+    release: REL-17
+    version: 17.19.0
+  :file: data/ts-37-145-2-rel-17-17-19-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '37.145'
+    parts:
+    - '2'
+    release: REL-18
+    version: 18.14.0
+  :file: data/ts-37-145-2-rel-18-18-14-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '37.145'
+    parts:
+    - '2'
+    release: REL-19
+    version: 19.6.0
+  :file: data/ts-37-145-2-rel-19-19-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '37.171'
     release: REL-13
     version: 0.0.1
@@ -464934,6 +468444,12 @@
     release: REL-10
     version: 2.0.0
   :file: data/ts-37-320-rel-10-2-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '37.320'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-37-320-rel-19-19-4-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '37.324'
@@ -466706,6 +470222,12 @@
   :file: data/ts-37-480-rel-19-19-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '37.480'
+    release: REL-19
+    version: 19.1.0
+  :file: data/ts-37-480-rel-19-19-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '37.481'
     release: REL-17
     version: 0.0.1
@@ -467010,6 +470532,12 @@
     release: REL-19
     version: 19.3.0
   :file: data/ts-37-483-rel-19-19-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '37.483'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-37-483-rel-19-19-4-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '37.544'
@@ -470156,6 +473684,38 @@
   :file: data/ts-37-571-5-rel-9-9-4-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '37.571'
+    parts:
+    - '1'
+    release: REL-19
+    version: 19.2.0
+  :file: data/ts-37-571-1-rel-19-19-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '37.571'
+    parts:
+    - '2'
+    release: REL-19
+    version: 19.2.0
+  :file: data/ts-37-571-2-rel-19-19-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '37.571'
+    parts:
+    - '3'
+    release: REL-19
+    version: 19.1.0
+  :file: data/ts-37-571-3-rel-19-19-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '37.571'
+    parts:
+    - '5'
+    release: REL-19
+    version: 19.2.0
+  :file: data/ts-37-571-5-rel-19-19-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '37.579'
     parts:
     - '1'
@@ -470682,6 +474242,94 @@
     release: REL-17
     version: 17.6.0
   :file: data/ts-37-579-7-rel-17-17-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '37.579'
+    parts:
+    - '1'
+    release: REL-18
+    version: 18.1.0
+  :file: data/ts-37-579-1-rel-18-18-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '37.579'
+    parts:
+    - '10'
+    release: REL-18
+    version: 0.0.1
+  :file: data/ts-37-579-10-rel-18-0-0-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '37.579'
+    parts:
+    - '2'
+    release: REL-18
+    version: 18.1.0
+  :file: data/ts-37-579-2-rel-18-18-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '37.579'
+    parts:
+    - '3'
+    release: REL-18
+    version: 0.0.1
+  :file: data/ts-37-579-3-rel-18-0-0-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '37.579'
+    parts:
+    - '4'
+    release: REL-18
+    version: 18.1.0
+  :file: data/ts-37-579-4-rel-18-18-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '37.579'
+    parts:
+    - '5'
+    release: REL-19
+    version: 19.1.0
+  :file: data/ts-37-579-5-rel-19-19-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '37.579'
+    parts:
+    - '6'
+    release: REL-17
+    version: 17.7.0
+  :file: data/ts-37-579-6-rel-17-17-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '37.579'
+    parts:
+    - '6'
+    release: REL-18
+    version: 18.0.0
+  :file: data/ts-37-579-6-rel-18-18-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '37.579'
+    parts:
+    - '7'
+    release: REL-17
+    version: 17.7.0
+  :file: data/ts-37-579-7-rel-17-17-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '37.579'
+    parts:
+    - '8'
+    release: REL-18
+    version: 0.0.1
+  :file: data/ts-37-579-8-rel-18-0-0-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '37.579'
+    parts:
+    - '9'
+    release: REL-18
+    version: 0.0.1
+  :file: data/ts-37-579-9-rel-18-0-0-1.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '37.716'
@@ -481528,6 +485176,190 @@
   :file: data/ts-38-101-5-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '38.101'
+    parts:
+    - '1'
+    release: REL-15
+    version: 15.31.0
+  :file: data/ts-38-101-1-rel-15-15-31-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.101'
+    parts:
+    - '1'
+    release: REL-16
+    version: 16.28.0
+  :file: data/ts-38-101-1-rel-16-16-28-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.101'
+    parts:
+    - '1'
+    release: REL-17
+    version: 17.23.0
+  :file: data/ts-38-101-1-rel-17-17-23-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.101'
+    parts:
+    - '1'
+    release: REL-18
+    version: 18.15.0
+  :file: data/ts-38-101-1-rel-18-18-15-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.101'
+    parts:
+    - '1'
+    release: REL-19
+    version: 19.7.0
+  :file: data/ts-38-101-1-rel-19-19-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.101'
+    parts:
+    - '1'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-38-101-1-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.101'
+    parts:
+    - '2'
+    release: REL-15
+    version: 15.30.0
+  :file: data/ts-38-101-2-rel-15-15-30-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.101'
+    parts:
+    - '2'
+    release: REL-16
+    version: 16.25.0
+  :file: data/ts-38-101-2-rel-16-16-25-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.101'
+    parts:
+    - '2'
+    release: REL-17
+    version: 17.21.0
+  :file: data/ts-38-101-2-rel-17-17-21-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.101'
+    parts:
+    - '2'
+    release: REL-18
+    version: 18.14.0
+  :file: data/ts-38-101-2-rel-18-18-14-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.101'
+    parts:
+    - '2'
+    release: REL-19
+    version: 19.5.0
+  :file: data/ts-38-101-2-rel-19-19-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.101'
+    parts:
+    - '2'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-38-101-2-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.101'
+    parts:
+    - '3'
+    release: REL-16
+    version: 16.28.0
+  :file: data/ts-38-101-3-rel-16-16-28-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.101'
+    parts:
+    - '3'
+    release: REL-17
+    version: 17.23.0
+  :file: data/ts-38-101-3-rel-17-17-23-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.101'
+    parts:
+    - '3'
+    release: REL-18
+    version: 18.15.0
+  :file: data/ts-38-101-3-rel-18-18-15-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.101'
+    parts:
+    - '3'
+    release: REL-19
+    version: 19.7.0
+  :file: data/ts-38-101-3-rel-19-19-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.101'
+    parts:
+    - '3'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-38-101-3-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.101'
+    parts:
+    - '4'
+    release: REL-18
+    version: 18.13.0
+  :file: data/ts-38-101-4-rel-18-18-13-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.101'
+    parts:
+    - '4'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-38-101-4-rel-19-19-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.101'
+    parts:
+    - '5'
+    release: REL-17
+    version: 17.16.0
+  :file: data/ts-38-101-5-rel-17-17-16-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.101'
+    parts:
+    - '5'
+    release: REL-18
+    version: 18.15.0
+  :file: data/ts-38-101-5-rel-18-18-15-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.101'
+    parts:
+    - '5'
+    release: REL-19
+    version: 19.6.0
+  :file: data/ts-38-101-5-rel-19-19-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.101'
+    parts:
+    - '5'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-38-101-5-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '38.104'
     release: REL-15
     version: 0.0.1
@@ -482140,6 +485972,30 @@
   :file: data/ts-38-104-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '38.104'
+    release: REL-17
+    version: 17.23.0
+  :file: data/ts-38-104-rel-17-17-23-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.104'
+    release: REL-18
+    version: 18.15.0
+  :file: data/ts-38-104-rel-18-18-15-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.104'
+    release: REL-19
+    version: 19.6.0
+  :file: data/ts-38-104-rel-19-19-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.104'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-38-104-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '38.106'
     release: REL-17
     version: 0.0.1
@@ -482344,6 +486200,24 @@
   :file: data/ts-38-106-rel-19-19-5-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '38.106'
+    release: REL-18
+    version: 18.12.0
+  :file: data/ts-38-106-rel-18-18-12-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.106'
+    release: REL-19
+    version: 19.6.0
+  :file: data/ts-38-106-rel-19-19-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.106'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-38-106-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '38.108'
     release: REL-17
     version: 0.0.1
@@ -482546,6 +486420,12 @@
     release: REL-19
     version: 19.4.0
   :file: data/ts-38-108-rel-19-19-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.108'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-38-108-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '38.113'
@@ -483480,6 +487360,46 @@
   :file: data/ts-38-115-2-rel-19-19-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '38.115'
+    parts:
+    - '1'
+    release: REL-18
+    version: 18.13.0
+  :file: data/ts-38-115-1-rel-18-18-13-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.115'
+    parts:
+    - '1'
+    release: REL-19
+    version: 19.6.0
+  :file: data/ts-38-115-1-rel-19-19-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.115'
+    parts:
+    - '2'
+    release: REL-18
+    version: 18.9.0
+  :file: data/ts-38-115-2-rel-18-18-9-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.115'
+    parts:
+    - '2'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-38-115-2-rel-19-19-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.115'
+    parts:
+    - '2'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-38-115-2-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '38.124'
     release: REL-15
     version: 0.0.1
@@ -484318,6 +488238,42 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-38-133-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.133'
+    release: REL-15
+    version: 15.35.0
+  :file: data/ts-38-133-rel-15-15-35-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.133'
+    release: REL-16
+    version: 16.29.0
+  :file: data/ts-38-133-rel-16-16-29-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.133'
+    release: REL-17
+    version: 17.23.0
+  :file: data/ts-38-133-rel-17-17-23-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.133'
+    release: REL-18
+    version: 18.15.0
+  :file: data/ts-38-133-rel-18-18-15-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.133'
+    release: REL-19
+    version: 19.6.0
+  :file: data/ts-38-133-rel-19-19-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.133'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-38-133-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '38.141'
@@ -485858,6 +489814,78 @@
   :file: data/ts-38-141-2-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '38.141'
+    parts:
+    - '1'
+    release: REL-17
+    version: 17.20.0
+  :file: data/ts-38-141-1-rel-17-17-20-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.141'
+    parts:
+    - '1'
+    release: REL-18
+    version: 18.15.0
+  :file: data/ts-38-141-1-rel-18-18-15-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.141'
+    parts:
+    - '1'
+    release: REL-19
+    version: 19.6.0
+  :file: data/ts-38-141-1-rel-19-19-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.141'
+    parts:
+    - '1'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-38-141-1-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.141'
+    parts:
+    - '2'
+    release: REL-16
+    version: 16.23.0
+  :file: data/ts-38-141-2-rel-16-16-23-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.141'
+    parts:
+    - '2'
+    release: REL-17
+    version: 17.22.0
+  :file: data/ts-38-141-2-rel-17-17-22-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.141'
+    parts:
+    - '2'
+    release: REL-18
+    version: 18.14.0
+  :file: data/ts-38-141-2-rel-18-18-14-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.141'
+    parts:
+    - '2'
+    release: REL-19
+    version: 19.6.0
+  :file: data/ts-38-141-2-rel-19-19-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.141'
+    parts:
+    - '2'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-38-141-2-rel-20-20-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '38.151'
     release: REL-17
     version: 0.0.1
@@ -486576,6 +490604,12 @@
     release: REL-19
     version: 19.2.0
   :file: data/ts-38-174-rel-19-19-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.174'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-38-174-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '38.175'
@@ -487404,6 +491438,22 @@
   :file: data/ts-38-176-2-rel-19-19-4-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '38.176'
+    parts:
+    - '2'
+    release: REL-19
+    version: 19.5.0
+  :file: data/ts-38-176-2-rel-19-19-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.176'
+    parts:
+    - '2'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-38-176-2-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '38.181'
     release: REL-17
     version: 0.0.1
@@ -487662,6 +491712,18 @@
   :file: data/ts-38-191-rel-19-19-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '38.191'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-38-191-rel-19-19-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.192'
+    release: REL-20
+    version: 0.0.0
+  :file: data/ts-38-192-rel-20-0-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '38.194'
     release: REL-19
     version: 0.0.1
@@ -487698,6 +491760,12 @@
   :file: data/ts-38-194-rel-19-19-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '38.194'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-38-194-rel-19-19-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '38.195'
     release: REL-19
     version: 0.0.1
@@ -487732,6 +491800,12 @@
     release: REL-19
     version: 19.1.0
   :file: data/ts-38-195-rel-19-19-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.195'
+    release: REL-19
+    version: 19.2.0
+  :file: data/ts-38-195-rel-19-19-2-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '38.201'
@@ -488434,6 +492508,24 @@
     release: REL-15
     version: 2.0.0
   :file: data/ts-38-211-rel-15-2-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.211'
+    release: REL-17
+    version: 17.11.0
+  :file: data/ts-38-211-rel-17-17-11-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.211'
+    release: REL-18
+    version: 18.10.0
+  :file: data/ts-38-211-rel-18-18-10-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.211'
+    release: REL-19
+    version: 19.5.0
+  :file: data/ts-38-211-rel-19-19-5-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '38.212'
@@ -489336,6 +493428,24 @@
   :file: data/ts-38-213-rel-15-2-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '38.213'
+    release: REL-17
+    version: 17.14.0
+  :file: data/ts-38-213-rel-17-17-14-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.213'
+    release: REL-18
+    version: 18.9.0
+  :file: data/ts-38-213-rel-18-18-9-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.213'
+    release: REL-19
+    version: 19.5.0
+  :file: data/ts-38-213-rel-19-19-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '38.214'
     release: REL-15
     version: 0.0.1
@@ -489852,6 +493962,18 @@
   :file: data/ts-38-214-rel-15-2-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '38.214'
+    release: REL-18
+    version: 18.11.0
+  :file: data/ts-38-214-rel-18-18-11-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.214'
+    release: REL-19
+    version: 19.5.0
+  :file: data/ts-38-214-rel-19-19-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '38.215'
     release: REL-15
     version: 0.0.0
@@ -490132,6 +494254,12 @@
     release: REL-15
     version: 2.0.0
   :file: data/ts-38-215-rel-15-2-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.215'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-38-215-rel-19-19-4-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '38.291'
@@ -490800,6 +494928,18 @@
   :file: data/ts-38-300-rel-15-2-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '38.300'
+    release: REL-18
+    version: 18.11.0
+  :file: data/ts-38-300-rel-18-18-11-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.300'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-38-300-rel-19-19-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '38.304'
     release: REL-15
     version: 0.0.1
@@ -491460,6 +495600,12 @@
   :file: data/ts-38-305-rel-15-2-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '38.305'
+    release: REL-19
+    version: 19.3.0
+  :file: data/ts-38-305-rel-19-19-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '38.306'
     release: REL-15
     version: 0.0.1
@@ -492024,6 +496170,30 @@
   :file: data/ts-38-306-rel-19-19-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '38.306'
+    release: REL-16
+    version: 16.25.0
+  :file: data/ts-38-306-rel-16-16-25-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.306'
+    release: REL-17
+    version: 17.17.0
+  :file: data/ts-38-306-rel-17-17-17-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.306'
+    release: REL-18
+    version: 18.11.0
+  :file: data/ts-38-306-rel-18-18-11-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.306'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-38-306-rel-19-19-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '38.307'
     release: REL-15
     version: 0.0.1
@@ -492394,6 +496564,18 @@
     release: REL-20
     version: 20.0.0
   :file: data/ts-38-307-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.307'
+    release: REL-19
+    version: 19.6.0
+  :file: data/ts-38-307-rel-19-19-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.307'
+    release: REL-20
+    version: 20.1.0
+  :file: data/ts-38-307-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '38.314'
@@ -493000,6 +497182,12 @@
     release: REL-15
     version: 2.0.0
   :file: data/ts-38-321-rel-15-2-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.321'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-38-321-rel-19-19-4-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '38.322'
@@ -494070,6 +498258,24 @@
   :file: data/ts-38-331-rel-19-19-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '38.331'
+    release: REL-17
+    version: 17.18.0
+  :file: data/ts-38-331-rel-17-17-18-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.331'
+    release: REL-18
+    version: 18.11.0
+  :file: data/ts-38-331-rel-18-18-11-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.331'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-38-331-rel-19-19-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '38.340'
     release: REL-16
     version: 0.0.0
@@ -494542,6 +498748,12 @@
     release: REL-19
     version: 19.3.0
   :file: data/ts-38-391-rel-19-19-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.391'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-38-391-rel-19-19-4-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '38.401'
@@ -495750,6 +499962,18 @@
   :file: data/ts-38-413-rel-19-19-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '38.413'
+    release: REL-18
+    version: 18.11.0
+  :file: data/ts-38-413-rel-18-18-11-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.413'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-38-413-rel-19-19-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '38.414'
     release: REL-15
     version: 0.0.1
@@ -496806,6 +501030,12 @@
   :file: data/ts-38-423-rel-19-19-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '38.423'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-38-423-rel-19-19-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '38.424'
     release: REL-15
     version: 0.0.1
@@ -497410,6 +501640,18 @@
     release: REL-19
     version: 19.2.0
   :file: data/ts-38-455-rel-19-19-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.455'
+    release: REL-18
+    version: 18.9.0
+  :file: data/ts-38-455-rel-18-18-9-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.455'
+    release: REL-19
+    version: 19.3.0
+  :file: data/ts-38-455-rel-19-19-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '38.460'
@@ -498972,6 +503214,24 @@
   :file: data/ts-38-473-rel-19-19-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '38.473'
+    release: REL-17
+    version: 17.16.0
+  :file: data/ts-38-473-rel-17-17-16-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.473'
+    release: REL-18
+    version: 18.11.0
+  :file: data/ts-38-473-rel-18-18-11-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.473'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-38-473-rel-19-19-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '38.474'
     release: REL-15
     version: 0.0.0
@@ -499090,6 +503350,30 @@
     release: REL-15
     version: 0.3.0
   :file: data/ts-38-475-rel-15-0-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.480'
+    release: REL-20
+    version: 0.0.0
+  :file: data/ts-38-480-rel-20-0-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.481'
+    release: REL-20
+    version: 0.0.0
+  :file: data/ts-38-481-rel-20-0-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.482'
+    release: REL-20
+    version: 0.0.0
+  :file: data/ts-38-482-rel-20-0-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.483'
+    release: REL-20
+    version: 0.0.0
+  :file: data/ts-38-483-rel-20-0-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '38.508'
@@ -499844,6 +504128,54 @@
   :file: data/ts-38-508-2-rel-19-19-4-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '38.508'
+    parts:
+    - '1'
+    release: REL-18
+    version: 18.8.0
+  :file: data/ts-38-508-1-rel-18-18-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.508'
+    parts:
+    - '1'
+    release: REL-19
+    version: 19.5.0
+  :file: data/ts-38-508-1-rel-19-19-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.508'
+    parts:
+    - '1'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-38-508-1-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.508'
+    parts:
+    - '2'
+    release: REL-18
+    version: 18.8.0
+  :file: data/ts-38-508-2-rel-18-18-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.508'
+    parts:
+    - '2'
+    release: REL-19
+    version: 19.5.0
+  :file: data/ts-38-508-2-rel-19-19-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.508'
+    parts:
+    - '2'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-38-508-2-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '38.509'
     release: REL-15
     version: 0.0.1
@@ -500058,6 +504390,12 @@
     release: REL-18
     version: 18.1.0
   :file: data/ts-38-509-rel-18-18-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.509'
+    release: REL-19
+    version: 19.0.0
+  :file: data/ts-38-509-rel-19-19-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '38.521'
@@ -501868,6 +506206,110 @@
   :file: data/ts-38-521-5-rel-17-2-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '38.521'
+    parts:
+    - '1'
+    release: REL-18
+    version: 18.8.0
+  :file: data/ts-38-521-1-rel-18-18-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.521'
+    parts:
+    - '1'
+    release: REL-19
+    version: 19.5.1
+  :file: data/ts-38-521-1-rel-19-19-5-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.521'
+    parts:
+    - '1'
+    release: REL-19
+    version: 19.6.0
+  :file: data/ts-38-521-1-rel-19-19-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.521'
+    parts:
+    - '1'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-38-521-1-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.521'
+    parts:
+    - '2'
+    release: REL-18
+    version: 18.9.0
+  :file: data/ts-38-521-2-rel-18-18-9-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.521'
+    parts:
+    - '2'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-38-521-2-rel-19-19-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.521'
+    parts:
+    - '3'
+    release: REL-18
+    version: 18.8.0
+  :file: data/ts-38-521-3-rel-18-18-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.521'
+    parts:
+    - '3'
+    release: REL-19
+    version: 19.6.0
+  :file: data/ts-38-521-3-rel-19-19-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.521'
+    parts:
+    - '3'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-38-521-3-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.521'
+    parts:
+    - '4'
+    release: REL-18
+    version: 18.11.0
+  :file: data/ts-38-521-4-rel-18-18-11-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.521'
+    parts:
+    - '4'
+    release: REL-19
+    version: 19.2.0
+  :file: data/ts-38-521-4-rel-19-19-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.521'
+    parts:
+    - '5'
+    release: REL-18
+    version: 18.9.0
+  :file: data/ts-38-521-5-rel-18-18-9-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.521'
+    parts:
+    - '5'
+    release: REL-19
+    version: 19.3.0
+  :file: data/ts-38-521-5-rel-19-19-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '38.522'
     release: REL-15
     version: 0.0.1
@@ -502178,6 +506620,24 @@
     release: REL-19
     version: 19.4.0
   :file: data/ts-38-522-rel-19-19-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.522'
+    release: REL-18
+    version: 18.8.0
+  :file: data/ts-38-522-rel-18-18-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.522'
+    release: REL-19
+    version: 19.5.0
+  :file: data/ts-38-522-rel-19-19-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.522'
+    release: REL-20
+    version: 20.0.0
+  :file: data/ts-38-522-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '38.523'
@@ -503332,6 +507792,78 @@
   :file: data/ts-38-523-3-rel-19-19-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '38.523'
+    parts:
+    - '1'
+    release: REL-17
+    version: 17.9.0
+  :file: data/ts-38-523-1-rel-17-17-9-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.523'
+    parts:
+    - '1'
+    release: REL-18
+    version: 18.4.0
+  :file: data/ts-38-523-1-rel-18-18-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.523'
+    parts:
+    - '1'
+    release: REL-19
+    version: 19.6.0
+  :file: data/ts-38-523-1-rel-19-19-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.523'
+    parts:
+    - '2'
+    release: REL-17
+    version: 17.9.0
+  :file: data/ts-38-523-2-rel-17-17-9-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.523'
+    parts:
+    - '2'
+    release: REL-18
+    version: 18.3.0
+  :file: data/ts-38-523-2-rel-18-18-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.523'
+    parts:
+    - '2'
+    release: REL-19
+    version: 19.6.0
+  :file: data/ts-38-523-2-rel-19-19-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.523'
+    parts:
+    - '3'
+    release: REL-17
+    version: 17.13.0
+  :file: data/ts-38-523-3-rel-17-17-13-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.523'
+    parts:
+    - '3'
+    release: REL-18
+    version: 18.8.0
+  :file: data/ts-38-523-3-rel-18-18-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.523'
+    parts:
+    - '3'
+    release: REL-19
+    version: 19.1.0
+  :file: data/ts-38-523-3-rel-19-19-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '38.533'
     release: REL-15
     version: 0.0.1
@@ -503620,6 +508152,18 @@
   :file: data/ts-38-533-rel-19-19-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '38.533'
+    release: REL-18
+    version: 18.9.0
+  :file: data/ts-38-533-rel-18-18-9-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.533'
+    release: REL-19
+    version: 19.4.0
+  :file: data/ts-38-533-rel-19-19-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '38.551'
     release: REL-17
     version: 0.0.1
@@ -503726,6 +508270,24 @@
     release: REL-19
     version: 19.0.0
   :file: data/ts-38-551-rel-19-19-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.551'
+    release: REL-17
+    version: 17.4.0
+  :file: data/ts-38-551-rel-17-17-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.551'
+    release: REL-18
+    version: 18.7.0
+  :file: data/ts-38-551-rel-18-18-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.551'
+    release: REL-19
+    version: 19.1.0
+  :file: data/ts-38-551-rel-19-19-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
     number: '38.561'
@@ -503848,6 +508410,24 @@
   :file: data/ts-38-561-rel-17-2-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-specification
+    number: '38.561'
+    release: REL-17
+    version: 17.4.0
+  :file: data/ts-38-561-rel-17-17-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.561'
+    release: REL-18
+    version: 18.5.0
+  :file: data/ts-38-561-rel-18-18-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.561'
+    release: REL-19
+    version: 19.2.0
+  :file: data/ts-38-561-rel-19-19-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
     number: '38.591'
     parts:
     - '1'
@@ -503942,6 +508522,46 @@
     release: REL-19
     version: 0.0.1
   :file: data/ts-38-591-5-rel-19-0-0-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.591'
+    parts:
+    - '1'
+    release: REL-19
+    version: 0.2.0
+  :file: data/ts-38-591-1-rel-19-0-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.591'
+    parts:
+    - '2'
+    release: REL-19
+    version: 0.3.0
+  :file: data/ts-38-591-2-rel-19-0-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.591'
+    parts:
+    - '3'
+    release: REL-19
+    version: 0.2.0
+  :file: data/ts-38-591-3-rel-19-0-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.591'
+    parts:
+    - '4'
+    release: REL-19
+    version: 0.3.0
+  :file: data/ts-38-591-4-rel-19-0-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-specification
+    number: '38.591'
+    parts:
+    - '5'
+    release: REL-19
+    version: 0.1.0
+  :file: data/ts-38-591-5-rel-19-0-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '38.716'
@@ -506059,6 +510679,24 @@
   :file: data/tr-38-720-03-01-rel-20-0-2-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '38.720'
+    parts:
+    - '02'
+    - '01'
+    release: REL-20
+    version: 0.4.0
+  :file: data/tr-38-720-02-01-rel-20-0-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.720'
+    parts:
+    - '03'
+    - '01'
+    release: REL-20
+    version: 0.3.0
+  :file: data/tr-38-720-03-01-rel-20-0-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '38.733'
     release: REL-20
     version: 0.0.1
@@ -506069,6 +510707,24 @@
     release: REL-20
     version: 0.1.0
   :file: data/tr-38-733-rel-20-0-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.733'
+    release: REL-20
+    version: 0.2.0
+  :file: data/tr-38-733-rel-20-0-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.733'
+    release: REL-20
+    version: 1.0.0
+  :file: data/tr-38-733-rel-20-1-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.733'
+    release: REL-20
+    version: 20.0.0
+  :file: data/tr-38-733-rel-20-20-0-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '38.741'
@@ -506171,6 +510827,18 @@
     release: REL-19
     version: 19.1.0
   :file: data/tr-38-741-rel-19-19-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.741'
+    release: REL-18
+    version: 18.8.0
+  :file: data/tr-38-741-rel-18-18-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.741'
+    release: REL-19
+    version: 19.2.0
+  :file: data/tr-38-741-rel-19-19-2-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '38.742'
@@ -506477,6 +511145,18 @@
     release: REL-20
     version: 0.0.2
   :file: data/tr-38-747-rel-20-0-0-2.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.748'
+    release: REL-20
+    version: 0.1.0
+  :file: data/tr-38-748-rel-20-0-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.748'
+    release: REL-20
+    version: 0.1.1
+  :file: data/tr-38-748-rel-20-0-1-1.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '38.749'
@@ -506981,6 +511661,94 @@
   :file: data/tr-38-760-4-rel-20-0-0-1.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '38.760'
+    parts:
+    - '1'
+    release: REL-20
+    version: 0.4.0
+  :file: data/tr-38-760-1-rel-20-0-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.760'
+    parts:
+    - '1'
+    release: REL-20
+    version: 0.5.0
+  :file: data/tr-38-760-1-rel-20-0-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.760'
+    parts:
+    - '1'
+    release: REL-20
+    version: 0.6.0
+  :file: data/tr-38-760-1-rel-20-0-6-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.760'
+    parts:
+    - '2'
+    release: REL-20
+    version: 0.0.5
+  :file: data/tr-38-760-2-rel-20-0-0-5.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.760'
+    parts:
+    - '2'
+    release: REL-20
+    version: 0.0.6
+  :file: data/tr-38-760-2-rel-20-0-0-6.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.760'
+    parts:
+    - '2'
+    release: REL-20
+    version: 0.1.0
+  :file: data/tr-38-760-2-rel-20-0-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.760'
+    parts:
+    - '2'
+    release: REL-20
+    version: 0.1.1
+  :file: data/tr-38-760-2-rel-20-0-1-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.760'
+    parts:
+    - '2'
+    release: REL-20
+    version: 0.2.0
+  :file: data/tr-38-760-2-rel-20-0-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.760'
+    parts:
+    - '2'
+    release: REL-20
+    version: 0.3.0
+  :file: data/tr-38-760-2-rel-20-0-3-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.760'
+    parts:
+    - '3'
+    release: REL-20
+    version: 0.7.0
+  :file: data/tr-38-760-3-rel-20-0-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.760'
+    parts:
+    - '4'
+    release: REL-20
+    version: 0.1.0
+  :file: data/tr-38-760-4-rel-20-0-1-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '38.761'
     release: REL-18
     version: 0.0.1
@@ -507131,6 +511899,24 @@
   :file: data/tr-38-763-rel-20-0-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '38.763'
+    release: REL-20
+    version: 0.4.0
+  :file: data/tr-38-763-rel-20-0-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.763'
+    release: REL-20
+    version: 0.5.0
+  :file: data/tr-38-763-rel-20-0-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.764'
+    release: REL-20
+    version: 0.0.1
+  :file: data/tr-38-764-rel-20-0-0-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '38.765'
     release: REL-20
     version: 0.0.1
@@ -507197,6 +511983,24 @@
   :file: data/tr-38-766-rel-20-0-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '38.766'
+    release: REL-20
+    version: 0.2.0
+  :file: data/tr-38-766-rel-20-0-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.766'
+    release: REL-20
+    version: 1.0.0
+  :file: data/tr-38-766-rel-20-1-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.766'
+    release: REL-20
+    version: 20.0.0
+  :file: data/tr-38-766-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '38.767'
     release: REL-20
     version: 0.0.1
@@ -507207,6 +512011,12 @@
     release: REL-20
     version: 0.0.2
   :file: data/tr-38-767-rel-20-0-0-2.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.767'
+    release: REL-20
+    version: 0.1.0
+  :file: data/tr-38-767-rel-20-0-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '38.768'
@@ -507839,6 +512649,12 @@
   :file: data/tr-38-797-rel-20-0-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '38.797'
+    release: REL-20
+    version: 0.2.0
+  :file: data/tr-38-797-rel-20-0-2-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '38.799'
     release: REL-19
     version: 0.0.0
@@ -508167,6 +512983,12 @@
     release: REL-14
     version: 2.0.0
   :file: data/tr-38-803-rel-14-2-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.803'
+    release: REL-14
+    version: 14.5.0
+  :file: data/tr-38-803-rel-14-14-5-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '38.804'
@@ -509645,6 +514467,12 @@
     release: REL-19
     version: 19.0.0
   :file: data/tr-38-822-rel-19-19-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.822'
+    release: REL-19
+    version: 19.1.0
+  :file: data/tr-38-822-rel-19-19-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '38.823'
@@ -512029,6 +516857,30 @@
   :file: data/tr-38-863-rel-19-19-4-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '38.863'
+    release: REL-17
+    version: 17.7.0
+  :file: data/tr-38-863-rel-17-17-7-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.863'
+    release: REL-18
+    version: 18.8.0
+  :file: data/tr-38-863-rel-18-18-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.863'
+    release: REL-19
+    version: 19.5.0
+  :file: data/tr-38-863-rel-19-19-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.863'
+    release: REL-20
+    version: 20.0.0
+  :file: data/tr-38-863-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '38.864'
     release: REL-18
     version: 0.0.1
@@ -514117,6 +518969,12 @@
   :file: data/tr-38-901-rel-19-19-4-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '38.901'
+    release: REL-19
+    version: 19.5.0
+  :file: data/tr-38-901-rel-19-19-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '38.903'
     release: REL-15
     version: 0.0.1
@@ -514405,6 +519263,18 @@
   :file: data/tr-38-903-rel-19-19-3-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '38.903'
+    release: REL-18
+    version: 18.9.0
+  :file: data/tr-38-903-rel-18-18-9-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.903'
+    release: REL-19
+    version: 19.4.0
+  :file: data/tr-38-903-rel-19-19-4-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '38.905'
     release: REL-15
     version: 0.0.1
@@ -514681,6 +519551,36 @@
   :file: data/tr-38-905-rel-19-19-4-2.yaml
 - :id:
     _type: pubid:3gpp:technical-report
+    number: '38.905'
+    release: REL-18
+    version: 18.8.0
+  :file: data/tr-38-905-rel-18-18-8-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.905'
+    release: REL-19
+    version: 19.5.0
+  :file: data/tr-38-905-rel-19-19-5-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.905'
+    release: REL-19
+    version: 19.5.1
+  :file: data/tr-38-905-rel-19-19-5-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.905'
+    release: REL-20
+    version: 20.0.0
+  :file: data/tr-38-905-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.905'
+    release: REL-20
+    version: 20.0.1
+  :file: data/tr-38-905-rel-20-20-0-1.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
     number: '38.908'
     release: REL-19
     version: 0.0.0
@@ -514745,6 +519645,12 @@
     release: REL-19
     version: 2.0.0
   :file: data/tr-38-908-rel-19-2-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.908'
+    release: REL-19
+    version: 19.4.0
+  :file: data/tr-38-908-rel-19-19-4-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '38.912'
@@ -515015,6 +519921,12 @@
     release: REL-20
     version: 20.0.0
   :file: data/tr-38-914-rel-20-20-0-0.yaml
+- :id:
+    _type: pubid:3gpp:technical-report
+    number: '38.914'
+    release: REL-20
+    version: 20.1.0
+  :file: data/tr-38-914-rel-20-20-1-0.yaml
 - :id:
     _type: pubid:3gpp:technical-report
     number: '38.918'

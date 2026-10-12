@@ -5,11 +5,17 @@ type: standard
 title:
 - content: Study on Artificial Intelligence / Machine Learning (AI/ML) management Phase 3
   type: main
+source:
+- type: src
+  content: https://www.3gpp.org/ftp/Specs/archive/28_series/28.882/28882-050.zip
 docidentifier:
 - content: 3GPP TR 28.882:REL-20/0.5.0
   type: 3GPP
   primary: true
 docnumber: TR 28.882:REL-20/0.5.0
+date:
+- type: published
+  at: '2026-08-03'
 contributor:
 - role:
   - type: author

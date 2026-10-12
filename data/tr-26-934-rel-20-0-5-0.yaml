@@ -7,7 +7,7 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.3gpp.org/ftp/Specs/archive/26_series/26.934/26934-050.zip
+  content: https://ftp.3gpp.org//Specs/archive/26_series/26.934/26934-050.zip
 docidentifier:
 - content: 3GPP TR 26.934:REL-20/0.5.0
   type: 3GPP
@@ -15,7 +15,7 @@ docidentifier:
 docnumber: TR 26.934:REL-20/0.5.0
 date:
 - type: published
-  at: '2026-07-07'
+  at: '2026-08-28'
 contributor:
 - role:
   - type: author
@@ -39,15 +39,15 @@ contributor:
       forename:
       - language: en
         script: Latn
-        content: Emmanouil
+        content: Serhan
       surname:
         language: en
         script: Latn
-        content: Potetsianakis
+        content: Gül
     affiliation:
     - organization:
         name:
-        - content: Beijing Xiaomi Mobile Software Co., Ltd
+        - content: Nokia Solutions and Networks GmbH & Co. KG
 - role:
   - type: author
     description:
