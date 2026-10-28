@@ -16,6 +16,10 @@ docnumber: TS 29.230:REL-14/14.1.0
 date:
 - type: published
   at: '2016-06-21'
+- type: project-start
+  at: '2014-09-17'
+- type: released
+  at: '2017-06-09'
 contributor:
 - role:
   - type: author

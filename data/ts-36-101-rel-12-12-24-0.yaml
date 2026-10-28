@@ -16,6 +16,10 @@ docnumber: TS 36.101:REL-12/12.24.0
 date:
 - type: published
   at: '2020-01-12'
+- type: project-start
+  at: '2011-06-26'
+- type: released
+  at: '2015-03-13'
 contributor:
 - role:
   - type: author

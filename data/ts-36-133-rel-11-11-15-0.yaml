@@ -16,6 +16,10 @@ docnumber: TS 36.133:REL-11/11.15.0
 date:
 - type: published
   at: '2016-01-08'
+- type: project-start
+  at: '2010-01-22'
+- type: released
+  at: '2013-03-06'
 contributor:
 - role:
   - type: author

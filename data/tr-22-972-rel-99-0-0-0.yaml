@@ -16,6 +16,10 @@ docnumber: TR 22.972:REL-99/0.0.0
 date:
 - type: published
   at: '1999-04-23'
+- type: project-start
+  at: '1996-11-01'
+- type: released
+  at: '1999-12-17'
 contributor:
 - role:
   - type: author

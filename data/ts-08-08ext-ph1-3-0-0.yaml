@@ -16,6 +16,8 @@ docnumber: TS 08.08ext:Ph1/3.0.0
 date:
 - type: published
   at: '1995-01-01'
+- type: project-start
+  at: '1994-10-01'
 contributor:
 - role:
   - type: author

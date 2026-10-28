@@ -16,6 +16,10 @@ docnumber: TR 30.801:REL-4/0.2.0
 date:
 - type: published
   at: '1999-08-30'
+- type: project-start
+  at: '1998-08-01'
+- type: released
+  at: '2001-06-21'
 contributor:
 - role:
   - type: author

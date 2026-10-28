@@ -16,6 +16,10 @@ docnumber: TR 22.985:REL-9/0.1.0
 date:
 - type: published
   at: '2008-09-25'
+- type: project-start
+  at: '2008-03-06'
+- type: released
+  at: '2010-03-25'
 contributor:
 - role:
   - type: author

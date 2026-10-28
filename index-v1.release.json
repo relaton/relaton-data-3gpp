@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "index": "index-v1",
+  "sha256": "0110c0fb43eec8839436446ebd23a55b06378cdd1d34ca5b6b0014f35597e8d5",
+  "bytes": 601690,
+  "count": 89225,
+  "generated": "2026-10-28T03:24:34Z",
+  "source_revision": "76f9982f9f8176f12152003d38380332052de817",
+  "run_id": "40625533557",
+  "repository": "relaton/relaton-data-3gpp"
+}

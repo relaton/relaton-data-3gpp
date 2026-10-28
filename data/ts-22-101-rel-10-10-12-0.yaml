@@ -16,6 +16,10 @@ docnumber: TS 22.101:REL-10/10.12.0
 date:
 - type: published
   at: '2014-12-19'
+- type: project-start
+  at: '2009-01-20'
+- type: released
+  at: '2011-06-08'
 contributor:
 - role:
   - type: author

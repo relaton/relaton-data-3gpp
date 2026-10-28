@@ -16,6 +16,8 @@ docnumber: TS 02.79:REL-96/5.2.0
 date:
 - type: published
   at: '1999-02-12'
+- type: project-start
+  at: '1995-07-20'
 contributor:
 - role:
   - type: author

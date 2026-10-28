@@ -16,6 +16,10 @@ docnumber: TR 22.853:REL-13/1.0.0
 date:
 - type: published
   at: '2014-02-27'
+- type: project-start
+  at: '2012-09-30'
+- type: released
+  at: '2016-03-11'
 contributor:
 - role:
   - type: author

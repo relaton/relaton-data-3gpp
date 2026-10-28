@@ -10,6 +10,11 @@ docidentifier:
   type: 3GPP
   primary: true
 docnumber: TS 51.010-5:REL-5/0.1.0
+date:
+- type: project-start
+  at: '2000-05-01'
+- type: released
+  at: '2002-09-12'
 contributor:
 - role:
   - type: author

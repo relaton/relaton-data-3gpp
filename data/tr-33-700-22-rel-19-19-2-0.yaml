@@ -16,6 +16,10 @@ docnumber: TR 33.700-22:REL-19/19.2.0
 date:
 - type: published
   at: '2025-09-26'
+- type: project-start
+  at: '2021-06-18'
+- type: released
+  at: '2025-12-12'
 contributor:
 - role:
   - type: author

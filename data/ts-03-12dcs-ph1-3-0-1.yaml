@@ -16,6 +16,8 @@ docnumber: TS 03.12dcs:Ph1/3.0.1
 date:
 - type: published
   at: '2003-08-19'
+- type: project-start
+  at: '1992-12-03'
 contributor:
 - role:
   - type: author

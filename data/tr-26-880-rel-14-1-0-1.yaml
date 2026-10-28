@@ -16,6 +16,10 @@ docnumber: TR 26.880:REL-14/1.0.1
 date:
 - type: published
   at: '2017-02-01'
+- type: project-start
+  at: '2014-09-17'
+- type: released
+  at: '2017-06-09'
 contributor:
 - role:
   - type: author

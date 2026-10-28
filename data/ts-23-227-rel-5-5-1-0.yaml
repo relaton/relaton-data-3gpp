@@ -16,6 +16,10 @@ docnumber: TS 23.227:REL-5/5.1.0
 date:
 - type: published
   at: '2002-03-26'
+- type: project-start
+  at: '2000-05-01'
+- type: released
+  at: '2002-09-12'
 contributor:
 - role:
   - type: author

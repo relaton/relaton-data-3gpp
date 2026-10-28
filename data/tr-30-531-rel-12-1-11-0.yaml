@@ -16,6 +16,10 @@ docnumber: TR 30.531:REL-12/1.11.0
 date:
 - type: published
   at: '2013-02-15'
+- type: project-start
+  at: '2011-06-26'
+- type: released
+  at: '2015-03-13'
 contributor:
 - role:
   - type: author

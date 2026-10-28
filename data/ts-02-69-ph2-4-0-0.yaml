@@ -10,6 +10,9 @@ docidentifier:
   type: 3GPP
   primary: true
 docnumber: TS 02.69:Ph2/4.0.0
+date:
+- type: project-start
+  at: '1993-03-25'
 contributor:
 - role:
   - type: author

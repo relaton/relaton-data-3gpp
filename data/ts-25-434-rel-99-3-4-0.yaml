@@ -16,6 +16,10 @@ docnumber: TS 25.434:REL-99/3.4.0
 date:
 - type: published
   at: '2000-12-21'
+- type: project-start
+  at: '1996-11-01'
+- type: released
+  at: '1999-12-17'
 contributor:
 - role:
   - type: author

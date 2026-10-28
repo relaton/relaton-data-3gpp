@@ -16,6 +16,10 @@ docnumber: TS 29.007:REL-4/4.13.0
 date:
 - type: published
   at: '2005-10-11'
+- type: project-start
+  at: '1998-08-01'
+- type: released
+  at: '2001-06-21'
 contributor:
 - role:
   - type: author

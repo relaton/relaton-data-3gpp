@@ -16,6 +16,10 @@ docnumber: TR 25.952:REL-4/0.0.1
 date:
 - type: published
   at: '2000-11-21'
+- type: project-start
+  at: '1998-08-01'
+- type: released
+  at: '2001-06-21'
 contributor:
 - role:
   - type: author

@@ -16,6 +16,10 @@ docnumber: TR 30.01U:UMTS/3.4.0
 date:
 - type: published
   at: '2014-10-01'
+- type: project-start
+  at: '1994-08-18'
+- type: released
+  at: '1999-02-12'
 contributor:
 - role:
   - type: author

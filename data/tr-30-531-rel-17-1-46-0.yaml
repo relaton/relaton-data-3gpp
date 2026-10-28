@@ -16,6 +16,10 @@ docnumber: TR 30.531:REL-17/1.46.0
 date:
 - type: published
   at: '2023-06-05'
+- type: project-start
+  at: '2018-06-15'
+- type: released
+  at: '2022-06-10'
 contributor:
 - role:
   - type: author

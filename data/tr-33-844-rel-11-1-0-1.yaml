@@ -10,6 +10,11 @@ docidentifier:
   type: 3GPP
   primary: true
 docnumber: TR 33.844:REL-11/1.0.1
+date:
+- type: project-start
+  at: '2010-01-22'
+- type: released
+  at: '2013-03-06'
 contributor:
 - role:
   - type: author

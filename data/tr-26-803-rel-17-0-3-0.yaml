@@ -16,6 +16,10 @@ docnumber: TR 26.803:REL-17/0.3.0
 date:
 - type: published
   at: '2020-11-09'
+- type: project-start
+  at: '2018-06-15'
+- type: released
+  at: '2022-06-10'
 contributor:
 - role:
   - type: author

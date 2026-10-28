@@ -16,6 +16,10 @@ docnumber: TR 30.007:REL-11/0.2.0
 date:
 - type: published
   at: '2011-10-06'
+- type: project-start
+  at: '2010-01-22'
+- type: released
+  at: '2013-03-06'
 contributor:
 - role:
   - type: author

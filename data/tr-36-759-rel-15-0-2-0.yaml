@@ -16,6 +16,10 @@ docnumber: TR 36.759:REL-15/0.2.0
 date:
 - type: published
   at: '2017-11-16'
+- type: project-start
+  at: '2016-06-01'
+- type: released
+  at: '2019-06-07'
 contributor:
 - role:
   - type: author

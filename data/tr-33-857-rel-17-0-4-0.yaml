@@ -16,6 +16,10 @@ docnumber: TR 33.857:REL-17/0.4.0
 date:
 - type: published
   at: '2021-02-08'
+- type: project-start
+  at: '2018-06-15'
+- type: released
+  at: '2022-06-10'
 contributor:
 - role:
   - type: author

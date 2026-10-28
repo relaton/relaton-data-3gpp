@@ -16,6 +16,10 @@ docnumber: TR 32.854:REL-11/11.0.1
 date:
 - type: published
   at: '2013-01-08'
+- type: project-start
+  at: '2010-01-22'
+- type: released
+  at: '2013-03-06'
 contributor:
 - role:
   - type: author

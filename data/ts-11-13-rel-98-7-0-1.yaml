@@ -16,6 +16,10 @@ docnumber: TS 11.13:REL-98/7.0.1
 date:
 - type: published
   at: '2002-08-08'
+- type: project-start
+  at: '1996-03-26'
+- type: released
+  at: '1999-02-12'
 contributor:
 - role:
   - type: author

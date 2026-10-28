@@ -16,6 +16,10 @@ docnumber: TR 38.846:REL-18/1.4.0
 date:
 - type: published
   at: '2023-12-05'
+- type: project-start
+  at: '2019-09-16'
+- type: released
+  at: '2024-06-21'
 contributor:
 - role:
   - type: author

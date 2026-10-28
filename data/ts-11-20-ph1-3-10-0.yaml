@@ -10,6 +10,9 @@ docidentifier:
   type: 3GPP
   primary: true
 docnumber: TS 11.20:Ph1/3.10.0
+date:
+- type: project-start
+  at: '1982-12-07'
 contributor:
 - role:
   - type: author

@@ -16,6 +16,8 @@ docnumber: TS 06.20:Ph2/4.3.0
 date:
 - type: published
   at: '2005-04-06'
+- type: project-start
+  at: '1993-03-25'
 contributor:
 - role:
   - type: author

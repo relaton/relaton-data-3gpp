@@ -10,6 +10,11 @@ docidentifier:
   type: 3GPP
   primary: true
 docnumber: TR 22.839:REL-18/0.3.0
+date:
+- type: project-start
+  at: '2019-09-16'
+- type: released
+  at: '2024-06-21'
 contributor:
 - role:
   - type: author

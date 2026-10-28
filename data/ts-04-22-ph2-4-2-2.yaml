@@ -16,6 +16,8 @@ docnumber: TS 04.22:Ph2/4.2.2
 date:
 - type: published
   at: '1993-06-25'
+- type: project-start
+  at: '1993-03-25'
 contributor:
 - role:
   - type: author

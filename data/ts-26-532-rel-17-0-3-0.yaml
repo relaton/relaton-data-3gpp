@@ -10,6 +10,11 @@ docidentifier:
   type: 3GPP
   primary: true
 docnumber: TS 26.532:REL-17/0.3.0
+date:
+- type: project-start
+  at: '2018-06-15'
+- type: released
+  at: '2022-06-10'
 contributor:
 - role:
   - type: author

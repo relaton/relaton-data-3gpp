@@ -16,6 +16,10 @@ docnumber: TS 28.552:REL-16/16.18.0
 date:
 - type: published
   at: '2024-07-12'
+- type: project-start
+  at: '2017-03-22'
+- type: released
+  at: '2020-07-03'
 contributor:
 - role:
   - type: author

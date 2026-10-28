@@ -10,6 +10,11 @@ docidentifier:
   type: 3GPP
   primary: true
 docnumber: TR 29.998-05-4:REL-4/2.0.0
+date:
+- type: project-start
+  at: '1998-08-01'
+- type: released
+  at: '2001-06-21'
 contributor:
 - role:
   - type: author

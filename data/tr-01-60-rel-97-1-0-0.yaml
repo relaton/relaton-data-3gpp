@@ -10,6 +10,9 @@ docidentifier:
   type: 3GPP
   primary: true
 docnumber: TR 01.60:REL-97/1.0.0
+date:
+- type: project-start
+  at: '1996-04-15'
 contributor:
 - role:
   - type: author

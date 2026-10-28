@@ -16,6 +16,10 @@ docnumber: TS 38.508-1:REL-17/17.11.0
 date:
 - type: published
   at: '2024-01-03'
+- type: project-start
+  at: '2018-06-15'
+- type: released
+  at: '2022-06-10'
 contributor:
 - role:
   - type: author

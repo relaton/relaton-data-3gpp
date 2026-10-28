@@ -16,6 +16,10 @@ docnumber: TR 23.876:REL-6/0.5.0
 date:
 - type: published
   at: '2003-11-06'
+- type: project-start
+  at: '2000-03-28'
+- type: released
+  at: '2005-09-28'
 contributor:
 - role:
   - type: author

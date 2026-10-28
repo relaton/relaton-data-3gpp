@@ -16,6 +16,10 @@ docnumber: TR 50.099:REL-4/0.0.2
 date:
 - type: published
   at: '2000-04-02'
+- type: project-start
+  at: '1998-08-01'
+- type: released
+  at: '2001-06-21'
 contributor:
 - role:
   - type: author
@@ -84,6 +88,10 @@ relation:
     date:
     - type: published
       at: '2000-11-06'
+    - type: project-start
+      at: '1998-08-01'
+    - type: released
+      at: '2001-06-21'
     contributor:
     - role:
       - type: author

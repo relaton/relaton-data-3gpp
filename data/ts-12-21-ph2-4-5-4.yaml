@@ -16,6 +16,8 @@ docnumber: TS 12.21:Ph2/4.5.4
 date:
 - type: published
   at: '1998-05-28'
+- type: project-start
+  at: '1993-03-25'
 contributor:
 - role:
   - type: author

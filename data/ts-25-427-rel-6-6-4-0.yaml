@@ -16,6 +16,10 @@ docnumber: TS 25.427:REL-6/6.4.0
 date:
 - type: published
   at: '2005-10-05'
+- type: project-start
+  at: '2000-03-28'
+- type: released
+  at: '2005-09-28'
 contributor:
 - role:
   - type: author

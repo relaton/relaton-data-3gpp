@@ -76963,10 +76963,6 @@
   :file: data/ts-24-654-rel-9-9-3-0.yaml
 - :id: TS 24.654:REL-9/9.4.0
   :file: data/ts-24-654-rel-9-9-4-0.yaml
-- :id: TS 24.861:REL-20/0.0.0
-  :file: data/ts-24-861-rel-20-0-0-0.yaml
-- :id: TS 24.861:REL-20/0.1.0
-  :file: data/ts-24-861-rel-20-0-1-0.yaml
 - :id: TS 25.101:REL-10/10.0.0
   :file: data/ts-25-101-rel-10-10-0-0.yaml
 - :id: TS 25.101:REL-10/10.0.1

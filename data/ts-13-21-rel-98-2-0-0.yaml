@@ -10,6 +10,11 @@ docidentifier:
   type: 3GPP
   primary: true
 docnumber: TS 13.21:REL-98/2.0.0
+date:
+- type: project-start
+  at: '1996-03-26'
+- type: released
+  at: '1999-02-12'
 contributor:
 - role:
   - type: author

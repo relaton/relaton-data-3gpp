@@ -16,6 +16,10 @@ docnumber: TR 26.955:REL-17/1.5.1
 date:
 - type: published
   at: '2022-03-21'
+- type: project-start
+  at: '2018-06-15'
+- type: released
+  at: '2022-06-10'
 contributor:
 - role:
   - type: author

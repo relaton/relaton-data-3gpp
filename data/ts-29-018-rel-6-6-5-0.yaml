@@ -16,6 +16,10 @@ docnumber: TS 29.018:REL-6/6.5.0
 date:
 - type: published
   at: '2006-12-15'
+- type: project-start
+  at: '2000-03-28'
+- type: released
+  at: '2005-09-28'
 contributor:
 - role:
   - type: author

@@ -16,6 +16,10 @@ docnumber: TS 29.531:REL-15/2.0.0
 date:
 - type: published
   at: '2018-06-07'
+- type: project-start
+  at: '2016-06-01'
+- type: released
+  at: '2019-06-07'
 contributor:
 - role:
   - type: author

@@ -16,6 +16,10 @@ docnumber: TS 29.212:REL-9/9.15.0
 date:
 - type: published
   at: '2013-09-19'
+- type: project-start
+  at: '2008-03-06'
+- type: released
+  at: '2010-03-25'
 contributor:
 - role:
   - type: author

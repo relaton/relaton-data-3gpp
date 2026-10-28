@@ -10,6 +10,11 @@ docidentifier:
   type: 3GPP
   primary: true
 docnumber: TR 36.740:REL-14/0.1.0
+date:
+- type: project-start
+  at: '2014-09-17'
+- type: released
+  at: '2017-06-09'
 contributor:
 - role:
   - type: author

@@ -16,6 +16,10 @@ docnumber: TS 32.298:REL-10/10.12.0
 date:
 - type: published
   at: '2013-03-15'
+- type: project-start
+  at: '2009-01-20'
+- type: released
+  at: '2011-06-08'
 contributor:
 - role:
   - type: author

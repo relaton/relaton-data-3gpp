@@ -16,6 +16,8 @@ docnumber: TS 11.10-1:Release 2000/9.0.1
 date:
 - type: published
   at: '2000-07-12'
+- type: project-start
+  at: '1999-03-30'
 contributor:
 - role:
   - type: author

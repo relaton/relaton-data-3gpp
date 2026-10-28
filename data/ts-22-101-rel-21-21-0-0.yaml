@@ -16,6 +16,8 @@ docnumber: TS 22.101:REL-21/21.0.0
 date:
 - type: published
   at: '2026-10-02'
+- type: project-start
+  at: '2025-11-04'
 contributor:
 - role:
   - type: author

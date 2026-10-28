@@ -16,6 +16,10 @@ docnumber: TS 33.203:REL-12/12.9.0
 date:
 - type: published
   at: '2015-09-25'
+- type: project-start
+  at: '2011-06-26'
+- type: released
+  at: '2015-03-13'
 contributor:
 - role:
   - type: author

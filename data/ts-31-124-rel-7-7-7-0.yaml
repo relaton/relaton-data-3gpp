@@ -16,6 +16,10 @@ docnumber: TS 31.124:REL-7/7.7.0
 date:
 - type: published
   at: '2009-07-09'
+- type: project-start
+  at: '2003-10-06'
+- type: released
+  at: '2008-03-13'
 contributor:
 - role:
   - type: author

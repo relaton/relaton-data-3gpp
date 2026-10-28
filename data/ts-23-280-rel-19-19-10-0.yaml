@@ -16,6 +16,10 @@ docnumber: TS 23.280:REL-19/19.10.0
 date:
 - type: published
   at: '2026-03-29'
+- type: project-start
+  at: '2021-06-18'
+- type: released
+  at: '2025-12-12'
 contributor:
 - role:
   - type: author

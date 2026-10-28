@@ -16,6 +16,10 @@ docnumber: TS 28.510:REL-14/0.4.0
 date:
 - type: published
   at: '2016-06-04'
+- type: project-start
+  at: '2014-09-17'
+- type: released
+  at: '2017-06-09'
 contributor:
 - role:
   - type: author

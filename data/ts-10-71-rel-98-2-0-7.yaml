@@ -16,6 +16,10 @@ docnumber: TS 10.71:REL-98/2.0.7
 date:
 - type: published
   at: '1999-11-29'
+- type: project-start
+  at: '1996-03-26'
+- type: released
+  at: '1999-02-12'
 contributor:
 - role:
   - type: author
@@ -84,6 +88,10 @@ relation:
     date:
     - type: published
       at: '1999-12-06'
+    - type: project-start
+      at: '1996-03-26'
+    - type: released
+      at: '1999-02-12'
     contributor:
     - role:
       - type: author

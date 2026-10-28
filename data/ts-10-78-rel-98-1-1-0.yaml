@@ -16,6 +16,10 @@ docnumber: TS 10.78:REL-98/1.1.0
 date:
 - type: published
   at: '1997-06-19'
+- type: project-start
+  at: '1996-03-26'
+- type: released
+  at: '1999-02-12'
 contributor:
 - role:
   - type: author

@@ -16,6 +16,8 @@ docnumber: TR 09.94:Ph2/4.6.1
 date:
 - type: published
   at: '2002-12-16'
+- type: project-start
+  at: '1993-03-25'
 contributor:
 - role:
   - type: author

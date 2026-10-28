@@ -10,6 +10,11 @@ docidentifier:
   type: 3GPP
   primary: true
 docnumber: TS 33.22U:UMTS/1.0.0
+date:
+- type: project-start
+  at: '1994-08-18'
+- type: released
+  at: '1999-02-12'
 contributor:
 - role:
   - type: author

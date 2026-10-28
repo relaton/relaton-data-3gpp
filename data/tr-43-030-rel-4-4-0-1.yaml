@@ -16,6 +16,10 @@ docnumber: TR 43.030:REL-4/4.0.1
 date:
 - type: published
   at: '2000-10-24'
+- type: project-start
+  at: '1998-08-01'
+- type: released
+  at: '2001-06-21'
 contributor:
 - role:
   - type: author

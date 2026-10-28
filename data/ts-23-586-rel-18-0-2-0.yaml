@@ -16,6 +16,10 @@ docnumber: TS 23.586:REL-18/0.2.0
 date:
 - type: published
   at: '2023-03-03'
+- type: project-start
+  at: '2019-09-16'
+- type: released
+  at: '2024-06-21'
 contributor:
 - role:
   - type: author

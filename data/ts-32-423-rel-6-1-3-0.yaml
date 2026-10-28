@@ -16,6 +16,10 @@ docnumber: TS 32.423:REL-6/1.3.0
 date:
 - type: published
   at: '2004-11-26'
+- type: project-start
+  at: '2000-03-28'
+- type: released
+  at: '2005-09-28'
 contributor:
 - role:
   - type: author

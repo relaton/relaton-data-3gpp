@@ -16,6 +16,8 @@ docnumber: TS 08.04:Ph2/4.0.3
 date:
 - type: published
   at: '1994-09-13'
+- type: project-start
+  at: '1993-03-25'
 contributor:
 - role:
   - type: author

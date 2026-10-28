@@ -16,6 +16,10 @@ docnumber: TR 22.941:REL-5/0.2.4
 date:
 - type: published
   at: '2001-07-05'
+- type: project-start
+  at: '2000-05-01'
+- type: released
+  at: '2002-09-12'
 contributor:
 - role:
   - type: author

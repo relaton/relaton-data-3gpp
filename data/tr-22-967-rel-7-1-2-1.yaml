@@ -16,6 +16,10 @@ docnumber: TR 22.967:REL-7/1.2.1
 date:
 - type: published
   at: '2006-01-09'
+- type: project-start
+  at: '2003-10-06'
+- type: released
+  at: '2008-03-13'
 contributor:
 - role:
   - type: author

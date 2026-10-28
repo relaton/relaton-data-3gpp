@@ -16,6 +16,8 @@ docnumber: TS 11.11dcs:Ph1/3.3.4
 date:
 - type: published
   at: '1994-02-21'
+- type: project-start
+  at: '1992-12-03'
 contributor:
 - role:
   - type: author
@@ -84,6 +86,8 @@ relation:
     date:
     - type: published
       at: '1994-11-07'
+    - type: project-start
+      at: '1982-12-07'
     contributor:
     - role:
       - type: author

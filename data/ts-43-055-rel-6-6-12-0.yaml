@@ -16,6 +16,10 @@ docnumber: TS 43.055:REL-6/6.12.0
 date:
 - type: published
   at: '2005-11-25'
+- type: project-start
+  at: '2000-03-28'
+- type: released
+  at: '2005-09-28'
 contributor:
 - role:
   - type: author

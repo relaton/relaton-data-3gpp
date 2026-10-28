@@ -16,6 +16,10 @@ docnumber: TS 51.010-4:REL-4/4.12.0
 date:
 - type: published
   at: '2009-03-31'
+- type: project-start
+  at: '1998-08-01'
+- type: released
+  at: '2001-06-21'
 contributor:
 - role:
   - type: author

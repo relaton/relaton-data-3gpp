@@ -16,6 +16,10 @@ docnumber: TS 23.502:REL-20/20.1.0
 date:
 - type: published
   at: '2026-03-16'
+- type: project-start
+  at: '2024-03-14'
+- type: released
+  at: '2027-06-18'
 contributor:
 - role:
   - type: author

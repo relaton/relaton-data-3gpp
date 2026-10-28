@@ -10,6 +10,11 @@ docidentifier:
   type: 3GPP
   primary: true
 docnumber: TR 30.00U:UMTS/3.6.1
+date:
+- type: project-start
+  at: '1994-08-18'
+- type: released
+  at: '1999-02-12'
 contributor:
 - role:
   - type: author

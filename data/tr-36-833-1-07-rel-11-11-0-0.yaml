@@ -16,6 +16,10 @@ docnumber: TR 36.833-1-07:REL-11/11.0.0
 date:
 - type: published
   at: '2013-08-05'
+- type: project-start
+  at: '2010-01-22'
+- type: released
+  at: '2013-03-06'
 contributor:
 - role:
   - type: author

@@ -16,6 +16,10 @@ docnumber: TR 26.858:REL-20/1.1.1
 date:
 - type: published
   at: '2026-05-21'
+- type: project-start
+  at: '2024-03-14'
+- type: released
+  at: '2027-06-18'
 contributor:
 - role:
   - type: author

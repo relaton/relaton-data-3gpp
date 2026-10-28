@@ -16,6 +16,8 @@ docnumber: TS 02.02:Ph1/3.2.0
 date:
 - type: published
   at: '1991-07-15'
+- type: project-start
+  at: '1982-12-07'
 contributor:
 - role:
   - type: author

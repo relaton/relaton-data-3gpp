@@ -16,6 +16,8 @@ docnumber: TS 08.08:Release 2000/9.0.0
 date:
 - type: published
   at: '2000-06-20'
+- type: project-start
+  at: '1999-03-30'
 contributor:
 - role:
   - type: author

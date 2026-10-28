@@ -16,6 +16,10 @@ docnumber: TR 32.829:REL-10/1.4.0
 date:
 - type: published
   at: '2010-12-02'
+- type: project-start
+  at: '2009-01-20'
+- type: released
+  at: '2011-06-08'
 contributor:
 - role:
   - type: author

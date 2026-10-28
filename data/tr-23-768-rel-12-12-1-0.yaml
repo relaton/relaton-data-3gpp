@@ -16,6 +16,10 @@ docnumber: TR 23.768:REL-12/12.1.0
 date:
 - type: published
   at: '2014-06-24'
+- type: project-start
+  at: '2011-06-26'
+- type: released
+  at: '2015-03-13'
 contributor:
 - role:
   - type: author

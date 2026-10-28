@@ -16,6 +16,8 @@ docnumber: TS 03.50:REL-97/6.0.0
 date:
 - type: published
   at: '1998-10-16'
+- type: project-start
+  at: '1996-04-15'
 contributor:
 - role:
   - type: author
