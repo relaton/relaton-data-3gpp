@@ -3,8 +3,7 @@ id: TS26527REL20010
 schema_version: v1.5.6
 type: standard
 title:
-- content: Protocols, network APIs and data types for application energy consumption
-    information collection and reporting; Stage 3
+- content: Protocols, network APIs and data types for application energy consumption information collection and reporting; Stage 3
   type: main
 source:
 - type: src

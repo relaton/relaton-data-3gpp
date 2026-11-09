@@ -65,8 +65,7 @@ relation:
   bibitem:
     type: standard
     title:
-    - content: Performance characterization of the Adaptive Multi-Rate (AMR) speech
-        codec
+    - content: Performance characterization of the Adaptive Multi-Rate (AMR) speech codec
       type: main
     source:
     - type: src
@@ -132,8 +131,7 @@ relation:
   bibitem:
     type: standard
     title:
-    - content: Performance characterization of the Adaptive Multi-Rate (AMR) speech
-        codec
+    - content: Performance characterization of the Adaptive Multi-Rate (AMR) speech codec
       type: main
     source:
     - type: src

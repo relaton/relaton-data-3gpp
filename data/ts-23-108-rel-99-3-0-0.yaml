@@ -3,8 +3,7 @@ id: TS23108REL99300
 schema_version: v1.5.6
 type: standard
 title:
-- content: Mobile radio interface layer 3 specification, core network protocols; Stage
-    2
+- content: Mobile radio interface layer 3 specification, core network protocols; Stage 2
   type: main
 source:
 - type: src
@@ -76,8 +75,7 @@ relation:
   bibitem:
     type: standard
     title:
-    - content: Mobile radio interface layer 3 specification, core network protocols;
-        Stage 2
+    - content: Mobile radio interface layer 3 specification, core network protocols; Stage 2
       type: main
     source:
     - type: src

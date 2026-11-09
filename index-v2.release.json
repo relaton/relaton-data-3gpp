@@ -1,11 +1,11 @@
 {
   "version": 1,
   "index": "index-v2",
-  "sha256": "42b4acbb2ba1b8444b236525225cf9c92fb5213822512a99ffd481ce5609adec",
-  "bytes": 1319559,
+  "sha256": "3405e71280f77e52fd9f06eed4663f8ab593a8f8600cdaff5ba1f86756e32aa6",
+  "bytes": 911450,
   "count": 178448,
-  "generated": "2026-10-28T04:17:45Z",
-  "source_revision": "f76a4461e201abcb20ec71d37fcfb650d38d9457",
-  "run_id": "40628515988",
+  "generated": "2026-11-09T23:49:17Z",
+  "source_revision": "4ed205e5eee04e13170428dbfe3ce78e18bd81b6",
+  "run_id": "42719402501",
   "repository": "relaton/relaton-data-3gpp"
 }

@@ -3,8 +3,7 @@ id: TR33740REL181810
 schema_version: v1.5.6
 type: standard
 title:
-- content: Study on security aspects of Proximity Based Services (ProSe) in 5G System
-    (5GS) phase 2
+- content: Study on security aspects of Proximity Based Services (ProSe) in 5G System (5GS) phase 2
   type: main
 source:
 - type: src
@@ -52,8 +51,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: China Academy of Telecommunication Technology - (Datang Telecom
-            Technology and Industry Group)
+        - content: China Academy of Telecommunication Technology - (Datang Telecom Technology and Industry Group)
 - role:
   - type: author
     description:

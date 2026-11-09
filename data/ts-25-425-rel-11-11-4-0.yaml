@@ -3,8 +3,7 @@ id: TS25425REL111140
 schema_version: v1.5.6
 type: standard
 title:
-- content: UTRAN Iur interface user plane protocols for Common Transport Channel data
-    streams
+- content: UTRAN Iur interface user plane protocols for Common Transport Channel data streams
   type: main
 source:
 - type: src
@@ -76,8 +75,7 @@ relation:
   bibitem:
     type: standard
     title:
-    - content: UTRAN Iur interface user plane protocols for Common Transport Channel
-        data streams
+    - content: UTRAN Iur interface user plane protocols for Common Transport Channel data streams
       type: main
     source:
     - type: src

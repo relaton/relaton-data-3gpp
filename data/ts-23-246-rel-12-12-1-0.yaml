@@ -3,8 +3,7 @@ id: TS23246REL121210
 schema_version: v1.5.6
 type: standard
 title:
-- content: Multimedia Broadcast/Multicast Service (MBMS); Architecture and functional
-    description
+- content: Multimedia Broadcast/Multicast Service (MBMS); Architecture and functional description
   type: main
 source:
 - type: src

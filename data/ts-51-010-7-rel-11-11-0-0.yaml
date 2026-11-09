@@ -3,8 +3,7 @@ id: TS510107REL111100
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'Mobile Station (MS) conformance specification; Part 7: Location Services
-    (LCS) test scenarios and assistance data'
+- content: 'Mobile Station (MS) conformance specification; Part 7: Location Services (LCS) test scenarios and assistance data'
   type: main
 source:
 - type: src

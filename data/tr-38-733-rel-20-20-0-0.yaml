@@ -3,8 +3,7 @@ id: TR38733REL202000
 schema_version: v1.5.6
 type: standard
 title:
-- content: Earth Exploration Satellite Service (EESS) protection and PC1 for NR band(s)
-    at 40GHz
+- content: Earth Exploration Satellite Service (EESS) protection and PC1 for NR band(s) at 40GHz
   type: main
 source:
 - type: src

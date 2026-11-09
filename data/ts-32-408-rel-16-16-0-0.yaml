@@ -3,8 +3,7 @@ id: TS32408REL161600
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Performance Management (PM); Performance
-    measurements; Teleservice
+- content: Telecommunication management; Performance Management (PM); Performance measurements; Teleservice
   type: main
 source:
 - type: src

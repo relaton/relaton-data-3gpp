@@ -3,8 +3,7 @@ id: TS32366REL121200
 schema_version: v1.5.6
 type: standard
 title:
-- content: Telecommunication management; Entry Point (EP) Integration Reference Point
-    (IRP); Solution Set (SS) definitions
+- content: Telecommunication management; Entry Point (EP) Integration Reference Point (IRP); Solution Set (SS) definitions
   type: main
 source:
 - type: src

@@ -3,8 +3,7 @@ id: TS31124REL181840
 schema_version: v1.5.6
 type: standard
 title:
-- content: Mobile Equipment (ME) conformance test specification; Universal Subscriber
-    Identity Module Application Toolkit (USAT) conformance test specification
+- content: Mobile Equipment (ME) conformance test specification; Universal Subscriber Identity Module Application Toolkit (USAT) conformance test specification
   type: main
 source:
 - type: src

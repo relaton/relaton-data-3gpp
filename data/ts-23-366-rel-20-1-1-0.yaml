@@ -3,8 +3,7 @@ id: TS23366REL20110
 schema_version: v1.5.6
 type: standard
 title:
-- content: Functional architecture and information flows for Energy Saving Enablement
-    Service
+- content: Functional architecture and information flows for Energy Saving Enablement Service
   type: main
 source:
 - type: src
