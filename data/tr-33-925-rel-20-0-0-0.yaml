@@ -3,7 +3,8 @@ id: TR33925REL20000
 schema_version: v1.5.6
 type: standard
 title:
-- content: Security Assurance Specification (SCAS); threats and critical assets in 3GPP container-based products
+- content: Security Assurance Specification (SCAS); threats and critical assets in
+    3GPP container-based products
   type: main
 source:
 - type: src

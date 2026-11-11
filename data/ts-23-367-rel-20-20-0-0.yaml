@@ -3,7 +3,8 @@ id: TS23367REL202000
 schema_version: v1.5.6
 type: standard
 title:
-- content: System architecture for application energy consumption information collection and reporting; Stage 2
+- content: System architecture for application energy consumption information collection
+    and reporting; Stage 2
   type: main
 source:
 - type: src

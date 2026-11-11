@@ -3,7 +3,8 @@ id: TS1111dcsPh1334
 schema_version: v1.5.6
 type: standard
 title:
-- content: Specification of the Subscriber Identity Module - Mobile Equipment (SIM-ME) Interface (DCS 1800)
+- content: Specification of the Subscriber Identity Module - Mobile Equipment (SIM-ME)
+    Interface (DCS 1800)
   type: main
 source:
 - type: src
@@ -73,7 +74,8 @@ relation:
   bibitem:
     type: standard
     title:
-    - content: Specification of the Subscriber Identity Module - Mobile Equipment (SIM-ME) Interface (DCS 1800)
+    - content: Specification of the Subscriber Identity Module - Mobile Equipment
+        (SIM-ME) Interface (DCS 1800)
       type: main
     source:
     - type: src

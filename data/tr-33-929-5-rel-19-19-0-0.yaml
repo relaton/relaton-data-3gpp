@@ -3,7 +3,8 @@ id: TR339295REL191900
 schema_version: v1.5.6
 type: standard
 title:
-- content: Lawful Interception (LI) implementation guidance; LI for ID association caching
+- content: Lawful Interception (LI) implementation guidance; LI for ID association
+    caching
   type: main
 source:
 - type: src
