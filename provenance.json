@@ -1,9 +1,9 @@
 {
   "repository": "relaton/relaton-data-3gpp",
   "workflow": "Crawler",
-  "run_id": "44822759613",
+  "run_id": "45305653072",
   "run_attempt": "1",
-  "source_revision": "8b9ed7e68d381257e1183b1b36f074dfe0a7da85",
+  "source_revision": "18f34daec5e86b9da2d1754d0fa867930c9aac76",
   "crawler": "bundle exec ruby crawler.rb",
-  "crawled_at": "2026-11-20T22:36:06Z"
+  "crawled_at": "2026-11-24T01:41:02Z"
 }
